@@ -300,6 +300,9 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/misc/logger.py" timestamp="1486844687595">
         <mark key="'" line="105" column="4" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/rllab/spaces/base.py" timestamp="1486873091300">
+        <mark key="'" line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/misc/tf_test_case.py" timestamp="1480463140158">
         <mark key="'" line="29" column="25" />
         <mark key="[" line="38" column="0" />
@@ -911,11 +914,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1486788182991">
-        <mark key="'" line="248" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1486873171989">
+        <mark key="'" line="78" column="49" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1486797678278">
-        <mark key="'" line="173" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1486873163497">
+        <mark key="'" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/misc/instrument.py" timestamp="1486845436644">
         <mark key="'" line="19" column="0" />
@@ -1124,6 +1127,9 @@
         <mark key="]" line="70" column="3" />
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/rllab/spaces/box.py" timestamp="1486873062557">
+        <mark key="'" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/tests/test_neuralnet.py" timestamp="1484282456844">
         <mark key="'" line="89" column="59" />
@@ -1359,11 +1365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="2" column="59" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="44" column="41" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm.py" />
-      <jump line="105" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/core/tf_util.py" />
       <jump line="108" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/core/tf_util.py" />
       <jump line="54" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm.py" />
       <jump line="116" column="4" filename="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/framework/constant_op.py" />
@@ -1459,6 +1460,11 @@
       <jump line="133" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/rllab/config.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/README.md" />
+      <jump line="5" column="10" filename="$USER_HOME$/git/rllab-rail-private/rllab/spaces/box.py" />
+      <jump line="10" column="6" filename="$USER_HOME$/git/rllab-rail-private/rllab/spaces/base.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
+      <jump line="266" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="78" column="49" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1474,7 +1480,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>LOG_DIR</text>
+        <text>observation_space</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YCRSTExBQl9ESVIvZGF0YS9sb2NhbC88ZGVmYXVsdD4vPGZvbGRlcm5hbWU+YAo=</text>
@@ -1549,9 +1555,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LOG_DIR</last-search>
+      <last-search>observation_space</last-search>
       <last-offset />
-      <last-pattern>LOG_DIR</last-pattern>
+      <last-pattern>observation_space</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1559,7 +1565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_next_observation</entry>
         <entry>reste</entry>
         <entry>next_obs_number</entry>
         <entry>info</entry>
@@ -1579,6 +1584,7 @@
         <entry>config</entry>
         <entry>dattime</entry>
         <entry>LOG_DIR</entry>
+        <entry>observation_space</entry>
       </history-search>
       <history-cmd>
         <entry>bp|bd #</entry>
