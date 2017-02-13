@@ -180,9 +180,9 @@
         <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/softmax_memory_policy.py" timestamp="1486962600360">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="73" />
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="73" />
         <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/launchers/algo_launchers.py" timestamp="1486955972503">
@@ -337,7 +337,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" timestamp="1486964225314">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" timestamp="1487015533485">
         <mark key="'" line="43" column="16" />
         <mark key="[" line="52" column="9" />
         <mark key="]" line="52" column="27" />
@@ -475,12 +475,11 @@
         <mark key="^" line="101" column="27" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_policy.py" timestamp="1486958611398">
-        <mark key="'" line="33" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="11" column="46" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_policy.py" timestamp="1487015593594">
+        <mark key="'" line="35" column="33" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_tf_util.py" timestamp="1485207779181">
         <mark key="'" line="38" column="36" />
@@ -601,11 +600,11 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_ocm_policy.py" timestamp="1486962504249">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_ocm_policy.py" timestamp="1487015598354">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/predictors/state_action_network.py" timestamp="1480545356982">
         <mark key="'" line="104" column="30" />
@@ -1466,7 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="118" column="57" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
       <jump line="136" column="17" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
       <jump line="148" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
@@ -1566,37 +1564,38 @@
       <jump line="81" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="175" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/envs/memory/one_char_memory.py" />
       <jump line="43" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
+      <jump line="35" column="33" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNjcmlwdHMvaWNtbDIwMTcvbGluZWFyX2N1c3RvbV9vY20ucHkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV9hY3Rpb24gPSB0Zi5ubi50YW5oKHdyaXRlX2FjdGlvbikK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>icml-1-30&quot;</text>
+        <text>tf.matmul(env_and_memory, sum_matrix)</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>write_action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLl9yZXdhcmRfZm9yX3JlbWVtYmVyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV9hY3Rpb24gPSB0Zi5tYXRtdWwoZW52X2FuZF9tZW1vcnksIHN1bV9tYXRyaXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNjcmlwdHMvaWNtbDIwMTcvbGluZWFyX2N1c3RvbV9vY20ucHkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV9hY3Rpb24gPSB0Zi5ubi50YW5oKHdyaXRlX2FjdGlvbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiMi0xMi1kZXYtbGluZWFyLWN1c3RvbS1vY20iCgo9PT09PT09CiAgICBuX3NlZWRzID0gMwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnNjcmlwdHMvaWNtbDIwMTcvbGluZWFyX2N1c3RvbV9vY20ucHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpY21sLTEtMzA6c2NyaXB0cy9pY21sMjAxNy9saW5lYXJfb2NtLnB5Cg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiMi0xMi1kZXYtbGluZWFyLWN1c3RvbS1vY20iCgo9PT09PT09CiAgICBuX3NlZWRzID0gMwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1631,34 +1630,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWF4X3Jld2FyZF9tYWduaXR1ZGUgPj0gcmV3YXJkX2Zvcl9yZW1lbWJlcmluZwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBpY21sLTEtMzA6c2NyaXB0cy9pY21sMjAxNy9saW5lYXJfb2NtLnB5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbF9pbnB1dF9zaXplLAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWF4X3Jld2FyZF9tYWduaXR1ZGUgPj0gcmV3YXJkX2Zvcl9yZW1lbWJlcmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfaW5wdXRfc2l6ZSA9IHN1bShzZWxmLm9ic2VydmF0aW9uX2RpbSkgKyBzdW0oc2VsZi5hY3Rpb25fZGltKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbF9pbnB1dF9zaXplLAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDIgKiAoc2VsZi5vYnNlcnZhdGlvbl9kaW0gKyBzZWxmLmFjdGlvbl9kaW0pLAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfaW5wdXRfc2l6ZSA9IHN1bShzZWxmLm9ic2VydmF0aW9uX2RpbSkgKyBzdW0oc2VsZi5hY3Rpb25fZGltKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tZW1vcnlfYW5kX2FjdGlvbl9kaW0gPSBtZW1vcnlfYW5kX2FjdGlvbl9kaW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDIgKiAoc2VsZi5vYnNlcnZhdGlvbl9kaW0gKyBzZWxmLmFjdGlvbl9kaW0pLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVtb3J5X2FuZF9hY3Rpb25fZGltLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tZW1vcnlfYW5kX2FjdGlvbl9kaW0gPSBtZW1vcnlfYW5kX2FjdGlvbl9kaW0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>write_action</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>write_action</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1666,7 +1665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>H</entry>
         <entry>exp_prefix</entry>
         <entry>set_logger</entry>
         <entry>0.4</entry>
@@ -1686,6 +1684,7 @@
         <entry>env_action</entry>
         <entry>linear</entry>
         <entry>asdf</entry>
+        <entry>write_action</entry>
       </history-search>
       <history-cmd>
         <entry>164</entry>
