@@ -1,8 +1,13 @@
 <templateSet group="vitchyr">
-  <template name="hmm" value="tasdf" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="test" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
-  <template name="ip" value="import ipdb&#10;ipdb.set_trace()" description="import ipdb" toReformat="false" toShortenFQNames="true">
+  <template name="npi" value="import numpy as np" description="import numpy as np" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="nti" value="import numpy as np&#10;import tensorflow as tf" description="import np and tf" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

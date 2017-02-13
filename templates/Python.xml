@@ -7,17 +7,25 @@
   <template name="test" value="asdf" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
-  <template name="npi" value="import numpy as np" description="import numpy as np" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
   <template name="tfi" value="import tensorflow as tf" description="import tensorflow as tf" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="nti" value="import numpy as np&#10;import tensorflow as tf" description="import np and tf" toReformat="false" toShortenFQNames="true">
+  <template name="ip" value="import ipdb&#10;ipdb.set_trace()" description="import ipdb" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="vdict" value="$var$ = $dict$['$var$']" description="Variable assignment from dictionary" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dict" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="vvar" value="$var$ = variant['$var$']" description="Variable from variant dictionary" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
