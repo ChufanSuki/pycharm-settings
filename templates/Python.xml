@@ -2,10 +2,17 @@
   <template name="unittest" value="import unittest&#10;&#10;class Test$TestName$(unittest.TestCase):&#10;&#10;    def test_$testone_name$(self):&#10;        pass&#10;&#10;if __name__ == '__main__':&#10;    unittest.main()" shortcut="TAB" description="Unit test" toReformat="false" toShortenFQNames="true">
     <variable name="TestName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="testone_name" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="Python" value="true" />
+    </context>
   </template>
-  <template name="test" value="asdf" toReformat="false" toShortenFQNames="true">
-    <context />
+  <template name="tftest" value="import unittest&#10;&#10;import numpy as np&#10;import tensorflow as tf&#10;&#10;from railrl.misc.tf_test_case import TFTestCase&#10;&#10;class Test$TestName$(TFTestCase):&#10;&#10;    def test_$test_name$(self):&#10;        $test_function$&#10;&#10;if __name__ == '__main__':&#10;    unittest.main()" toReformat="false" toShortenFQNames="true">
+    <variable name="TestName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test_function" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
   </template>
   <template name="tfi" value="import tensorflow as tf" description="import tensorflow as tf" toReformat="false" toShortenFQNames="true">
     <context>
