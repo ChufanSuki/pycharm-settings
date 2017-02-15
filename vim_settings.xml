@@ -187,12 +187,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/softmax_memory_policy.py" timestamp="1486962600360">
-        <mark key="'" line="84" column="8" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="73" />
-        <mark key="." line="15" column="34" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/envs/assets/twod_point_random_init.xml" timestamp="1484283637342">
         <mark key="'" line="5" column="98" />
         <mark key="[" line="18" column="34" />
@@ -285,6 +279,13 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="18" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/sim_policy.py" timestamp="1487119188950">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/argmax_policy.py" timestamp="1485209331289">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="56" column="45" />
@@ -354,12 +355,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" timestamp="1487015533485">
-        <mark key="'" line="43" column="16" />
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
-        <mark key="^" line="52" column="27" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" timestamp="1487120387526">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
+        <mark key="^" line="76" column="16" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/tests/test_naf.py" timestamp="1480549206012">
         <mark key="'" line="50" column="0" />
@@ -488,13 +489,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg_ocm.py" timestamp="1486945621036">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="101" column="27" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_policy.py" timestamp="1487015593594">
         <mark key="'" line="35" column="33" />
         <mark key="[" line="39" column="0" />
@@ -549,8 +543,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/memory_qfunction.py" timestamp="1486962322770">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/memory_qfunction.py" timestamp="1487120475773">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="91" column="12" />
       </file>
@@ -1003,17 +997,18 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1486945272757">
-        <mark key="'" line="344" column="8" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="57" />
-        <mark key="^" line="169" column="20" />
-        <mark key="." line="169" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1487119763746">
+        <mark key="[" line="193" column="51" />
+        <mark key="]" line="193" column="56" />
+        <mark key="^" line="193" column="56" />
+        <mark key="." line="193" column="56" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1486945281953">
-        <mark key="'" line="212" column="24" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="37" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1487119796731">
+        <mark key="'" line="139" column="9" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="144" column="40" />
+        <mark key="^" line="139" column="41" />
+        <mark key="." line="139" column="41" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/affine_tanh_qfunction.py" timestamp="1486963166329">
         <mark key="[" line="33" column="64" />
@@ -1034,12 +1029,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="28" />
         <mark key="^" line="18" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/core/tf_util.py" timestamp="1486962467476">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="328" column="1" />
-        <mark key="^" line="525" column="46" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/action_concave_qfunction.py" timestamp="1480744753453">
         <mark key="'" line="108" column="40" />
@@ -1523,36 +1512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="123" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="121" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="229" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="218" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="55" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="141" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/launchers/launcher_util.py" />
-      <jump line="10" column="6" filename="$USER_HOME$/git/railrl-ddpg/launchers/launcher_util.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/railrl-ddpg/example.py" />
-      <jump line="19" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm_policy.py" />
-      <jump line="56" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm_policy.py" />
-      <jump line="3" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="45" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="27" column="3" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/affine_ocm.py" />
-      <jump line="6" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/memory_policy.py" />
-      <jump line="6" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/softmax_memory_policy.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/affine_softmax_policy_ocm.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="22" column="24" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="20" column="48" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="31" column="54" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
-      <jump line="32" column="51" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
       <jump line="39" column="54" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
       <jump line="40" column="51" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
       <jump line="16" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
@@ -1577,7 +1536,6 @@
       <jump line="39" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_policy.py" />
       <jump line="14" column="46" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_policy.py" />
       <jump line="5" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
-      <jump line="69" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="66" column="14" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_custom_ocm.py" />
       <jump line="41" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_general_ocm.py" />
       <jump line="2" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_general_ocm.py" />
@@ -1623,37 +1581,68 @@
       <jump line="10" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/predictors/state_network.py" />
       <jump line="14" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/core/neuralnet.py" />
       <jump line="196" column="0" filename="$USER_HOME$/git/railrl-ddpg/core/neuralnet.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
+      <jump line="20" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg_ocm.py" />
+      <jump line="47" column="3" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/sim_policy.py" />
+      <jump line="6" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/sim_policy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/sim_policy.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
+      <jump line="21" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="347" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="268" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="204" column="48" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="145" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg_ocm.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
+      <jump line="139" column="9" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
+      <jump line="182" column="45" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="325" column="58" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="193" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="261" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="309" column="41" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="202" column="24" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="248" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="22" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg_ocm.py" />
+      <jump line="30" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg_ocm.py" />
+      <jump line="52" column="11" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/memory_qfunction.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGlzIGZ1bmN0aW9uIGNvbnN0cnVjdHMgdGhlIG5ldHdvcmsuCiAgICAgICAgQmV0d2VlbiBlYWNoIGxheWVyLCBjYWxsIGBsYXllciA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIobGF5ZXIpYC4KICAgICAgICBCZXR3ZWVuIGVhY2ggc3VibmV0d29yaywgY2FsbAogICAgICAgIGBvdXRwdXQgPSBzZWxmLl9hZGRfc3VibmV0d29ya19hbmRfZ2V0X291dHB1dChzdWJuZXR3b3JrKWAuCgogICAgICAgIFNlZSB0aGUgZG9jdW1lbnRhdGlvbiBvZiB0aG9zZSBmdW5jdGlvbnMgZm9yIG1vcmUgZGV0YWlsLgogICAgICAgIDpwYXJhbSBpbnB1dHM6IFRlbnNvciBpbnB1dHMgdG8gdGhlIG5ldHdvcmsgYnkgbmFtZQogICAgICAgIDpyZXR1cm46IFRlbnNvciwgb3V0cHV0IG9mIG5ldHdvcmsKICAgICAgICAiIiIK</text>
+      <register name="&quot;" type="4">
+        <text>eq</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>eq</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>Qf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGlzIGZ1bmN0aW9uIGNvbnN0cnVjdHMgdGhlIG5ldHdvcmsuCgogICAgICAgIElmIHlvdSBwbGFuIG9uIHVzaW5nIGJhdGNoIG5vcm06CiAgICAgICAgICAgIC0gQmV0d2VlbiBlYWNoIGxheWVyLCBjYWxsIGBsYXllciA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIobGF5ZXIpYC4KICAgICAgICAgICAgLSBCZXR3ZWVuIGVhY2ggc3VibmV0d29yaywgY2FsbAogICAgICAgICAgICBgb3V0cHV0ID0gc2VsZi5fYWRkX3N1Ym5ldHdvcmtfYW5kX2dldF9vdXRwdXQoc3VibmV0d29yaylgLgogICAgICAgICAgICAtIFNlZSB0aGUgZG9jdW1lbnRhdGlvbiBvZiB0aG9zZSBmdW5jdGlvbnMgZm9yIG1vcmUgZGV0YWlsLgoKICAgICAgICA6cGFyYW0gaW5wdXRzOiBUZW5zb3IgaW5wdXRzIHRvIHRoZSBuZXR3b3JrIGJ5IG5hbWUuCiAgICAgICAgOnJldHVybjogVGVuc29yLCBvdXRwdXQgb2YgbmV0d29yawogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFpbl9wb2xpY3lfb3AsCiAgICAgICAgICAgIHNlbGYudHJhaW5fcWZfb3AsCiAgICAgICAgICAgIHNlbGYudXBkYXRlX3RhcmdldF9xZl9vcCwKICAgICAgICAgICAgc2VsZi51cGRhdGVfdGFyZ2V0X3BvbGljeV9vcCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGlzIGZ1bmN0aW9uIGNvbnN0cnVjdHMgdGhlIG5ldHdvcmsuCiAgICAgICAgQmV0d2VlbiBlYWNoIGxheWVyLCBjYWxsIGBsYXllciA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIobGF5ZXIpYC4KICAgICAgICBCZXR3ZWVuIGVhY2ggc3VibmV0d29yaywgY2FsbAogICAgICAgIGBvdXRwdXQgPSBzZWxmLl9hZGRfc3VibmV0d29ya19hbmRfZ2V0X291dHB1dChzdWJuZXR3b3JrKWAuCgogICAgICAgIFNlZSB0aGUgZG9jdW1lbnRhdGlvbiBvZiB0aG9zZSBmdW5jdGlvbnMgZm9yIG1vcmUgZGV0YWlsLgogICAgICAgIDpwYXJhbSBpbnB1dHM6IFRlbnNvciBpbnB1dHMgdG8gdGhlIG5ldHdvcmsgYnkgbmFtZQogICAgICAgIDpyZXR1cm46IFRlbnNvciwgb3V0cHV0IG9mIG5ldHdvcmsKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudHJhaW5fcWZfb3AsCiAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV90YXJnZXRfcWZfb3AsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">agppdCdzIG9mZiBmb3IgRERQRykuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhlIGwyLXJlZ3VsYXJpemF0aW9uIGlzIGEgYml0IGJyb2tlbi4gSSdkIHJlY29tbWVuZCBub3QgdXNpbmcgaXQuIChCeSBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BzID0gWwogICAgICAgICAgICAgICAgc2VsZi50cmFpbl9xZl9vcCwKICAgICAgICAgICAgICAgIHNlbGYudXBkYXRlX3RhcmdldF9xZl9vcCwKICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1688,34 +1677,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkZvciBhbiBleGFtcGxlIG9uIGNyZWF0aW5nIHlvdXIgb3duIHBvbGljeSwgc2VlIHRoZSBgU3VtUG9saWN5YCBjbGFzcyBpbiBgcG9saWNpZXMvbm5fcG9saWN5LnB5YC4KRm9yIGFuIGV4YW1wbGUgb24gY3JlYXRpbmcgeW91ciBvd24gY3JpdGljLCBzZWUgdGhlIGBTdW1Dcml0aWNgIGNsYXNzIGluIGBxZnVuY3Rpb25zL25uX3FmdW5jdGlvbi5weWAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfdGFyZ2V0X3BvbGljeV9vcCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFpbl9wb2xpY3lfb3AsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgVXNlIHNlbGYub2JzZXJ2YXRpb25zX3BsYWNlaG9sZGVyIHRvIGNyZWF0ZSBhbiBvdXRwdXQuIChUbyBiZQogICAgcmVmYWN0b3JlZCBzb29uIHNvIHRoYXQgdGhlIGlucHV0IGlzIHBhc3NlZCBpbi4pCgogICAgOnJldHVybjogVGVuc29yRmxvdyB0ZW5zb3IuCiAgICAiIiIKICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGlzIGZ1bmN0aW9uIGNvbnN0cnVjdHMgdGhlIG5ldHdvcmsuCiAgICAgICAgQmV0d2VlbiBlYWNoIGxheWVyLCBjYWxsIGBsYXllciA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIobGF5ZXIpYC4KICAgICAgICBCZXR3ZWVuIGVhY2ggc3VibmV0d29yaywgY2FsbAogICAgICAgIGBvdXRwdXQgPSBzZWxmLl9hZGRfc3VibmV0d29ya19hbmRfZ2V0X291dHB1dChzdWJuZXR3b3JrKWAuCgogICAgICAgIFNlZSB0aGUgZG9jdW1lbnRhdGlvbiBvZiB0aG9zZSBmdW5jdGlvbnMgZm9yIG1vcmUgZGV0YWlsLgogICAgICAgIDpwYXJhbSBpbnB1dHM6IFRlbnNvciBpbnB1dHMgdG8gdGhlIG5ldHdvcmsgYnkgbmFtZQogICAgICAgIDpyZXR1cm46IFRlbnNvciwgb3V0cHV0IG9mIG5ldHdvcmsKICAgICAgICAiIiIK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIF9jcmVhdGVfbmV0d29yayhzZWxmKToK</text>
+        <text encoding="base64">agppdCdzIG9mZiBmb3IgRERQRykuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBFeHBlcmltZW50IHNlZWQK</text>
+        <text encoding="base64">VGhlIGwyLXJlZ3VsYXJpemF0aW9uIGlzIGEgYml0IGJyb2tlbi4gSSdkIHJlY29tbWVuZCBub3QgdXNpbmcgaXQuIChCeSBkZWZhdWx0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBFeHBlcmltZW50IHNlZWQK</text>
+        <text encoding="base64">CkZvciBhbiBleGFtcGxlIG9uIGNyZWF0aW5nIHlvdXIgb3duIHBvbGljeSwgc2VlIHRoZSBgU3VtUG9saWN5YCBjbGFzcyBpbiBgcG9saWNpZXMvbm5fcG9saWN5LnB5YC4KRm9yIGFuIGV4YW1wbGUgb24gY3JlYXRpbmcgeW91ciBvd24gY3JpdGljLCBzZWUgdGhlIGBTdW1Dcml0aWNgIGNsYXNzIGluIGBxZnVuY3Rpb25zL25uX3FmdW5jdGlvbi5weWAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>Qf</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>Qf</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1723,14 +1712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_logger</entry>
-        <entry>0.4</entry>
-        <entry>0.5</entry>
-        <entry>seed</entry>
-        <entry>create_log_dir</entry>
-        <entry>setup_logger</entry>
-        <entry>num_values</entry>
-        <entry>exp_count</entry>
         <entry>variant</entry>
         <entry>Linaer</entry>
         <entry>action_Dim</entry>
@@ -1743,6 +1724,14 @@
         <entry>asdf</entry>
         <entry>write_action</entry>
         <entry>HEAD</entry>
+        <entry>snap</entry>
+        <entry>snapshot</entry>
+        <entry>get_training_op</entry>
+        <entry>_do_training</entry>
+        <entry>_get_training</entry>
+        <entry>_do_train</entry>
+        <entry>eq</entry>
+        <entry>Qf</entry>
       </history-search>
       <history-cmd>
         <entry>164</entry>
@@ -1762,8 +1751,8 @@
         <entry>x</entry>
         <entry>g</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
