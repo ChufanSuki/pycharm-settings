@@ -1222,6 +1222,9 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1487121091938">
+        <mark key="'" line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/sandbox/rocky/tf/launchers/launcher_utils.py" timestamp="1486940654722">
         <mark key="'" line="4" column="27" />
       </file>
@@ -1512,7 +1515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="54" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
       <jump line="40" column="51" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
       <jump line="16" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" />
       <jump line="52" column="77" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_ocm_policy.py" />
@@ -1612,6 +1614,7 @@
       <jump line="30" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg_ocm.py" />
       <jump line="52" column="11" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/memory_qfunction.py" />
+      <jump line="4" column="4" filename="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1627,7 +1630,7 @@
         <text>eq</text>
       </register>
       <register name="/" type="4">
-        <text>Qf</text>
+        <text>render</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFpbl9wb2xpY3lfb3AsCiAgICAgICAgICAgIHNlbGYudHJhaW5fcWZfb3AsCiAgICAgICAgICAgIHNlbGYudXBkYXRlX3RhcmdldF9xZl9vcCwKICAgICAgICAgICAgc2VsZi51cGRhdGVfdGFyZ2V0X3BvbGljeV9vcCwK</text>
@@ -1702,9 +1705,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Qf</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern>Qf</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1712,7 +1715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>variant</entry>
         <entry>Linaer</entry>
         <entry>action_Dim</entry>
         <entry>_action_dim</entry>
@@ -1732,6 +1734,7 @@
         <entry>_do_train</entry>
         <entry>eq</entry>
         <entry>Qf</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry>164</entry>
