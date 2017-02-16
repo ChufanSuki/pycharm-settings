@@ -1,7 +1,5 @@
 <templateSet group="vitchyr">
-  <template name="test" value="test" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="test" value="test" toReformat="false" toShortenFQNames="true" />
   <template name="npi" value="import numpy as np" description="import numpy as np" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
