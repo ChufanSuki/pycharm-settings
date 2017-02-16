@@ -801,7 +801,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487213058109">
+      <file name="/code.py" timestamp="1487213975614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="22" />
         <mark key="^" line="0" column="1" />
@@ -1095,11 +1095,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1487189065999">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1487213949805">
+        <mark key="'" line="221" column="12" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1487123033659">
         <mark key="'" line="73" column="19" />
@@ -1637,7 +1637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="60" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="63" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="65" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
@@ -1737,13 +1736,14 @@
       <jump line="70" column="8" filename="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" />
       <jump line="99" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" />
       <jump line="684" column="15" filename="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" />
+      <jump line="221" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'_xsrf' argument missing from POST</text>
+        <text>http://localhost:8897/?token=333924874fdff7a9e80e12ad2d8d3b509d9e0902a1ed6565</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
@@ -1758,16 +1758,16 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGF5X3Bvb2xfc2l6ZSA9IDEwMDAgKiBICg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5ubi5keW5hbWljX3JubigpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmV0d29yayBpbiBzZWxmLl9uZXR3b3JrczoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5ybm4K</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ubi5keW5hbWljX3JubigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ybm4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1805,22 +1805,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcGxheV9wb29sX3NpemUgPSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIHJlcGxheV9wb29sX3NpemUgPSAxMDAK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcGxheV9wb29sX3NpemUgPSAxMDAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlcGxheV9wb29sX3NpemUgPSAxMDAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluX3Bvb2xfc2l6ZSA9IDEwICogSAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1833,7 +1833,7 @@
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
