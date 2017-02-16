@@ -441,8 +441,8 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1486713577763">
         <mark key="'" line="1128" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487022531381">
-        <mark key="'" line="122" column="32" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487211782729">
+        <mark key="'" line="91" column="10" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="69" />
         <mark key="^" line="154" column="16" />
@@ -1625,7 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="11" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="4" column="4" filename="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" />
       <jump line="107" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
       <jump line="55" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
@@ -1725,6 +1724,7 @@
       <jump line="94" column="33" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="86" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="171" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="91" column="10" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1740,7 +1740,7 @@
         <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>ipd</text>
+        <text>rnn_cell</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGF5X3Bvb2xfc2l6ZSA9IDEwMDAgKiBICg==</text>
@@ -1815,9 +1815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipd</last-search>
+      <last-search>rnn_cell</last-search>
       <last-offset />
-      <last-pattern>ipd</last-pattern>
+      <last-pattern>rnn_cell</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1825,7 +1825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry>targets</entry>
         <entry>target</entry>
         <entry>size</entry>
@@ -1845,6 +1844,7 @@
         <entry>pool_size</entry>
         <entry>replay_pool_size</entry>
         <entry>ipd</entry>
+        <entry>rnn_cell</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
