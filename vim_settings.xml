@@ -447,10 +447,10 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1486713577763">
         <mark key="'" line="1128" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487212497650">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487214463080">
         <mark key="'" line="99" column="22" />
-        <mark key="[" line="99" column="51" />
-        <mark key="]" line="99" column="50" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="117" column="28" />
         <mark key="." line="99" column="50" />
         <mark key="^" line="99" column="50" />
       </file>
@@ -801,11 +801,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487214235733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="39" />
+      <file name="/code.py" timestamp="1487214841910">
+        <mark key="'" line="36" column="4" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/envs/base.py" timestamp="1486787174306">
         <mark key="'" line="29" column="14" />
@@ -1095,10 +1093,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1487213949805">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1487214813381">
         <mark key="'" line="221" column="12" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
+        <mark key="m" line="29" column="16" />
         <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1487123033659">
@@ -1466,7 +1465,7 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1486701468147">
         <mark key="'" line="175" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_custom_ocm.py" timestamp="1487198883539">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_custom_ocm.py" timestamp="1487214324755">
         <mark key="'" line="39" column="55" />
         <mark key="[" line="69" column="40" />
         <mark key="]" line="69" column="57" />
@@ -1637,24 +1636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="63" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="65" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="69" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="70" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="73" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/exploration_strategies/noop.py" />
-      <jump line="14" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/exploration_strategies/onehot_sampler.py" />
-      <jump line="3422" column="8" filename="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1313875005/numpy/random/mtrand.py" />
-      <jump line="4" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/exploration_strategies/onehot_sampler.py" />
-      <jump line="17" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/exploration_strategies/onehot_sampler.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/predictors/test_state_network.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/predictors/test_state_network.py" />
-      <jump line="23" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_onehot_sampler.py" />
-      <jump line="30" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_onehot_sampler.py" />
-      <jump line="31" column="45" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_onehot_sampler.py" />
-      <jump line="19" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_onehot_sampler.py" />
-      <jump line="28" column="23" filename="$USER_HOME$/git/rllab-rail-private/railrl/misc/np_util.py" />
       <jump line="10" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/linear_ocm.py" />
       <jump line="12" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/exploration_strategies/partial_strategy.py" />
       <jump line="0" column="9" filename="$USER_HOME$/git/rllab-rail-private/railrl/exploration_strategies/partial_strategy.py" />
@@ -1737,37 +1718,55 @@
       <jump line="99" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" />
       <jump line="684" column="15" filename="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" />
       <jump line="221" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="20" column="14" filename="/code.py" />
+      <jump line="17" column="6" filename="/code.py" />
+      <jump line="0" column="0" filename="/code.py" />
+      <jump line="4" column="22" filename="/code.py" />
+      <jump line="7" column="0" filename="/code.py" />
+      <jump line="13" column="31" filename="/code.py" />
+      <jump line="14" column="27" filename="/code.py" />
+      <jump line="16" column="31" filename="/code.py" />
+      <jump line="18" column="13" filename="/code.py" />
+      <jump line="25" column="42" filename="/code.py" />
+      <jump line="26" column="30" filename="/code.py" />
+      <jump line="29" column="0" filename="/code.py" />
+      <jump line="31" column="0" filename="/code.py" />
+      <jump line="33" column="0" filename="/code.py" />
+      <jump line="34" column="4" filename="/code.py" />
+      <jump line="32" column="35" filename="/code.py" />
+      <jump line="9" column="18" filename="/code.py" />
+      <jump line="36" column="4" filename="/code.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>http://localhost:8897/?token=333924874fdff7a9e80e12ad2d8d3b509d9e0902a1ed6565</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>self._</text>
       </register>
       <register name="/" type="4">
-        <text>dynamic</text>
+        <text>self._</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGF5X3Bvb2xfc2l6ZSA9IDEwMDAgKiBICg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmV0d29yayBpbiBzZWxmLl9uZXR3b3JrczoK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5ubi5keW5hbWljX3JubigpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5ybm4K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmV0d29yayBpbiBzZWxmLl9uZXR3b3JrczoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1802,13 +1801,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ubi5keW5hbWljX3JubigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ybm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcGxheV9wb29sX3NpemUgPSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
@@ -1823,21 +1822,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgICAgICAgICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>dynamic</last-search>
+      <last-search>self._</last-search>
       <last-offset />
-      <last-pattern>dynamic</last-pattern>
+      <last-pattern>self._</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
         <entry>product_space</entry>
         <entry>es</entry>
         <entry>get_action</entry>
@@ -1857,9 +1855,9 @@
         <entry>rnn_inputs</entry>
         <entry>inputs</entry>
         <entry>dynamic</entry>
+        <entry>self._</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>let mapleader=&quot; &quot;</entry>
         <entry>action $SelectAll</entry>
         <entry>set paste</entry>
@@ -1876,9 +1874,10 @@
         <entry>vsp</entry>
         <entry>159</entry>
         <entry>58</entry>
-        <entry>q</entry>
         <entry>'w</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
