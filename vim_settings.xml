@@ -121,11 +121,11 @@
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/algos/ddpg.py" timestamp="1483622215826">
         <mark key="'" line="229" column="62" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/rllab/envs/gym_env.py" timestamp="1487358045201">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/git/rllab-rail-private/rllab/envs/gym_env.py" timestamp="1487358661554">
+        <mark key="[" line="68" column="64" />
+        <mark key="]" line="68" column="66" />
+        <mark key="^" line="68" column="66" />
+        <mark key="." line="68" column="66" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/ddpg.py" timestamp="1483622104806">
         <mark key="'" line="61" column="12" />
@@ -240,11 +240,11 @@
       <jump line="229" column="62" filename="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/algos/ddpg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWx0YSA9IGFjdGlvbl9pbnB1dCAtIHNlbGYuX3BvbGljeS5vdXRwdXQKICAgICAgICBoMSA9IHRmLmV4cGFuZF9kaW1zKGRlbHRhLCAxKSAgIyBoMV9zaGFwZSA9IGJhdGNoOjE6ZGltQQogICAgICAgIGgxID0gdGYuYmF0Y2hfbWF0bXVsKGgxLCBMKSAgICAjIGgxX3NoYXBlID0gYmF0Y2g6MTpkaW1BCiAgICAgICAgaDEgPSB0Zi5iYXRjaF9tYXRtdWwoCiAgICAgICAgICAgIGgxLAogICAgICAgICAgICBoMSwKICAgICAgICAgICAgYWRqX3k9VHJ1ZSwgICMgQ29tcHV0ZSBoMSAqIGgxXlQKICAgICAgICApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBoMV9zaGFwZSA9IGJhdGNoOjE6MQogICAgICAgIGgxID0gdGYuc3F1ZWV6ZShoMSwgWzFdKSAgICAgICAjIGgxX3NoYXBlID0gYmF0Y2g6MQogICAgICAgIHJldHVybiAtMC41ICogaDEK</text>
+      <register name="&quot;" type="4">
+        <text>CappedCubicVideoSchedule</text>
       </register>
       <register name="-" type="4">
-        <text>[v.assign(tf.maximum(v, 0)) for v in</text>
+        <text>CappedCubicVideoSchedule</text>
       </register>
       <register name="/" type="4">
         <text>target_policy</text>
