@@ -1802,7 +1802,7 @@
         <text encoding="base64">ICAgICAgICB0ZXJtaW5hbHMgPSBucC56ZXJvcyhtYXhfcG9vbF9zaXplLCBkdHlwZT0ndWludDgnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1812,7 +1812,7 @@
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1855,9 +1855,9 @@
         <entry>show numbers</entry>
         <entry>set numbers</entry>
         <entry>numbers</entry>
-        <entry>q</entry>
         <entry>178</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
