@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" timestamp="1487639214961">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="40" />
+        <mark key="]" line="80" column="40" />
+        <mark key="^" line="80" column="45" />
+        <mark key="." line="80" column="40" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/simple_action_concave_qfunction.py" timestamp="1481918079429">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="43" />
@@ -193,12 +200,12 @@
         <mark key="." line="162" column="47" />
         <mark key="^" line="162" column="47" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" timestamp="1487638047550">
-        <mark key="'" line="9" column="37" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="65" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="42" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" timestamp="1487639141790">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="154" column="12" />
+        <mark key="]" line="154" column="18" />
+        <mark key="." line="154" column="18" />
+        <mark key="^" line="154" column="18" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/lstm_memory_policy.py" timestamp="1487637529211">
         <mark key="[" line="40" column="67" />
@@ -208,21 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="121" column="59" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="1" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="64" column="66" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="91" column="9" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="76" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="92" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="109" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="27" column="48" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="108" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="111" column="39" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
       <jump line="26" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
       <jump line="132" column="10" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
@@ -308,10 +300,25 @@
       <jump line="191" column="33" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
       <jump line="253" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
       <jump line="45" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
+      <jump line="21" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="22" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="11" column="8" filename="$USER_HOME$/git/rllab-rail-private/rllab/spaces/box.py" />
+      <jump line="33" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="11" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
+      <jump line="94" column="56" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
+      <jump line="75" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pYmF0Y2ggPSBzZWxmLnBvb2wucmFuZG9tX3N1YnRyYWplY3Rvcnkoc2VsZi5iYXRjaF9zaXplLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGF0dGVuPVRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2578,59 +2585,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sub_traj_length</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>_do_training</text>
+        <text>actions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZG9fdHJhaW5pbmcoc2VsZiwgZXBvY2g9Tm9uZSk6CiAgICAgICAgbWluaWJhdGNoID0gc2VsZi5wb29sLnJhbmRvbV9iYXRjaChzZWxmLmJhdGNoX3NpemUsIGZsYXR0ZW49VHJ1ZSkKICAgICAgICBzYW1wbGVkX29icyA9IG1pbmliYXRjaFsnb2JzZXJ2YXRpb25zJ10KICAgICAgICBzYW1wbGVkX3Rlcm1pbmFscyA9IG1pbmliYXRjaFsndGVybWluYWxzJ10KICAgICAgICBzYW1wbGVkX2FjdGlvbnMgPSBtaW5pYmF0Y2hbJ2FjdGlvbnMnXQogICAgICAgIHNhbXBsZWRfcmV3YXJkcyA9IG1pbmliYXRjaFsncmV3YXJkcyddCiAgICAgICAgc2FtcGxlZF9uZXh0X29icyA9IG1pbmliYXRjaFsnbmV4dF9vYnNlcnZhdGlvbnMnXQoKICAgICAgICBmZWVkX2RpY3QgPSBzZWxmLl91cGRhdGVfZmVlZF9kaWN0KHNhbXBsZWRfcmV3YXJkcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhbXBsZWRfdGVybWluYWxzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FtcGxlZF9vYnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYW1wbGVkX2FjdGlvbnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYW1wbGVkX25leHRfb2JzKQogICAgICAgIG9wcyA9IHNlbGYuX2dldF90cmFpbmluZ19vcHMoZXBvY2g9ZXBvY2gpCiAgICAgICAgaWYgaXNpbnN0YW5jZShvcHNbMF0sIGxpc3QpOgogICAgICAgICAgICBmb3Igb3AgaW4gb3BzOgogICAgICAgICAgICAgICAgc2VsZi5zZXNzLnJ1bihvcCwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnNlc3MucnVuKG9wcywgZmVlZF9kaWN0PWZlZWRfZGljdCkK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9yYW5kb21fc3VidHJhal9iYXRjaF9zaXplKHNlbGYpOgogICAgICAgIGVudiA9IFN0dWJFbnYoKQogICAgICAgIGJ1ZmYgPSBFcGlzb2RlUmVwbGF5QnVmZmVyKAogICAgICAgICAgICAzLAogICAgICAgICAgICBlbnYsCiAgICAgICAgKQogICAgICAgIG9ic2VydmF0aW9uID0gbnAuYXJyYXkoW1swLjVdXSkKICAgICAgICBhY3Rpb24gPSBucC5hcnJheShbWzAuNV1dKQogICAgICAgIGZvciBfIGluIHJhbmdlKDEwKToKICAgICAgICAgICAgYnVmZi5hZGRfc2FtcGxlKG9ic2VydmF0aW9uLCBhY3Rpb24sIDEsIEZhbHNlKQogICAgICAgIHN1YnRyYWpzID0gYnVmZi5yYW5kb21fc3VidHJhamVjdG9yaWVzKDUsIDIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsZW4oc3VidHJhanMpLCA1KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pYmF0Y2ggPSBzZWxmLnBvb2wucmFuZG9tX3N1YnRyYWplY3Rvcnkoc2VsZi5iYXRjaF9zaXplLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGF0dGVuPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9lcGlzb2RlcyA9IGRlcXVlKFtdLCBtYXhsZW49bWF4X251bV9lcGlzb2RlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcWZfZmVlZF9kaWN0KHNlbGYsIHJld2FyZHMsIHRlcm1pbmFscywgb2JzLCBhY3Rpb25zLCBuZXh0X29icyk6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgc2VsZi5yZXdhcmRzX3BsYWNlaG9sZGVyOiBucC5leHBhbmRfZGltcyhyZXdhcmRzLCBheGlzPTEpLAogICAgICAgICAgICBzZWxmLnRlcm1pbmFsc19wbGFjZWhvbGRlcjogbnAuZXhwYW5kX2RpbXModGVybWluYWxzLCBheGlzPTEpLAogICAgICAgICAgICBzZWxmLnFmLm9ic2VydmF0aW9uX2lucHV0OiBvYnMsCiAgICAgICAgICAgIHNlbGYucWYuYWN0aW9uX2lucHV0OiBhY3Rpb25zLAogICAgICAgICAgICBzZWxmLnRhcmdldF9xZi5vYnNlcnZhdGlvbl9pbnB1dDogbmV4dF9vYnMsCiAgICAgICAgICAgIHNlbGYudGFyZ2V0X3BvbGljeS5vYnNlcnZhdGlvbl9pbnB1dDogbmV4dF9vYnMsCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9lcGlzb2Rlcy5hcHBlbmQoc2VsZi5fY3VycmVudF9lcGlzb2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZWxmLnBvb2wuYWRkX3NhbXBsZSgKICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgbmV4dF9vYiwKICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgMCwKICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgMCwKICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgIyApCg==</text>
+        <text encoding="base64">ICAgICAgICBidWZmLnRlcm1pbmF0ZV9lcGlzb2RlKG9ic2VydmF0aW9uKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYnVmZi5zaXplLCAxMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmFsc2UsCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJ1ZmYuc2l6ZSwgMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJ1ZmYuc2l6ZSwgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLS0tLS0iKQogICAgICAgIHByaW50KHNlbGYuYWN0aW9uX2RpbSkKICAgICAgICBwcmludChzZWxmLm9ic2VydmF0aW9uX2RpbSkK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBucC5hcnJheShbWzAuNV1dKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJ1ZmYuc2l6ZSwgMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_do_training</last-search>
+      <last-search>actions</last-search>
       <last-offset />
-      <last-pattern>_do_training</last-pattern>
+      <last-pattern>actions</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>memory_action</entry>
-        <entry>action_input</entry>
-        <entry>env_action</entry>
-        <entry>output</entry>
-        <entry>num_proj</entry>
         <entry>num_lstm_units</entry>
         <entry>rnn_init_ph</entry>
         <entry>_rnn_init_state_ph</entry>
@@ -2646,6 +2648,11 @@
         <entry>add_sample</entry>
         <entry>terminate</entry>
         <entry>_do_training</entry>
+        <entry>flatten</entry>
+        <entry>test_size</entry>
+        <entry>episodes</entry>
+        <entry>episode</entry>
+        <entry>actions</entry>
       </history-search>
       <history-cmd>
         <entry>169</entry>
