@@ -106,6 +106,9 @@
         <mark key="." line="64" column="53" />
         <mark key="^" line="64" column="53" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487790557878">
+        <mark key="'" line="321" column="8" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/nn_policy.py" timestamp="1479438795244">
         <mark key="'" line="78" column="16" />
         <mark key="[" line="152" column="51" />
@@ -959,6 +962,10 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="89" column="39" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/mdp.py" timestamp="1487790742369">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="49" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_hyperparameters.py" timestamp="1484709959622">
         <mark key="'" line="53" column="33" />
         <mark key="[" line="43" column="33" />
@@ -1060,6 +1067,13 @@
         <mark key="]" line="267" column="33" />
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487791574125">
+        <mark key="'" line="49" column="18" />
+        <mark key="[" line="121" column="50" />
+        <mark key="]" line="121" column="50" />
+        <mark key="." line="121" column="50" />
+        <mark key="^" line="121" column="50" />
       </file>
       <file name="$USER_HOME$/git/rllab/sandbox/rocky/tf/policies/uniform_control_policy.py" timestamp="1477867214020">
         <mark key="'" line="1" column="36" />
@@ -1623,19 +1637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="98" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="99" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="64" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="206" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="229" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="231" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="60" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="61" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="109" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="68" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="104" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="116" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
@@ -1723,37 +1724,50 @@
       <jump line="82" column="17" filename="$USER_HOME$/git/rllab-rail-private/railrl/scripts/icml2017/bptt_ddpg_ocm.py" />
       <jump line="36" column="4" filename="$USER_HOME$/git/railrl-ddpg/example.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/railrl-ddpg/launchers/launcher_util.py" />
+      <jump line="300" column="27" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
+      <jump line="3371" column="8" filename="$USER_HOME$/.PyCharm2016.3/system/python_stubs/692694397/__builtin__.py" />
+      <jump line="58" column="32" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="321" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
+      <jump line="68" column="35" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="109" column="14" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="448" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
+      <jump line="94" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="115" column="58" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="150" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="151" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="49" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>action</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
-        <text>variant</text>
+        <text>getState</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIm51bV92YWx1ZXMiLCBudW1fdmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc3NpYmxlX2FjdGlvbnMgPSBzZWxmLm1kcC5nZXRQb3NzaWJsZUFjdGlvbnMoc3RhdGUpCiAgICAgICAgICAgICAgICBpZiBzZWxmLm1kcC5pc1Rlcm1pbmFsKHN0YXRlKSBvciBsZW4ocG9zc2libGVfYWN0aW9ucykgPT0gMDoKICAgICAgICAgICAgICAgICAgICBuZXh0X3ZhbHVlc1tzdGF0ZV0gPSAwLgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oYWN0aW9uX2FuZF92YWx1ZXMpID09IDA6ICAjIG5vIGFjdGlvbiBwb3NzaWJsZQogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fYnB0dF91bnJvbGxzPTEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIENvbXB1dGUgc3RhdGlzdGljcwogICAgICAgICgKICAgICAgICAgICAgcG9saWN5X2xvc3MsCiAgICAgICAgICAgIHFmX2xvc3MsCiAgICAgICAgICAgIHBvbGljeV9vdXRwdXQsCiAgICAgICAgICAgIHRhcmdldF9wb2xpY3lfb3V0cHV0LAogICAgICAgICAgICBxZl9vdXRwdXQsCiAgICAgICAgICAgIHRhcmdldF9xZl9vdXRwdXRzLAogICAgICAgICAgICB5cywKICAgICAgICApID0gc2VsZi5zZXNzLnJ1bigKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgc2VsZi5wb2xpY3lfc3Vycm9nYXRlX2xvc3MsCiAgICAgICAgICAgICAgICBzZWxmLnFmX2xvc3MsCiAgICAgICAgICAgICAgICBzZWxmLnBvbGljeS5vdXRwdXQsCiAgICAgICAgICAgICAgICBzZWxmLnRhcmdldF9wb2xpY3kub3V0cHV0LAogICAgICAgICAgICAgICAgc2VsZi5xZi5vdXRwdXQsCiAgICAgICAgICAgICAgICBzZWxmLnRhcmdldF9xZi5vdXRwdXQsCiAgICAgICAgICAgICAgICBzZWxmLnlzLAogICAgICAgICAgICBdLAogICAgICAgICAgICBmZWVkX2RpY3Q9ZmVlZF9kaWN0KQogICAgICAgIGRpc2NvdW50ZWRfcmV0dXJucyA9IFsKICAgICAgICAgICAgc3BlY2lhbC5kaXNjb3VudF9yZXR1cm4ocGF0aFsicmV3YXJkcyJdLCBzZWxmLmRpc2NvdW50KQogICAgICAgICAgICBmb3IgcGF0aCBpbiBwYXRoc10KICAgICAgICByZXR1cm5zID0gW3N1bShwYXRoWyJyZXdhcmRzIl0pIGZvciBwYXRoIGluIHBhdGhzXQogICAgICAgIHJld2FyZHMgPSBucC5oc3RhY2soW3BhdGhbInJld2FyZHMiXSBmb3IgcGF0aCBpbiBwYXRoc10pCgogICAgICAgICMgTG9nIHN0YXRpc3RpY3MKICAgICAgICBsYXN0X3N0YXRpc3RpY3MgPSBPcmRlcmVkRGljdChbCiAgICAgICAgICAgICgnRXBvY2gnLCBlcG9jaCksCiAgICAgICAgICAgICgnQXZlcmFnZVJldHVybicsIG5wLm1lYW4ocmV0dXJucykpLAogICAgICAgICAgICAoJ1BvbGljeVN1cnJvZ2F0ZUxvc3MnLCBwb2xpY3lfbG9zcyksCiAgICAgICAgICAgICgnUWZMb3NzJywgcWZfbG9zcyksCiAgICAgICAgXSkKICAgICAgICBsYXN0X3N0YXRpc3RpY3MudXBkYXRlKGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QoJ1lzJywgeXMpKQogICAgICAgIGxhc3Rfc3RhdGlzdGljcy51cGRhdGUoY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdCgnUG9saWN5T3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9saWN5X291dHB1dCkpCiAgICAgICAgbGFzdF9zdGF0aXN0aWNzLnVwZGF0ZShjcmVhdGVfc3RhdHNfb3JkZXJlZF9kaWN0KCdUYXJnZXRQb2xpY3lPdXRwdXQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YXJnZXRfcG9saWN5X291dHB1dCkpCiAgICAgICAgbGFzdF9zdGF0aXN0aWNzLnVwZGF0ZShjcmVhdGVfc3RhdHNfb3JkZXJlZF9kaWN0KCdRZk91dHB1dCcsIHFmX291dHB1dCkpCiAgICAgICAgbGFzdF9zdGF0aXN0aWNzLnVwZGF0ZShjcmVhdGVfc3RhdHNfb3JkZXJlZF9kaWN0KCdUYXJnZXRRZk91dHB1dCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhcmdldF9xZl9vdXRwdXRzKSkKICAgICAgICBsYXN0X3N0YXRpc3RpY3MudXBkYXRlKGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QoJ1Jld2FyZHMnLCByZXdhcmRzKSkKICAgICAgICBsYXN0X3N0YXRpc3RpY3MudXBkYXRlKGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QoJ1JldHVybnMnLCByZXR1cm5zKSkKICAgICAgICBsYXN0X3N0YXRpc3RpY3MudXBkYXRlKGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QoJ0Rpc2NvdW50ZWRSZXR1cm5zJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY291bnRlZF9yZXR1cm5zKSkKICAgICAgICBpZiBsZW4oZXNfcGF0aF9yZXR1cm5zKSA+IDA6CiAgICAgICAgICAgIGxhc3Rfc3RhdGlzdGljcy51cGRhdGUoY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdCgnVHJhaW5pbmdSZXR1cm5zJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVzX3BhdGhfcmV0dXJucykpCiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gbGFzdF9zdGF0aXN0aWNzLml0ZW1zKCk6CiAgICAgICAgICAgIGxvZ2dlci5yZWNvcmRfdGFidWxhcihrZXksIHZhbHVlKQoKICAgICAgICByZXR1cm4gbGFzdF9zdGF0aXN0aWNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihhY3Rpb25fdmFsdWVzKSA9PSAwOiAgIyBubyBhY3Rpb24gcG9zc2libGUKICAgICAgICAgICAgICAgICAgICBuZXh0X3ZhbHVlc1tzdGF0ZV0gPSAwCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1788,34 +1802,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5tZHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZXMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oYWN0aW9uX2FuZF92YWx1ZXMpID09IDA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiB0ZXJtaW5hdGVfZXBpc29kZShzZWxmLCB0ZXJtaW5hbF9vYnNlcnZhdGlvbik6CiAgICAjICAgICByZXR1cm4gc2VsZi5fYWRkX3NhbXBsZSgKICAgICMgICAgICAgICB0ZXJtaW5hbF9vYnNlcnZhdGlvbiwKICAgICMgICAgICAgICBOb25lLAogICAgIyAgICAgICAgIDAsCiAgICAjICAgICAgICAgMCwKICAgICMgICAgICAgICBUcnVlLAogICAgIyAgICAgKQogICAgIwogICAgIyBkZWYgYWRkX3NhbXBsZShzZWxmLCBvYnNlcnZhdGlvbiwgYWN0aW9uLCByZXdhcmQsIHRlcm1pbmFsLCAqKmt3YXJncyk6CiAgICAjICAgICByZXR1cm4gc2VsZi5fYWRkX3NhbXBsZSgKICAgICMgICAgICAgICBvYnNlcnZhdGlvbiwKICAgICMgICAgICAgICBhY3Rpb24sCiAgICAjICAgICAgICAgcmV3YXJkLAogICAgIyAgICAgICAgIHRlcm1pbmFsLAogICAgIyAgICAgICAgIEZhbHNlLAogICAgIyAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jdXJyZW50X2VwaXNvZGUgPSBTaW5nbGVFcGlzb2RlKHNlbGYuX2VudikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3ViX3RyYWpfbGVuZ3RoOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbl92YWx1ZXMgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydF9pbmRleCArIGxlbmd0aCArIDEgPD0gc2VsZi5sZW5ndGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBhY3Rpb24gaW4gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>variant</last-search>
+      <last-search>getState</last-search>
       <last-offset />
-      <last-pattern>variant</last-pattern>
+      <last-pattern>getState</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1823,9 +1837,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ip</entry>
-        <entry>inputs</entry>
-        <entry>m_prev</entry>
         <entry>pdb</entry>
         <entry>with_re</entry>
         <entry>elgnth</entry>
@@ -1843,6 +1854,9 @@
         <entry>Sample</entry>
         <entry>num_bptt_unrolls</entry>
         <entry>variant</entry>
+        <entry>copy</entry>
+        <entry>getPossible</entry>
+        <entry>getState</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
