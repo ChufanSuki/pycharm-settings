@@ -106,8 +106,12 @@
         <mark key="." line="64" column="53" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487790557878">
-        <mark key="'" line="321" column="8" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487798509995">
+        <mark key="'" line="448" column="4" />
+        <mark key="[" line="194" column="8" />
+        <mark key="]" line="194" column="7" />
+        <mark key="^" line="194" column="7" />
+        <mark key="." line="194" column="7" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/nn_policy.py" timestamp="1479438795244">
         <mark key="'" line="78" column="16" />
@@ -796,6 +800,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487797135161">
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="35" column="21" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_vs_qddpg_cartpole.py" timestamp="1484176183967">
         <mark key="'" line="44" column="22" />
         <mark key="[" line="18" column="4" />
@@ -1068,12 +1078,12 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487791574125">
-        <mark key="'" line="49" column="18" />
-        <mark key="[" line="121" column="50" />
-        <mark key="]" line="121" column="50" />
-        <mark key="." line="121" column="50" />
-        <mark key="^" line="121" column="50" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487798620312">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="203" column="49" />
+        <mark key="]" line="205" column="23" />
+        <mark key="." line="205" column="23" />
+        <mark key="^" line="205" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab/sandbox/rocky/tf/policies/uniform_control_policy.py" timestamp="1477867214020">
         <mark key="'" line="1" column="36" />
@@ -1637,18 +1647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="116" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="118" column="39" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="195" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="174" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="215" column="26" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="178" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="201" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="225" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="234" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="258" column="57" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="31" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
@@ -1730,44 +1728,56 @@
       <jump line="321" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
       <jump line="68" column="35" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="109" column="14" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="448" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
-      <jump line="94" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="115" column="58" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="150" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="151" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="49" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="178" column="36" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="448" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
+      <jump line="199" column="26" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="28" column="2" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="201" column="44" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="177" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
+      <jump line="205" column="11" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="227" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>action</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>continue</text>
       </register>
       <register name="/" type="4">
-        <text>getState</text>
+        <text>Priority</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc3NpYmxlX2FjdGlvbnMgPSBzZWxmLm1kcC5nZXRQb3NzaWJsZUFjdGlvbnMoc3RhdGUpCiAgICAgICAgICAgICAgICBpZiBzZWxmLm1kcC5pc1Rlcm1pbmFsKHN0YXRlKSBvciBsZW4ocG9zc2libGVfYWN0aW9ucykgPT0gMDoKICAgICAgICAgICAgICAgICAgICBuZXh0X3ZhbHVlc1tzdGF0ZV0gPSAwLgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKHN0YXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oYWN0aW9uX2FuZF92YWx1ZXMpID09IDA6ICAjIG5vIGFjdGlvbiBwb3NzaWJsZQogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihhY3Rpb25fdmFsdWVzKSA9PSAwOiAgIyBubyBhY3Rpb24gcG9zc2libGUKICAgICAgICAgICAgICAgICAgICBuZXh0X3ZhbHVlc1tzdGF0ZV0gPSAwCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpdGVyID09IHNlbGYuaXRlcmF0aW9uczoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1802,34 +1812,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5tZHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGl0ZXIgPT0gc2VsZi5pdGVyYXRpb25zOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgaXRlciArPSAxCiAgICAgICAgICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKHN0YXRlKQogICAgICAgICAgICAgICAgaWYgc2VsZi5tZHAuaXNUZXJtaW5hbChzdGF0ZSkgb3IgbGVuKHBvc3NpYmxlX2FjdGlvbnMpID09IDA6CiAgICAgICAgICAgICAgICAgICAgc2VsZi52YWx1ZXNbc3RhdGVdID0gMC4KICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgYWN0aW9uX3ZhbHVlcyA9IFsKICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbXB1dGVRVmFsdWVGcm9tVmFsdWVzKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICBzZWxmLnZhbHVlc1tzdGF0ZV0gPSBtYXgoYWN0aW9uX3ZhbHVlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oYWN0aW9uX2FuZF92YWx1ZXMpID09IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKHN0YXRlKQogICAgICAgIGFjdGlvbl92YWx1ZXMgPSBbCiAgICAgICAgICAgIHNlbGYuY29tcHV0ZVFWYWx1ZUZyb21WYWx1ZXMoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgXQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25fdmFsdWVzID0gWwogICAgICAgICAgICBzZWxmLmNvbXB1dGVRVmFsdWVGcm9tVmFsdWVzKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgICAgIGZvciBhY3Rpb24gaW4gcG9zc2libGVfYWN0aW9ucwogICAgICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbl92YWx1ZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYWN0aW9uIGluIHNlbGYubWRwLmdldFBvc3NpYmxlQWN0aW9ucyhzdGF0ZSk6CiAgICAgICAgICAgIGZvciBuZXh0X3N0YXRlLCBwcm9iIGluICgKICAgICAgICAgICAgICAgICAgICBzZWxmLm1kcC5nZXRUcmFuc2l0aW9uU3RhdGVzQW5kUHJvYnMoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgKToKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBhY3Rpb24gaW4gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getState</last-search>
+      <last-search>Priority</last-search>
       <last-offset />
-      <last-pattern>getState</last-pattern>
+      <last-pattern>Priority</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1837,7 +1847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pdb</entry>
         <entry>with_re</entry>
         <entry>elgnth</entry>
         <entry>terminate_episode</entry>
@@ -1857,6 +1866,7 @@
         <entry>copy</entry>
         <entry>getPossible</entry>
         <entry>getState</entry>
+        <entry>Priority</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
