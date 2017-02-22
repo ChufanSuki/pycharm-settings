@@ -106,10 +106,17 @@
         <mark key="." line="64" column="53" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487798509995">
-        <mark key="'" line="448" column="4" />
-        <mark key="[" line="194" column="8" />
-        <mark key="]" line="194" column="7" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" timestamp="1487802705922">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="101" column="19" />
+        <mark key="]" line="101" column="24" />
+        <mark key="." line="101" column="24" />
+        <mark key="^" line="101" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487802119256">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="520" column="17" />
         <mark key="^" line="194" column="7" />
         <mark key="." line="194" column="7" />
       </file>
@@ -800,11 +807,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487797135161">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="21" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="35" column="21" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="24" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_vs_qddpg_cartpole.py" timestamp="1484176183967">
         <mark key="'" line="44" column="22" />
@@ -1011,9 +1019,6 @@
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/mlp_memory_qfunction.py" timestamp="1487696284014">
-        <mark key="'" line="31" column="32" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" timestamp="1487291576229">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1078,12 +1083,15 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487800131215">
-        <mark key="'" line="226" column="68" />
-        <mark key="[" line="216" column="23" />
-        <mark key="]" line="216" column="57" />
-        <mark key="." line="216" column="57" />
-        <mark key="^" line="216" column="57" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487801772659">
+        <mark key="'" line="76" column="12" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="69" />
+        <mark key="^" line="99" column="56" />
+        <mark key="." line="99" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" timestamp="1487801638298">
+        <mark key="'" line="86" column="42" />
       </file>
       <file name="$USER_HOME$/git/rllab/sandbox/rocky/tf/policies/uniform_control_policy.py" timestamp="1477867214020">
         <mark key="'" line="1" column="36" />
@@ -1647,44 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="176" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="38" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="32" column="46" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="502" column="6" filename="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
-      <jump line="505" column="0" filename="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
-      <jump line="80" column="38" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="201" column="17" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="70" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="207" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="175" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="130" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="131" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="134" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="135" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="136" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="137" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="138" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="128" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="129" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="48" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="70" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="74" column="49" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="9" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="94" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
-      <jump line="174" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" />
-      <jump line="5" column="23" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/env_replay_buffer.py" />
-      <jump line="5" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/simple_replay_pool.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="172" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="53" column="14" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="161" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="216" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="214" column="54" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="227" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="79" column="23" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="152" column="41" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="124" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
       <jump line="209" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
@@ -1721,17 +1691,13 @@
       <jump line="93" column="0" filename="$USER_HOME$/git/railrl-ddpg/launchers/launcher_util.py" />
       <jump line="300" column="27" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
       <jump line="3371" column="8" filename="$USER_HOME$/.PyCharm2016.3/system/python_stubs/692694397/__builtin__.py" />
-      <jump line="58" column="32" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="321" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
       <jump line="68" column="35" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="109" column="14" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="115" column="58" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="150" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="151" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="49" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="126" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="178" column="36" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="448" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
       <jump line="199" column="26" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="28" column="2" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
@@ -1747,37 +1713,79 @@
       <jump line="208" column="30" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="203" column="43" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="226" column="68" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="204" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="127" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="246" column="26" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="244" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="181" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="248" column="17" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="118" column="34" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="179" column="25" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="72" column="20" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="132" column="15" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="234" column="19" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="241" column="29" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="239" column="21" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="231" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="165" column="20" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="240" column="41" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="233" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="202" column="22" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="99" column="56" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="84" column="15" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="90" column="35" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="107" column="54" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="175" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="177" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="65" column="26" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="76" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="42" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="86" column="42" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
+      <jump line="18" column="6" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="121" column="17" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="20" column="21" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pred</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhbnN3ZXJFcHNpbG9uLCBhbnN3ZXJMZWFybmluZ1JhdGUK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>pred</text>
+        <text>answerEpsilon, answerLearningRate</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>alpha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkZWNlc3NvcnMgPSBzZXQoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnTk9UIFBPU1NJQkxFJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbnN3ZXJFcHNpbG9uLCBhbnN3ZXJMZWFybmluZ1JhdGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkZWNlc3NvcnMgPSBzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1812,34 +1820,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubWRwLmdldFN0YXRlcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcHJlZGVjZXNzb3Ioc2VsZiwgc3VjY2Vzc29ycyk6CiAgICAgICAgcHJlZGVjZXNzb3JzID0gc2V0KCkKICAgICAgICBmb3Igc3RhdGUsIG5leHRfc3RhdGVzIGluIHN1Y2Vzc29ycy5pdGVtcygpOgogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcHJldl9zdGF0ZSBpbiBzZWxmLm1kcC5nZXRTdGF0ZXMoKToK</text>
+        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2FjdGlvbl92YWx1ZXMoc2VsZiwgc3RhdGUpOgogICAgICAgIHBvc3NpYmxlX2FjdGlvbnMgPSBzZWxmLm1kcC5nZXRQb3NzaWJsZUFjdGlvbnMoc3RhdGUpCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2VsZi5nZXRRVmFsdWUoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgXQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gW2FicyhzdGF0ZV92YWx1ZSAtIG5leHRfdmFsdWUpIGZvciBuZXh0X3ZhbHVlIGluIGFjdGlvbl92YWx1ZXNdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFjdGlvbl92YWx1ZXMgPSBzZWxmLl9nZXRfYWN0aW9uX3ZhbHVlcyhzdGF0ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>alpha</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>alpha</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1847,17 +1855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.pool</entry>
-        <entry>observations</entry>
-        <entry>self._flat_observations</entry>
-        <entry>terminals =</entry>
-        <entry>terminals</entry>
-        <entry>def evaluate</entry>
-        <entry>special</entry>
-        <entry>returns</entry>
-        <entry>softmax</entry>
-        <entry>sample</entry>
-        <entry>Sample</entry>
         <entry>num_bptt_unrolls</entry>
         <entry>variant</entry>
         <entry>copy</entry>
@@ -1867,6 +1864,17 @@
         <entry>max</entry>
         <entry>state</entry>
         <entry>asdf</entry>
+        <entry>self.values[state]</entry>
+        <entry>self.values\[state\]</entry>
+        <entry>self.computeQValueFromVal</entry>
+        <entry>get_action_values</entry>
+        <entry>update_value</entry>
+        <entry>_get_action_values</entry>
+        <entry>self.values</entry>
+        <entry>flipCoin</entry>
+        <entry>learning_rate</entry>
+        <entry>rate</entry>
+        <entry>alpha</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
