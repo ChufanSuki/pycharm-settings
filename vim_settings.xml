@@ -188,6 +188,11 @@
         <mark key="]" line="165" column="19" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" timestamp="1487805780727">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" timestamp="1487652143154">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="54" column="0" />
@@ -195,15 +200,18 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="155" column="63" />
       </file>
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487805991537">
+        <mark key="'" line="139" column="8" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="113" column="34" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/lstm_memory_policy.py" timestamp="1487651406774">
         <mark key="'" line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="104" column="46" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
-      <jump line="43" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
       <jump line="36" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
       <jump line="110" column="53" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
       <jump line="776" column="6" filename="$USER_HOME$/anaconda/envs/my-rllab3/lib/python3.5/site-packages/tensorflow/python/ops/variable_scope.py" />
@@ -300,10 +308,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/pythonplusplus.py" />
       <jump line="30" column="3" filename="$USER_HOME$/git/rllab-rail-private/railrl/pythonplusplus.py" />
       <jump line="4" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/pythonplusplus.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Iterable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2570,55 +2582,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Iterable</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
-        <text>terminals</text>
+        <text>ENDS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoeF9vcl9pdGVyYWJsZSwgSXRlcmFibGUpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWF4KGFjdGlvbl9hbmRfdmFsdWVzLCBrZXk9bGFtYmRhIChfLCB2YWx1ZSk6IHZhbHVlKVswXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGFjdGlvbl9vcl9vYnMsIHR1cGxlKToKICAgICAgICAgICAgcmV0dXJuIHR1cGxlKHhbOiwgLTEsIDpdIGZvciB4IGluIGFjdGlvbl9vcl9vYnMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIGFjdGlvbl9vcl9vYnNbOiwgLTEsIDpdCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsbCB0aGUgZWxlbWVudHMgdHJhbnNmb3JtZWQgYnkgZmN0bi4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvYnMgPSBvYnNbOiwgLTEsIDpdCiAgICAgICAgYWN0aW9ucyA9IGFjdGlvbnNbOiwgLTEsIDpdCiAgICAgICAgbmV4dF9vYnMgPSBuZXh0X29ic1s6LCAtMSwgOl0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFqIGxlbmd0aCB4IGRpbV0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiKioqIFlPVVIgQ09ERSBFTkRTIEhFUkUgKioqIgoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiKioqIFlPVVIgQ09ERSBFTkRTIEhFUkUgKioqIgoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiKioqIFlPVVIgQ09ERSBFTkRTIEhFUkUgKioqIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiKioqIFlPVVIgQ09ERSBFTkRTIEhFUkUgKioqIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiKioqIFlPVVIgQ09ERSBFTkRTIEhFUkUgKioqIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfdXBkYXRlX2ZlZWRfZGljdChzZWxmLCByZXdhcmRzLCB0ZXJtaW5hbHMsIG9icywgYWN0aW9ucywgbmV4dF9vYnMpOgogICAgICAgIGFjdGlvbnMgPSBzZWxmLl9zcGxpdF9mbGF0X2FjdGlvbnMoYWN0aW9ucykKICAgICAgICBvYnMgPSBzZWxmLl9zcGxpdF9mbGF0X29icyhvYnMpCiAgICAgICAgbmV4dF9vYnMgPSBzZWxmLl9zcGxpdF9mbGF0X29icyhuZXh0X29icykKICAgICAgICBmZWVkID0gc2VsZi5fcWZfZmVlZF9kaWN0KHJld2FyZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXJtaW5hbHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvYnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb25zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV4dF9vYnMpCiAgICAgICAgcG9saWN5X2ZlZWQgPSBzZWxmLl9wb2xpY3lfZmVlZF9kaWN0KG9icykKICAgICAgICBmZWVkLnVwZGF0ZShwb2xpY3lfZmVlZCkKICAgICAgICByZXR1cm4gZmVlZAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGFjdGlvbl9hbmRfdmFsdWVzID0gWwogICAgICAgICMgICAgIChhY3Rpb24sIHNlbGYuZ2V0UVZhbHVlKHN0YXRlLCBhY3Rpb24pKQogICAgICAgICMgICAgIGZvciBhY3Rpb24gaW4gcG9zc2libGVfYWN0aW9ucwogICAgICAgICMgXQogICAgICAgICMgcmV0dXJuIG1heChhY3Rpb25fYW5kX3ZhbHVlcywga2V5PWxhbWJkYSAoXywgdmFsdWUpOiB2YWx1ZSlbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVkID0gcWZfZmVlZC5jb3B5KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGFjdGlvbl9vcl9vYnMsIHR1cGxlKToKICAgICAgICAgICAgcmV0dXJuIHR1cGxlKHhbOiwgLTEsIDpdIGZvciB4IGluIGFjdGlvbl9vcl9vYnMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIGFjdGlvbl9vcl9vYnNbOiwgLTEsIDpdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>terminals</last-search>
+      <last-search>ENDS</last-search>
       <last-offset />
-      <last-pattern>terminals</last-pattern>
+      <last-pattern>ENDS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_do_training</entry>
         <entry>flatten</entry>
         <entry>test_size</entry>
         <entry>episodes</entry>
@@ -2638,6 +2649,7 @@
         <entry>expand_dim</entry>
         <entry>np.zeros</entry>
         <entry>terminals</entry>
+        <entry>ENDS</entry>
       </history-search>
       <history-cmd>
         <entry>169</entry>
