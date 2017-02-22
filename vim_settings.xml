@@ -1078,12 +1078,12 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487798620312">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="203" column="49" />
-        <mark key="]" line="205" column="23" />
-        <mark key="." line="205" column="23" />
-        <mark key="^" line="205" column="23" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487800131215">
+        <mark key="'" line="226" column="68" />
+        <mark key="[" line="216" column="23" />
+        <mark key="]" line="216" column="57" />
+        <mark key="." line="216" column="57" />
+        <mark key="^" line="216" column="57" />
       </file>
       <file name="$USER_HOME$/git/rllab/sandbox/rocky/tf/policies/uniform_control_policy.py" timestamp="1477867214020">
         <mark key="'" line="1" column="36" />
@@ -1647,9 +1647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="258" column="57" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
-      <jump line="31" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
       <jump line="174" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
       <jump line="176" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
       <jump line="38" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/lstm_memory_policy.py" />
@@ -1747,37 +1744,40 @@
       <jump line="173" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="227" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="121" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="208" column="30" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="203" column="43" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="226" column="68" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
+      <register name="&quot;" type="4">
+        <text>pred</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>continue</text>
+        <text>pred</text>
       </register>
       <register name="/" type="4">
-        <text>Priority</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVkZWNlc3NvcnMgPSBzZXQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpdGVyID09IHNlbGYuaXRlcmF0aW9uczoK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkZWNlc3NvcnMgPSBzZXQoKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1812,34 +1812,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGl0ZXIgPT0gc2VsZi5pdGVyYXRpb25zOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgaXRlciArPSAxCiAgICAgICAgICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKHN0YXRlKQogICAgICAgICAgICAgICAgaWYgc2VsZi5tZHAuaXNUZXJtaW5hbChzdGF0ZSkgb3IgbGVuKHBvc3NpYmxlX2FjdGlvbnMpID09IDA6CiAgICAgICAgICAgICAgICAgICAgc2VsZi52YWx1ZXNbc3RhdGVdID0gMC4KICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgYWN0aW9uX3ZhbHVlcyA9IFsKICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbXB1dGVRVmFsdWVGcm9tVmFsdWVzKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICBzZWxmLnZhbHVlc1tzdGF0ZV0gPSBtYXgoYWN0aW9uX3ZhbHVlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubWRwLmdldFN0YXRlcygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcHJlZGVjZXNzb3Ioc2VsZiwgc3VjY2Vzc29ycyk6CiAgICAgICAgcHJlZGVjZXNzb3JzID0gc2V0KCkKICAgICAgICBmb3Igc3RhdGUsIG5leHRfc3RhdGVzIGluIHN1Y2Vzc29ycy5pdGVtcygpOgogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0UG9zc2libGVBY3Rpb25zKHN0YXRlKQogICAgICAgIGFjdGlvbl92YWx1ZXMgPSBbCiAgICAgICAgICAgIHNlbGYuY29tcHV0ZVFWYWx1ZUZyb21WYWx1ZXMoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcHJldl9zdGF0ZSBpbiBzZWxmLm1kcC5nZXRTdGF0ZXMoKToK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25fdmFsdWVzID0gWwogICAgICAgICAgICBzZWxmLmNvbXB1dGVRVmFsdWVGcm9tVmFsdWVzKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgICAgIGZvciBhY3Rpb24gaW4gcG9zc2libGVfYWN0aW9ucwogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWN0aW9uIGluIHNlbGYubWRwLmdldFBvc3NpYmxlQWN0aW9ucyhzdGF0ZSk6CiAgICAgICAgICAgIGZvciBuZXh0X3N0YXRlLCBwcm9iIGluICgKICAgICAgICAgICAgICAgICAgICBzZWxmLm1kcC5nZXRUcmFuc2l0aW9uU3RhdGVzQW5kUHJvYnMoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgKToKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Priority</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>Priority</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1847,9 +1847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>with_re</entry>
-        <entry>elgnth</entry>
-        <entry>terminate_episode</entry>
         <entry>self.pool</entry>
         <entry>observations</entry>
         <entry>self._flat_observations</entry>
@@ -1867,6 +1864,9 @@
         <entry>getPossible</entry>
         <entry>getState</entry>
         <entry>Priority</entry>
+        <entry>max</entry>
+        <entry>state</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
