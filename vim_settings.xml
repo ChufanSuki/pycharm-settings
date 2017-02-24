@@ -61,7 +61,7 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/core/network.py" timestamp="1486666171569">
         <mark key="'" line="190" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1487301270799">
+      <file name="/a.dummy" timestamp="1487921220932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
@@ -813,6 +813,13 @@
         <mark key="]" line="35" column="28" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" timestamp="1487921933385">
+        <mark key="'" line="63" column="17" />
+        <mark key="[" line="70" column="6" />
+        <mark key="]" line="70" column="22" />
+        <mark key="." line="70" column="22" />
+        <mark key="^" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
         <mark key="'" line="39" column="0" />
@@ -1659,6 +1666,9 @@
         <mark key="^" line="75" column="17" />
         <mark key="." line="66" column="15" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/docker/Dockerfile" timestamp="1487921605096">
+        <mark key="'" line="54" column="25" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/misc/launcher_util.py" timestamp="1484262980191">
         <mark key="'" line="44" column="27" />
         <mark key="[" line="6" column="47" />
@@ -1682,23 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="22" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="99" column="56" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="84" column="15" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="90" column="35" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="107" column="54" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="175" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="177" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="65" column="26" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="76" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="42" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
-      <jump line="86" column="42" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
-      <jump line="18" column="6" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
-      <jump line="33" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="121" column="17" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="20" column="21" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" />
@@ -1782,37 +1775,54 @@
       <jump line="405" column="26" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="415" column="36" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="427" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="65" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="64" column="2" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="62" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="59" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="60" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="67" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="69" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="55" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="58" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/docker/Dockerfile" />
+      <jump line="51" column="26" filename="$USER_HOME$/git/rllab-rail/docker/Dockerfile" />
+      <jump line="55" column="26" filename="$USER_HOME$/git/rllab-rail/docker/Dockerfile" />
+      <jump line="53" column="26" filename="$USER_HOME$/git/rllab-rail/docker/Dockerfile" />
+      <jump line="54" column="25" filename="$USER_HOME$/git/rllab-rail/docker/Dockerfile" />
+      <jump line="63" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VfY2xvdWRwaWNrbGU9VHJ1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICRQWVRIT05QQVRI</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>run_experiment_lite</text>
+        <text encoding="base64">ICRQWVRIT05QQVRI</text>
       </register>
       <register name="/" type="4">
-        <text>cloudpickle</text>
+        <text>rllab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PSJkZHBnLWhhbGYtY2hlZXRhaCIsCg==</text>
+        <text encoding="base64">UlVOIGVjaG8gJFBZVEhPTlBBVEgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VfY2xvdWRwaWNrbGU9VHJ1ZSwK</text>
+        <text encoding="base64">UlVOIGNhdCAvcm9vdC9jb2RlL3JsbGFiLwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzbmFwc2hvdF9tb2RlPSJsYXN0IiwK</text>
+        <text encoding="base64">ICAgICAgICB1c2VfY2xvdWRwaWNrbGU9VHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuX3BhcmFsbGVsPTEsCg==</text>
+        <text encoding="base64">ICAgICAgICBzbmFwc2hvdF9tb2RlPSJsYXN0IiwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1847,34 +1857,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJ1bl9leHBlcmltZW50X2xpdGUoCiAgICAgICAgZXhhbXBsZSwKICAgICAgICBuX3BhcmFsbGVsPTEsCiAgICAgICAgc25hcHNob3RfbW9kZT0ibGFzdCIsCiAgICAgICAgZXhwX3ByZWZpeD0iZGRwZy1oYWxmLWNoZWV0YWgiLAogICAgICAgIHNlZWQ9MiwKICAgICAgICB1c2VfY2xvdWRwaWNrbGU9VHJ1ZSwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBuX3BhcmFsbGVsPTEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJpYW50PXZhcmlhbnQsCiAgICAgICAgZXhwX2NvdW50PWV4cF9jb3VudCwK</text>
+        <text encoding="base64">ICAgIHJ1bl9leHBlcmltZW50X2xpdGUoCiAgICAgICAgZXhhbXBsZSwKICAgICAgICBuX3BhcmFsbGVsPTEsCiAgICAgICAgc25hcHNob3RfbW9kZT0ibGFzdCIsCiAgICAgICAgZXhwX3ByZWZpeD0iZGRwZy1oYWxmLWNoZWV0YWgiLAogICAgICAgIHNlZWQ9MiwKICAgICAgICB1c2VfY2xvdWRwaWNrbGU9VHJ1ZSwKICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PWV4cF9wcmVmaXgsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJpYW50PXZhcmlhbnQsCiAgICAgICAgZXhwX2NvdW50PWV4cF9jb3VudCwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMub2JzZXJ2YXRpb25fc3BhY2Uuc3BsaXRfZmxhdF9pbnRvX2NvbXBvbmVudHNfbigKICAgICAgICAgICAgICAgIG9icwogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PWV4cF9wcmVmaXgsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMub2JzZXJ2YXRpb25fc3BhY2Uuc3BsaXRfZmxhdF9pbnRvX2NvbXBvbmVudHNfbigKICAgICAgICAgICAgICAgIG9icwogICAgICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLCBQcm9kdWN0KToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgICAgICkKICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cloudpickle</last-search>
+      <last-search>rllab</last-search>
       <last-offset />
-      <last-pattern>cloudpickle</last-pattern>
+      <last-pattern>rllab</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1882,11 +1892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_samples</entry>
-        <entry>obtain_sa</entry>
-        <entry>def reset</entry>
-        <entry>create_bucket</entry>
-        <entry>key_name</entry>
         <entry>docker</entry>
         <entry>aws</entry>
         <entry>script</entry>
@@ -1902,9 +1907,13 @@
         <entry>submod</entry>
         <entry>local</entry>
         <entry>cloudpickle</entry>
+        <entry>ENV TH</entry>
+        <entry>gpu</entry>
+        <entry>root</entry>
+        <entry>code</entry>
+        <entry>rllab</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry>159</entry>
         <entry>58</entry>
         <entry>'w</entry>
@@ -1922,8 +1931,9 @@
         <entry>217'</entry>
         <entry>217</entry>
         <entry>211</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>32</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
