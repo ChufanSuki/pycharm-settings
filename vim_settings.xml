@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1487188720528">
+      <file name="/start_script.py" timestamp="1487909782582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_ddpg.py" timestamp="1479235055478">
@@ -265,11 +265,11 @@
         <mark key="." line="86" column="40" />
         <mark key="^" line="79" column="19" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/__init__.py" timestamp="1487895274365">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/__init__.py" timestamp="1487909410156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/gym/monitoring/__init__.py" timestamp="1486884717812">
         <mark key="'" line="2" column="19" />
@@ -455,7 +455,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/example.py" timestamp="1487302017569">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/example.py" timestamp="1487909730586">
+        <mark key="'" line="4" column="2" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="23" />
         <mark key="^" line="30" column="23" />
@@ -1655,7 +1656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="124" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" />
       <jump line="209" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" />
@@ -1755,13 +1755,14 @@
       <jump line="121" column="17" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="20" column="21" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" />
+      <jump line="4" column="2" filename="$USER_HOME$/git/rllab-rail-private/railrl/example.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>bar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsibGF1bmNoZXJzIl0K</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
@@ -1776,16 +1777,16 @@
         <text encoding="base64">ICAgIHJldHVybiAnTk9UIFBPU1NJQkxFJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbnN3ZXJFcHNpbG9uLCBhbnN3ZXJMZWFybmluZ1JhdGUK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsibGF1bmNoZXJzIl0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbnN3ZXJFcHNpbG9uLCBhbnN3ZXJMZWFybmluZ1JhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1820,25 +1821,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB1dGlsLnJhaXNlTm90RGVmaW5lZCgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2FjdGlvbl92YWx1ZXMoc2VsZiwgc3RhdGUpOgogICAgICAgIHBvc3NpYmxlX2FjdGlvbnMgPSBzZWxmLm1kcC5nZXRQb3NzaWJsZUFjdGlvbnMoc3RhdGUpCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2VsZi5nZXRRVmFsdWUoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgXQoK</text>
+        <text encoding="base64">ICAgICAgICBwb3NzaWJsZV9hY3Rpb25zID0gc2VsZi5tZHAuZ2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gW2FicyhzdGF0ZV92YWx1ZSAtIG5leHRfdmFsdWUpIGZvciBuZXh0X3ZhbHVlIGluIGFjdGlvbl92YWx1ZXNdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2FjdGlvbl92YWx1ZXMoc2VsZiwgc3RhdGUpOgogICAgICAgIHBvc3NpYmxlX2FjdGlvbnMgPSBzZWxmLm1kcC5nZXRQb3NzaWJsZUFjdGlvbnMoc3RhdGUpCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2VsZi5nZXRRVmFsdWUoc3RhdGUsIGFjdGlvbikKICAgICAgICAgICAgZm9yIGFjdGlvbiBpbiBwb3NzaWJsZV9hY3Rpb25zCiAgICAgICAgXQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjdGlvbl92YWx1ZXMgPSBzZWxmLl9nZXRfYWN0aW9uX3ZhbHVlcyhzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gW2FicyhzdGF0ZV92YWx1ZSAtIG5leHRfdmFsdWUpIGZvciBuZXh0X3ZhbHVlIGluIGFjdGlvbl92YWx1ZXNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
