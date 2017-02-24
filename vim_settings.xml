@@ -1014,6 +1014,11 @@
         <mark key="." line="746" column="17" />
         <mark key="^" line="746" column="17" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1487916590274">
+        <mark key="'" line="113" column="15" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="116" column="8" />
+      </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
         <mark key="[" line="56" column="0" />
@@ -1133,10 +1138,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/online_algorithm.py" timestamp="1487697746294">
         <mark key="'" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1487916343836">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1487916758342">
+        <mark key="'" line="164" column="32" />
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/ddpg.py" timestamp="1487698346045">
         <mark key="'" line="16" column="23" />
@@ -1656,13 +1663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="11" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="227" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="208" column="30" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
-      <jump line="203" column="43" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="226" column="68" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="204" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="79" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
@@ -1756,37 +1756,44 @@
       <jump line="44" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
       <jump line="49" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
       <jump line="27" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" />
+      <jump line="16" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="323" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="106" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="113" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="162" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Jx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwucgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMub2JzZXJ2YXRpb25fc3BhY2Uuc3BsaXRfZmxhdF9pbnRvX2NvbXBvbmVudHNfbigKICAgICAgICAgICAgICAgIG9icwogICAgICAgICAgICApCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>observations</text>
       </register>
       <register name="/" type="4">
-        <text>DOCKER_CODE_DIR</text>
+        <text>split</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgY29tbWFuZCA9ICgiIiIKICAgICAgICAgICAgYXdzIHMzIHN5bmMge3JlbW90ZV9kaXJ9IHtsb2NhbF9kaXJ9IC0tZXhjbHVkZSAnKnN0ZG91dC5sb2cnIC0tZXhjbHVkZSAnKnN0ZG91dGVyci5sb2cnIC0tY29udGVudC10eXBlICJVVEYtOCIKICAgICAgICAiIiIuZm9ybWF0KGxvY2FsX2Rpcj1sb2NhbF9kaXIsIHJlbW90ZV9kaXI9cmVtb3RlX2RpcikpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3BsaXRfZmxhdF9wcm9kdWN0X3NwYWNlX2ludG9fY29tcG9uZW50c19uKAogICAgICAgICAgICBzZWxmLmVudi5zcGVjLm9ic2VydmF0aW9uX3NwYWNlLAogICAgICAgICAgICBvYnMsCiAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwucgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMub2JzZXJ2YXRpb25fc3BhY2Uuc3BsaXRfZmxhdF9pbnRvX2NvbXBvbmVudHNfbigKICAgICAgICAgICAgICAgIG9icwogICAgICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlfbmFtZSA9ICdybGxhYi12aXRjaHlyLSVzJyAlIHJlZ2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlfbmFtZSA9ICdybGxhYi0lcycgJSByZWdpb24K</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLCBQcm9kdWN0KToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNwZWMuYWN0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgICAgICkKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1821,34 +1828,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmVudi5zcGVjLm9ic2VydmF0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgIyAgICAgb2JzCiAgICAgICAgIyApCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYuZW52LnNwZWMub2JzZXJ2YXRpb25fc3BhY2UsIFByb2R1Y3QpOgogICAgICAgICAgICByZXR1cm4gc2VsZi5lbnYuc3BlYy5vYnNlcnZhdGlvbl9zcGFjZS5zcGxpdF9mbGF0X2ludG9fY29tcG9uZW50c19uKAogICAgICAgICAgICAgICAgb2JzCiAgICAgICAgICAgICkKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5lbnYuc3BlYy5hY3Rpb25fc3BhY2UudW5mbGF0dGVuKAogICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwucgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAsIHhzKToKICAgICAgICByZXR1cm4gc2VsZi5lbnYuc3BlYy5vYnNlcnZhdGlvbl9zcGFjZS51bmZsYXR0ZW4oCiAgICAgICAgICAgIG9icwogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBrZXlfbmFtZSA9ICdybGxhYi12aXRjaHlyLSVzJyAlIHJlZ2lvbgo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldAo=</text>
+        <text encoding="base64">ICAgICAgICBrZXlfbmFtZSA9ICdybGxhYi0lcycgJSByZWdpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmVudi5zcGVjLm9ic2VydmF0aW9uX3NwYWNlLnNwbGl0X2ZsYXRfaW50b19jb21wb25lbnRzX24oCiAgICAgICAgIyAgICAgb2JzCiAgICAgICAgIyApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClVTRV9HUFUgPSBGYWxzZQoKRE9DS0VSX0lNQUdFID0gInJlaW4vcmxsYWItZXhwLW5ldyIKCktVQkVfUFJFRklYID0gInRlbXBsYXRlXyIKCkRPQ0tFUl9MT0dfRElSID0gIi90bXAvZXhwdCIKCkFXU19JTUFHRV9JRCA9ICJhbWktNjdjNWQwMGQiCgppZiBVU0VfR1BVOgogICAgQVdTX0lOU1RBTkNFX1RZUEUgPSAiZzIuMnhsYXJnZSIKZWxzZToKICAgIEFXU19JTlNUQU5DRV9UWVBFID0gImM0LjJ4bGFyZ2UiCgpBV1NfS0VZX05BTUUgPSAicmVzZWFyY2hfdmlyZ2luaWEiCgpBV1NfU1BPVCA9IFRydWUKCkFXU19TUE9UX1BSSUNFID0gJzEwLjAnCgpBV1NfSUFNX0lOU1RBTkNFX1BST0ZJTEVfTkFNRSA9ICJybGxhYiIKCkFXU19TRUNVUklUWV9HUk9VUFMgPSBbInJsbGFiIl0KCkFXU19SRUdJT05fTkFNRSA9ICJ1cy13ZXN0LTIiCgpBV1NfQ09ERV9TWU5DX1MzX1BBVEggPSAiPGluc2VydCBhd3MgczMgYnVja2V0IHVybCBmb3IgY29kZT5lIgoKQ09ERV9TWU5DX0lHTk9SRVMgPSBbIiouZ2l0LyoiLCAiKmRhdGEvKiIsICIqc3JjLyoiLAogICAgICAgICAgICAgICAgICAgICAiKi5wb2RzLyoiLCAiKnRlc3RzLyoiLCAiKmV4YW1wbGVzLyoiLCAiZG9jcy8qIl0KCkxPQ0FMX0NPREVfRElSID0gIjxpbnNlcnQgbG9jYWwgY29kZSBkaXI+IgoKQVdTX1MzX1BBVEggPSAiPGluc2VydCBhd3MgczMgYnVja2V0IHVybD4iCgpMQUJFTCA9ICJ0ZW1wbGF0ZSIKCkRPQ0tFUl9DT0RFX0RJUiA9ICIvcm9vdC9jb2RlL3JsbGFiIgoKQVdTX0FDQ0VTU19LRVkgPSBvcy5lbnZpcm9uLmdldCgiQVdTX0FDQ0VTU19LRVkiLCAiPGluc2VydCBhd3Mga2V5PiIpCgpBV1NfQUNDRVNTX1NFQ1JFVCA9IG9zLmVudmlyb24uZ2V0KCJBV1NfQUNDRVNTX1NFQ1JFVCIsICI8aW5zZXJ0IGF3cyBzZWNyZXQ+IikKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5lbnYuc3BlYy5hY3Rpb25fc3BhY2UudW5mbGF0dGVuKAogICAgICAgICAgICBhY3Rpb25zCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DOCKER_CODE_DIR</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>DOCKER_CODE_DIR</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-replace>sizes</last-replace>
       <last-substitute>sizess</last-substitute>
       <last-dir>1</last-dir>
@@ -1856,8 +1863,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_get_action_values</entry>
-        <entry>self.values</entry>
         <entry>flipCoin</entry>
         <entry>learning_rate</entry>
         <entry>rate</entry>
@@ -1876,6 +1881,8 @@
         <entry>LOCAL_CODE</entry>
         <entry>local_code_path</entry>
         <entry>DOCKER_CODE_DIR</entry>
+        <entry>split_flat</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
