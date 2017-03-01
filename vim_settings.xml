@@ -1459,7 +1459,7 @@
         <mark key="^" line="48" column="39" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" timestamp="1488342303438">
-        <mark key="'" line="45" column="55" />
+        <mark key="'" line="35" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2016/cs281a-statistical-learning-theory/homework/hw6/hw6_3.py" timestamp="1477983990405">
         <mark key="'" line="49" column="23" />
@@ -1644,6 +1644,13 @@
         <mark key="]" line="48" column="32" />
         <mark key="." line="18" column="58" />
         <mark key="^" line="18" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" timestamp="1488406331792">
+        <mark key="'" line="17" column="36" />
+        <mark key="[" line="176" column="48" />
+        <mark key="]" line="176" column="49" />
+        <mark key="^" line="176" column="51" />
+        <mark key="." line="176" column="49" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/main.py" timestamp="1487970891216">
         <mark key="'" line="233" column="27" />
@@ -1874,11 +1881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" />
-      <jump line="964" column="16" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/reinforcementTestClasses.py" />
-      <jump line="895" column="20" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/reinforcementTestClasses.py" />
-      <jump line="816" column="59" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/reinforcementTestClasses.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="184" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" />
       <jump line="9" column="16" filename="$USER_HOME$/git/rllab-rail/examples/trpo_cartpole_recurrent.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/examples/trpo_cartpole_recurrent.py" />
@@ -1974,6 +1976,11 @@
       <jump line="123" column="30" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
       <jump line="169" column="59" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
       <jump line="170" column="57" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="174" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
+      <jump line="21" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
+      <jump line="148" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
+      <jump line="17" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1997,8 +2004,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
@@ -2007,7 +2014,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>hidden_dim</text>
+        <text>layer_norm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHJvbGxvdXQoZW52LCBhZ2VudCwgbWF4X3BhdGhfbGVuZ3RoPW5wLmluZiwgYW5pbWF0ZWQ9RmFsc2UsIHNwZWVkdXA9MSk6CiAgICBvYnNlcnZhdGlvbnMgPSBbXQogICAgYWN0aW9ucyA9IFtdCiAgICByZXdhcmRzID0gW10KICAgIGFnZW50X2luZm9zID0gW10KICAgIGVudl9pbmZvcyA9IFtdCiAgICBvID0gZW52LnJlc2V0KCkKICAgIGFnZW50LnJlc2V0KCkKICAgIHBhdGhfbGVuZ3RoID0gMAogICAgaWYgYW5pbWF0ZWQ6CiAgICAgICAgZW52LnJlbmRlcigpCiAgICB3aGlsZSBwYXRoX2xlbmd0aCA8IG1heF9wYXRoX2xlbmd0aDoKICAgICAgICBhLCBhZ2VudF9pbmZvID0gYWdlbnQuZ2V0X2FjdGlvbihvKQogICAgICAgIG5leHRfbywgciwgZCwgZW52X2luZm8gPSBlbnYuc3RlcChhKQogICAgICAgIG9ic2VydmF0aW9ucy5hcHBlbmQoZW52Lm9ic2VydmF0aW9uX3NwYWNlLmZsYXR0ZW4obykpCiAgICAgICAgcmV3YXJkcy5hcHBlbmQocikKICAgICAgICBhY3Rpb25zLmFwcGVuZChlbnYuYWN0aW9uX3NwYWNlLmZsYXR0ZW4oYSkpCiAgICAgICAgYWdlbnRfaW5mb3MuYXBwZW5kKGFnZW50X2luZm8pCiAgICAgICAgZW52X2luZm9zLmFwcGVuZChlbnZfaW5mbykKICAgICAgICBwYXRoX2xlbmd0aCArPSAxCiAgICAgICAgaWYgZDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBvID0gbmV4dF9vCiAgICAgICAgaWYgYW5pbWF0ZWQ6CiAgICAgICAgICAgIGVudi5yZW5kZXIoKQogICAgICAgICAgICB0aW1lc3RlcCA9IDAuMDUKICAgICAgICAgICAgdGltZS5zbGVlcCh0aW1lc3RlcCAvIHNwZWVkdXApCiAgICBpZiBhbmltYXRlZDoKICAgICAgICByZXR1cm4KCiAgICByZXR1cm4gZGljdCgKICAgICAgICBvYnNlcnZhdGlvbnM9dGVuc29yX3V0aWxzLnN0YWNrX3RlbnNvcl9saXN0KG9ic2VydmF0aW9ucyksCiAgICAgICAgYWN0aW9ucz10ZW5zb3JfdXRpbHMuc3RhY2tfdGVuc29yX2xpc3QoYWN0aW9ucyksCiAgICAgICAgcmV3YXJkcz10ZW5zb3JfdXRpbHMuc3RhY2tfdGVuc29yX2xpc3QocmV3YXJkcyksCiAgICAgICAgYWdlbnRfaW5mb3M9dGVuc29yX3V0aWxzLnN0YWNrX3RlbnNvcl9kaWN0X2xpc3QoYWdlbnRfaW5mb3MpLAogICAgICAgIGVudl9pbmZvcz10ZW5zb3JfdXRpbHMuc3RhY2tfdGVuc29yX2RpY3RfbGlzdChlbnZfaW5mb3MpLAogICAgKQo=</text>
@@ -2082,9 +2089,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hidden_dim</last-search>
+      <last-search>layer_norm</last-search>
       <last-offset />
-      <last-pattern>hidden_dim</last-pattern>
+      <last-pattern>layer_norm</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2092,7 +2099,6 @@
     </search>
     <history>
       <history-search>
-        <entry>final_probs_correct</entry>
         <entry>dump</entry>
         <entry>env</entry>
         <entry>TfBasic</entry>
@@ -2112,6 +2118,7 @@
         <entry>get_actions</entry>
         <entry>Sampler</entry>
         <entry>hidden_dim</entry>
+        <entry>layer_norm</entry>
       </history-search>
       <history-cmd>
         <entry>211</entry>
