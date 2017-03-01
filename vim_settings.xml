@@ -207,8 +207,8 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="155" column="63" />
       </file>
-      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1487805991537">
-        <mark key="'" line="139" column="8" />
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1488410228812">
+        <mark key="'" line="70" column="27" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -219,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
-      <jump line="22" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
       <jump line="11" column="8" filename="$USER_HOME$/git/rllab-rail-private/rllab/spaces/box.py" />
       <jump line="33" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
       <jump line="14" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
@@ -319,6 +317,8 @@
       <jump line="266" column="21" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/util.py" />
       <jump line="200" column="59" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="33" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="67" column="34" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="70" column="27" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2592,7 +2592,7 @@
         <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>final</text>
+        <text>possible_action</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzb3J0ZWRLZXlzKHNlbGYpOgo=</text>
@@ -2629,15 +2629,14 @@
       </register>
     </registers>
     <search>
-      <last-search>final</last-search>
+      <last-search>possible_action</last-search>
       <last-offset />
-      <last-pattern>final</last-pattern>
+      <last-pattern>possible_action</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>episode</entry>
         <entry>actions</entry>
         <entry>sub_traj_length</entry>
         <entry>length</entry>
@@ -2657,6 +2656,7 @@
         <entry>xtrac</entry>
         <entry>Identity</entry>
         <entry>final</entry>
+        <entry>possible_action</entry>
       </history-search>
       <history-cmd>
         <entry>169</entry>
