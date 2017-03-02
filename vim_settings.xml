@@ -213,8 +213,8 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="155" column="63" />
       </file>
-      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1488410228812">
-        <mark key="'" line="70" column="27" />
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1488416340766">
+        <mark key="'" line="84" column="8" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -225,13 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="78" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/data_management/test_episode_replay_buffer.py" />
-      <jump line="65" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="131" column="35" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="134" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="136" column="46" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
-      <jump line="137" column="51" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
       <jump line="138" column="41" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
       <jump line="139" column="41" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
       <jump line="140" column="43" filename="$USER_HOME$/git/rllab-rail-private/railrl/data_management/episode_replay_buffer.py" />
@@ -325,6 +318,13 @@
       <jump line="169" column="11" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="109" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="113" column="37" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="113" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="116" column="20" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="120" column="20" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="92" column="16" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="123" column="20" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2598,7 +2598,7 @@
         <text encoding="base64">ICogc2VsZi5hbHBoYSAqIHRkX2Vycm9y</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>computeQValueFromValues</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi53ZWlnaHRzW2tleV0gKz0gZmVhdHVyZXNba2V5XSAqIHNlbGYuYWxwaGEgKiB0ZF9lcnJvcgo=</text>
@@ -2631,20 +2631,18 @@
         <text encoding="base64">ICAgICAgICAiKioqIFlPVVIgQ09ERSBFTkRTIEhFUkUgKioqIgoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>computeQValueFromValues</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>computeQValueFromValues</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qf_</entry>
-        <entry>_final_rnn_action</entry>
         <entry>feed_dict</entry>
         <entry>obs</entry>
         <entry>pdb</entry>
@@ -2663,6 +2661,8 @@
         <entry>def update</entry>
         <entry>self.weights</entry>
         <entry>update</entry>
+        <entry>computeActionFromValues</entry>
+        <entry>computeQValueFromValues</entry>
       </history-search>
       <history-cmd>
         <entry>169</entry>
@@ -2680,8 +2680,8 @@
         <entry>75</entry>
         <entry>144</entry>
         <entry>417</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
