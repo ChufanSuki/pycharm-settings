@@ -202,12 +202,12 @@
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="33" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_ocm_recurrent.py" timestamp="1488350034930">
-        <mark key="'" line="52" column="28" />
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="78" column="42" />
-        <mark key="^" line="78" column="43" />
-        <mark key="." line="78" column="42" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_ocm_recurrent.py" timestamp="1488499271164">
+        <mark key="'" line="50" column="28" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="75" column="35" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/viskit/frontend.py" timestamp="1485193395721">
         <mark key="'" line="532" column="4" />
@@ -1256,8 +1256,8 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1488494666624">
-        <mark key="'" line="104" column="0" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" timestamp="1488498803794">
+        <mark key="'" line="65" column="26" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="53" column="34" />
       </file>
@@ -1890,10 +1890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/examples/trpo_ocm_recurrent.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/memory/trpo_memory_ocm.py" />
-      <jump line="117" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/memory/trpo_memory_ocm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/memory/trpo_memory_ocm.py" />
       <jump line="58" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/trpo_ocm_recurrent.py" />
       <jump line="13" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/trpo_ocm_recurrent.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/trpo_ocm_recurrent.py" />
@@ -1990,6 +1986,10 @@
       <jump line="170" column="20" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="123" column="41" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
       <jump line="104" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="192" column="48" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
+      <jump line="65" column="26" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/valueIterationAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2013,32 +2013,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MarkovDecisionProcess:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZyb20gc2FuZGJveC5yb2NreS50Zi5wb2xpY2llcy5nYXVzc2lhbl9ncnVfcG9saWN5IGltcG9ydCBHYXVzc2lhbkdSVVBvbGljeQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>-sweep&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>getQValue</text>
+        <text>self.values</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHJvbGxvdXQoZW52LCBhZ2VudCwgbWF4X3BhdGhfbGVuZ3RoPW5wLmluZiwgYW5pbWF0ZWQ9RmFsc2UsIHNwZWVkdXA9MSk6CiAgICBvYnNlcnZhdGlvbnMgPSBbXQogICAgYWN0aW9ucyA9IFtdCiAgICByZXdhcmRzID0gW10KICAgIGFnZW50X2luZm9zID0gW10KICAgIGVudl9pbmZvcyA9IFtdCiAgICBvID0gZW52LnJlc2V0KCkKICAgIGFnZW50LnJlc2V0KCkKICAgIHBhdGhfbGVuZ3RoID0gMAogICAgaWYgYW5pbWF0ZWQ6CiAgICAgICAgZW52LnJlbmRlcigpCiAgICB3aGlsZSBwYXRoX2xlbmd0aCA8IG1heF9wYXRoX2xlbmd0aDoKICAgICAgICBhLCBhZ2VudF9pbmZvID0gYWdlbnQuZ2V0X2FjdGlvbihvKQogICAgICAgIG5leHRfbywgciwgZCwgZW52X2luZm8gPSBlbnYuc3RlcChhKQogICAgICAgIG9ic2VydmF0aW9ucy5hcHBlbmQoZW52Lm9ic2VydmF0aW9uX3NwYWNlLmZsYXR0ZW4obykpCiAgICAgICAgcmV3YXJkcy5hcHBlbmQocikKICAgICAgICBhY3Rpb25zLmFwcGVuZChlbnYuYWN0aW9uX3NwYWNlLmZsYXR0ZW4oYSkpCiAgICAgICAgYWdlbnRfaW5mb3MuYXBwZW5kKGFnZW50X2luZm8pCiAgICAgICAgZW52X2luZm9zLmFwcGVuZChlbnZfaW5mbykKICAgICAgICBwYXRoX2xlbmd0aCArPSAxCiAgICAgICAgaWYgZDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBvID0gbmV4dF9vCiAgICAgICAgaWYgYW5pbWF0ZWQ6CiAgICAgICAgICAgIGVudi5yZW5kZXIoKQogICAgICAgICAgICB0aW1lc3RlcCA9IDAuMDUKICAgICAgICAgICAgdGltZS5zbGVlcCh0aW1lc3RlcCAvIHNwZWVkdXApCiAgICBpZiBhbmltYXRlZDoKICAgICAgICByZXR1cm4KCiAgICByZXR1cm4gZGljdCgKICAgICAgICBvYnNlcnZhdGlvbnM9dGVuc29yX3V0aWxzLnN0YWNrX3RlbnNvcl9saXN0KG9ic2VydmF0aW9ucyksCiAgICAgICAgYWN0aW9ucz10ZW5zb3JfdXRpbHMuc3RhY2tfdGVuc29yX2xpc3QoYWN0aW9ucyksCiAgICAgICAgcmV3YXJkcz10ZW5zb3JfdXRpbHMuc3RhY2tfdGVuc29yX2xpc3QocmV3YXJkcyksCiAgICAgICAgYWdlbnRfaW5mb3M9dGVuc29yX3V0aWxzLnN0YWNrX3RlbnNvcl9kaWN0X2xpc3QoYWdlbnRfaW5mb3MpLAogICAgICAgIGVudl9pbmZvcz10ZW5zb3JfdXRpbHMuc3RhY2tfdGVuc29yX2RpY3RfbGlzdChlbnZfaW5mb3MpLAogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGggPSByb2xsb3V0KGVudiwgcG9saWN5LCBtYXhfcGF0aF9sZW5ndGg9YXJncy5tYXhfcGF0aF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRlZD1GYWxzZSwgc3BlZWR1cD1hcmdzLnNwZWVkdXApCg==</text>
+        <text encoding="base64">ICAgIGZyb20gc2FuZGJveC5yb2NreS50Zi5wb2xpY2llcy5nYXVzc2lhbl9ncnVfcG9saWN5IGltcG9ydCBHYXVzc2lhbkdSVVBvbGljeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwb2xpY3kgPSBHYXVzc2lhbkdSVVBvbGljeSgK</text>
+        <text encoding="base64">ICAgICMgcG9saWN5ID0gR2F1c3NpYW5HUlVQb2xpY3koCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZWFuX25ldHdvcmsuc3RlcF9wcmV2X2hpZGRlbl9sYXllci5pbnB1dF92YXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGdydV9sYXllcl9jbHM9TC5HUlVMYXllciwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2073,34 +2073,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1lYW5zLCBsb2dfc3RkcywgaGlkZGVuX3ZlYywgY2VsbF92ZWMgPSBzZWxmLmZfc3RlcF9tZWFuX3N0ZChhbGxfaW5wdXQsIHNlbGYucHJldl9oaWRkZW5zLCBzZWxmLnByZXZfY2VsbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnNpb249J2xzdG0nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdGYuc3BsaXQoMSwgMiwgbWVhbl9uZXR3b3JrLnN0ZXBfcHJldl9zdGF0ZV9sYXllci5pbnB1dF92YXIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGggPSByb2xsb3V0KGVudiwgcG9saWN5LCBtYXhfcGF0aF9sZW5ndGg9YXJncy5tYXhfcGF0aF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRlZD1GYWxzZSwgc3BlZWR1cD1hcmdzLnNwZWVkdXApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIG1lYW5fbmV0d29yay5zdGVwX3ByZXZfaGlkZGVuX2xheWVyLmlucHV0X3ZhciwKICAgICAgICAgICAgICAgICAgICAjIG1lYW5fbmV0d29yay5zdGVwX3ByZXZfY2VsbF9sYXllci5pbnB1dF92YXIK</text>
+        <text encoding="base64">IyBwb2xpY3kgPSBHYXVzc2lhbkdSVVBvbGljeSgK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGVwX3ByZXZfc3RhdGVfbGF5ZXIoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZWFuX25ldHdvcmsuc3RlcF9wcmV2X2hpZGRlbl9sYXllci5pbnB1dF92YXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0Zi5zcGxpdCgxLCAyLCBtZWFuX25ldHdvcmsuc3RlcF9wcmV2X3N0YXRlX2xheWVyLmlucHV0X3ZhcikK</text>
+        <text encoding="base64">ICAgICAgICAjIG1lYW5zLCBsb2dfc3RkcywgaGlkZGVuX3ZlYywgY2VsbF92ZWMgPSBzZWxmLmZfc3RlcF9tZWFuX3N0ZChhbGxfaW5wdXQsIHNlbGYucHJldl9oaWRkZW5zLCBzZWxmLnByZXZfY2VsbHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIG1lYW5fbmV0d29yay5zdGVwX2hpZGRlbl9sYXllci5pbnB1dF9sYXllciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdGYuc3BsaXQoMSwgMiwgbWVhbl9uZXR3b3JrLnN0ZXBfcHJldl9zdGF0ZV9sYXllci5pbnB1dF92YXIpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getQValue</last-search>
+      <last-search>self.values</last-search>
       <last-offset />
-      <last-pattern>getQValue</last-pattern>
+      <last-pattern>self.values</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2108,7 +2108,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prev_act</entry>
         <entry>f_step_mean</entry>
         <entry>self.prev_actions =</entry>
         <entry>input_vals</entry>
@@ -2128,6 +2127,7 @@
         <entry>_next_value</entry>
         <entry>computeActionFrom</entry>
         <entry>getQValue</entry>
+        <entry>self.values</entry>
       </history-search>
       <history-cmd>
         <entry>231</entry>
@@ -2147,9 +2147,9 @@
         <entry>91</entry>
         <entry>110</entry>
         <entry>111</entry>
-        <entry>w</entry>
         <entry>.,.+2q</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
