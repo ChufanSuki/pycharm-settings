@@ -908,6 +908,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="58" column="58" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" timestamp="1488575595858">
+        <mark key="'" line="200" column="13" />
+        <mark key="[" line="246" column="28" />
+        <mark key="]" line="247" column="15" />
+        <mark key="." line="247" column="15" />
+        <mark key="^" line="247" column="15" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/qddpg_point_task.py" timestamp="1484354805036">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="23" column="0" />
@@ -1057,6 +1064,10 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/misc/tensor_utils.py" timestamp="1488328786448">
         <mark key="'" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/README" timestamp="1488574213193">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="53" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/lstm_memory_policy.py" timestamp="1487696322927">
         <mark key="'" line="32" column="46" />
@@ -1888,7 +1899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="59" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
       <jump line="170" column="57" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
       <jump line="174" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
       <jump line="21" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
@@ -1988,6 +1998,7 @@
       <jump line="81" column="32" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="47" column="38" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
       <jump line="67" column="24" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" />
+      <jump line="200" column="13" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2012,7 +2023,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>computeValueFromQValues</text>
+        <text encoding="base64">aHR0cDovL3JsbC5iZXJrZWxleS5lZHUvZGVlcHJsY291cnNlL2RvY3MvaHczLnBkZiA=</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
@@ -2021,7 +2032,7 @@
         <text>computeValueFromQValues</text>
       </register>
       <register name="/" type="4">
-        <text>getQValue</text>
+        <text>cv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZHBnX3BhcmFtcz1kZHBnX3BhcmFtcywK</text>
@@ -2096,9 +2107,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getQValue</last-search>
+      <last-search>cv</last-search>
       <last-offset />
-      <last-pattern>getQValue</last-pattern>
+      <last-pattern>cv</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2106,8 +2117,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hidden_dim</entry>
-        <entry>layer_norm</entry>
         <entry>isTerminal</entry>
         <entry>getReward</entry>
         <entry>predec</entry>
@@ -2126,9 +2135,10 @@
         <entry>exp_id</entry>
         <entry>self.values</entry>
         <entry>getQValue</entry>
+        <entry>opecv</entry>
+        <entry>cv</entry>
       </history-search>
       <history-cmd>
-        <entry>237</entry>
         <entry>81</entry>
         <entry>238</entry>
         <entry>x</entry>
@@ -2147,6 +2157,7 @@
         <entry>.,.+2q</entry>
         <entry>action IpnbMarkdownCellAction</entry>
         <entry>q</entry>
+        <entry>252</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
