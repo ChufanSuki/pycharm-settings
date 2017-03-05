@@ -1363,12 +1363,12 @@
         <mark key="." line="25" column="67" />
         <mark key="^" line="25" column="68" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" timestamp="1488687183423">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" timestamp="1488690294048">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_vs_qddpg_cheetah.py" timestamp="1484180159562">
         <mark key="'" line="70" column="36" />
@@ -1629,7 +1629,7 @@
         <mark key="." line="18" column="58" />
         <mark key="^" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" timestamp="1488689070136">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" timestamp="1488690571497">
         <mark key="[" line="553" column="7" />
         <mark key="]" line="554" column="11" />
         <mark key="." line="554" column="11" />
@@ -2017,8 +2017,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gdGVuc29yZmxvdz0wLjEyLjByYzAK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
@@ -2033,16 +2033,16 @@
         <text encoding="base64">ICAgICAgICBzaGFwZTogW05vbmUsIHhdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gdGVuc29yZmxvdy1ncHUK</text>
+        <text encoding="base64">ICAgIC0gdGVuc29yZmxvdz0wLjEyLjByYzAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gdGVuc29yZmxvdy1ncHUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsX2luaXRpYWxpemVkID0gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2077,31 +2077,31 @@
         </keys>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsX2luaXRpYWxpemVkID0gVHJ1ZQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="w" type="4">
         <text>ndd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IElzIHRoaXMgYWxsIGkgaGF2ZSB0byBkbz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2155,8 +2155,8 @@
         <entry>reg</entry>
         <entry>ls</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
