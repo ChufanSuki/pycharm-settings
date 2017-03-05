@@ -874,12 +874,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="58" column="58" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" timestamp="1488685619022">
-        <mark key="'" line="303" column="14" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
-        <mark key="^" line="338" column="42" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" timestamp="1488687666347">
+        <mark key="'" line="244" column="12" />
+        <mark key="[" line="335" column="70" />
+        <mark key="]" line="335" column="70" />
+        <mark key="." line="335" column="70" />
+        <mark key="^" line="335" column="70" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/qddpg_point_task.py" timestamp="1484354805036">
         <mark key="'" line="62" column="4" />
@@ -1363,8 +1363,12 @@
         <mark key="." line="25" column="67" />
         <mark key="^" line="25" column="68" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" timestamp="1488686175358">
-        <mark key="'" line="26" column="6" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" timestamp="1488687183423">
+        <mark key="'" line="26" column="7" />
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_vs_qddpg_cheetah.py" timestamp="1484180159562">
         <mark key="'" line="70" column="36" />
@@ -1864,10 +1868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="19" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
-      <jump line="216" column="49" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
-      <jump line="311" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
       <jump line="312" column="14" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
       <jump line="331" column="52" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
       <jump line="314" column="64" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
@@ -1948,7 +1948,6 @@
       <jump line="209" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="261" column="62" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
-      <jump line="244" column="76" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="131" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="16" column="6" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="22" column="14" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
@@ -1963,7 +1962,12 @@
       <jump line="303" column="14" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="29" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/run_dqn_atari.py" />
       <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" />
-      <jump line="26" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" />
+      <jump line="23" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" />
+      <jump line="26" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" />
+      <jump line="37" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
+      <jump line="178" column="57" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
+      <jump line="179" column="43" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
+      <jump line="244" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2012,31 +2016,31 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBsZWFybmluZ19yYXRlIC0tIHlvdSBjYW4gZ2V0IHRoaXMgZnJvbSBvcHRpbWl6ZXJfc3BlYy5scl9zY2hlZHVsZS52YWx1ZSh0KQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>pip</text>
+        <text>learning</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBzZXNzaW9uLnJ1bih1cGRhdGVfdGFyZ2V0X2ZuKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gdGVuc29yZmxvdy1ncHUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsX2luaXRpYWxpemVkID0gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsX2luaXRpYWxpemVkID0gVHJ1ZQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2070,38 +2074,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0K</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="w" type="4">
         <text>ndd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IElzIHRoaXMgYWxsIGkgaGF2ZSB0byBkbz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IElzIHRoaXMgYWxsIGkgaGF2ZSB0byBkbz8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pip</last-search>
+      <last-search>learning</last-search>
       <last-offset />
-      <last-pattern>pip</last-pattern>
+      <last-pattern>learning</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2109,8 +2113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>n_steps_total</entry>
-        <entry>run</entry>
         <entry>get_ver</entry>
         <entry>YOUR CODE</entry>
         <entry>sess</entry>
@@ -2129,6 +2131,8 @@
         <entry>done_mask</entry>
         <entry>atari_model</entry>
         <entry>pip</entry>
+        <entry>learning_rate</entry>
+        <entry>learning</entry>
       </history-search>
       <history-cmd>
         <entry>295</entry>
