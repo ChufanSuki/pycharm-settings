@@ -946,8 +946,8 @@
         <mark key="." line="134" column="32" />
         <mark key="^" line="134" column="32" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488073099719">
-        <mark key="'" line="27" column="35" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
+        <mark key="'" line="73" column="15" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/predictors/mlp.py" timestamp="1486095470493">
         <mark key="'" line="46" column="17" />
@@ -1143,6 +1143,13 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1488772495338">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/run_dqn_ram.py" timestamp="1488816710729">
         <mark key="'" line="75" column="0" />
       </file>
@@ -1209,6 +1216,13 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="44" column="28" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/quadratic_qf.py" timestamp="1488774795023">
+        <mark key="'" line="63" column="28" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/railrl/policies/nn_policy.py" timestamp="1484692157100">
         <mark key="'" line="10" column="12" />
         <mark key="[" line="0" column="22" />
@@ -1226,8 +1240,8 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" timestamp="1488772616540">
         <mark key="'" line="558" column="36" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1488771404470">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1488841754485">
+        <mark key="'" line="113" column="54" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_math_ops.py" timestamp="1488775469959">
         <mark key="'" line="331" column="4" />
@@ -1395,7 +1409,7 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" timestamp="1488816488006">
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" timestamp="1488841913931">
         <mark key="'" line="289" column="60" />
         <mark key="[" line="273" column="42" />
         <mark key="]" line="273" column="43" />
@@ -1961,9 +1975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1064" column="8" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/layers.py" />
-      <jump line="1848" column="35" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/layers.py" />
-      <jump line="1497" column="37" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/layers.py" />
       <jump line="1496" column="8" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/layers.py" />
       <jump line="1065" column="31" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/layers.py" />
       <jump line="1059" column="21" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/layers.py" />
@@ -2061,6 +2072,9 @@
       <jump line="22" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/naf_dev.py" />
       <jump line="18" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/naf_dev.py" />
       <jump line="122" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="158" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="113" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="73" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
