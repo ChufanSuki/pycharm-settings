@@ -951,12 +951,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1488908888236">
-        <mark key="'" line="88" column="16" />
-        <mark key="[" line="97" column="42" />
-        <mark key="]" line="97" column="54" />
-        <mark key="." line="97" column="54" />
-        <mark key="^" line="97" column="54" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1488911077122">
+        <mark key="'" line="60" column="17" />
+        <mark key="[" line="85" column="17" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+        <mark key="^" line="85" column="19" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/envs/gym_env.py" timestamp="1478490864707">
         <mark key="'" line="5" column="0" />
@@ -2040,7 +2040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="269" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="188" column="39" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
       <jump line="57" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
@@ -2140,6 +2139,7 @@
       <jump line="43" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_pool.py" />
       <jump line="73" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_pool.py" />
       <jump line="88" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="60" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2187,14 +2187,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bl9leHBlcmltZW50X2hlcmUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>1024</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>simple_episode_replay_pool</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text>batch_Size</text>
