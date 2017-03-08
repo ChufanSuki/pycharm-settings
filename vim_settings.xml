@@ -10,6 +10,9 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="/start_script.py" timestamp="1488755581468">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_ddpg.py" timestamp="1479235055478">
         <mark key="'" line="412" column="19" />
         <mark key="[" line="533" column="77" />
@@ -68,6 +71,9 @@
         <mark key="]" line="89" column="19" />
         <mark key="^" line="89" column="19" />
         <mark key="." line="89" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1488998320429">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -505,12 +511,6 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/sampler/parallel_sampler.py" timestamp="1488306831239">
         <mark key="'" line="120" column="27" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/notes.md" timestamp="1488692203775">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_rllab_util.py" timestamp="1479143547163">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -566,12 +566,6 @@
         <mark key="]" line="68" column="59" />
         <mark key="." line="82" column="48" />
         <mark key="^" line="82" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1488907414378">
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="41" column="45" />
-        <mark key="^" line="41" column="27" />
-        <mark key="." line="41" column="45" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -958,6 +952,7 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/episode_replay_buffer.py" timestamp="1488998091784" />
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
@@ -1352,6 +1347,9 @@
         <mark key="." line="92" column="47" />
         <mark key="^" line="92" column="46" />
       </file>
+      <file name="/Python Console" timestamp="1488756553048">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/algos/noop_algo.py" timestamp="1487914710926">
         <mark key="'" line="74" column="42" />
       </file>
@@ -1421,12 +1419,6 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1488751157571">
         <mark key="'" line="229" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/notes.md" timestamp="1488750802184">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/np_util.py" timestamp="1488942169025">
         <mark key="'" line="60" column="4" />
@@ -1702,6 +1694,10 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/sandbox/rocky/tf/launchers/launcher_utils.py" timestamp="1486940654722">
         <mark key="'" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" timestamp="1488998136025">
+        <mark key="'" line="13" column="16" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/json_to_yaml.py" timestamp="1486583488726">
         <mark key="'" line="9" column="0" />
@@ -2048,16 +2044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn.py" />
-      <jump line="57" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="4" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
-      <jump line="129" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
-      <jump line="116" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
-      <jump line="118" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
-      <jump line="128" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
-      <jump line="139" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
-      <jump line="161" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
       <jump line="96" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" />
       <jump line="24" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_pool.py" />
@@ -2148,6 +2134,16 @@
       <jump line="1" column="37" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/launch.sh" />
       <jump line="223" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
       <jump line="212" column="41" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/dqn_utils.py" />
+      <jump line="6" column="71" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="11" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="22" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="45" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="58" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="72" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="5" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_episode_replay_buffer.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_pool.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2196,19 +2192,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0IGNoZWNrb3V0IG1hc3Rlcgp0aW1lIHB5dGhvbiBydW5fZHFuX2F0YXJpLnB5IC0tY3N2PTMtNy1hdGFyaS1iYXNlbGluZS0yLmNzdiAtLXJlcGxheV9idWZmZXJfc2l6ZT0xMDAwMDAwIHwgdGVlIGxvZ3MvMy03LWF0YXJpLWJhc2VsaW5lLTIubG9nCmdpdCBjaGVja291dCBmYXN0LXJlcGxheS1idWZmZXItZml4LTMtNwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgNSwK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>test-</text>
+        <text>EpisodeReplayBuffer</text>
       </register>
       <register name="/" type="4">
-        <text>idx</text>
+        <text>Episode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2l0IGNoZWNrb3V0IG1hc3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgNSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Z2l0IGNoZWNrb3V0IG1hc3Rlcgp0aW1lIHB5dGhvbiBydW5fZHFuX2F0YXJpLnB5IC0tY3N2PTMtNy1hdGFyaS1iYXNlbGluZS0yLmNzdiAtLXJlcGxheV9idWZmZXJfc2l6ZT0xMDAwMDAwIHwgdGVlIGxvZ3MvMy03LWF0YXJpLWJhc2VsaW5lLTIubG9nCmdpdCBjaGVja291dCBmYXN0LXJlcGxheS1idWZmZXItZml4LTMtNwo=</text>
@@ -2288,9 +2284,9 @@ best</text>
       </register>
     </registers>
     <search>
-      <last-search>idx</last-search>
+      <last-search>Episode</last-search>
       <last-offset />
-      <last-pattern>idx</last-pattern>
+      <last-pattern>Episode</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2298,7 +2294,6 @@ best</text>
     </search>
     <history>
       <history-search>
-        <entry>random_batch</entry>
         <entry>_can</entry>
         <entry>_can_train</entry>
         <entry>ipd</entry>
@@ -2318,6 +2313,7 @@ best</text>
         <entry>test-</entry>
         <entry>7</entry>
         <entry>idx</entry>
+        <entry>Episode</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>
