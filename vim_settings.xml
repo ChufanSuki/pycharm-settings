@@ -13,8 +13,8 @@
       <file name="/start_script.py" timestamp="1488755581468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" timestamp="1489011425718">
-        <mark key="'" line="30" column="5" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" timestamp="1489011991894">
+        <mark key="'" line="98" column="44" />
         <mark key="[" line="82" column="11" />
         <mark key="]" line="82" column="34" />
         <mark key="^" line="82" column="34" />
@@ -85,7 +85,7 @@
         <mark key="^" line="89" column="19" />
         <mark key="." line="89" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1489002871271">
+      <file name="/a.dummy" timestamp="1489011498197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
@@ -101,6 +101,13 @@
         <mark key="]" line="69" column="18" />
         <mark key="." line="69" column="18" />
         <mark key="^" line="69" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sl_bptt_for_rl.py" timestamp="1489011493067">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="41" column="28" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="41" column="28" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/memory/trpo_ocm_recurrent.py" timestamp="1488330158333">
         <mark key="'" line="51" column="28" />
@@ -220,8 +227,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="98" column="50" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_ocm_recurrent.py" timestamp="1488499271164">
-        <mark key="'" line="50" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_ocm_recurrent.py" timestamp="1489013360476">
+        <mark key="'" line="12" column="64" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="75" column="35" />
@@ -944,6 +951,13 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1489013077105">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="57" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_memory_ocm.py" timestamp="1488756904318">
         <mark key="'" line="110" column="16" />
       </file>
@@ -982,16 +996,21 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" timestamp="1489011830482">
+        <mark key="'" line="109" column="43" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="111" column="76" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/episode_replay_buffer.py" timestamp="1488998091784" />
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1489011306936">
-        <mark key="'" line="46" column="14" />
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="87" column="10" />
-        <mark key="." line="87" column="10" />
-        <mark key="^" line="85" column="9" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1489013621785">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+        <mark key="^" line="84" column="15" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/envs/gym_env.py" timestamp="1478490864707">
         <mark key="'" line="5" column="0" />
@@ -1137,6 +1156,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/naf.py" timestamp="1488856884486">
+        <mark key="'" line="20" column="16" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="25" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/notes.md" timestamp="1479234682279">
         <mark key="'" line="20" column="0" />
@@ -1315,11 +1339,11 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" timestamp="1488772616540">
         <mark key="'" line="558" column="36" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1489011292669">
-        <mark key="'" line="99" column="19" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1489013567482">
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_math_ops.py" timestamp="1488775469959">
         <mark key="'" line="331" column="4" />
@@ -1850,6 +1874,11 @@
         <mark key="." line="18" column="58" />
         <mark key="^" line="18" column="58" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/main.py" timestamp="1488816632693">
+        <mark key="'" line="263" column="12" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="318" column="35" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_tensorflow.py" timestamp="1479783738233">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="70" column="43" />
@@ -1869,6 +1898,9 @@
         <mark key="]" line="51" column="58" />
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" timestamp="1489013404516">
+        <mark key="'" line="98" column="12" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
@@ -2055,6 +2087,9 @@
         <mark key="." line="57" column="26" />
         <mark key="^" line="57" column="26" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" timestamp="1489013099328">
+        <mark key="'" line="362" column="19" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/qfunctions/test_nn_qfunction.py" timestamp="1488999023021">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="61" column="32" />
@@ -2109,65 +2144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="59" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="143" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="157" column="66" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="171" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="182" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="188" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="172" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="128" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="147" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="139" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="160" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="159" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="157" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="134" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="193" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="105" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="177" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="130" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="70" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="73" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="98" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="170" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" />
-      <jump line="176" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="103" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="277" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="195" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="24" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="266" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="264" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="275" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="149" column="59" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="229" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="217" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="220" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="152" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="275" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="277" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="309" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="268" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="278" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="230" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="283" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="382" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="12" column="67" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="52" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="39" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="136" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="158" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="312" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="247" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="233" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="218" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/rnn_launchers.py" />
       <jump line="29" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="8" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_launcher_cartpole_ec2.py" />
@@ -2178,14 +2154,11 @@
       <jump line="20" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
       <jump line="233" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="75" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="96" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="77" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="90" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="91" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="47" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
       <jump line="58" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
-      <jump line="117" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="150" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="158" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="86" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2207,8 +2180,70 @@
       <jump line="97" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="99" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="41" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="46" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="30" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sl_bptt_for_rl.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" />
+      <jump line="46" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="100" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="100" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="28" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="38" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="43" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" />
+      <jump line="108" column="61" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" />
+      <jump line="42" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" />
+      <jump line="109" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/policy_bptt.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="23" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="26" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="20" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="106" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="98" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="79" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="82" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="95" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="96" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="78" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="81" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="106" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="117" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="19" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="22" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="38" column="63" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="74" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="33" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="230" column="37" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
+      <jump line="4" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="363" column="6" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
+      <jump line="393" column="6" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
+      <jump line="56" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="384" column="6" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="49" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="73" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="362" column="19" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_ocm_recurrent.py" />
+      <jump line="12" column="64" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_ocm_recurrent.py" />
+      <jump line="13" column="6" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="21" column="12" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="30" column="15" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="295" column="8" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/network.py" />
+      <jump line="68" column="29" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="98" column="12" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="94" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="11" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="48" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="82" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2257,31 +2292,31 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>ec2</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>ec2</text>
       </register>
       <register name="/" type="4">
-        <text>policy</text>
+        <text>_final_rnn_output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGJwdHRfbGF1bmNoZXIodmFyaWFudCk6CiAgICAiIiIKICAgIFJ1biBhIHNpbXBsZSBMU1RNIG9uIGFuIGVudmlyb25tZW50LgoKICAgIDpwYXJhbSB2YXJpYW50OiBEaWN0aW9uYXJ5IG9mIGRpY3Rpb25hcnkgd2l0aCB0aGUgZm9sbG93aW5nIGtleXM6CiAgICAgICAgLSBhbGdvX3BhcmFtcwogICAgICAgIC0gZW52X3BhcmFtcwogICAgICAgIC0gcWZfcGFyYW1zCiAgICAgICAgLSBwb2xpY3lfcGFyYW1zCiAgICA6cmV0dXJuOgogICAgIiIiCiAgICBmcm9tIHJhaWxybC5hbGdvcy5icHR0IGltcG9ydCBCcHR0CiAgICBmcm9tIHJhaWxybC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgZ2V0X2Vudl9zZXR0aW5ncwogICAgZW52X3NldHRpbmdzID0gZ2V0X2Vudl9zZXR0aW5ncygqKnZhcmlhbnRbJ2Vudl9wYXJhbXMnXSkKICAgIGVudiA9IGVudl9zZXR0aW5nc1snZW52J10KICAgIGFsZ29yaXRobSA9IEJwdHQoZW52LCAqKnZhcmlhbnRbJ2FsZ29fcGFyYW1zJ10pCiAgICBhbGdvcml0aG0udHJhaW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZfYWN0aW9uX2xvZ2l0ID0gdGYubWF0bXVsKHJubl9vdXRwdXQsIFcpICsgYgogICAgICAgIGVudl9hY3Rpb24gPSB0Zi5ubi5zb2Z0bWF4KGVudl9hY3Rpb25fbG9naXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5feCA9IHRmLnBsYWNlaG9sZGVyKAogICAgICAgICAgICB0Zi5pbnQzMiwKICAgICAgICAgICAgW05vbmUsIHNlbGYuX251bV9zdGVwcywgc2VsZi5fbnVtX2NsYXNzZXNdLAogICAgICAgICAgICBuYW1lPSdpbnB1dF9wbGFjZWhvbGRlcicsCiAgICAgICAgKQogICAgICAgIHNlbGYuX3kgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAgICAgdGYuaW50MzIsCiAgICAgICAgICAgIFtOb25lLCBzZWxmLl9udW1fc3RlcHMsIHNlbGYuX251bV9jbGFzc2VzXSwKICAgICAgICAgICAgbmFtZT0nbGFiZWxzX3BsYWNlaG9sZGVyJywKICAgICAgICApCgogICAgICAgIHJubl9pbnB1dHMgPSB0Zi51bnBhY2sodGYuY2FzdChzZWxmLl94LCB0Zi5mbG9hdDMyKSwgYXhpcz0xKQogICAgICAgIGxhYmVscyA9IHRmLnVucGFjayh0Zi5jYXN0KHNlbGYuX3ksIHRmLmZsb2F0MzIpLCBheGlzPTEpCgogICAgICAgIGNlbGwgPSB0Zi5ubi5ybm5fY2VsbC5MU1RNQ2VsbChzZWxmLl9zdGF0ZV9zaXplLCBzdGF0ZV9pc190dXBsZT1UcnVlKQogICAgICAgIHJubl9vdXRwdXRzLCBzZWxmLl9maW5hbF9zdGF0ZSA9IHRmLm5uLnJubigKICAgICAgICAgICAgY2VsbCwKICAgICAgICAgICAgcm5uX2lucHV0cywKICAgICAgICAgICAgZHR5cGU9dGYuZmxvYXQzMiwKICAgICAgICApCgogICAgICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoJ3NvZnRtYXgnKToKICAgICAgICAgICAgVyA9IHRmLmdldF92YXJpYWJsZSgnVycsIFtzZWxmLl9zdGF0ZV9zaXplLCBzZWxmLl9udW1fY2xhc3Nlc10pCiAgICAgICAgICAgIGIgPSB0Zi5nZXRfdmFyaWFibGUoJ2InLCBbc2VsZi5fbnVtX2NsYXNzZXNdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxpemVyPXRmLmNvbnN0YW50X2luaXRpYWxpemVyKDAuMCkpCiAgICAgICAgbG9naXRzID0gW3RmLm1hdG11bChybm5fb3V0cHV0LCBXKSArIGIgZm9yIHJubl9vdXRwdXQgaW4gcm5uX291dHB1dHNdCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdNZWFuLCBOb3JtYWwgKDMgdHJpYWxzKScsCg==</text>
+        <text encoding="base64">CiAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgnc29mdG1heCcpOgogICAgICAgICAgICBXID0gdGYuZ2V0X3ZhcmlhYmxlKCdXJywgW3NlbGYuX251bV9sc3RtX3VuaXRzLCBzZWxmLl9hY3Rpb25fZGltXSkKICAgICAgICAgICAgYiA9IHRmLmdldF92YXJpYWJsZSgnYicsIFtzZWxmLl9hY3Rpb25fZGltXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbml0aWFsaXplcj10Zi5jb25zdGFudF9pbml0aWFsaXplcigwLjApKQoKICAgICAgICBlbnZfYWN0aW9uX2xvZ2l0ID0gdGYubWF0bXVsKHJubl9vdXRwdXQsIFcpICsgYgogICAgICAgIGVudl9hY3Rpb24gPSB0Zi5ubi5zb2Z0bWF4KGVudl9hY3Rpb25fbG9naXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c25zLnRzcGxvdChhbGxfbWVhbl9yZXdhcmRzLCB0aW1lX3N0ZXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVfaXNfdHVwbGU9VHJ1ZSwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2316,37 +2351,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LmZpZ3VyZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c25zLnRzcGxvdChhbGxfbWVhbl9yZXdhcmRzLCB0aW1lX3N0ZXBzKQpzbnMudHNwbG90KGFsbF9iZXN0X3Jld2FyZHMsIHRpbWVfc3RlcHMpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxsX21lYW5fcmV3YXJkcyA9IG5wLnZzdGFjaygobWVhbl9kZGRkcmV3YXJkcywgbWVhbl9yZXdhcmRzXzIsIG1lYW5fcmV3YXJkc18zKSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gbmV3X291dHB1dCwgbHN0bV9zdGF0ZSAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0Jlc3QsIEZpeGVkIEJ1ZmZlciddKQo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV9hY3Rpb24gPSB0Zi5jb25jYXQoMSwgKGxzdG1fY19vdXRwdXQsIGxzdG1fbV9vdXRwdXQpKQo=</text>
       </register>
       <register name="w" type="4">
         <text>ndd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVhbnMgPSBucC52c3RhY2soZGQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LnBsb3QodGltZV9zdGVwcywgYmVzdF9yZXdhcmRzKQpwbHQucGxvdCh0aW1lX3N0ZXBzXzIsIGJlc3RfcmV3YXJkc18yKQpwbHQucGxvdCh0aW1lX3N0ZXBzXzMsIGJlc3RfcmV3YXJkc18zKQo=</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>policy</last-search>
+      <last-search>_final_rnn_output</last-search>
       <last-offset />
-      <last-pattern>policy</last-pattern>
+      <last-pattern>_final_rnn_output</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2354,30 +2389,28 @@
     </search>
     <history>
       <history-search>
-        <entry>sampled_obs</entry>
-        <entry>obs</entry>
-        <entry>add_sample</entry>
-        <entry>terminate</entry>
-        <entry>_do_training</entry>
-        <entry>_update_feed_dict_from_path</entry>
-        <entry>_update_feed_dict_from_batch</entry>
-        <entry>asdf</entry>
-        <entry>Sampler</entry>
-        <entry>_qf_feed_dict</entry>
-        <entry>batch_size</entry>
-        <entry>num_batch</entry>
-        <entry>variant</entry>
-        <entry>nsyvh_Dixr</entry>
-        <entry>run</entry>
-        <entry>2</entry>
-        <entry>_init_network</entry>
+        <entry>32</entry>
+        <entry>_action_dim</entry>
+        <entry>_state_size</entry>
+        <entry>10</entry>
+        <entry>lstm_State_Size</entry>
         <entry>lstm</entry>
-        <entry>_init</entry>
+        <entry>env_action_dim</entry>
+        <entry>action_dim</entry>
+        <entry>self.policy</entry>
+        <entry>_rnn_cell</entry>
+        <entry>self._rnn_cell</entry>
+        <entry>LSTM</entry>
+        <entry>num_units</entry>
         <entry>policy</entry>
+        <entry>hidden_non</entry>
+        <entry>output_nonlinearity</entry>
+        <entry>mean_network</entry>
+        <entry>rnn_cell</entry>
+        <entry>_final_output</entry>
+        <entry>_final_rnn_output</entry>
       </history-search>
       <history-cmd>
-        <entry>108</entry>
-        <entry>233</entry>
         <entry>137</entry>
         <entry>w]</entry>
         <entry>262</entry>
@@ -2393,8 +2426,10 @@
         <entry>72</entry>
         <entry>2w</entry>
         <entry>229</entry>
-        <entry>q</entry>
         <entry>114</entry>
+        <entry>81</entry>
+        <entry>96</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
