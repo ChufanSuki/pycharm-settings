@@ -951,8 +951,8 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1489013077105">
-        <mark key="'" line="50" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1489025517890">
+        <mark key="'" line="60" column="40" />
         <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="57" />
         <mark key="^" line="27" column="57" />
@@ -2144,8 +2144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/rnn_launchers.py" />
-      <jump line="29" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="8" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_launcher_cartpole_ec2.py" />
       <jump line="7" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_launcher_cartpole_ec2.py" />
       <jump line="3" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/sl_bptt_ocm.py" />
@@ -2244,6 +2242,8 @@
       <jump line="11" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="48" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="82" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="60" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2301,7 +2301,7 @@
         <text>ec2</text>
       </register>
       <register name="/" type="4">
-        <text>_final_rnn_output</text>
+        <text>split</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbnZfYWN0aW9uX2xvZ2l0ID0gdGYubWF0bXVsKHJubl9vdXRwdXQsIFcpICsgYgogICAgICAgIGVudl9hY3Rpb24gPSB0Zi5ubi5zb2Z0bWF4KGVudl9hY3Rpb25fbG9naXQpCg==</text>
@@ -2379,9 +2379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_final_rnn_output</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>_final_rnn_output</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2389,7 +2389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>32</entry>
         <entry>_action_dim</entry>
         <entry>_state_size</entry>
         <entry>10</entry>
@@ -2409,6 +2408,7 @@
         <entry>rnn_cell</entry>
         <entry>_final_output</entry>
         <entry>_final_rnn_output</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
