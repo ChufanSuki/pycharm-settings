@@ -634,8 +634,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/example.py" timestamp="1487969817577">
         <mark key="'" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1489122035292">
-        <mark key="'" line="306" column="9" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1489505866715">
+        <mark key="'" line="118" column="35" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/target_mode_ddpg.py" timestamp="1488756752038">
         <mark key="'" line="52" column="20" />
@@ -2117,12 +2117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
-      <jump line="54" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" />
-      <jump line="27" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
       <jump line="16" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
       <jump line="84" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
       <jump line="101" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
@@ -2217,6 +2211,12 @@
       <jump line="117" column="58" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
       <jump line="69" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" />
       <jump line="94" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="145" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="77" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="116" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="118" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2274,7 +2274,7 @@
         <text>_sequence_length,</text>
       </register>
       <register name="/" type="4">
-        <text>target_labels</text>
+        <text>minimize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9ybm5faW5wdXRzX3BoID0gdGYucGxhY2Vob2xkZXIoCiAgICAgICAgICAgIHRmLmZsb2F0MzIsCiAgICAgICAgICAgIFtOb25lLCBzZWxmLl9udW1fYnB0dF91bnJvbGxzLCBzZWxmLl9lbnZfb2JzX2RpbV0sCiAgICAgICAgICAgIG5hbWU9J3Jubl90aW1lX2lucHV0cycsCiAgICAgICAgKQogICAgICAgIHNlbGYuX3Jubl9pbml0X3N0YXRlX3BoID0gc2VsZi5wb2xpY3kuY3JlYXRlX2luaXRfc3RhdGVfcGxhY2Vob2xkZXIoKQoKICAgICAgICBybm5faW5wdXRzID0gdGYudW5wYWNrKHNlbGYuX3Jubl9pbnB1dHNfcGgsIGF4aXM9MSkK</text>
@@ -2352,9 +2352,9 @@
       </register>
     </registers>
     <search>
-      <last-search>target_labels</last-search>
+      <last-search>minimize</last-search>
       <last-offset />
-      <last-pattern>target_labels</last-pattern>
+      <last-pattern>minimize</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -2362,8 +2362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replay</entry>
-        <entry>SubtrajReplayBuffer</entry>
         <entry>debug</entry>
         <entry>add_sample</entry>
         <entry>_update_feed_dict</entry>
@@ -2382,6 +2380,8 @@
         <entry>create</entry>
         <entry>rnn_inputs</entry>
         <entry>target_labels</entry>
+        <entry>target_policy</entry>
+        <entry>minimize</entry>
       </history-search>
       <history-cmd>
         <entry>72</entry>
