@@ -315,10 +315,10 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1487916032138">
         <mark key="'" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/testing/tf_test_case.py" timestamp="1489509926707">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/testing/tf_test_case.py" timestamp="1489872473658">
         <mark key="'" line="6" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/noop_algo.py" timestamp="1478629091758">
         <mark key="'" line="66" column="21" />
@@ -722,6 +722,10 @@
         <mark key="." line="67" column="19" />
         <mark key="^" line="67" column="19" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/__init__.py" timestamp="1488850847187">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="34" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/sim_policy.py" timestamp="1478225006778">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="41" column="87" />
@@ -845,10 +849,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1489871721078">
-        <mark key="'" line="129" column="25" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="54" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1489875367212">
+        <mark key="'" line="287" column="18" />
+        <mark key="[" line="98" column="78" />
+        <mark key="]" line="100" column="19" />
+        <mark key="." line="100" column="19" />
+        <mark key="^" line="100" column="19" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_vs_qddpg.py" timestamp="1484173428505">
         <mark key="'" line="10" column="0" />
@@ -1741,6 +1747,10 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" timestamp="1488755827436">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/homework.md" timestamp="1489873240552">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_hyperparameters.py" timestamp="1484709959622">
         <mark key="'" line="53" column="33" />
         <mark key="[" line="43" column="33" />
@@ -2198,58 +2208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="129" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="130" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="45" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
-      <jump line="149" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="128" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="69" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="107" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="43" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
-      <jump line="128" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="66" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="34" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="117" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="192" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="201" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="210" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="213" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="225" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="226" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="234" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="242" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="246" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="247" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="245" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="17" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="331" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="20" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_launcher_cartpole_ec2.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_launcher_cartpole_ec2.py" />
-      <jump line="32" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/layernorm_ddpg.py" />
-      <jump line="155" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/algo_launchers.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" />
-      <jump line="7" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" />
-      <jump line="10" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
-      <jump line="90" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
-      <jump line="189" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="191" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
-      <jump line="3" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/layernorm_ddpg.py" />
-      <jump line="166" column="53" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
-      <jump line="430" column="6" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" />
-      <jump line="453" column="27" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" />
       <jump line="377" column="17" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" />
       <jump line="45" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" />
       <jump line="42" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/layernorm_ddpg.py" />
@@ -2296,8 +2254,60 @@
       <jump line="92" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="109" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="121" column="21" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="1032" column="0" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
+      <jump line="132" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="37" column="25" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="161" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py" />
+      <jump line="2377" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="2413" column="2" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+      <jump line="40" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="1258" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+      <jump line="136" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="1357" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py" />
+      <jump line="135" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="173" column="56" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="131" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="161" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="182" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="183" column="44" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="76" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="191" column="28" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="192" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="195" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="202" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="137" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="149" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="240" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="129" column="25" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="279" column="22" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="77" column="6" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="273" column="22" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="931" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/variable_scope.py" />
+      <jump line="86" column="26" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="280" column="25" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="296" column="55" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="307" column="31" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="301" column="34" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="158" column="34" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="272" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="235" column="63" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="293" column="30" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="295" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="101" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="365" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
+      <jump line="100" column="70" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="322" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="99" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="89" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="299" column="34" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="300" column="43" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="287" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2346,31 +2356,31 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZ2l0aHViLmNvbS90ZW5zb3JmbG93L3RlbnNvcmZsb3cvaXNzdWVzLzQ1Ngo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>)[</text>
       </register>
       <register name="/" type="4">
-        <text>logdir</text>
+        <text>sy_mean_na</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZ2l0aHViLmNvbS90ZW5zb3JmbG93L3RlbnNvcmZsb3cvaXNzdWVzLzQ1Ngo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCB0Zi5zaGFwZShtZWFuKVsxXSA9PSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGUgPSAnZWMyJwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBocC5Mb2dGbG9hdFBhcmFtKCJzb2Z0X3RhcmdldF90YXUiLCAxZS01LCAxZS0xKSwK</text>
+        <text encoding="base64">ICAgICMgSSdtIGtpbmQgb2YgY2hlYXRpbmcgYW5kIHVzaW5nIHRoZSBmYWN0IHRoZSBmYWN0IHRoYXQgZm9yIHRoaXMgaHcsIGsgPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBocC5Mb2dGbG9hdFBhcmFtKCJzb2Z0X3RhcmdldF90YXUiLCAxZS01LCAxZS0xKSwK</text>
+        <text encoding="base64">ICAgICMgSSdtIGtpbmQgb2YgY2hlYXRpbmcgYW5kIHVzaW5nIHRoZSBmYWN0IHQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2405,19 +2415,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjYWxlX3Jld2FyZD0xLjAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2NvdW50PTAuOTksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBocC5Mb2dGbG9hdFBhcmFtKCJxZl93ZWlnaHRfZGVjYXkiLCAxZS03LCAxZS0xKSwK</text>
+        <text encoding="base64">ICAgIHN5X3N1cnIgPSAtIHRmLnJlZHVjZV9tZWFuKHN5X2Fkdl9uICogc3lfbG9ncHJvYl9uKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvZnRfdGFyZ2V0X3RhdT0wLjAxLAo=</text>
+        <text encoding="base64">ICAgIHN5X24gPSB0Zi5zaGFwZShzeV9vYl9ubylbMF0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6216,19 +6226,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHFmX2xlYXJuaW5nX3JhdGU9MWUtMiwKICAgICAgICAgICAgICAgIHBvbGljeV9sZWFybmluZ19yYXRlPTFlLTIsCg==</text>
+        <text encoding="base64">ICAgIHN5X29sZGxvZ3BfbmEgPSB0Zi5ubi5sb2dfc29mdG1heChzeV9vbGRsb2dpdHNfbmEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVkID0gcmFuZG9tLnJhbmQK</text>
+        <text encoding="base64">ICAgICMgd2UgdXNlIGEgc21hbGwgaW5pdGlhbGl6YXRpb24gZm9yIHRoZSBsYXN0IGxheWVyLCBzbyB0aGUgaW5pdGlhbCBwb2xpY3kgaGFzIG1heGltYWwgZW50cm9weQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logdir</last-search>
+      <last-search>sy_mean_na</last-search>
       <last-offset />
-      <last-pattern>logdir</last-pattern>
+      <last-pattern>sy_mean_na</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -6236,31 +6246,28 @@
     </search>
     <history>
       <history-search>
-        <entry>ip</entry>
-        <entry>ignored_init_last</entry>
-        <entry>_ignored</entry>
-        <entry>save_rnn_init</entry>
-        <entry>save_rnn_inputs</entry>
-        <entry>init_state</entry>
-        <entry>BN_SCALE</entry>
-        <entry>layer_norm</entry>
-        <entry>batch_norm</entry>
-        <entry>input-shape</entry>
-        <entry>input_shape</entry>
-        <entry>dims</entry>
-        <entry>diagnost</entry>
-        <entry>hp</entry>
-        <entry>sweeper</entry>
         <entry>function</entry>
         <entry>seed</entry>
         <entry>logz</entry>
         <entry>logider</entry>
         <entry>logdir</entry>
+        <entry>sy_ob_no</entry>
+        <entry>timesteps_this_batch</entry>
+        <entry>vtargs</entry>
+        <entry>asdf</entry>
+        <entry>standardized_adv_n</entry>
+        <entry>update_up</entry>
+        <entry>update_op</entry>
+        <entry>normal_sample</entry>
+        <entry>sy_log_probn</entry>
+        <entry>normal_logprob</entry>
+        <entry>sy_n =</entry>
+        <entry>sy_logprob_n)</entry>
+        <entry>sy_ac</entry>
+        <entry>sy_ac_n</entry>
+        <entry>sy_mean_na</entry>
       </history-search>
       <history-cmd>
-        <entry>67</entry>
-        <entry>145</entry>
-        <entry>96</entry>
         <entry>22</entry>
         <entry>97</entry>
         <entry>141</entry>
@@ -6275,8 +6282,11 @@
         <entry>15</entry>
         <entry>41</entry>
         <entry>47</entry>
-        <entry>q</entry>
         <entry>127</entry>
+        <entry>q</entry>
+        <entry>vsp</entry>
+        <entry>100</entry>
+        <entry>104</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
