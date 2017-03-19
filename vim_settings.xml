@@ -899,11 +899,11 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1489963943241">
-        <mark key="'" line="621" column="4" />
-        <mark key="[" line="642" column="57" />
-        <mark key="]" line="642" column="58" />
-        <mark key="." line="642" column="58" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1489965630920">
+        <mark key="'" line="243" column="12" />
+        <mark key="[" line="656" column="67" />
+        <mark key="]" line="656" column="68" />
+        <mark key="." line="656" column="68" />
         <mark key="^" line="642" column="58" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/algos/npo.py" timestamp="1489949805485">
@@ -2286,16 +2286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="$USER_HOME$/git/rllab-rail/examples/trpo_cartpole.py" />
-      <jump line="27" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="43" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="44" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="81" column="33" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="28" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="33" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="34" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
-      <jump line="30" column="36" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
       <jump line="31" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
       <jump line="46" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
       <jump line="47" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" />
@@ -2314,7 +2304,6 @@
       <jump line="14" column="7" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
       <jump line="583" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="590" column="27" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="393" column="36" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="396" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="609" column="38" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="16" column="63" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2386,6 +2375,17 @@
       <jump line="633" column="25" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="432" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="621" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="650" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="383" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="393" column="31" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="643" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="678" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="51" column="28" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="387" column="26" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="460" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="657" column="47" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="221" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="243" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2425,16 +2425,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>kl-relu'</text>
+        <text>tf.nn.tanh,</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>kl-relu'</text>
+        <text>tf.nn.tanh,</text>
       </register>
       <register name="/" type="4">
-        <text>pop</text>
+        <text>lrelu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXhlc1s0XS5zZXRfc2NhbGUoImxvZyIpCg==</text>
@@ -6321,9 +6321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pop</last-search>
+      <last-search>lrelu</last-search>
       <last-offset />
-      <last-pattern>pop</last-pattern>
+      <last-pattern>lrelu</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -6331,9 +6331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
-        <entry>next_stepsize</entry>
-        <entry>epoch</entry>
         <entry>gamma</entry>
         <entry>.diff</entry>
         <entry>progress.csv</entry>
@@ -6351,6 +6348,9 @@
         <entry>min_steps</entry>
         <entry>exp_id</entry>
         <entry>pop</entry>
+        <entry>clip</entry>
+        <entry>seed</entry>
+        <entry>lrelu</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
