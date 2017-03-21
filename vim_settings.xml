@@ -2178,8 +2178,8 @@
         <mark key="^" line="70" column="45" />
         <mark key="." line="70" column="45" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" timestamp="1490041502108">
-        <mark key="'" line="68" column="10" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" timestamp="1490114284791">
+        <mark key="'" line="10" column="40" />
         <mark key="[" line="91" column="29" />
         <mark key="]" line="91" column="30" />
         <mark key="." line="91" column="30" />
@@ -2335,10 +2335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="86" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="35" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="296" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="188" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="190" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="36" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
@@ -2435,6 +2431,10 @@
       <jump line="589" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="623" column="15" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="699" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="50" column="61" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
+      <jump line="53" column="49" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
+      <jump line="6" column="44" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
+      <jump line="10" column="40" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2483,7 +2483,7 @@
         <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>gamma</text>
+        <text>progress.csv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFswLjAwMSwgMC4wMDUsIDAuMDEsIDAuMDUsIDAuMV0sCg==</text>
@@ -6370,9 +6370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gamma</last-search>
+      <last-search>progress.csv</last-search>
       <last-offset />
-      <last-pattern>gamma</last-pattern>
+      <last-pattern>progress.csv</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -6380,7 +6380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>times</entry>
         <entry>get_info_dict</entry>
         <entry>_qf_feed_Dict</entry>
         <entry>debug_info</entry>
@@ -6400,6 +6399,7 @@
         <entry>uniform</entry>
         <entry>ac_n</entry>
         <entry>gamma</entry>
+        <entry>progress.csv</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
