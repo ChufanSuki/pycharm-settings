@@ -813,6 +813,13 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm_policy.py" timestamp="1486955985283">
         <mark key="'" line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" timestamp="1490142767458">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/tests/test_testing_utils.py" timestamp="1484278514396">
         <mark key="'" line="87" column="24" />
         <mark key="[" line="81" column="13" />
@@ -1497,6 +1504,9 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/base.py" timestamp="1490142306335">
+        <mark key="'" line="625" column="28" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/optimizable_q_function.py" timestamp="1480549852540">
         <mark key="'" line="7" column="24" />
         <mark key="[" line="10" column="0" />
@@ -1715,6 +1725,9 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
         <mark key="^" line="23" column="5" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/fmin.py" timestamp="1490142297247">
+        <mark key="'" line="298" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" timestamp="1489000715274">
         <mark key="'" line="170" column="23" />
@@ -2338,19 +2351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" />
-      <jump line="33" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" />
-      <jump line="47" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" />
-      <jump line="48" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" />
-      <jump line="19" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" />
-      <jump line="91" column="61" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="103" column="75" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="133" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="54" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="47" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="100" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
-      <jump line="125" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
       <jump line="18" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
       <jump line="121" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
       <jump line="18" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2438,6 +2438,19 @@
       <jump line="360" column="15" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gradients_impl.py" />
       <jump line="396" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gradients_impl.py" />
       <jump line="646" column="28" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gradients_impl.py" />
+      <jump line="5" column="6" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
+      <jump line="18" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll_utils.py" />
+      <jump line="203" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/fmin.py" />
+      <jump line="298" column="23" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/fmin.py" />
+      <jump line="599" column="23" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/base.py" />
+      <jump line="625" column="28" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/base.py" />
+      <jump line="21" column="23" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
+      <jump line="69" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll_utils.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
+      <jump line="31" column="3" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2476,32 +2489,32 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>nn-params-2'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>nn-params-2'</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>sum</text>
+        <text>space</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2hvdyIsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCg==</text>
+        <text encoding="base64">cHJpbnQoYmVzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMgPSB0Zi5ncmFkaWVudHMocG9saWN5X2xvZ3AsIGFsbF9wb2xpY3lfdmFycylbMF0K</text>
+        <text encoding="base64">c3BhY2UgPSBkaWN0KAogICAgYj1ocC51bmlmb3JtKCdiJywgLTEsIDEpLAogICAgYz1ocC51bmlmb3JtKCdjJywgMTAsIDExKSwKKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIAoKCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2536,19 +2549,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXAKCg==</text>
+        <text encoding="base64">c3BhY2UgPSBocC5jaG9pY2UoJ2EnLAogICAgWwogICAgICAgICgnY2FzZSAxJywgMSArIGhwLmxvZ25vcm1hbCgnYzEnLCAwLCAxKSksCiAgICAgICAgKCdjYXNlIDInLCBocC51bmlmb3JtKCdjMicsIC0xMCwgMTApKQogICAgXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0taSIsIHR5cGU9aW50LCBkZWZhdWx0PS0xKQo=</text>
+        <text encoding="base64">ZGVmIGZvbyh4KToKICAgIHByaW50KHgpCiAgICByZXR1cm4geCAqKiAyCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHZmX3R5cGU9J25uJywK</text>
+        <text encoding="base64">CgpiZXN0ID0gZm1pbigKICAgIGZvbywKICAgIHNwYWNlPWhwLnVuaWZvcm0oJ3gnLCAtMTAsIDEwKSwKICAgIGFsZ289dHBlLnN1Z2dlc3QsCiAgICBtYXhfZXZhbHM9MTAwKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6363,19 +6376,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGdhbW1hPWdhbW1hLAo=</text>
+        <text encoding="base64">ZnJvbSBoeXBlcm9wdCBpbXBvcnQgZm1pbiwgdHBlLCBocAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICMgd2VpZ2h0X2luaXRfZj13ZWlnaHRfaW5pdF9mLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sum</last-search>
+      <last-search>space</last-search>
       <last-offset />
-      <last-pattern>sum</last-pattern>
+      <last-pattern>space</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -6383,7 +6396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>progress.csv</entry>
         <entry>exp_id</entry>
         <entry>policy</entry>
         <entry>vf</entry>
@@ -6403,6 +6415,7 @@
         <entry>Compatib</entry>
         <entry>gradients</entry>
         <entry>sum</entry>
+        <entry>space</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
@@ -6423,8 +6436,8 @@
         <entry>177</entry>
         <entry>264</entry>
         <entry>209</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
