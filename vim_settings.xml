@@ -1565,12 +1565,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_memory_ocm.py" timestamp="1488756904318">
         <mark key="'" line="110" column="16" />
       </file>
-      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" timestamp="1490220997179">
-        <mark key="'" line="532" column="8" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" timestamp="1490222087040">
+        <mark key="'" line="452" column="69" />
+        <mark key="[" line="84" column="125" />
+        <mark key="]" line="84" column="124" />
+        <mark key="^" line="84" column="124" />
+        <mark key="." line="84" column="124" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/data_management/replay_buffer.py" timestamp="1487697101832">
         <mark key="'" line="43" column="4" />
@@ -2006,16 +2006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="235" column="63" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="293" column="30" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="295" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="101" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="365" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
-      <jump line="100" column="70" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="322" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="89" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="287" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="21" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="279" column="45" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="172" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2106,6 +2096,16 @@
       <jump line="264" column="4" filename="$USER_HOME$/git/classes/spring2017/homework/hw4/main.py" />
       <jump line="260" column="0" filename="$USER_HOME$/git/classes/spring2017/homework/hw4/main.py" />
       <jump line="532" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="84" column="114" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="201" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="200" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="214" column="34" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="215" column="48" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="220" column="72" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="431" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="434" column="12" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="449" column="111" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
+      <jump line="452" column="69" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesNet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2163,7 +2163,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>sy_surr =</text>
+        <text>printSta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRmLnNldF9yYW5kb21fc2VlZChzZWVkKQogICAgbnAucmFuZG9tLnNlZWQoc2VlZCkKICAgIGVudiA9IGd5bS5tYWtlKCJQZW5kdWx1bS12MCIpCiAgICBvYl9kaW0gPSBlbnYub2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGVbMF0KICAgIGFjX2RpbSA9IGVudi5hY3Rpb25fc3BhY2Uuc2hhcGVbMF0KICAgIGxvZ3ouY29uZmlndXJlX291dHB1dF9kaXIobG9nZGlyKQogICAgaWYgdmZfdHlwZSA9PSAnbGluZWFyJzoKICAgICAgICB2ZiA9IExpbmVhclZhbHVlRnVuY3Rpb24oKip2Zl9wYXJhbXMpCiAgICBlbGlmIHZmX3R5cGUgPT0gJ25uJzoKICAgICAgICB2ZiA9IE5uVmFsdWVGdW5jdGlvbihvYl9kaW09b2JfZGltLCAqKnZmX3BhcmFtcykK</text>
@@ -6050,20 +6050,16 @@
       </register>
     </registers>
     <search>
-      <last-search>sy_surr =</last-search>
+      <last-search>printSta</last-search>
       <last-offset />
-      <last-pattern>sy_surr =</last-pattern>
+      <last-pattern>printSta</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_get_action_values</entry>
-        <entry>self.values</entry>
-        <entry>flipCoin</entry>
-        <entry>learning_rate</entry>
         <entry>rate</entry>
         <entry>alpha</entry>
         <entry>split_flat_into_components_n</entry>
@@ -6080,6 +6076,10 @@
         <entry>LOCAL_CODE</entry>
         <entry>local_code_path</entry>
         <entry>DOCKER_CODE_DIR</entry>
+        <entry>getAllCPTsWith</entry>
+        <entry>print</entry>
+        <entry>printS</entry>
+        <entry>printSta</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
