@@ -955,13 +955,13 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1490215724719">
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1490218523103">
         <mark key="a" line="402" column="8" />
-        <mark key="'" line="438" column="53" />
-        <mark key="[" line="772" column="25" />
-        <mark key="]" line="772" column="25" />
-        <mark key="." line="772" column="25" />
-        <mark key="^" line="772" column="25" />
+        <mark key="'" line="877" column="16" />
+        <mark key="[" line="821" column="38" />
+        <mark key="]" line="821" column="39" />
+        <mark key="." line="821" column="39" />
+        <mark key="^" line="821" column="39" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/algos/npo.py" timestamp="1489949805485">
         <mark key="'" line="9" column="10" />
@@ -2411,7 +2411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="494" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="507" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="613" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2466,7 +2465,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="786" column="51" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="807" column="47" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="650" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="830" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="80" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
@@ -2511,6 +2509,8 @@
       <jump line="776" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="438" column="53" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="115" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="650" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="877" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2549,17 +2549,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRlc2lyZWRfa2wpCiAgICBwcmludChnYW1tYSkK</text>
+      <register name="&quot;" type="4">
+        <text>15</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>configure_output_dir(exp_log_dir)</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
-        <text>vpred_n</text>
+        <text>10</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG91dHB1dF9kaXIgPSBOb25lCiAgICBvdXRwdXRfZmlsZSA9IE5vbmUK</text>
@@ -6446,9 +6446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vpred_n</last-search>
+      <last-search>10</last-search>
       <last-offset />
-      <last-pattern>vpred_n</last-pattern>
+      <last-pattern>10</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6456,7 +6456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>keep_fr</entry>
         <entry>optimize</entry>
         <entry>first_row</entry>
         <entry>dump_tabular</entry>
@@ -6476,6 +6475,7 @@
         <entry>500</entry>
         <entry>EVBefore</entry>
         <entry>vpred_n</entry>
+        <entry>10</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
