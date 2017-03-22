@@ -955,13 +955,13 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1490198501889">
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1490202681536">
         <mark key="a" line="403" column="8" />
-        <mark key="'" line="812" column="44" />
-        <mark key="[" line="774" column="22" />
-        <mark key="]" line="774" column="24" />
-        <mark key="." line="774" column="24" />
-        <mark key="^" line="774" column="24" />
+        <mark key="'" line="831" column="20" />
+        <mark key="[" line="774" column="27" />
+        <mark key="]" line="774" column="28" />
+        <mark key="." line="774" column="28" />
+        <mark key="^" line="774" column="28" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/algos/npo.py" timestamp="1489949805485">
         <mark key="'" line="9" column="10" />
@@ -2406,13 +2406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="21" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
-      <jump line="61" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
-      <jump line="141" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
-      <jump line="112" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/opt.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="723" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="272" column="19" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="595" column="23" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="777" column="21" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2496,7 +2489,6 @@
       <jump line="807" column="47" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="650" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="830" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="826" column="62" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="80" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="812" column="44" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2506,6 +2498,14 @@
       <jump line="37" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="43" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="68" column="10" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
+      <jump line="445" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="826" column="64" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="775" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="488" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="563" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="881" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="868" column="23" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="831" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2545,31 +2545,31 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>200</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>log_headers</text>
+        <text>200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmlhbHM9dHJpYWxzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgbnVtX2V2YWxzIGluIFsyMCwgMzAsIDQwLCA2MCwgNzAsIDgwXToK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnYW1tYT0uOTcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgbnVtX2V2YWxzIGluIFsyMCwgMzAsIDQwLCA2MCwgNzAsIDgwXToK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2604,19 +2604,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnYW1tYT0uOTcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nei5waWNrbGVfZHVtcCgidHJpYWxzLnBrbCIsIHRyaWFscykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gb3MucGF0aCBpbXBvcnQgam9pbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6431,19 +6431,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHBpY2tsZV9kdW1wKGZpbGVfbmFtZSwgZGF0YSk6CiAgICBpbXBvcnQgcGlja2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nei5waWNrbGVfZHVtcCgidHJpYWxzLnBrbCIsIHRyaWFscykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nei5jb25maWd1cmVfb3V0cHV0X2RpcihiYXNlX2xvZ19kaXIpCg==</text>
+        <text encoding="base64">ICAgIGZyb20gb3MucGF0aCBpbXBvcnQgam9pbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log_headers</last-search>
+      <last-search>200</last-search>
       <last-offset />
-      <last-pattern>log_headers</last-pattern>
+      <last-pattern>200</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6451,8 +6451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>configure</entry>
-        <entry>300</entry>
         <entry>int</entry>
         <entry>10</entry>
         <entry>trials</entry>
@@ -6465,12 +6463,14 @@
         <entry>loguniform</entry>
         <entry>log2</entry>
         <entry>int(</entry>
-        <entry>gamma</entry>
         <entry>keep_fr</entry>
         <entry>optimize</entry>
         <entry>first_row</entry>
         <entry>dump_tabular</entry>
         <entry>log_headers</entry>
+        <entry>gamma</entry>
+        <entry>exp_id</entry>
+        <entry>200</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
