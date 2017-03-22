@@ -1,10 +1,21 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift meta f4" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
