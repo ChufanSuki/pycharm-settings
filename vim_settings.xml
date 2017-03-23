@@ -932,12 +932,13 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1490292786656">
+      <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" timestamp="1490296627577">
         <mark key="a" line="419" column="8" />
-        <mark key="'" line="791" column="44" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="8" />
-        <mark key="." line="245" column="8" />
+        <mark key="'" line="239" column="32" />
+        <mark key="[" line="240" column="16" />
+        <mark key="]" line="240" column="29" />
+        <mark key="." line="240" column="29" />
+        <mark key="^" line="240" column="29" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/algos/npo.py" timestamp="1489949805485">
         <mark key="'" line="9" column="10" />
@@ -2362,7 +2363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="826" column="64" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="775" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="488" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2401,7 +2401,6 @@
       <jump line="802" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="97" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesAgents.py" />
       <jump line="619" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="239" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="240" column="36" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="230" column="6" filename="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/training/optimizer.py" />
       <jump line="142" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesAgents.py" />
@@ -2462,6 +2461,8 @@
       <jump line="246" column="8" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="791" column="44" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="57" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="239" column="32" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2501,13 +2502,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MlpMemoryQFunction</text>
+        <text>sy_h1</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>MlpMemoryQFunction</text>
+        <text>sy_h1</text>
       </register>
       <register name="/" type="4">
         <text>print(&quot;loss</text>
