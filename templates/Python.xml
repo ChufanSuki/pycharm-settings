@@ -37,7 +37,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="tftest" value="import unittest&#10;&#10;import numpy as np&#10;import tensorflow as tf&#10;&#10;from railrl.misc.tf_test_case import TFTestCase&#10;&#10;class Test$TestName$(TFTestCase):&#10;&#10;    def test_$test_name$(self):&#10;        $test_function$&#10;&#10;if __name__ == '__main__':&#10;    unittest.main()" toReformat="false" toShortenFQNames="true">
+  <template name="tftest" value="import unittest&#10;&#10;import numpy as np&#10;import tensorflow as tf&#10;&#10;from railrl.misc.tf_test_case import TFTestCase&#10;&#10;class Test$TestName$(TFTestCase):&#10;&#10;    def test_$test_name$(self):&#10;        $test_function$&#10;&#10;if __name__ == '__main__':&#10;    unittest.main()" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TestName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="test_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="test_function" expression="" defaultValue="" alwaysStopAt="true" />
