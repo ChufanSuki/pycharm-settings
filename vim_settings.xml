@@ -20,9 +20,6 @@
         <mark key="^" line="89" column="19" />
         <mark key="." line="89" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1490409135116">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -258,8 +255,8 @@
         <mark key="]" line="27" column="12" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1490043216025">
-        <mark key="'" line="535" column="31" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1490667204141">
+        <mark key="'" line="236" column="31" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/csv.py" timestamp="1490040698743">
         <mark key="'" line="116" column="28" />
@@ -479,9 +476,6 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1488306874999">
         <mark key="'" line="6" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1490408854823">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1490291052963">
         <mark key="'" line="26" column="0" />
@@ -815,6 +809,9 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/mlp_memory_qfunction.py" timestamp="1490411479151">
         <mark key="'" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" timestamp="1490667216307">
+        <mark key="'" line="193" column="73" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/quadratic_naf_qfunction.py" timestamp="1489882090260">
         <mark key="'" line="44" column="19" />
@@ -2283,42 +2280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="577" column="17" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="644" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="851" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="934" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="963" column="44" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="528" column="18" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="589" column="0" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="229" column="35" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="955" column="12" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="957" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="490" column="26" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="81" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" />
-      <jump line="79" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" />
-      <jump line="9" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" />
-      <jump line="115" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" />
-      <jump line="86" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" />
-      <jump line="59" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="125" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="144" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="137" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="82" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="261" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="129" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="123" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="65" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="262" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="280" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="282" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="320" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="293" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="29" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="107" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="30" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
@@ -2383,6 +2344,42 @@
       <jump line="591" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesNet.py" />
       <jump line="599" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesNet.py" />
       <jump line="244" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="466" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="479" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="480" column="30" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="482" column="41" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="483" column="29" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="485" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="500" column="77" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="223" column="42" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="248" column="50" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="250" column="25" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="258" column="18" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="263" column="41" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="267" column="65" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="268" column="41" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="269" column="93" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="270" column="35" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="273" column="54" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="274" column="34" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="211" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="226" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="228" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="234" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="244" column="14" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="241" column="14" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="237" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="495" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="218" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="221" column="81" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="235" column="7" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="195" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="236" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="202" column="63" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="188" column="17" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="190" column="17" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="193" column="73" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="196" column="61" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2431,7 +2428,7 @@
         <text>BOTTOM_LEFT_VAL</text>
       </register>
       <register name="/" type="4">
-        <text>def fill</text>
+        <text>_custom_filters</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBhc3NpZ25tZW50X2RpY3QgaW4gZmFjdG9yLmdldEFsbFBvc3NpYmxlQXNzaWdubWVudERpY3RzKCk6CiAgICAgICAgbmV3X2ZhY3Rvci5zZXRQcm9iYWJpbGl0eSgKICAgICAgICAgICAgYXNzaWdubWVudF9kaWN0LAogICAgICAgICAgICBuZXdfZmFjdG9yLmdldFByb2JhYmlsaXR5KGFzc2lnbm1lbnRfZGljdCkgKyBmYWN0b3IuZ2V0UHJvYmFiaWxpdHkoYXNzaWdubWVudF9kaWN0KQogICAgICAgICkK</text>
@@ -6314,13 +6311,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>484</text>
       </register>
     </registers>
     <search>
-      <last-search>def fill</last-search>
+      <last-search>_custom_filters</last-search>
       <last-offset />
-      <last-pattern>def fill</last-pattern>
+      <last-pattern>_custom_filters</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6328,13 +6325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_statis</entry>
-        <entry>_statist</entry>
-        <entry>qf_loss</entry>
-        <entry>target_labels</entry>
-        <entry>target_qf</entry>
-        <entry>fillXCPT</entry>
-        <entry>bottomLeftPos</entry>
         <entry>TOP_LEFT_VAL</entry>
         <entry>actual_pod</entry>
         <entry>obsPos</entry>
@@ -6348,9 +6338,15 @@
         <entry>normalize</entry>
         <entry>fillY</entry>
         <entry>def fill</entry>
+        <entry>484</entry>
+        <entry>asdf</entry>
+        <entry>selector(</entry>
+        <entry>selector\(</entry>
+        <entry>selector</entry>
+        <entry>custom_filter</entry>
+        <entry>_custom_filters</entry>
       </history-search>
       <history-cmd>
-        <entry>105</entry>
         <entry>%s/max_evals/num_evals/g</entry>
         <entry>135</entry>
         <entry>815</entry>
@@ -6370,6 +6366,7 @@
         <entry>115</entry>
         <entry>252</entry>
         <entry>w</entry>
+        <entry>484</entry>
       </history-cmd>
       <history-expr />
       <history-input />
