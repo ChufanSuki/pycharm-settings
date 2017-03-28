@@ -1619,7 +1619,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" timestamp="1490409958342">
         <mark key="'" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1490718791735">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1490724789632">
+        <mark key="'" line="56" column="8" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -2309,7 +2310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="35" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="273" column="54" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="274" column="34" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="211" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
@@ -2409,6 +2409,7 @@
       <jump line="58" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="69" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
       <jump line="43" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2457,7 +2458,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>observation_output</text>
+        <text>not contained</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfcG9saWN5X2ZlZWRfZGljdChzZWxmLCBvYnMsICoqa3dhcmdzKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gb2JzOiBTZWUgb3V0cHV0IG9mIGBzZWxmLl9zcGxpdF9mbGF0X2FjdGlvbmAuCiAgICAgICAgOnJldHVybjogRmVlZCBkaWN0aW9uYXJ5IGZvciBwb2xpY3kgdHJhaW5pbmcgVGVuc29yRmxvdyBvcHMuCiAgICAgICAgIiIiCiAgICAgICAgbGFzdF9vYnMgPSBzZWxmLl9nZXRfdGltZV9zdGVwKG9icywgLTEpCiAgICAgICAgZmlyc3Rfb2JzID0gc2VsZi5fZ2V0X3RpbWVfc3RlcChvYnMsIDApCiAgICAgICAgZW52X29icywgXyA9IG9icwogICAgICAgIGluaXRpYWxfbWVtb3J5X29icyA9IGZpcnN0X29ic1sxXQogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHNlbGYucWZfd2l0aF9hY3Rpb25faW5wdXQub2JzZXJ2YXRpb25faW5wdXQ6IGxhc3Rfb2JzLAogICAgICAgICAgICBzZWxmLl9ybm5faW5wdXRzX3BoOiBlbnZfb2JzLAogICAgICAgICAgICBzZWxmLl9ybm5faW5pdF9zdGF0ZV9waDogaW5pdGlhbF9tZW1vcnlfb2JzLAogICAgICAgIH0K</text>
@@ -6340,13 +6341,13 @@
         <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiCiAgICAgICAgIyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgIyBzZWxmLl9hbGxfb2JzID0gdGYucGxhY2Vob2xkZXIoCiAgICAgICAgIyAgICAgdGYuZmxvYXQzMiwKICAgICAgICAjICAgICBbTm9uZSwgc2VsZi5vYnNlcnZhdGlvbl9kaW1dLAogICAgICAgICMgICAgICJhbGxfb2JzIgogICAgICAgICMgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>observation_output</last-search>
+      <last-search>not contained</last-search>
       <last-offset />
-      <last-pattern>observation_output</last-pattern>
+      <last-pattern>not contained</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6354,9 +6355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>custom_filter</entry>
-        <entry>_custom_filters</entry>
-        <entry>qf_loss</entry>
         <entry>target_qf</entry>
         <entry>var_list</entry>
         <entry>weight_tied_copy</entry>
@@ -6374,6 +6372,9 @@
         <entry>lstm_state_size</entry>
         <entry>last_obs</entry>
         <entry>observation_output</entry>
+        <entry>init_state</entry>
+        <entry>The input</entry>
+        <entry>not contained</entry>
       </history-search>
       <history-cmd>
         <entry>830</entry>
@@ -6390,12 +6391,12 @@
         <entry>20</entry>
         <entry>bp|bd #</entry>
         <entry>37</entry>
-        <entry>q</entry>
         <entry>71</entry>
         <entry>41</entry>
         <entry>39</entry>
         <entry>72</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
