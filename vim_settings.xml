@@ -359,9 +359,9 @@
         <mark key="." line="1" column="42" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/writeback_bptt_ddpt.py" timestamp="1490674872625">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/writeback_bptt_ddpt.py" timestamp="1490677722651">
         <mark key="'" line="16" column="54" />
-        <mark key="[" line="26" column="39" />
+        <mark key="[" line="26" column="37" />
         <mark key="]" line="26" column="56" />
         <mark key="^" line="26" column="56" />
         <mark key="." line="26" column="56" />
@@ -452,12 +452,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1490676515077">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1490677783114">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="94" column="9" />
-        <mark key="]" line="94" column="10" />
-        <mark key="." line="94" column="10" />
-        <mark key="^" line="81" column="28" />
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="81" column="29" />
+        <mark key="." line="81" column="29" />
+        <mark key="^" line="81" column="29" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -684,12 +684,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/example.py" timestamp="1487969817577">
         <mark key="'" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1490672082743">
-        <mark key="'" line="108" column="16" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="128" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1490677700286">
+        <mark key="'" line="99" column="8" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="94" column="31" />
         <mark key="^" line="85" column="50" />
-        <mark key="." line="85" column="50" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/target_mode_ddpg.py" timestamp="1488756752038">
         <mark key="'" line="52" column="20" />
@@ -2285,9 +2285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
-      <jump line="83" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="127" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="452" column="25" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
       <jump line="271" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
@@ -2385,6 +2382,9 @@
       <jump line="88" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="16" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/writeback_bptt_ddpt.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="92" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2424,31 +2424,31 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>qf_with_memory_input</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>qf_with_memory_input</text>
       </register>
       <register name="/" type="4">
-        <text>weight_tied_copy</text>
+        <text>_init_qf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFsZ29fY2xhc3MgPSBXcml0ZWJhY2tCcHR0RERQRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gcmFpbHJsLmFsZ29zLmJwdHRfZGRwZyBpbXBvcnQgQnB0dEREUEcK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRmLm5hbWVfc2NvcGUoJ3FmX29wcycpOgogICAgICAgICAgICBzZWxmLl9pbml0X3FmX29wcygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkcGdfcGFyYW1zID0gdmFyaWFudFsnZGRwZ19wYXJhbXMnXQo=</text>
+        <text encoding="base64">ICAgIGZyb20gcmFpbHJsLmFsZ29zLmJwdHRfZGRwZyBpbXBvcnQgQnB0dEREUEcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkcGdfcGFyYW1zID0gdmFyaWFudFsnZGRwZ19wYXJhbXMnXQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2483,19 +2483,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9iYWNrcHJvcF9xbG9zc190aHJvdWdoX2FjdG9yOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwuZGF0YV9tYW5hZ2VtZW50Lm9jbV9zdWJ0cmFqX3JlcGxheV9idWZmZXIgaW1wb3J0ICgK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9iYWNrcHJvcF9xbG9zc190aHJvdWdoX2FjdG9yOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6310,19 +6310,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClRBUkdFVF9QUkVGSVggPSAidGFyZ2V0XyIK</text>
+        <text encoding="base64">ZnJvbSByYWlscmwuZGF0YV9tYW5hZ2VtZW50Lm9jbV9zdWJ0cmFqX3JlcGxheV9idWZmZXIgaW1wb3J0ICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52X29icywgbWVtb3J5X29icyA9IHNlbGYucWYub2JzZXJ2YXRpb25faW5wdXQK</text>
+        <text encoding="base64">ClRBUkdFVF9QUkVGSVggPSAidGFyZ2V0XyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>weight_tied_copy</last-search>
+      <last-search>_init_qf</last-search>
       <last-offset />
-      <last-pattern>weight_tied_copy</last-pattern>
+      <last-pattern>_init_qf</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6330,7 +6330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cond_uniq</entry>
         <entry>uncond_uniqe</entry>
         <entry>factor</entry>
         <entry>bn.Factor</entry>
@@ -6350,6 +6349,7 @@
         <entry>target_qf</entry>
         <entry>var_list</entry>
         <entry>weight_tied_copy</entry>
+        <entry>_init_qf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/max_evals/num_evals/g</entry>
