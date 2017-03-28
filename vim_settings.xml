@@ -359,12 +359,12 @@
         <mark key="." line="1" column="42" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/writeback_bptt_ddpt.py" timestamp="1490672444987">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="12" />
-        <mark key="^" line="10" column="74" />
-        <mark key="." line="40" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/writeback_bptt_ddpt.py" timestamp="1490674872625">
+        <mark key="'" line="16" column="54" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="56" />
+        <mark key="^" line="26" column="56" />
+        <mark key="." line="26" column="56" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/core/perceptron.py" timestamp="1484282072606">
         <mark key="'" line="22" column="27" />
@@ -2285,7 +2285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" />
       <jump line="259" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
       <jump line="83" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="127" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2385,6 +2384,7 @@
       <jump line="31" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="88" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="16" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/writeback_bptt_ddpt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2423,14 +2423,14 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gcmFpbHJsLmFsZ29zLmJwdHRfZGRwZyBpbXBvcnQgQnB0dEREUEcK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>WritebackBpttDDPG</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>weight_tied_copy</text>
