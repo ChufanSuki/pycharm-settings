@@ -52,4 +52,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="iv" value="self._$var$ = $var$" description="initialize variable in class" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
