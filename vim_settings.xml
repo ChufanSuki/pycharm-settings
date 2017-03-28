@@ -252,6 +252,12 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/reinforcementTestClasses.py" timestamp="1488323208566">
         <mark key="'" line="816" column="59" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" timestamp="1490410258266">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1490667204141">
         <mark key="'" line="236" column="31" />
       </file>
@@ -1472,11 +1478,11 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/base.py" timestamp="1490142306335">
         <mark key="'" line="625" column="28" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/examples/trpo_cartpole.py" timestamp="1490739407904">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="$USER_HOME$/git/rllab-rail/examples/trpo_cartpole.py" timestamp="1490741713300">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/optimizable_q_function.py" timestamp="1480549852540">
         <mark key="'" line="7" column="24" />
@@ -2325,7 +2331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="81" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="235" column="7" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="195" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
       <jump line="236" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
@@ -2425,6 +2430,7 @@
       <jump line="216" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
       <jump line="151" column="37" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
       <jump line="209" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail/examples/trpo_cartpole.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2464,7 +2470,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBhc3NpZ25tZW50IGluIGdob3N0SG91c2VGYWN0b3IuZ2V0QWxsUG9zc2libGVBc3NpZ25tZW50RGljdHMoKToKICAgICAgICBsZWZ0ID0gYXNzaWdubWVudFtYX1BPU19WQVJdID09IEdIT1NUX0xFRlRfVkFMCiAgICAgICAgdG9wID0gYXNzaWdubWVudFtZX1BPU19WQVJdID09IEJPVEhfVE9QX1ZBTCBvciBcCiAgICAgICAgICAgICAgICAobGVmdCBhbmQgYXNzaWdubWVudFtZX1BPU19WQVJdID09IExFRlRfVE9QX1ZBTCkKCiAgICAgICAgaWYgdG9wIGFuZCBsZWZ0IGFuZCBhc3NpZ25tZW50W0dIT1NUX0hPVVNFX1ZBUl0gPT0gVE9QX0xFRlRfVkFMIG9yIFwKICAgICAgICAgICAgICAgIHRvcCBhbmQgbm90IGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBUT1BfUklHSFRfVkFMIG9yIFwKICAgICAgICAgICAgICAgIG5vdCB0b3AgYW5kIGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBCT1RUT01fTEVGVF9WQUwgb3IgXAogICAgICAgICAgICAgICAgbm90IHRvcCBhbmQgbm90IGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBCT1RUT01fUklHSFRfVkFMOgogICAgICAgICAgICBwcm9iID0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByb2IgPSAwCgogICAgICAgIGdob3N0SG91c2VGYWN0b3Iuc2V0UHJvYmFiaWxpdHkoYXNzaWdubWVudCwgcHJvYikK</text>
+        <text encoding="base64">ZW52LnJlc2V0KCkK</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
@@ -2479,16 +2485,16 @@
         <text encoding="base64">ICAgIGZvciBhc3NpZ25tZW50IGluIGdob3N0SG91c2VGYWN0b3IuZ2V0QWxsUG9zc2libGVBc3NpZ25tZW50RGljdHMoKToKICAgICAgICBsZWZ0ID0gYXNzaWdubWVudFtYX1BPU19WQVJdID09IEdIT1NUX0xFRlRfVkFMCiAgICAgICAgdG9wID0gYXNzaWdubWVudFtZX1BPU19WQVJdID09IEJPVEhfVE9QX1ZBTCBvciBcCiAgICAgICAgICAgICAgICAobGVmdCBhbmQgYXNzaWdubWVudFtZX1BPU19WQVJdID09IExFRlRfVE9QX1ZBTCkKCiAgICAgICAgaWYgdG9wIGFuZCBsZWZ0IGFuZCBhc3NpZ25tZW50W0dIT1NUX0hPVVNFX1ZBUl0gPT0gVE9QX0xFRlRfVkFMIG9yIFwKICAgICAgICAgICAgICAgIHRvcCBhbmQgbm90IGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBUT1BfUklHSFRfVkFMIG9yIFwKICAgICAgICAgICAgICAgIG5vdCB0b3AgYW5kIGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBCT1RUT01fTEVGVF9WQUwgb3IgXAogICAgICAgICAgICAgICAgbm90IHRvcCBhbmQgbm90IGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBCT1RUT01fUklHSFRfVkFMOgogICAgICAgICAgICBwcm9iID0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByb2IgPSAwCgogICAgICAgIGdob3N0SG91c2VGYWN0b3Iuc2V0UHJvYmFiaWxpdHkoYXNzaWdubWVudCwgcHJvYikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIGdpdCtodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL2d5bS5naXRAOTNkNTU0YmRiYjRiMmQyOWZmMWE2ODUxNThkYmRlOTNiMzZlMzgwMSNlZ2c9Z3ltCg==</text>
+        <text encoding="base64">ZW52LnJlc2V0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGdpdCtodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL2d5bS5naXRAOTNkNTU0YmRiYjRiMmQyOWZmMWE2ODUxNThkYmRlOTNiMzZlMzgwMSNlZ2c9Z3ltCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X29icyA9IHNlbGYuX2dldF90aW1lX3N0ZXAob2JzLCAtMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2523,19 +2529,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5xZl93aXRoX2FjdGlvbl9pbnB1dC5vYnNlcnZhdGlvbl9pbnB1dDogbGFzdF9vYnMsCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X29icyA9IHNlbGYuX2dldF90aW1lX3N0ZXAob2JzLCAtMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbWJlZGRlZCA9IHRmLmNvbmNhdCgxLCBbb2JzZXJ2YXRpb25faW5wdXQsIGVtYmFjdGlvbl9pbnB1dF0pCiAgICAgICAgZW1iZWRkZWRfZGltID0gc3VtKHNlbGYuYWN0aW9uX2RpbSkgKyBzdW0oc2VsZi5vYnNlcnZhdGlvbl9kaW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5xZl93aXRoX2FjdGlvbl9pbnB1dC5vYnNlcnZhdGlvbl9pbnB1dDogbGFzdF9vYnMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBlbWJlZGRlZCA9IHRmLmNvbmNhdCgxLCBbb2JzZXJ2YXRpb25faW5wdXQsIGVtYmFjdGlvbl9pbnB1dF0pCiAgICAgICAgZW1iZWRkZWRfZGltID0gc3VtKHNlbGYuYWN0aW9uX2RpbSkgKyBzdW0oc2VsZi5vYnNlcnZhdGlvbl9kaW0pCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6350,10 +6356,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfbWVtb3J5X29ic19saXN0ID0gMCwK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsX21lbW9yeV9vYnMsCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxfbWVtb3J5X29ic19saXN0ID0gMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
