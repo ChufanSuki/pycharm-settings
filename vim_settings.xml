@@ -1982,8 +1982,8 @@
         <mark key="." line="541" column="72" />
         <mark key="^" line="541" column="72" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1490737955309">
-        <mark key="'" line="216" column="0" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1490738774180">
+        <mark key="'" line="209" column="9" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="181" column="56" />
         <mark key="." line="240" column="23" />
@@ -2319,8 +2319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="218" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="221" column="81" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="235" column="7" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="195" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
@@ -2419,6 +2417,8 @@
       <jump line="359" column="50" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
       <jump line="358" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
       <jump line="216" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="151" column="37" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="209" column="9" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2467,7 +2467,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>variable</text>
+        <text>YOUR CODE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBhc3NpZ25tZW50IGluIGdob3N0SG91c2VGYWN0b3IuZ2V0QWxsUG9zc2libGVBc3NpZ25tZW50RGljdHMoKToKICAgICAgICBsZWZ0ID0gYXNzaWdubWVudFtYX1BPU19WQVJdID09IEdIT1NUX0xFRlRfVkFMCiAgICAgICAgdG9wID0gYXNzaWdubWVudFtZX1BPU19WQVJdID09IEJPVEhfVE9QX1ZBTCBvciBcCiAgICAgICAgICAgICAgICAobGVmdCBhbmQgYXNzaWdubWVudFtZX1BPU19WQVJdID09IExFRlRfVE9QX1ZBTCkKCiAgICAgICAgaWYgdG9wIGFuZCBsZWZ0IGFuZCBhc3NpZ25tZW50W0dIT1NUX0hPVVNFX1ZBUl0gPT0gVE9QX0xFRlRfVkFMIG9yIFwKICAgICAgICAgICAgICAgIHRvcCBhbmQgbm90IGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBUT1BfUklHSFRfVkFMIG9yIFwKICAgICAgICAgICAgICAgIG5vdCB0b3AgYW5kIGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBCT1RUT01fTEVGVF9WQUwgb3IgXAogICAgICAgICAgICAgICAgbm90IHRvcCBhbmQgbm90IGxlZnQgYW5kIGFzc2lnbm1lbnRbR0hPU1RfSE9VU0VfVkFSXSA9PSBCT1RUT01fUklHSFRfVkFMOgogICAgICAgICAgICBwcm9iID0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByb2IgPSAwCgogICAgICAgIGdob3N0SG91c2VGYWN0b3Iuc2V0UHJvYmFiaWxpdHkoYXNzaWdubWVudCwgcHJvYikK</text>
@@ -6354,9 +6354,9 @@
       </register>
     </registers>
     <search>
-      <last-search>variable</last-search>
+      <last-search>YOUR CODE</last-search>
       <last-offset />
-      <last-pattern>variable</last-pattern>
+      <last-pattern>YOUR CODE</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6364,8 +6364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>action_dim</entry>
-        <entry>output_dim</entry>
         <entry>reward</entry>
         <entry>Save</entry>
         <entry>rnn_cell</entry>
@@ -6384,6 +6382,8 @@
         <entry>log</entry>
         <entry>housePos</entry>
         <entry>variable</entry>
+        <entry>marginal</entry>
+        <entry>YOUR CODE</entry>
       </history-search>
       <history-cmd>
         <entry>830</entry>
