@@ -1106,7 +1106,6 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/layout.py" timestamp="1490653587287" />
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" timestamp="1490587769354">
         <mark key="'" line="40" column="12" />
       </file>
@@ -1595,6 +1594,9 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="50" column="37" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/environment.yml" timestamp="1490736215941">
+        <mark key="'" line="53" column="16" />
+      </file>
       <file name="$USER_HOME$/git/rllab/rllab/envs/box2d/box2d_env.py" timestamp="1478224762553">
         <mark key="'" line="16" column="15" />
         <mark key="[" line="344" column="4" />
@@ -1991,6 +1993,9 @@
         <mark key="." line="111" column="12" />
         <mark key="^" line="122" column="7" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/examples/vpg_1.py" timestamp="1490736320558">
+        <mark key="'" line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/nn_qfunction.py" timestamp="1480548619841">
         <mark key="'" line="25" column="42" />
         <mark key="[" line="28" column="0" />
@@ -2310,9 +2315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="54" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="274" column="34" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="211" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="226" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="228" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="234" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
@@ -2410,6 +2412,9 @@
       <jump line="69" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
       <jump line="43" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="56" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/rllab-rail/environment.yml" />
+      <jump line="53" column="16" filename="$USER_HOME$/git/rllab-rail/environment.yml" />
+      <jump line="56" column="0" filename="$USER_HOME$/git/rllab-rail/examples/vpg_1.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2458,7 +2463,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>not contained</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfcG9saWN5X2ZlZWRfZGljdChzZWxmLCBvYnMsICoqa3dhcmdzKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gb2JzOiBTZWUgb3V0cHV0IG9mIGBzZWxmLl9zcGxpdF9mbGF0X2FjdGlvbmAuCiAgICAgICAgOnJldHVybjogRmVlZCBkaWN0aW9uYXJ5IGZvciBwb2xpY3kgdHJhaW5pbmcgVGVuc29yRmxvdyBvcHMuCiAgICAgICAgIiIiCiAgICAgICAgbGFzdF9vYnMgPSBzZWxmLl9nZXRfdGltZV9zdGVwKG9icywgLTEpCiAgICAgICAgZmlyc3Rfb2JzID0gc2VsZi5fZ2V0X3RpbWVfc3RlcChvYnMsIDApCiAgICAgICAgZW52X29icywgXyA9IG9icwogICAgICAgIGluaXRpYWxfbWVtb3J5X29icyA9IGZpcnN0X29ic1sxXQogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHNlbGYucWZfd2l0aF9hY3Rpb25faW5wdXQub2JzZXJ2YXRpb25faW5wdXQ6IGxhc3Rfb2JzLAogICAgICAgICAgICBzZWxmLl9ybm5faW5wdXRzX3BoOiBlbnZfb2JzLAogICAgICAgICAgICBzZWxmLl9ybm5faW5pdF9zdGF0ZV9waDogaW5pdGlhbF9tZW1vcnlfb2JzLAogICAgICAgIH0K</text>
@@ -6345,9 +6350,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not contained</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>not contained</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6355,9 +6360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>target_qf</entry>
-        <entry>var_list</entry>
-        <entry>weight_tied_copy</entry>
         <entry>_init_qf</entry>
         <entry>num_bptt_unrolls</entry>
         <entry>action_dim</entry>
@@ -6375,6 +6377,9 @@
         <entry>init_state</entry>
         <entry>The input</entry>
         <entry>not contained</entry>
+        <entry>tensorflow</entry>
+        <entry>gym</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>830</entry>
