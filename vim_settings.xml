@@ -916,8 +916,8 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1486701468147">
         <mark key="'" line="175" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" timestamp="1489013404516">
-        <mark key="'" line="98" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" timestamp="1490811044231">
+        <mark key="'" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1488341794683">
         <mark key="'" line="6" column="20" />
@@ -2341,7 +2341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="72" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="92" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="78" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2441,6 +2440,7 @@
       <jump line="4" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" />
       <jump line="10" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
       <jump line="6" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" />
+      <jump line="13" column="6" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2639,7 +2639,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>def reset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTZXJpYWxpemFibGUucXVpY2tfaW5pdChzZWxmLCBsb2NhbHMoKSkK</text>
@@ -6522,13 +6522,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>def reset</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>def reset</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6536,7 +6536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>all_rnn</entry>
         <entry>initial_memory_obs</entry>
         <entry>rnn_inputs</entry>
         <entry>all_write_actions</entry>
@@ -6556,6 +6555,7 @@
         <entry>all_actions</entry>
         <entry>all_rnn_actions</entry>
         <entry>ipdb</entry>
+        <entry>def reset</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>
@@ -6573,11 +6573,11 @@
         <entry>76</entry>
         <entry>240</entry>
         <entry>71</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53cmFw</entry>
         <entry encoding="base64">JzwsJz50ZXh0d3JhcA==</entry>
         <entry>22</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
