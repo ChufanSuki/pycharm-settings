@@ -454,12 +454,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1490750262335">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1490757807662">
         <mark key="'" line="105" column="18" />
-        <mark key="[" line="91" column="17" />
-        <mark key="]" line="91" column="27" />
-        <mark key="^" line="91" column="27" />
-        <mark key="." line="91" column="27" />
+        <mark key="[" line="98" column="9" />
+        <mark key="]" line="98" column="10" />
+        <mark key="^" line="82" column="28" />
+        <mark key="." line="98" column="10" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -1511,11 +1511,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" timestamp="1490750879283">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="16" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="32" column="16" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" timestamp="1490757778513">
+        <mark key="'" line="58" column="39" />
+        <mark key="[" line="70" column="56" />
+        <mark key="]" line="70" column="56" />
+        <mark key="^" line="70" column="56" />
+        <mark key="." line="70" column="56" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/logging/__init__.py" timestamp="1487964792090">
         <mark key="'" line="32" column="37" />
@@ -1635,8 +1636,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" timestamp="1490409958342">
         <mark key="'" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1490750767945">
-        <mark key="'" line="66" column="26" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1490756712901">
+        <mark key="'" line="80" column="31" />
         <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_memory_ocm.py" timestamp="1488756904318">
@@ -2339,15 +2340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="2" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
-      <jump line="28" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="29" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="80" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" />
-      <jump line="64" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" />
       <jump line="68" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" />
       <jump line="74" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2439,6 +2431,15 @@
       <jump line="3" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="36" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="34" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="65" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="80" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="963" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py" />
+      <jump line="45" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="990" column="2" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py" />
+      <jump line="56" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="95" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2477,32 +2478,32 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIHNlbGYuX2Vudl9vYnNfZGltKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self.observation_dim -</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>all_wr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm5uX2NlbGw6IHRmLmNvbnRyaWIucm5uLlJOTkNlbGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0Zi5jb250cmliLmxheWVycy5mbGF0dGVuKGFsbF9tZW1vcnlfb2JzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm5uX2NlbGw6IHRmLm5uLnJubl9jZWxsLlJOTkNlbGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHNlbGYuX2Vudl9vYnNfZGltKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwuYWxnb3MuZGRwZyBpbXBvcnQgVGFyZ2V0VXBkYXRlTW9kZQo=</text>
+        <text encoding="base64">ICAgICAgICBtZW1vcnlfb3V0cHV0cyA9IGxpc3QoYWxsX3dyaXRlX2FjdGlvbnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9udW1fZXh0cmFfcWZfdXBkYXRlcyA9IG51bV9leHRyYV9xZl91cGRhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxfbWVtb3J5X29icyA9IHRmLnNxdWUK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2537,19 +2538,20 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX2V4dHJhX3FmX3VwZGF0ZXM9MCwK</text>
+        <text encoding="base64">ICAgICAgICBhbGxfbWVtb3J5X29ic19saXN0ID0gKAogICAgICAgICAgICBbc2VsZi5fcm5uX2luaXRfc3RhdGVfcGhdICsgbGlzdChhbGxfd3JpdGVfYWN0aW9uc1s6LTFdKQogICAgICAgICkKICAgICAgICBtZW1vcnlfb3V0cHV0cyA9IGxpc3QoYWxsX3dyaXRlX2FjdGlvbnMpCiAgICAgICAgYWxsX21lbW9yeV9vYnMgPSB0Zi5zcXVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZG9fdHJhaW5pbmcoCiAgICAgICAgICAgIHNlbGYsCiAgICAgICAgICAgICoqa3dhcmdzCiAgICApOgogICAgICAgIGZvciBfIGluIHJhbmdlKHNlbGYuX251bV9leHRyYV9xZl91cGRhdGVzKToKICAgICAgICAgICAgbWluaWJhdGNoID0gc2VsZi5fc2FtcGxlX21pbmliYXRjaCgpCiAgICAgICAgICAgIGZlZWRfZGljdCA9IHNlbGYuX3VwZGF0ZV9mZWVkX2RpY3RfZnJvbV9iYXRjaChtaW5pYmF0Y2gpCiAgICAgICAgICAgIG9wcyA9IFsKICAgICAgICAgICAgICAgIHNlbGYudHJhaW5fcWZfb3AsCiAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV90YXJnZXRfcWZfb3AsCiAgICAgICAgICAgIF0KICAgICAgICAgICAgc2VsZi5zZXNzLnJ1bihvcHMsIGZlZWRfZGljdD1mZWVkX2RpY3QpCgogICAgICAgIHN1cGVyKCkuX2RvX3RyYWluaW5nKCoqa3dhcmdzKQoK</text>
+        <text encoding="base64">ICAgICAgICBhbGxfbWVtb3J5X29ic19saXN0ID0gKAogICAgICAgICAgICBbc2VsZi5fcm5uX2luaXRfc3RhdGVfcGhdICsgbGlzdChhbGxfd3JpdGVfYWN0aW9uc1s6LTFdKQogICAgICAgICkKICAgICAgICBtZW1vcnlfb3V0cHV0cyA9IGxpc3QoYWxsX3dyaXRlX2FjdGlvbnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKDEzMzcsIHNlbGYuX251bV9icHR0X3Vucm9sbHMsIHNlbGYuX2Vudl9vYnNfZGltKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZm9yIEgsIG51bV92YWx1ZXMsIG51bV9icHR0X3Vucm9sbHMgaW4gcHJvZHVjdCgKICAgICAgICBbNl0sCiAgICAgICAgWzJdLAogICAgICAgIFs0XSwKPj4+Pj4+PiBtZW0tbWF0Y2gtc2wtMy04Cg==</text>
+      <register name="7" type="4">
+        <text>0
+    min_pool_size = 1000</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6364,19 +6366,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgbl9zZWVkID0gMQogICAgZXhwX3ByZWZpeCA9ICJkZXYtYnB0dC1kZHBnLW9jbSIKPj4+Pj4+PiBtZW0tbWF0Y2gtc2wtMy04Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICIzLTgtYnB0dC1kZHBnLW9jbS1iZW5jaG1hcmsiCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>all_wr</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>all_wr</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6384,7 +6386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>housePos</entry>
         <entry>variable</entry>
         <entry>marginal</entry>
@@ -6398,12 +6399,13 @@
         <entry>_final_rnn_action</entry>
         <entry>rnn_final_state</entry>
         <entry>rnn_inputs</entry>
-        <entry>init_state</entry>
         <entry>self.policy</entry>
         <entry>_do_training</entry>
         <entry>do_t</entry>
         <entry>tf.rnn</entry>
         <entry>static</entry>
+        <entry>init_state</entry>
+        <entry>all_wr</entry>
       </history-search>
       <history-cmd>
         <entry>148</entry>
