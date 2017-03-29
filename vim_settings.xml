@@ -454,12 +454,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1490759421081">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1490764634995">
         <mark key="'" line="105" column="18" />
-        <mark key="[" line="96" column="9" />
-        <mark key="]" line="96" column="10" />
-        <mark key="^" line="82" column="28" />
-        <mark key="." line="96" column="10" />
+        <mark key="[" line="97" column="10" />
+        <mark key="]" line="97" column="10" />
+        <mark key="^" line="98" column="15" />
+        <mark key="." line="97" column="10" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -601,12 +601,11 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1490760803504">
-        <mark key="'" line="79" column="41" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="68" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="89" column="37" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1490762860000">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
@@ -770,6 +769,10 @@
         <mark key="]" line="30" column="28" />
         <mark key="^" line="30" column="28" />
         <mark key="." line="30" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" timestamp="1490764030183">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/exploration_strategies/simple_gaussian_strategy.py" timestamp="1484354664940">
         <mark key="'" line="15" column="15" />
@@ -1021,6 +1024,12 @@
         <mark key="]" line="66" column="15" />
         <mark key="^" line="66" column="15" />
         <mark key="." line="66" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" timestamp="1490764040985">
+        <mark key="'" line="10" column="33" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_naf.py" timestamp="1486097878517">
         <mark key="'" line="38" column="13" />
@@ -1512,12 +1521,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" timestamp="1490760775432">
-        <mark key="'" line="130" column="8" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="122" column="25" />
-        <mark key="." line="122" column="25" />
-        <mark key="^" line="122" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" timestamp="1490763060163">
+        <mark key="[" line="77" column="23" />
+        <mark key="]" line="77" column="23" />
+        <mark key="." line="77" column="23" />
+        <mark key="^" line="77" column="23" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/logging/__init__.py" timestamp="1487964792090">
         <mark key="'" line="32" column="37" />
@@ -1995,14 +2003,6 @@
         <mark key="." line="541" column="72" />
         <mark key="^" line="541" column="72" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1490738774180">
-        <mark key="'" line="209" column="9" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="181" column="56" />
-        <mark key="." line="240" column="23" />
-        <mark key="^" line="240" column="23" />
-        <mark key="o" line="208" column="6" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1490718105450">
         <mark key="'" line="75" column="8" />
         <mark key="[" line="0" column="0" />
@@ -2341,29 +2341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" />
-      <jump line="32" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/__init__.py" />
-      <jump line="23" column="18" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/__init__.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="100" column="59" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="177" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="89" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="267" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="159" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="97" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="18" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="33" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="129" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="71" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="95" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="57" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="76" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="72" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="92" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
@@ -2385,7 +2362,6 @@
       <jump line="75" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
       <jump line="139" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
       <jump line="123" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
-      <jump line="70" column="66" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
       <jump line="66" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="3" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="36" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
@@ -2411,7 +2387,6 @@
       <jump line="15" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="92" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="19" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
-      <jump line="28" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="36" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="37" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="21" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
@@ -2441,6 +2416,31 @@
       <jump line="22" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="115" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
       <jump line="124" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="133" column="72" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="18" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="120" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="4" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="126" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="64" column="66" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="156" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="134" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="96" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="84" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/mlp_memory_qfunction.py" />
+      <jump line="101" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="106" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="113" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="158" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="148" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="65" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/sum_bptt_ddpg.py" />
+      <jump line="4" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" />
+      <jump line="10" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2480,31 +2480,181 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>import numpy as import numpy as np</text>
+        <text>]</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="86" mods="130" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+        </keys>
       </register>
       <register name="j" type="4">
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>import numpy as import numpy as np</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>all_env_obs</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm9ic2VydmF0aW9uX2lucHV0OiBsYXN0X29icywK</text>
+        <text encoding="base64">ICAgICAgICBTZXJpYWxpemFibGUucXVpY2tfaW5pdChzZWxmLCBsb2NhbHMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSBybGxhYi5taXNjLm92ZXJyaWRlcyBpbXBvcnQgb3ZlcnJpZGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEkgbmVlZCB0byBzd2FwIHRoZSBheGVzIGJlY2F1c2Ugb2YgdGhlIHdheSB0aGUgcSBmdW5jdGlvbiBpcwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2538,20 +2688,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="4" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIEkgbmVlZCB0byBzd2FwIHRoZSBheGVzIGJlY2F1c2Ugb2YgdGhlIHdheSB0aGUgcSBmdW5jdGlvbiBpcwogICAgICAgICMgVGhlIG9ic2VydmF0aW9ucyBuZWVkIHRvIGJlIHN0YWNrZWQgaW4gdGhlIHNhbWUgb3JkZXIgdGhhdCB0aGUgcQogICAgICAgICMgZnVuY3Rpb24gc3RhY2tzIGl0cyBvd24gYWN0aW9ucy4gVGhlIHN3YXAgYXhlcyBpcyBuZWNlc3NhcnkgdG8gbWFrZQogICAgICAgICMgdGhlc2UgdHdvIG1hdGNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsX2Vudl9hY3Rpb25zWy0xXSwKICAgICAgICAgICAgYWxsX3dyaXRlX2FjdGlvbnNbLTFdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm9ic2VydmF0aW9uX2lucHV0OiBpbnB1dF9tZW1vcnlfb2JzLAogICAgICAgICAgICAjIHNlbGYucWZfd2l0aF9hY3Rpb25faW5wdXQub2JzZXJ2YXRpb25faW5wdXQ6IGFsbF9vYnMsCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsX2Vudl9vYnNbLTFdLAogICAgICAgICAgICBhbGxfbWVtb3JpZXNbLTFdLAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDcmVhdGluZyBhbGxfcm5uX29ic2VydmF0aW9ucyBpcyBhIGJpdCB0cmlja3kuIExldCBYIGJlIHNob3J0aGFuZCBmb3IKICAgICAgICB0aGUgbWVtb3JpZXMgaW4gYWxsX3Jubl9vYnNlcnZhdGlvbnMuIFdlIHdhbnQKICAgICAgICAKICAgICAgICAgICAgWFswXSA9IGJhdGNoIGVsZW1lbnQgMCwgVCA9IDAgPC0tIGZyb20gc2VsZi5fcm5uX2luaXRfc3RhdGVfcGgKICAgICAgICAgICAgWFsxXSA9IGJhdGNoIGVsZW1lbnQgMCwgVCA9IDEgPC0tIGZyb20gYWxsX3dyaXRlX2FjdGlvbnNbMF0KICAgICAgICAgICAgWFsyXSA9IGJhdGNoIGVsZW1lbnQgMCwgVCA9IDIgPC0tIGZyb20gYWxsX3dyaXRlX2FjdGlvbnNbMV0KICAgICAgICAgICAgLi4uCiAgICAgICAgICAgIFhbTi0xXSA9IGJhdGNoIGVsZW1lbnQgMCwgVCA9IE4tMSA8LS0gZnJvbSBzZWxmLl9ybm5faW5pdF9zdGF0ZV9waAogICAgICAgICAgICBYW05dID0gYmF0Y2ggZWxlbWVudCAxLCBUID0gMCAgICAgPC0tIGZyb20gYWxsX3dyaXRlX2FjdGlvbnNbMF0KICAgICAgICAgICAgWFtOKzFdID0gYmF0Y2ggZWxlbWVudCAxLCBUID0gMSAgIDwtLSBmcm9tIGFsbF93cml0ZV9hY3Rpb25zWzBdCiAgICAgICAgICAgIC4uLgogICAgICAgICAgICAKICAgICAgICBCYXNpY2FsbHksIGZvciBlYWNoIGVsZW1lbnQgaW4gdGhlIGJhdGNoLCB0aGUgZmlyc3QgZWxlbWVudCBuZWVkcyB0byAKICAgICAgICBjb21lIGZyb20gYHNlbGYuX3Jubl9pbml0X3N0YXRlX3BoYCwgd2hpbGUgdGhlIG5leHQgTi0xIGVsZW1lbnRzIG5lZWQgdG8KICAgICAgICBjb21lIGZyb20gYWxsX3dyaXRlX2FjdGlvbnMuIAogICAgICAgIAogICAgICAgIExldCBOIGJlIHNlbGYuX251bV9icHR0X3Vucm9sbHMuCiAgICAgICAgYWxsX3dyaXRlX2FjdGlvbnMgaXMgYSBsaXN0IG9mIE4gdGVuc29ycywgZWFjaCB3LyBzaGFwZSBbTm9uZSB4IG1lbW9yeV0uCiAgICAgICAgCiAgICAgICAgSGVyZSdzIGhvdyBJIGRvIHRoaXM6CiAgICAgICAgICAxLiBDb252ZXJ0IHRoZSBmaXJzdCBOLTEgYWxsX3dyaXRlX2FjdGlvbnMgaW50byBhIHRlbnNvciBvZiBzaGFwZQogICAgICAgICAgICAgIFtOb25lIHggTi0xIHggbWVtb3J5XQogICAgICAgICAgMi4gQ29udmVydCBgc2VsZi5fcm5uX2luaXRfc3RhdGVfcGhgIGludG8gc2hhcGUgW05vbmUgeCAxIHggbWVtb3J5XQogICAgICAgICAgMy4gQ29tYmluZSB0aGUgYWJvdmUgdHdvIGludG8gYSB0ZW5zb3Igb2Ygc2hhcGUgW05vbmUgeCBOIHggbWVtb3J5XQogICAgICAgICAgNC4gQ29udmVydCB0aGlzIGludG8gYSBsaXN0IG9mIE4gdGVuc29ycywgZWFjaCB3LyBzaGFwZSBbTm9uZSB4IG1lbV0KICAgICAgICAiIiIKICAgICAgICBtZW1vcnlfZGltID0gc2VsZi5vYnNlcnZhdGlvbl9kaW0gLSBzZWxmLl9lbnZfb2JzX2RpbQoKICAgICAgICAjIFN0ZXAgMQogICAgICAgIG91dHB1dHRlZF9tZW1vcmllcyA9IHRmLnN0YWNrKGFsbF93cml0ZV9hY3Rpb25zWzotMV0sIGF4aXM9MSkKICAgICAgICBvdXRwdXR0ZWRfbWVtb3JpZXMuZ2V0X3NoYXBlKCkuYXNzZXJ0X2lzX2NvbXBhdGlibGVfd2l0aCgKICAgICAgICAgICAgKDAsIHNlbGYuX251bV9icHR0X3Vucm9sbHMgLSAxLCBtZW1vcnlfZGltKQogICAgICAgICkKCiAgICAgICAgIyBTdGVwIDIKICAgICAgICBleHBhbmRlZF9pbml0ID0gdGYuZXhwYW5kX2RpbXMoaW5wdXQ9c2VsZi5fcm5uX2luaXRfc3RhdGVfcGgsIGF4aXM9MSkKICAgICAgICBleHBhbmRlZF9pbml0LmdldF9zaGFwZSgpLmFzc2VydF9pc19jb21wYXRpYmxlX3dpdGgoCiAgICAgICAgICAgICgwLCAxLCBtZW1vcnlfZGltKQogICAgICAgICkKCiAgICAgICAgIyBTdGVwIDMKICAgICAgICBhbGxfbWVtb3J5X29icyA9IHRmLmNvbmNhdCgKICAgICAgICAgICAgYXhpcz0xLAogICAgICAgICAgICB2YWx1ZXM9WwogICAgICAgICAgICAgICAgZXhwYW5kZWRfaW5pdCwKICAgICAgICAgICAgICAgIG91dHB1dHRlZF9tZW1vcmllcywKICAgICAgICAgICAgXSwKICAgICAgICApCiAgICAgICAgYWxsX21lbW9yeV9vYnMuZ2V0X3NoYXBlKCkuYXNzZXJ0X2lzX2NvbXBhdGlibGVfd2l0aCgKICAgICAgICAgICAgKDAsIHNlbGYuX251bV9icHR0X3Vucm9sbHMsIG1lbW9yeV9kaW0pCiAgICAgICAgKQoKICAgICAgICAjIFN0ZXAgNAogICAgICAgIGFsbF9tZW1vcmllcyA9IHRmLnVuc3RhY2soYWxsX21lbW9yeV9vYnMsIGF4aXM9MSkKCiAgICAgICAgYWxsX3Jubl9vYnNlcnZhdGlvbnMgPSAoCiAgICAgICAgICAgIHRmLmNvbmNhdChheGlzPTAsIHZhbHVlcz1hbGxfZW52X29icyksCiAgICAgICAgICAgIHRmLmNvbmNhdChheGlzPTAsIHZhbHVlcz1hbGxfbWVtb3JpZXMpLAogICAgICAgICkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6366,20 +6516,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IGNvbnNpZGVyIHRha2luZyB0aGUgc3VtIG9mIHRoZSBvdXRwdXRzIHJhdGhlciB0aGFuCiAgICAgICAgIyBvbmx5IHRoZSBsYXN0IG91dHB1dC4KCiAgICAgICAgIyBUbyBjb21wdXRlIHRoZSBzdXJyb2dhdGUgbG9zcyBmdW5jdGlvbiBmb3IgdGhlIHFmLCBpdCBtdXN0IHRha2UKICAgICAgICAjIGFzIGlucHV0IHRoZSBvdXRwdXQgb2YgdGhlIF9wb2xpY3kuIFNlZSBFcXVhdGlvbiAoNikgb2YgIkRldGVybWluaXN0aWMKICAgICAgICAjIFBvbGljeSBHcmFkaWVudCBBbGdvcml0aG1zIiBJQ01MIDIwMTQuCg==</text>
+        <text encoding="base64">ICAgIAogICAgVGhpcyBkb2Vzbid0IHNlZW0gdG8gd29yayBhdCBhbGwuIE5vdCBzdXJlIHdoeS4K</text>
       </register>
-      <register name="9" type="8">
-        <text>tf.concat(axis=0, values=
-tf.concat(axis=0, values=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>all_env_obs</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>all_env_obs</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6387,12 +6536,6 @@ tf.concat(axis=0, values=</text>
     </search>
     <history>
       <history-search>
-        <entry>_do_training</entry>
-        <entry>do_t</entry>
-        <entry>tf.rnn</entry>
-        <entry>static</entry>
-        <entry>init_state</entry>
-        <entry>all_wr</entry>
         <entry>all_rnn</entry>
         <entry>initial_memory_obs</entry>
         <entry>rnn_inputs</entry>
@@ -6402,16 +6545,19 @@ tf.concat(axis=0, values=</text>
         <entry>_final_rnn_action</entry>
         <entry>self._rnn_outputs</entry>
         <entry>qf_with_action_input</entry>
-        <entry>ipdb</entry>
         <entry>final_State</entry>
         <entry>final_state</entry>
         <entry>all_memories</entry>
         <entry>all_env_obs</entry>
+        <entry>env_obs_dim</entry>
+        <entry>memory_dim</entry>
+        <entry>observation_input</entry>
+        <entry>all_env_actions</entry>
+        <entry>all_actions</entry>
+        <entry>all_rnn_actions</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
-        <entry>148</entry>
-        <entry>146</entry>
-        <entry>244</entry>
         <entry>115</entry>
         <entry>252</entry>
         <entry>484</entry>
@@ -6420,14 +6566,17 @@ tf.concat(axis=0, values=</text>
         <entry>20</entry>
         <entry>bp|bd #</entry>
         <entry>37</entry>
-        <entry>71</entry>
         <entry>41</entry>
         <entry>39</entry>
         <entry>72</entry>
         <entry>65</entry>
         <entry>76</entry>
         <entry>240</entry>
+        <entry>71</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53cmFw</entry>
+        <entry encoding="base64">JzwsJz50ZXh0d3JhcA==</entry>
+        <entry>22</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
