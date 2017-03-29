@@ -464,8 +464,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" timestamp="1487969426741">
-        <mark key="'" line="67" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" timestamp="1490820880027">
+        <mark key="'" line="28" column="35" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="^" line="58" column="56" />
@@ -2010,9 +2010,9 @@
         <mark key="." line="111" column="12" />
         <mark key="^" line="122" column="7" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" timestamp="1490747189094">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl-env.yml" timestamp="1490821015563">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="76" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
@@ -2341,7 +2341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="92" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="78" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="75" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
@@ -2441,6 +2440,7 @@
       <jump line="10" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
       <jump line="6" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" />
       <jump line="13" column="6" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
+      <jump line="28" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2479,8 +2479,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtIC9ob21lL3ZpdGNoeXIvcHJvZ3JhbXMvdGVuc29yZmxvdy0xLjAuMS1jcDM1LWNwMzVtLWxpbnV4X3g4Nl82NC53aGwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2642,7 +2642,7 @@
         <text>def reset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJpYWxpemFibGUucXVpY2tfaW5pdChzZWxmLCBsb2NhbHMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAtIC9ob21lL3ZpdGNoeXIvcHJvZ3JhbXMvdGVuc29yZmxvdy0xLjAuMS1jcDM1LWNwMzVtLWxpbnV4X3g4Nl82NC53aGwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBybGxhYi5taXNjLm92ZXJyaWRlcyBpbXBvcnQgb3ZlcnJpZGVzCg==</text>
