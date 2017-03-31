@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1490914717355">
+      <file name="/start_script.py" timestamp="1490918291130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/core/network.py" timestamp="1486666171569">
@@ -537,10 +537,10 @@
         <mark key="." line="433" column="29" />
         <mark key="^" line="433" column="29" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/naf.py" timestamp="1489102468049">
-        <mark key="'" line="55" column="22" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/naf.py" timestamp="1490918463067">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="34" />
         <mark key="^" line="69" column="37" />
         <mark key="." line="70" column="12" />
       </file>
@@ -963,6 +963,13 @@
         <mark key="]" line="1" column="43" />
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_naf.py" timestamp="1490918504787">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="29" column="23" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="29" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/tf_test.py" timestamp="1489102389061">
         <mark key="'" line="17" column="4" />
@@ -1930,7 +1937,7 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/quadratic_qf.py" timestamp="1490915058118">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/quadratic_qf.py" timestamp="1490917802634">
         <mark key="'" line="65" column="17" />
         <mark key="[" line="69" column="12" />
         <mark key="]" line="69" column="22" />
@@ -1980,7 +1987,7 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" timestamp="1489717493653">
         <mark key="'" line="377" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1490915588232">
+      <file name="/Python Console" timestamp="1490918097303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/algos/noop_algo.py" timestamp="1487914710926">
@@ -2422,9 +2429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="105" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="307" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="150" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="24" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="26" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
@@ -2522,6 +2526,9 @@
       <jump line="102" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" />
       <jump line="1621" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
       <jump line="1625" column="11" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_naf.py" />
+      <jump line="22" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_naf.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/naf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2560,8 +2567,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>adj_y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBfaW5pdF90ZW5zb3JmbG93X29wcyhzZWxmKToK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2720,10 +2727,10 @@
         <text>adj_y</text>
       </register>
       <register name="/" type="4">
-        <text>adjoint</text>
+        <text>target_vf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jcmVhdGVfbmV0d29yaygpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfaW5pdF90ZW5zb3JmbG93X29wcyhzZWxmKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIGludCh0Zi5fX3ZlcnNpb25fXy5zcGxpdCgnLicpWzBdKSA+PSAxOgo=</text>
@@ -6607,17 +6614,16 @@
       </register>
     </registers>
     <search>
-      <last-search>adjoint</last-search>
+      <last-search>target_vf</last-search>
       <last-offset />
-      <last-pattern>adjoint</last-pattern>
+      <last-pattern>target_vf</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>OraclUnroll</entry>
         <entry>OracleUnrol</entry>
         <entry>policy</entry>
         <entry>inputs</entry>
@@ -6637,6 +6643,7 @@
         <entry>ipdb</entry>
         <entry>action_dim</entry>
         <entry>adjoint</entry>
+        <entry>target_vf</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
