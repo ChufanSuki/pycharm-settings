@@ -2098,7 +2098,13 @@
         <mark key="." line="541" column="72" />
         <mark key="^" line="541" column="72" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1490930389891" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491083762124">
+        <mark key="'" line="112" column="39" />
+        <mark key="[" line="104" column="56" />
+        <mark key="]" line="104" column="55" />
+        <mark key="^" line="104" column="55" />
+        <mark key="." line="104" column="55" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1490718105450">
         <mark key="'" line="75" column="8" />
         <mark key="[" line="0" column="0" />
@@ -2457,11 +2463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1621" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
-      <jump line="1625" column="11" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_naf.py" />
-      <jump line="30" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_naf.py" />
-      <jump line="25" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_naf.py" />
       <jump line="9" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/quadratic_naf_qfunction.py" />
       <jump line="6" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/naf_qfunction.py" />
       <jump line="20" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" />
@@ -2557,6 +2558,11 @@
       <jump line="96" column="19" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" />
       <jump line="102" column="8" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" />
       <jump line="108" column="43" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" />
+      <jump line="356" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="104" column="52" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="112" column="39" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2722,7 +2728,7 @@
         <text>_internal</text>
       </register>
       <register name="/" type="4">
-        <text>all_input_values</text>
+        <text>obsVars = []</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc2Vzcy5hc19kZWZhdWx0KCk6CiAgICAgICAgICAgIHNlbGYuX2luaXRfdGVuc29yZmxvd19vcHMoKQo=</text>
@@ -6609,9 +6615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>all_input_values</last-search>
+      <last-search>obsVars = []</last-search>
       <last-offset />
-      <last-pattern>all_input_values</last-pattern>
+      <last-pattern>obsVars = []</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6619,8 +6625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
-        <entry>ipdb</entry>
         <entry>action_dim</entry>
         <entry>adjoint</entry>
         <entry>target_vf</entry>
@@ -6639,6 +6643,8 @@
         <entry>valid_var</entry>
         <entry>input_list</entry>
         <entry>all_input_values</entry>
+        <entry>obsVars =[]</entry>
+        <entry>obsVars = []</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50ZXh0d3JhcA==</entry>
