@@ -1316,12 +1316,12 @@
         <mark key="^" line="75" column="21" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn.py" timestamp="1491096042042">
+      <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn.py" timestamp="1491096336797">
         <mark key="'" line="36" column="17" />
-        <mark key="[" line="183" column="52" />
-        <mark key="]" line="183" column="59" />
-        <mark key="^" line="183" column="59" />
-        <mark key="." line="183" column="59" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="61" />
+        <mark key="^" line="184" column="44" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/online_algo.py" timestamp="1480024023932">
         <mark key="'" line="131" column="59" />
@@ -1358,8 +1358,8 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" timestamp="1491095855019">
-        <mark key="'" line="74" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" timestamp="1491097218104">
+        <mark key="'" line="97" column="16" />
         <mark key="[" line="80" column="13" />
         <mark key="]" line="82" column="27" />
         <mark key="." line="82" column="27" />
@@ -1725,8 +1725,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1491095897170">
-        <mark key="'" line="118" column="45" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1491096288867">
+        <mark key="'" line="28" column="45" />
         <mark key="[" line="19" column="50" />
         <mark key="]" line="21" column="23" />
         <mark key="^" line="21" column="23" />
@@ -1831,12 +1831,12 @@
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" timestamp="1490914574127">
-        <mark key="'" line="102" column="26" />
-        <mark key="[" line="105" column="23" />
-        <mark key="]" line="105" column="23" />
-        <mark key="." line="105" column="23" />
-        <mark key="^" line="105" column="23" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" timestamp="1491097143911">
+        <mark key="'" line="287" column="54" />
+        <mark key="[" line="287" column="57" />
+        <mark key="]" line="287" column="56" />
+        <mark key="." line="287" column="56" />
+        <mark key="^" line="287" column="56" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/core/layers_powered.py" timestamp="1479600250208">
         <mark key="'" line="5" column="20" />
@@ -2135,8 +2135,8 @@
       <file name="$USER_HOME$/git/rllab-rail/examples/vpg_1.py" timestamp="1490736320558">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1491096011982">
-        <mark key="'" line="176" column="28" />
+      <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1491097147594">
+        <mark key="'" line="379" column="4" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/nn_qfunction.py" timestamp="1480548619841">
         <mark key="'" line="25" column="42" />
@@ -2475,13 +2475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="119" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="85" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="96" column="67" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="38" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="75" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="80" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
@@ -2502,7 +2495,6 @@
       <jump line="31" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="68" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="71" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="70" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="5" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" />
       <jump line="196" column="72" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="39" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
@@ -2575,13 +2567,21 @@
       <jump line="153" column="19" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
       <jump line="178" column="17" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
       <jump line="733" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="28" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="287" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" />
+      <jump line="379" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" />
+      <jump line="84" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
+      <jump line="70" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
+      <jump line="97" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>target_policy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2FsbF9jZWxsID0gbGFtYmRhOiBjZWxsKGlucHV0Xywgc3RhdGUsIHNjb3BlPXZhcnNjb3BlKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2737,25 +2737,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>target_policy</text>
+        <text>, scope=varscope)</text>
       </register>
       <register name="/" type="4">
-        <text>scope</text>
+        <text>_save_rnn_cell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfdGFyZ2V0X3BvbGljeV92YWx1ZXMgPSBzZWxmLnRhcmdldF9wb2xpY3kuZ2V0X3BhcmFtX3ZhbHVlcygpCg==</text>
+        <text encoding="base64">ICAgICAgY2FsbF9jZWxsID0gbGFtYmRhOiBjZWxsKGlucHV0Xywgc3RhdGUsIHNjb3BlPXZhcnNjb3BlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJybm5fY2VsbCIpIGFzIHNlbGYuX3Jubl9jZWxsX3Njb3BlOgo=</text>
+        <text encoding="base64">ICAgICAgY2FsbF9jZWxsID0gbGFtYmRhOiBjZWxsKGlucHV0Xywgc3RhdGUsIHNjb3BlPXZhcnNjb3BlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlPQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJybm5fY2VsbCIpIGFzIHNlbGYuX3Jubl9jZWxsX3Njb3BlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlPQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2790,10 +2790,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKHNjb3BlKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKHNjb3BlKToK</text>
@@ -2802,7 +2802,7 @@
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJsc3RtIikgYXMgc2VsZi5fcm5uX2NlbGxfc2NvcGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKHNjb3BlKToK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6617,19 +6617,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJsc3RtIikgYXMgc2VsZi5fcm5uX2NlbGxfc2NvcGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3Jubl9jZWxsX3Njb3BlLnJldXNlX3ZhcmlhYmxlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scope</last-search>
+      <last-search>_save_rnn_cell</last-search>
       <last-offset />
-      <last-pattern>scope</last-pattern>
+      <last-pattern>_save_rnn_cell</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6637,9 +6637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>policy</entry>
-        <entry>__init</entry>
-        <entry>_init</entry>
         <entry>param</entry>
         <entry>ipdb</entry>
         <entry>pdb</entry>
@@ -6650,13 +6647,16 @@
         <entry>vs</entry>
         <entry>init_</entry>
         <entry>basic_</entry>
-        <entry>env_action_logit</entry>
         <entry>_LstmLinear</entry>
         <entry>cell</entry>
         <entry>varscope</entry>
-        <entry>call_cell</entry>
         <entry>init_target</entry>
         <entry>scope</entry>
+        <entry>output</entry>
+        <entry>env_action_logit</entry>
+        <entry>call_cell</entry>
+        <entry>Save</entry>
+        <entry>_save_rnn_cell</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
@@ -6675,9 +6675,9 @@
         <entry>w'</entry>
         <entry>101</entry>
         <entry>87</entry>
-        <entry>q</entry>
         <entry>21</entry>
         <entry>88</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
