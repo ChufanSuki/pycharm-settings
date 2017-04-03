@@ -58,4 +58,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="aa" value="$var$=$var$," description="Arguement assignment (same name" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
