@@ -1919,12 +1919,12 @@
         <mark key="." line="541" column="72" />
         <mark key="^" line="541" column="72" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491083762124">
-        <mark key="'" line="112" column="39" />
-        <mark key="[" line="104" column="56" />
-        <mark key="]" line="104" column="55" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491426593630">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
         <mark key="^" line="104" column="55" />
-        <mark key="." line="104" column="55" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1491412499997">
         <mark key="'" line="214" column="0" />
@@ -2266,7 +2266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="50" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="75" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="83" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
@@ -2366,13 +2365,14 @@
       <jump line="161" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="487" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
       <jump line="130" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2531,22 +2531,22 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>LstmMem</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgdG9wOiBIID0gNiwgbWVtb3J5IGRpbSA9IDEwMCAK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">MgoKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">MgoKICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgKyB0Zi5tYXRtdWwoaW5wdXRzLCBXX2lucHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2581,10 +2581,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiB0Zi5ubi5zb2Z0bWF4KGxvZ2l0cyksIG5leHRfc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgKyB0Zi5tYXRtdWwoaW5wdXRzLCBXX2lucHV0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXJubl9pbnB1dHMgPSB0Zi5jb25jYXQodmFsdWVzPShpbnB1dHMsIGVudl9hY3Rpb25fbG9naXQpLCBheGlzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiB0Zi5ubi5zb2Z0bWF4KGxvZ2l0cyksIG5leHRfc3RhdGUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXJubl9pbnB1dHMgPSB0Zi5jb25jYXQodmFsdWVzPShpbnB1dHMsIGVudl9hY3Rpb25fbG9naXQpLCBheGlzPTEpCg==</text>
@@ -2593,7 +2593,7 @@
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXJubl9pbnB1dHMgPSB0Zi5jb25jYXQodmFsdWVzPShpbnB1dHMsIGVudl9hY3Rpb25fbG9naXQpLCBheGlzPTEpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3235,19 +3235,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICsgdGYubWF0bXVsKGlucHV0cywgV19pbnB1dCkKICAgICAgICAgICAgICAgICAgICArIHRmLm1hdG11bChpcm5uX2lucHV0cywgV19pbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICsgdGYubWF0bXVsKGlucHV0cywgV19pbnB1dCkKICAgICAgICAgICAgICAgICAgICArIHRmLm1hdG11bChpcm5uX2lucHV0cywgV19pbnB1dCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LstmMem</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>LstmMem</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -3255,7 +3255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mlp</entry>
         <entry>linear(</entry>
         <entry>inputs</entry>
         <entry>IRnn</entry>
@@ -3275,6 +3274,7 @@
         <entry>b_state</entry>
         <entry>W_hidden</entry>
         <entry>LstmMem</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
