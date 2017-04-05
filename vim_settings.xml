@@ -1453,6 +1453,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="58" column="58" />
       </file>
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491426914073">
+        <mark key="a" line="211" column="29" />
+        <mark key="'" line="210" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/np_test_case.py" timestamp="1485821566821">
         <mark key="'" line="87" column="22" />
         <mark key="[" line="87" column="25" />
@@ -2017,20 +2021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="16" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="146" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="164" column="34" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="163" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="176" column="19" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="166" column="4" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="305" column="33" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="159" column="38" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="300" column="32" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="91" column="32" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="244" column="55" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="241" column="46" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="205" column="56" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
-      <jump line="162" column="20" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="150" column="29" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="387" column="13" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
       <jump line="308" column="31" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/main.py" />
@@ -2117,6 +2107,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesAgents.py" />
       <jump line="54" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/bayesAgents.py" />
       <jump line="25" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesNets2/factorOperations.py" />
+      <jump line="206" column="4" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="209" column="9" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="443" column="13" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="377" column="13" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="275" column="9" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="97" column="9" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="156" column="9" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="229" column="10" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="235" column="18" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="268" column="29" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="351" column="20" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
+      <jump line="210" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2174,7 +2178,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>CODE</text>
+        <text>wall_color</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVTdGF0ZS5nZXRQb3NzaWJsZUhvdXNlcygpLAo=</text>
@@ -6061,9 +6065,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CODE</last-search>
+      <last-search>wall_color</last-search>
       <last-offset />
-      <last-pattern>CODE</last-pattern>
+      <last-pattern>wall_color</last-pattern>
       <last-replace>exp_id</last-replace>
       <last-substitute>exp_count</last-substitute>
       <last-dir>1</last-dir>
@@ -6071,9 +6075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_bucket</entry>
-        <entry>key_name</entry>
-        <entry>docker</entry>
         <entry>aws</entry>
         <entry>script</entry>
         <entry>LOCAL_CODE</entry>
@@ -6091,6 +6092,9 @@
         <entry>factorOperators</entry>
         <entry>Yout</entry>
         <entry>CODE</entry>
+        <entry>YOUR CODE</entry>
+        <entry>actual_pos</entry>
+        <entry>wall_color</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
