@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1491687867072">
+      <file name="/start_script.py" timestamp="1491688052985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
@@ -2703,8 +2703,8 @@
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG51bV9leHRyYV9xZl91cGRhdGVzID0gNAo=</text>
+      <register name="&quot;" type="4">
+        <text>ImportError: libcudart.so.8.0: cannot open shared object file: No such file or directory</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3583,7 +3583,7 @@
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
