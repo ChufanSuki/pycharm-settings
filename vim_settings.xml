@@ -603,6 +603,9 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" timestamp="1491856800948">
+        <mark key="'" line="2607" column="4" />
+      </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/run_dqn_ram.py" timestamp="1488816710729">
         <mark key="'" line="75" column="0" />
       </file>
@@ -2407,12 +2410,11 @@
         <mark key="." line="18" column="58" />
         <mark key="^" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" timestamp="1491855425904">
-        <mark key="'" line="561" column="32" />
-        <mark key="[" line="579" column="0" />
-        <mark key="]" line="579" column="39" />
-        <mark key="^" line="579" column="39" />
-        <mark key="." line="579" column="39" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" timestamp="1491856894020">
+        <mark key="[" line="593" column="0" />
+        <mark key="]" line="593" column="0" />
+        <mark key="^" line="591" column="40" />
+        <mark key="." line="593" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_tensorflow.py" timestamp="1479783738233">
         <mark key="'" line="52" column="0" />
@@ -2591,10 +2593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="196" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="308" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="336" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="79" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="135" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="208" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2691,13 +2689,17 @@
       <jump line="358" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" />
       <jump line="334" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" />
       <jump line="561" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
+      <jump line="2607" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+      <jump line="2611" column="32" filename="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+      <jump line="596" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
+      <jump line="595" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0Zi5laW5zdW0oJ2lqLGlqLT5pJywgeHMsIHlzKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETyh2aXRjaHlyKTogRmxhdHRlbgogICAgdGYucmVzaGFwZQogICAgdGYuZmxhdHRlbgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -4957,25 +4959,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>expected</text>
+        <text>dim</text>
       </register>
       <register name="/" type="4">
-        <text>matrix</text>
+        <text>None</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChleHBlY3RlZCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0Zi5sb3NzZXMuY29zaW5lX2Rpc3RhbmNlKG5vcm1feCwgbm9ybV95LCBkaW09ZGltKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChleHBlY3RlZCkKICAgICAgICBwcmludChjKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETyh2aXRjaHlyKTogRmxhdHRlbgogICAgdGYucmVzaGFwZQogICAgdGYuZmxhdHRlbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyh2aXRjaHlyKTogRmxhdHRlbgogICAgdGYucmVzaGFwZQogICAgdGYuZmxhdHRlbgogICAgcmV0dXJuIGJhdGNoX2RvdF9wcm9kdWN0KG5vcm1feCwgbm9ybV95KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pdF9vcmFjbGVfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShvcmFjbGVfZ3JhZCwgZGltPTEpCiAgICAgICAgICAgIHVuaXRfcWZfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShxZl9ncmFkLCBkaW09MSkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBkaW06IERpbWVuc2lvbiBhbG9uZyB3aGljaCB0byBjb21wdXRlIHRoZSAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5010,22 +5012,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuaXRfb3JhY2xlX2dyYWQK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0Zi5sb3NzZXMuY29zaW5lX2Rpc3RhbmNlKG5vcm1feCwgbm9ybV95LCBkaW09ZGltKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-                unit_qf_grad,
-                dim=1,
-            ))</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChleHBlY3RlZCkKICAgICAgICBwcmludChjKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdyYWRfZGlzdGFuY2UgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JhY2xlX2dyYWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgICAgICAgICBzZWxmLm9yYWNsZV9xZi5vdXRwdXQsCiAgICAgICAgICAgICAgICBwb2xpY3lfb3V0cHV0LAogICAgICAgICAgICApWzBdCiAgICAgICAgICAgIHFmX2dyYWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgICAgICAgICBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm91dHB1dCwKICAgICAgICAgICAgICAgIGZpbmFsX2FjdGlvbiwKICAgICAgICAgICAgKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pdF9vcmFjbGVfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShvcmFjbGVfZ3JhZCwgZGltPTEpCiAgICAgICAgICAgIHVuaXRfcWZfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShxZl9ncmFkLCBkaW09MSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6065,27 +6064,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuaXRfb3JhY2xlX2dyYWQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="9" type="4">
+        <text>,
+                unit_qf_grad,
+                dim=1,
+            ))</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>matrix</last-search>
+      <last-search>None</last-search>
       <last-offset />
-      <last-pattern>matrix</last-pattern>
+      <last-pattern>None</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>keep_dim</entry>
         <entry>ipd</entry>
         <entry>oracle</entry>
         <entry>regress</entry>
@@ -6105,6 +6106,7 @@
         <entry>matmul</entry>
         <entry>batch</entry>
         <entry>matrix</entry>
+        <entry>None</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
