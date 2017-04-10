@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1491775949705">
+      <file name="/start_script.py" timestamp="1491851156617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
@@ -1271,12 +1271,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" timestamp="1491099304414">
         <mark key="'" line="756" column="21" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" timestamp="1491850278926">
-        <mark key="'" line="358" column="9" />
-        <mark key="[" line="370" column="27" />
-        <mark key="]" line="370" column="43" />
-        <mark key="^" line="370" column="43" />
-        <mark key="." line="370" column="43" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" timestamp="1491851716143">
+        <mark key="'" line="334" column="27" />
+        <mark key="[" line="368" column="32" />
+        <mark key="]" line="368" column="33" />
+        <mark key="." line="368" column="33" />
+        <mark key="^" line="368" column="34" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/predictors/state_function.py" timestamp="1479762788279">
         <mark key="'" line="37" column="12" />
@@ -2119,7 +2119,7 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" timestamp="1489717493653">
         <mark key="'" line="377" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1490918097303">
+      <file name="/Python Console" timestamp="1491851341570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/algos/noop_algo.py" timestamp="1487914710926">
@@ -2328,6 +2328,7 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" timestamp="1491092786565">
         <mark key="'" line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_state_network.py" timestamp="1491851444229" />
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/policies/deterministic_mlp_policy.py" timestamp="1486666375710">
         <mark key="'" line="68" column="8" />
       </file>
@@ -2590,7 +2591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="217" column="94" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="219" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="196" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
@@ -2690,13 +2690,14 @@
       <jump line="412" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/tf_util.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" />
       <jump line="358" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" />
+      <jump line="334" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tf_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>assertNpAlmostEqual</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChleHBlY3RlZCkKICAgICAgICBwcmludChjKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -4956,25 +4957,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>assertNpAlmostEqual</text>
+        <text>expected</text>
       </register>
       <register name="/" type="4">
         <text>matrix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4cyA9IG5wLmFycmF5KFsKICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICBbMiwgM10sCiAgICAgICAgXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChleHBlY3RlZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChleHBlY3RlZCkKICAgICAgICBwcmludChjKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pdF9vcmFjbGVfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShvcmFjbGVfZ3JhZCwgZGltPTEpCiAgICAgICAgICAgIHVuaXRfcWZfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShxZl9ncmFkLCBkaW09MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuaXRfb3JhY2xlX2dyYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pdF9vcmFjbGVfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShvcmFjbGVfZ3JhZCwgZGltPTEpCiAgICAgICAgICAgIHVuaXRfcWZfZ3JhZCA9IHRmLm5uLmwyX25vcm1hbGl6ZShxZl9ncmFkLCBkaW09MSkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5008,23 +5009,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuaXRfb3JhY2xlX2dyYWQK</text>
+      </register>
+      <register name="5" type="4">
         <text>,
                 unit_qf_grad,
                 dim=1,
             ))</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdyYWRfZGlzdGFuY2UgPSBbXQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JhY2xlX2dyYWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgICAgICAgICBzZWxmLm9yYWNsZV9xZi5vdXRwdXQsCiAgICAgICAgICAgICAgICBwb2xpY3lfb3V0cHV0LAogICAgICAgICAgICApWzBdCiAgICAgICAgICAgIHFmX2dyYWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgICAgICAgICBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm91dHB1dCwKICAgICAgICAgICAgICAgIGZpbmFsX2FjdGlvbiwKICAgICAgICAgICAgKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdyYWRfZGlzdGFuY2UgPSBbXQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JhY2xlX2dyYWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgICAgICAgICBzZWxmLm9yYWNsZV9xZi5vdXRwdXQsCiAgICAgICAgICAgICAgICBwb2xpY3lfb3V0cHV0LAogICAgICAgICAgICApWzBdCiAgICAgICAgICAgIHFmX2dyYWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgICAgICAgICBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm91dHB1dCwKICAgICAgICAgICAgICAgIGZpbmFsX2FjdGlvbiwKICAgICAgICAgICAgKVswXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6066,8 +6067,8 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6080,7 +6081,7 @@
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
