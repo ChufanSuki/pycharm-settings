@@ -64,4 +64,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="selfv" value="self.$var$ = $var$" description="self.v = v assignment" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
