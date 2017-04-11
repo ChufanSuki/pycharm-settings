@@ -288,11 +288,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_qfunction.py" timestamp="1491779715350">
         <mark key="'" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1491685602690">
+      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1491931662393">
         <mark key="'" line="539" column="22" />
-        <mark key="[" line="540" column="0" />
-        <mark key="]" line="540" column="0" />
-        <mark key="." line="540" column="0" />
+        <mark key="[" line="540" column="4" />
+        <mark key="]" line="541" column="19" />
+        <mark key="." line="541" column="19" />
+        <mark key="^" line="541" column="19" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/csv.py" timestamp="1490040698743">
         <mark key="'" line="116" column="28" />
@@ -504,13 +505,13 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1491882882969">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1491930873646">
         <mark key="a" line="100" column="4" />
         <mark key="'" line="203" column="6" />
-        <mark key="[" line="196" column="18" />
-        <mark key="]" line="196" column="19" />
-        <mark key="." line="196" column="19" />
-        <mark key="^" line="186" column="48" />
+        <mark key="[" line="186" column="44" />
+        <mark key="]" line="186" column="58" />
+        <mark key="." line="186" column="58" />
+        <mark key="^" line="186" column="58" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -2228,12 +2229,12 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491601357529">
         <mark key="'" line="265" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1491882699917">
-        <mark key="'" line="238" column="12" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="8" />
-        <mark key="." line="276" column="8" />
-        <mark key="^" line="276" column="15" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1491931068095">
+        <mark key="'" line="315" column="37" />
+        <mark key="[" line="396" column="57" />
+        <mark key="]" line="396" column="69" />
+        <mark key="." line="396" column="69" />
+        <mark key="^" line="396" column="69" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/examples/vpg_1.py" timestamp="1490736320558">
         <mark key="'" line="56" column="0" />
@@ -2598,7 +2599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="335" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="253" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="256" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
@@ -2651,7 +2651,6 @@
       <jump line="270" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="278" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
-      <jump line="289" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="346" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="363" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
       <jump line="364" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
@@ -2698,13 +2697,15 @@
       <jump line="19" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="35" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="98" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="289" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
+      <jump line="315" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-gradient-works&quot;</text>
+        <text>ip</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -4964,25 +4965,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>-gradient-works&quot;</text>
+        <text>ip</text>
       </register>
       <register name="/" type="4">
-        <text>init_tenso</text>
+        <text>create_loss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfZ3JhZF9kaXN0YW5jZV93ZWlnaHQ9MS4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGlzdGljcy51cGRhdGUoCiAgICAgICAgICAgICAgICB7J3t9X01TRV9Mb3NzJy5mb3JtYXQoc3RhdF9iYXNlX25hbWUpOiBxZl9sb3NzfSwKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdyZXNzX3BhcmFtcyA9IHZhcmEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpcGRhCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnFmX3RvdGFsX2xvc3MgPSBzZWxmLnFmX2xvc3MKICAgICAgICBpZiBzZWxmLnFmX3dlaWdodF9kZWNheSA+PSAwLjoKICAgICAgICAgICAgc2VsZi5xZl90b3RhbF9sb3NzICs9IHNlbGYucWZfd2VpZ2h0X2RlY2F5ICogc2VsZi5RX3dlaWdodHNfbm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICByZWdyZXNzX3BhcmFtcyA9IHZhcmEK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5017,19 +5018,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpcGRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudl9ncmFkX2Rpc3RhbmNlID0gZW52X2dyYWRfZGlzdGFuY2UK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnFmX3RvdGFsX2xvc3MgPSBzZWxmLnFmX2xvc3MKICAgICAgICBpZiBzZWxmLnFmX3dlaWdodF9kZWNheSA+PSAwLjoKICAgICAgICAgICAgc2VsZi5xZl90b3RhbF9sb3NzICs9IHNlbGYucWZfd2VpZ2h0X2RlY2F5ICogc2VsZi5RX3dlaWdodHNfbm9ybQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSB0Zi5yZWR1Y2VfbWVhbihzZWxmLmdyYWRfZGlzdGFuY2VbMV0pICogMTAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSB0Zi5yZWR1Y2VfbWVhbihzZWxmLmdyYWRfZGlzdGFuY2VbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudl9ncmFkX2Rpc3RhbmNlID0gZW52X2dyYWRfZGlzdGFuY2UK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6069,19 +6070,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSB0Zi5yZWR1Y2VfbWVhbihzZWxmLmdyYWRfZGlzdGFuY2VbMV0pICogMTAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5xZl9sb3NzICsgc2VsZi5xZl93ZWlnaHRfZGVjYXkgKiBzZWxmLlFfd2VpZ2h0c19ub3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSB0Zi5yZWR1Y2VfbWVhbihzZWxmLmdyYWRfZGlzdGFuY2VbMF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init_tenso</last-search>
+      <last-search>create_loss</last-search>
       <last-offset />
-      <last-pattern>init_tenso</last-pattern>
+      <last-pattern>create_loss</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6089,12 +6090,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qf_tolerance</entry>
-        <entry>total_loss</entry>
-        <entry>qf_loss</entry>
-        <entry>rnn</entry>
-        <entry>LSTM</entry>
-        <entry>ndlstm</entry>
         <entry>lstm</entry>
         <entry>Basic</entry>
         <entry>forget_Bias</entry>
@@ -6109,6 +6104,12 @@
         <entry>tolerance</entry>
         <entry>init_tensorflow</entry>
         <entry>init_tenso</entry>
+        <entry>ipd</entry>
+        <entry>loss</entry>
+        <entry>Qf</entry>
+        <entry>Loss</entry>
+        <entry>_Loss</entry>
+        <entry>create_loss</entry>
       </history-search>
       <history-cmd>
         <entry>/regress</entry>
@@ -6118,7 +6119,6 @@
         <entry>200</entry>
         <entry>213</entry>
         <entry>146</entry>
-        <entry>542</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>312</entry>
         <entry>84</entry>
@@ -6130,6 +6130,7 @@
         <entry>262</entry>
         <entry>bp|bd #</entry>
         <entry>q</entry>
+        <entry>542</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
