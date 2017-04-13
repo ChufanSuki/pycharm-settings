@@ -504,12 +504,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492121419518">
-        <mark key="'" line="241" column="27" />
-        <mark key="[" line="99" column="25" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-        <mark key="^" line="241" column="27" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492122899055">
+        <mark key="'" line="95" column="19" />
+        <mark key="[" line="100" column="35" />
+        <mark key="]" line="100" column="36" />
+        <mark key="." line="100" column="36" />
+        <mark key="^" line="101" column="41" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -2665,12 +2665,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="327" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="102" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="240" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="236" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="225" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="79" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="133" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="19" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" />
@@ -2759,12 +2755,16 @@
       <jump line="36" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="71" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="85" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="99" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="63" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="105" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="44" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/ou_strategy.py" />
       <jump line="241" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="225" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="100" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/gaussian_strategy.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/onehot_sampler.py" />
+      <jump line="95" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5034,7 +5034,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>0.5</text>
+        <text>decay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZ3JhZF9kaXN0YW5jZS5hcHBlbmQodGZfdXRpbC5jb3NpbmUob3JhY2xlX2dyYWQsIHFmX2dyYWQpKQogICAgICAgICAgICAgICAgc2VsZi5ncmFkX21zZS5hcHBlbmQodGZfdXRpbC5tc2Uob3JhY2xlX2dyYWQsIHFmX2dyYWQsIGF4aXM9MSkpCg==</text>
@@ -6146,9 +6146,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0.5</last-search>
+      <last-search>decay</last-search>
       <last-offset />
-      <last-pattern>0.5</last-pattern>
+      <last-pattern>decay</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6156,7 +6156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>should_train</entry>
         <entry>0.25</entry>
         <entry>OUS</entry>
         <entry>OU</entry>
@@ -6176,6 +6175,7 @@
         <entry encoding="base64">ID0gNQ==</entry>
         <entry>theta</entry>
         <entry>0.5</entry>
+        <entry>decay</entry>
       </history-search>
       <history-cmd>
         <entry>84</entry>
