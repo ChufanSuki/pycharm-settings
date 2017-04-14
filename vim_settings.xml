@@ -499,12 +499,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492209400079">
-        <mark key="'" line="22" column="59" />
-        <mark key="[" line="331" column="21" />
-        <mark key="]" line="331" column="22" />
-        <mark key="^" line="332" column="23" />
-        <mark key="." line="331" column="22" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492210627660">
+        <mark key="'" line="89" column="41" />
+        <mark key="[" line="339" column="31" />
+        <mark key="]" line="339" column="35" />
+        <mark key="^" line="339" column="35" />
+        <mark key="." line="339" column="35" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -2603,17 +2603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="244" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/sweep_regress.py" />
-      <jump line="430" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="453" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="234" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="457" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="435" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="60" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" />
-      <jump line="92" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" />
-      <jump line="121" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" />
       <jump line="177" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" />
       <jump line="183" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" />
       <jump line="184" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" />
@@ -2703,13 +2692,24 @@
       <jump line="36" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="52" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="72" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="311" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="436" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="437" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="442" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="443" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="85" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="86" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="87" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="88" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="89" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -4969,10 +4969,10 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>optimize_simul</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wb2xpY3lfc3Vycm9nYXRlX2xvc3MgKyBzZWxmLnFmX2xvc3MsCg==</text>
@@ -6084,9 +6084,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optimize_simul</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>optimize_simul</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6094,8 +6094,6 @@
     </search>
     <history>
       <history-search>
-        <entry>verbose</entry>
-        <entry>OUT</entry>
         <entry>OUI</entry>
         <entry>OU</entry>
         <entry>log</entry>
@@ -6114,6 +6112,8 @@
         <entry>qf</entry>
         <entry>qf_with_action</entry>
         <entry>optimize_simul</entry>
+        <entry>es_params</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
@@ -6132,9 +6132,9 @@
         <entry>'w</entry>
         <entry>418</entry>
         <entry>235</entry>
-        <entry>q</entry>
         <entry>w'</entry>
         <entry>74</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
