@@ -2504,8 +2504,12 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" timestamp="1492303154579">
-        <mark key="'" line="73" column="26" />
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" timestamp="1492306034971">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="40" />
+        <mark key="]" line="87" column="41" />
+        <mark key="." line="87" column="41" />
+        <mark key="^" line="87" column="37" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" timestamp="1487915467011">
         <mark key="'" line="219" column="38" />
@@ -2519,7 +2523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_network.py" />
       <jump line="8" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_network.py" />
       <jump line="9" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
       <jump line="69" column="75" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" />
@@ -2616,9 +2619,10 @@
       <jump line="58" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/factorOperations.py" />
       <jump line="37" column="4" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
       <jump line="123" column="13" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="73" column="26" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
       <jump line="81" column="21" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
-      <jump line="73" column="26" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2657,8 +2661,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2814,13 +2818,13 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>YOUR</text>
+        <text>YOUR CODE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIGZhY3RvcnM6CiAgICAgICAgZm9yIHggaW4gZi52YXJpYWJsZURvbWFpbnNEaWN0KCk6CiAgICAgICAgICAgIGFsbFZhcmlhYmxlcy5hZGQoeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLndlaWdodHNbeV0gKz0geAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
@@ -6704,9 +6708,9 @@
       </register>
     </registers>
     <search>
-      <last-search>YOUR</last-search>
+      <last-search>YOUR CODE</last-search>
       <last-offset />
-      <last-pattern>YOUR</last-pattern>
+      <last-pattern>YOUR CODE</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6716,7 +6720,6 @@
       <history-search>
         <entry>fillObs</entry>
         <entry>elminiate</entry>
-        <entry>YOUR CODE</entry>
         <entry>factorE</entry>
         <entry>eliminate</entry>
         <entry>def eliminate</entry>
@@ -6734,6 +6737,7 @@
         <entry>def join</entry>
         <entry>TODO</entry>
         <entry>YOUR</entry>
+        <entry>YOUR CODE</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
