@@ -2504,6 +2504,9 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="30" column="34" />
       </file>
+      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" timestamp="1492303154579">
+        <mark key="'" line="73" column="26" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" timestamp="1487915467011">
         <mark key="'" line="219" column="38" />
         <mark key="[" line="276" column="34" />
@@ -2516,11 +2519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" />
-      <jump line="41" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/hint_mlp_memory_qfunction.py" />
-      <jump line="58" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" />
-      <jump line="46" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_network.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_network.py" />
       <jump line="8" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_network.py" />
       <jump line="9" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/neuralnet.py" />
@@ -2616,6 +2614,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/factorOperations.py" />
       <jump line="21" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/factorOperations.py" />
       <jump line="58" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/factorOperations.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="123" column="13" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="81" column="21" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="73" column="26" filename="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2814,7 +2817,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>def join</text>
+        <text>YOUR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBmIGluIGZhY3RvcnM6CiAgICAgICAgZm9yIHggaW4gZi52YXJpYWJsZURvbWFpbnNEaWN0KCk6CiAgICAgICAgICAgIGFsbFZhcmlhYmxlcy5hZGQoeCkK</text>
@@ -6701,9 +6704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def join</last-search>
+      <last-search>YOUR</last-search>
       <last-offset />
-      <last-pattern>def join</last-pattern>
+      <last-pattern>YOUR</last-pattern>
       <last-replace>num_evals</last-replace>
       <last-substitute>max_evals</last-substitute>
       <last-dir>1</last-dir>
@@ -6711,8 +6714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inferenceBy</entry>
-        <entry>joinFactorsByVariable</entry>
         <entry>fillObs</entry>
         <entry>elminiate</entry>
         <entry>YOUR CODE</entry>
@@ -6731,6 +6732,8 @@
         <entry>fillOb</entry>
         <entry>fillY</entry>
         <entry>def join</entry>
+        <entry>TODO</entry>
+        <entry>YOUR</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
