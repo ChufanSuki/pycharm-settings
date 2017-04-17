@@ -2618,6 +2618,9 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1492400873118">
+        <mark key="'" line="182" column="17" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" timestamp="1491347428362">
         <mark key="'" line="30" column="53" />
         <mark key="[" line="31" column="41" />
@@ -2627,12 +2630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="136" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="137" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="139" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="146" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="149" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="152" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="156" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="86" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2727,6 +2724,12 @@
       <jump line="76" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/dataClassifier.py" />
       <jump line="196" column="46" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/dataClassifier.py" />
+      <jump line="47" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="84" column="13" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="110" column="13" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="162" column="46" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="175" column="13" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="182" column="17" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4996,7 +4999,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>find_high_we</text>
+        <text>YOUR CODE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi55cyA9ICgKICAgICAgICAgICAgICAgIHNlbGYucmV3YXJkc19wbGFjZWhvbGRlciArCiAgICAgICAgICAgICAgICAoMS4gLSBzZWxmLnRlcm1pbmFsc19wbGFjZWhvbGRlcikKICAgICAgICAgICAgICAgICogc2VsZi5kaXNjb3VudAogICAgICAgICAgICAgICAgKiBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm91dHB1dAogICAgICAgICAgICApCiAgICAgICAgICAgIHJldHVybiB0Zi5zcXVlZXplKHRmX3V0aWwubXNlKHNlbGYueXMsIHNlbGYucWYub3V0cHV0KSkK</text>
@@ -6108,9 +6111,9 @@
       </register>
     </registers>
     <search>
-      <last-search>find_high_we</last-search>
+      <last-search>YOUR CODE</last-search>
       <last-offset />
-      <last-pattern>find_high_we</last-pattern>
+      <last-pattern>YOUR CODE</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6118,7 +6121,6 @@
     </search>
     <history>
       <history-search>
-        <entry>es_params</entry>
         <entry>asdf</entry>
         <entry>qf_loss</entry>
         <entry>qf_with_action_input</entry>
@@ -6138,6 +6140,7 @@
         <entry>next_obs</entry>
         <entry>last_obs</entry>
         <entry>find_high_we</entry>
+        <entry>YOUR CODE</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
