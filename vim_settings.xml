@@ -4999,7 +4999,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>YOUR CODE</text>
+        <text>q9</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi55cyA9ICgKICAgICAgICAgICAgICAgIHNlbGYucmV3YXJkc19wbGFjZWhvbGRlciArCiAgICAgICAgICAgICAgICAoMS4gLSBzZWxmLnRlcm1pbmFsc19wbGFjZWhvbGRlcikKICAgICAgICAgICAgICAgICogc2VsZi5kaXNjb3VudAogICAgICAgICAgICAgICAgKiBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm91dHB1dAogICAgICAgICAgICApCiAgICAgICAgICAgIHJldHVybiB0Zi5zcXVlZXplKHRmX3V0aWwubXNlKHNlbGYueXMsIHNlbGYucWYub3V0cHV0KSkK</text>
@@ -6111,9 +6111,9 @@
       </register>
     </registers>
     <search>
-      <last-search>YOUR CODE</last-search>
+      <last-search>q9</last-search>
       <last-offset />
-      <last-pattern>YOUR CODE</last-pattern>
+      <last-pattern>q9</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6121,7 +6121,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
         <entry>qf_loss</entry>
         <entry>qf_with_action_input</entry>
         <entry>ipd</entry>
@@ -6141,6 +6140,7 @@
         <entry>last_obs</entry>
         <entry>find_high_we</entry>
         <entry>YOUR CODE</entry>
+        <entry>q9</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
