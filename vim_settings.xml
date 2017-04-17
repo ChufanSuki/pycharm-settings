@@ -101,12 +101,6 @@
         <mark key="." line="234" column="78" />
         <mark key="^" line="234" column="78" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/simple_gaussian_strategy.py" timestamp="1491935072841">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487802119256">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="520" column="0" />
@@ -531,12 +525,6 @@
       <file name="$USER_HOME$/git/rllab-rail-private/sandbox/rocky/tf/core/layers.py" timestamp="1486666334656">
         <mark key="'" line="658" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/action_aware_bptt_ddpg.py" timestamp="1492191066071">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="79" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py" timestamp="1489101398775">
         <mark key="'" line="2795" column="18" />
       </file>
@@ -603,6 +591,12 @@
         <mark key="]" line="55" column="26" />
         <mark key="." line="55" column="26" />
         <mark key="^" line="54" column="66" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/onehot_sampler.py" timestamp="1492139658087">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/linear_qfunction.py" timestamp="1486962668048">
         <mark key="'" line="35" column="19" />
@@ -1027,6 +1021,9 @@
         <mark key="]" line="23" column="44" />
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/dataClassifier.py" timestamp="1492399404119">
+        <mark key="'" line="196" column="46" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/main.py" timestamp="1484428854300">
         <mark key="'" line="285" column="0" />
@@ -1659,6 +1656,12 @@
         <mark key="]" line="87" column="26" />
         <mark key="^" line="87" column="26" />
         <mark key="." line="87" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/answers.py" timestamp="1492399514796">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/exploration_strategies/ou_strategy.py" timestamp="1487137066232">
         <mark key="'" line="58" column="8" />
@@ -2624,8 +2627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="134" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="135" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="136" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="137" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
@@ -2724,6 +2725,8 @@
       <jump line="191" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="196" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="76" column="18" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/dataClassifier.py" />
+      <jump line="196" column="46" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/dataClassifier.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4993,7 +4996,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>last_obs</text>
+        <text>find_high_we</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi55cyA9ICgKICAgICAgICAgICAgICAgIHNlbGYucmV3YXJkc19wbGFjZWhvbGRlciArCiAgICAgICAgICAgICAgICAoMS4gLSBzZWxmLnRlcm1pbmFsc19wbGFjZWhvbGRlcikKICAgICAgICAgICAgICAgICogc2VsZi5kaXNjb3VudAogICAgICAgICAgICAgICAgKiBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0Lm91dHB1dAogICAgICAgICAgICApCiAgICAgICAgICAgIHJldHVybiB0Zi5zcXVlZXplKHRmX3V0aWwubXNlKHNlbGYueXMsIHNlbGYucWYub3V0cHV0KSkK</text>
@@ -6105,9 +6108,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last_obs</last-search>
+      <last-search>find_high_we</last-search>
       <last-offset />
-      <last-pattern>last_obs</last-pattern>
+      <last-pattern>find_high_we</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6115,7 +6118,6 @@
     </search>
     <history>
       <history-search>
-        <entry>optimize_simul</entry>
         <entry>es_params</entry>
         <entry>asdf</entry>
         <entry>qf_loss</entry>
@@ -6135,6 +6137,7 @@
         <entry>_qf_feed_dict</entry>
         <entry>next_obs</entry>
         <entry>last_obs</entry>
+        <entry>find_high_we</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
