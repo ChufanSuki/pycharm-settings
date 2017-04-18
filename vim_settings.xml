@@ -339,8 +339,8 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" timestamp="1492535987665">
-        <mark key="'" line="67" column="8" />
+      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" timestamp="1492557286869">
+        <mark key="'" line="84" column="4" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487214463080">
         <mark key="'" line="99" column="22" />
@@ -2646,8 +2646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="280" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="281" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="282" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="288" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2746,6 +2744,8 @@
       <jump line="22" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="34" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="100" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
+      <jump line="84" column="4" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5015,7 +5015,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>oracle_qf</text>
+        <text>bindings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXdhcmQgPSBOb25lCg==</text>
@@ -6127,9 +6127,9 @@
       </register>
     </registers>
     <search>
-      <last-search>oracle_qf</last-search>
+      <last-search>bindings</last-search>
       <last-offset />
-      <last-pattern>oracle_qf</last-pattern>
+      <last-pattern>bindings</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6137,7 +6137,6 @@
     </search>
     <history>
       <history-search>
-        <entry>num_values</entry>
         <entry>env_spec</entry>
         <entry>qf =</entry>
         <entry>env</entry>
@@ -6145,7 +6144,6 @@
         <entry>map_keyboard</entry>
         <entry>limb</entry>
         <entry>set_j</entry>
-        <entry>bindings</entry>
         <entry>prior_sigma</entry>
         <entry>qf_total_loss</entry>
         <entry>regress</entry>
@@ -6157,6 +6155,8 @@
         <entry>create_loss</entry>
         <entry>create</entry>
         <entry>oracle_qf</entry>
+        <entry>left</entry>
+        <entry>bindings</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
