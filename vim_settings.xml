@@ -2396,12 +2396,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1487121091938">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492638405237">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="16" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492638431776">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/json_to_yaml.py" timestamp="1486583488726">
         <mark key="'" line="9" column="0" />
@@ -2756,7 +2756,7 @@
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>H</text>
+        <text>([</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5016,7 +5016,7 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text>([</text>
       </register>
       <register name="/" type="4">
         <text>7</text>
@@ -5025,7 +5025,7 @@
         <text encoding="base64">Sk9JTlRfQU5HTEVTX0hJR0ggPSBucC5hcnJheShbCiAgICAtMS43MDE2Nzk5NSwgLTIuMTQ3MDAwMjUsIC0zLjA1NDE4MDEgLCAtMC4wNDk5NTE5OCwgLTMuMDU5MDAwMTUsCiAgICAgICAtMS41NzA4MDAzICwgLTMuMDU4OTk5ODkKXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
+        <text encoding="base64">ICAgIC0xLjcwMTY3OTk1LCAtMi4xNDcwMDAyNSwgLTMuMDU0MTgwMSAsIC0wLjA0OTk1MTk4LCAtMy4wNTkwMDAxNSwKICAgICAgIC0xLjU3MDgwMDMgLCAtMy4wNTg5OTk4OQpdKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5034,7 +5034,7 @@
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5069,19 +5069,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3NweS53YWl0X2Zvcl9zZXJ2aWNlKCdhZGRfdHdvX2ludHMnKQogICAgICAgIHNlbGYuYWRkX3R3b19pbnRzID0gcm9zcHkuU2VydmljZVByb3h5KCdhZGRfdHdvX2ludHMnLCBBZGRUd29JbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSAyMAo=</text>
+        <text encoding="base64">ICAgICAgICByb3NweS53YWl0X2Zvcl9zZXJ2aWNlKCdhZGRfdHdvX2ludHMnKQogICAgICAgIHNlbGYuYWRkX3R3b19pbnRzID0gcm9zcHkuU2VydmljZVByb3h5KCdhZGRfdHdvX2ludHMnLCBBZGRUd29JbnRzKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6121,10 +6121,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSByb3NweS5SYXRlKHNlbGYuKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSAyMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSByb3NweS5SYXRlKHNlbGYuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
