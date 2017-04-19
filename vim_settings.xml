@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1492535794652">
+      <file name="/start_script.py" timestamp="1492570956069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
@@ -327,17 +327,18 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" timestamp="1492562749155">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
+      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" timestamp="1492572123902">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" timestamp="1492567856196">
-        <mark key="'" line="36" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="156" column="9" />
+      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" timestamp="1492571558413">
+        <mark key="'" line="77" column="8" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="43" column="40" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487214463080">
         <mark key="'" line="99" column="22" />
@@ -376,6 +377,9 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1491169349654">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" timestamp="1492571405732">
+        <mark key="'" line="139" column="65" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/noop_algo.py" timestamp="1478629091758">
         <mark key="'" line="66" column="21" />
@@ -2329,6 +2333,11 @@
         <mark key="." line="117" column="3" />
         <mark key="^" line="117" column="3" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" timestamp="1492572014842">
+        <mark key="'" line="313" column="38" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="26" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/predictors/state_network.py" timestamp="1487291447868">
         <mark key="'" line="10" column="20" />
         <mark key="[" line="52" column="0" />
@@ -2641,21 +2650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="116" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="135" column="33" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="151" column="4" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/envs/base.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/envs/base.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/envs/base.py" />
-      <jump line="51" column="27" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="68" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="69" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="70" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="75" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="76" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="77" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
       <jump line="78" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
       <jump line="79" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
       <jump line="122" column="4" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
@@ -2731,7 +2725,6 @@
       <jump line="8" column="39" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
       <jump line="9" column="11" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
       <jump line="41" column="10" filename="$USER_HOME$/git/rllab-rail/rllab/envs/base.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
       <jump line="107" column="0" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
       <jump line="81" column="0" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
       <jump line="36" column="7" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
@@ -2741,13 +2734,29 @@
       <jump line="307" column="10" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
       <jump line="353" column="15" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/robot_enable.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
+      <jump line="20" column="33" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
+      <jump line="856" column="8" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="140" column="43" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="619" column="48" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="830" column="8" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="837" column="27" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="84" column="16" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="139" column="65" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
+      <jump line="50" column="30" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
+      <jump line="82" column="29" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
+      <jump line="313" column="38" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5007,25 +5016,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>current_positions[joint_name]</text>
       </register>
       <register name="/" type="4">
-        <text>except</text>
+        <text>joint_angles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBiZWdpbm5lcl90dXRvcmlhbHMuc3J2IGltcG9ydCBBZGRUd29JbnRzLCBBZGRUd29JbnRzUmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRfcG9zaXRpb25zLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjYWNoZWRfcHJvcGVydHkKICAgIGRlZiBzcGVjKHNlbGYpOgogICAgICAgIHJldHVybiBFbnZTcGVjKAogICAgICAgICAgICBvYnNlcnZhdGlvbl9zcGFjZT1zZWxmLm9ic2VydmF0aW9uX3NwYWNlLAogICAgICAgICAgICBhY3Rpb25fc3BhY2U9c2VsZi5hY3Rpb25fc3BhY2UsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9pbnRfbmFtZTogY3VycmVudF9wb3MgKyBkZWx0YXMKICAgICAgICAgICAgZm9yIGpvaW50X25hbWUsIGN1cnJlbnRfcG9zLCBkZWx0YSBpbiB6aXAoCiAgICAgICAgICAgICAgICBqb2ludF9uYW1lcywKICAgICAgICAgICAgICAgIGN1cnJlbnRfcG9zaXRpb25zLAogICAgICAgICAgICAgICAgZGVsdGFzLAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpfU3RlcCA9IGNvbGxlY3Rpb25zLm5hbWVkdHVwbGUoIlN0ZXAiLCBbIm9ic2VydmF0aW9uIiwgInJld2FyZCIsICJkb25lIiwgImluZm8iXSkKCgpkZWYgU3RlcChvYnNlcnZhdGlvbiwgcmV3YXJkLCBkb25lLCAqKmt3YXJncyk6CiAgICAiIiIKICAgIENvbnZlbmllbmNlIG1ldGhvZCBjcmVhdGluZyBhIG5hbWVkdHVwbGUgd2l0aCB0aGUgcmVzdWx0cyBvZiB0aGUKICAgIGVudmlyb25tZW50LnN0ZXAgbWV0aG9kLgogICAgUHV0IGV4dHJhIGRpYWdub3N0aWMgaW5mbyBpbiB0aGUga3dhcmdzCiAgICAiIiIKICAgIHJldHVybiBfU3RlcChvYnNlcnZhdGlvbiwgcmV3YXJkLCBkb25lLCBrd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBqb2ludF9jb21tYW5kID0ge2pvaW50X25hbWU6IGN1cnJlbnRfcG9zaXRpb24gKyBkZWx0YX0K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5060,19 +5069,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjYWNoZV9wcm9wZXJ0eSBpbXBvcnQgY2FjaGVfcHJvcGVydHkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXRlOgogICAgICAgICAgICBzZWxmLmxlZnRfZ3JpcC5vcGVuKCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxlZnRfZ3JpcC5jbG9zZSgpCiAgICAgICAgc2VsZi5zdGF0ZSA9IG5vdCBzZWxmLnN0YXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmFkZF90d29faW50cyh4LCB5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCkK</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZhdGlvbiA9IE5vbmUK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcDEgPSBhZGRfdHdvX2ludHMoeCwgeSkKICAgICAgICAgICAgcmV0dXJuIHJlc3AxLnN1bQogICAgICAgIGV4Y2VwdCByb3NweS5TZXJ2aWNlRXhjZXB0aW9uLCBlOgogICAgICAgICAgICBwcmludCAiU2VydmljZSBjYWxsIGZhaWxlZDogJXMiICUgZQoKICAgIGRlZiBhX25ld19kZWNvcmF0b3Ioc2VsZik6CgogICAgICAgIGRlZiB3cmFwVGhlRnVuY3Rpb24oKToKICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICJJIGFtIGRvaW5nIHNvbWUgYm9yaW5nIHdvcmsgYmVmb3JlIGV4ZWN1dGluZyBhX2Z1bmMoKSIpCgogICAgICAgICAgICBhX2Z1bmMoKQoKICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICJJIGFtIGRvaW5nIHNvbWUgYm9yaW5nIHdvcmsgYWZ0ZXIgZXhlY3V0aW5nIGFfZnVuYygpIikKCiAgICAgICAgcmV0dXJuIHdyYXBUaGVGdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlID0gRmFsc2UK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6112,19 +6121,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0X2dyaXAgPSBiaS5HcmlwcGVyKCdyaWdodCcsIGJpLkNIRUNLX1ZFUlNJT04pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxlZnRfZ3JpcCA9IGJpLkdyaXBwZXIoJ2xlZnQnLCBiaS5DSEVDS19WRVJTSU9OKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>except</last-search>
+      <last-search>joint_angles</last-search>
       <last-offset />
-      <last-pattern>except</last-pattern>
+      <last-pattern>joint_angles</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6132,11 +6141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>limb</entry>
-        <entry>set_j</entry>
-        <entry>prior_sigma</entry>
-        <entry>qf_total_loss</entry>
-        <entry>regress</entry>
         <entry>should_train_extra</entry>
         <entry>train_extra</entry>
         <entry>extra</entry>
@@ -6152,6 +6156,11 @@
         <entry>print</entry>
         <entry>set</entry>
         <entry>except</entry>
+        <entry>close</entry>
+        <entry>toggle</entry>
+        <entry>gripping</entry>
+        <entry>def gripping</entry>
+        <entry>joint_angles</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
@@ -6172,8 +6181,8 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>466</entry>
         <entry>157</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
