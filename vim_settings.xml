@@ -327,12 +327,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" timestamp="1492572123902">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="30" column="46" />
-        <mark key="." line="30" column="46" />
+      <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/src/baxter_env.py" timestamp="1492627537092">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" timestamp="1492571558413">
         <mark key="'" line="77" column="8" />
@@ -2755,8 +2755,8 @@
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>update_hz</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5016,7 +5016,7 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>current_positions[joint_name]</text>
+        <text>update_hz</text>
       </register>
       <register name="/" type="4">
         <text>joint_angles</text>
