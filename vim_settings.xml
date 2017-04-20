@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1492638314908">
+      <file name="/start_script.py" timestamp="1492651375858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
@@ -552,7 +552,7 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1491006470618">
         <mark key="'" line="6" column="12" />
       </file>
-      <file name="/code.py" timestamp="1492650878754">
+      <file name="/code.py" timestamp="1492651404872">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="30" />
@@ -2161,7 +2161,7 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/tensor_shape.py" timestamp="1489717493653">
         <mark key="'" line="377" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1492651158370">
+      <file name="/Python Console" timestamp="1492651299386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/algos/noop_algo.py" timestamp="1487914710926">
@@ -2407,8 +2407,8 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1487121091938">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492650457689">
-        <mark key="'" line="95" column="16" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492651354552">
+        <mark key="'" line="51" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -2660,7 +2660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="46" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="179" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="180" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2760,6 +2759,7 @@
       <jump line="74" column="17" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
       <jump line="85" column="13" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
       <jump line="130" column="17" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
