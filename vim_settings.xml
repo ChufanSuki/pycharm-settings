@@ -2407,8 +2407,8 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1487121091938">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492653669990">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492653747458">
+        <mark key="'" line="19" column="32" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -2660,7 +2660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="206" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="269" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="367" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2760,6 +2759,7 @@
       <jump line="92" column="13" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
       <jump line="99" column="13" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
       <jump line="130" column="27" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
+      <jump line="19" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6147,7 +6147,7 @@
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
