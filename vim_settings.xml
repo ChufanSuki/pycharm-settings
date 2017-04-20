@@ -10,7 +10,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/start_script.py" timestamp="1492653546043">
+      <file name="/start_script.py" timestamp="1492654856569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
@@ -467,6 +467,7 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/devel/lib/python2.7/dist-packages/baxter_interface/__init__.py" timestamp="1492655034562" />
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_nn_policy.py" timestamp="1478909327364">
         <mark key="'" line="59" column="13" />
         <mark key="[" line="61" column="14" />
@@ -2063,10 +2064,10 @@
         <mark key="^" line="65" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1492483024730">
-        <mark key="'" line="19" column="15" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="37" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1492655662327">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="4" />
         <mark key="." line="39" column="25" />
         <mark key="^" line="39" column="25" />
       </file>
@@ -2407,11 +2408,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1487121091938">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492653747458">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1492655262747">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="109" column="8" />
+        <mark key="]" line="109" column="19" />
+        <mark key="." line="109" column="19" />
+        <mark key="^" line="109" column="19" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/json_to_yaml.py" timestamp="1486583488726">
         <mark key="'" line="9" column="0" />
@@ -2660,15 +2662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="269" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="367" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="29" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="41" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="59" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="319" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="313" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="271" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="76" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="175" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="177" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
@@ -2740,7 +2733,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/test_cases/CONFIG" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/test_cases/CONFIG" />
       <jump line="8" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
       <jump line="84" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
       <jump line="56" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
       <jump line="92" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
@@ -2760,13 +2752,23 @@
       <jump line="99" column="13" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
       <jump line="130" column="27" filename="$USER_HOME$/catkin_ws/src/baxter_examples/scripts/joint_velocity_wobbler.py" />
       <jump line="19" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="0" column="0" filename="/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/devel/lib/python2.7/dist-packages/baxter_interface/__init__.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/__init__.py" />
+      <jump line="43" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
+      <jump line="21" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBiZWdpbm5lcl90dXRvcmlhbHMuc3J2IGltcG9ydCBBZGRUd29JbnRzLCBBZGRUd29JbnRzUmVzcG9uc2UK</text>
+        <text encoding="base64">IiIiCkV4YW1wbGluZyBvZiBydW5uaW5nIEREUEcgb24gSGFsZkNoZWV0YWguCiIiIgpmcm9tIHJhaWxybC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgcnVuX2V4cGVyaW1lbnQKZnJvbSByYWlscmwucG9saWNpZXMubm5fcG9saWN5IGltcG9ydCBGZWVkRm9yd2FyZFBvbGljeQpmcm9tIHJhaWxybC5xZnVuY3Rpb25zLm5uX3FmdW5jdGlvbiBpbXBvcnQgRmVlZEZvcndhcmRDcml0aWMKZnJvbSByYWlscmwuYWxnb3MuZGRwZyBpbXBvcnQgRERQRwoKZnJvbSBybGxhYi5lbnZzLm11am9jby5oYWxmX2NoZWV0YWhfZW52IGltcG9ydCBIYWxmQ2hlZXRhaEVudgpmcm9tIHJsbGFiLmV4cGxvcmF0aW9uX3N0cmF0ZWdpZXMub3Vfc3RyYXRlZ3kgaW1wb3J0IE9VU3RyYXRlZ3kKCgpkZWYgZXhhbXBsZSgqXyk6CiAgICBlbnYgPSBIYWxmQ2hlZXRhaEVudigpCiAgICBlcyA9IE9VU3RyYXRlZ3koZW52X3NwZWM9ZW52LnNwZWMpCiAgICBxZiA9IEZlZWRGb3J3YXJkQ3JpdGljKAogICAgICAgIG5hbWVfb3Jfc2NvcGU9ImNyaXRpYyIsCiAgICAgICAgZW52X3NwZWM9ZW52LnNwZWMsCiAgICApCiAgICBwb2xpY3kgPSBGZWVkRm9yd2FyZFBvbGljeSgKICAgICAgICBuYW1lX29yX3Njb3BlPSJhY3RvciIsCiAgICAgICAgZW52X3NwZWM9ZW52LnNwZWMsCiAgICApCiAgICBhbGdvcml0aG0gPSBERFBHKAogICAgICAgIGVudiwKICAgICAgICBlcywKICAgICAgICBwb2xpY3ksCiAgICAgICAgcWYsCiAgICAgICAgbl9lcG9jaHM9MTAwLAogICAgICAgIGJhdGNoX3NpemU9MTAyNCwKICAgICkKICAgIGFsZ29yaXRobS50cmFpbigpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJ1bl9leHBlcmltZW50KAogICAgICAgIGV4YW1wbGUsCiAgICAgICAgZXhwX3ByZWZpeD0iZGRwZy1oYWxmLWNoZWV0YWgiLAogICAgICAgIHNlZWQ9MiwKICAgICAgICBtb2RlPSdoZXJlJywKICAgICkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5026,25 +5028,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>baxter_env</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>set_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpvaW50X2NvbW1hbmQgPSB7fQogICAgam9pbnRfdG9fZGVsdGEgPSBkaWN0KHppcChqb2ludF9uYW1lcywgZGVsdGFzKSkKICAgIGZvciBqb2ludF9uYW1lLCBjdXJyZW50X3BvcyBpbiBjdXJyZW50X3Bvc2l0aW9ucy5pdGVtcygpOgogICAgICAgIGpvaW50X2NvbW1hbmRbam9pbnRfbmFtZV0gPSBjdXJyZW50X3BvcyArIGpvaW50X3RvX2RlbHRhW2pvaW50X25hbWVdCiAgICBsaW1iLnNldF9qb2ludF9wb3NpdGlvbnMoam9pbnRfY29tbWFuZCkK</text>
+        <text encoding="base64">IiIiCkV4YW1wbGluZyBvZiBydW5uaW5nIEREUEcgb24gSGFsZkNoZWV0YWguCiIiIgpmcm9tIHJhaWxybC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgcnVuX2V4cGVyaW1lbnQKZnJvbSByYWlscmwucG9saWNpZXMubm5fcG9saWN5IGltcG9ydCBGZWVkRm9yd2FyZFBvbGljeQpmcm9tIHJhaWxybC5xZnVuY3Rpb25zLm5uX3FmdW5jdGlvbiBpbXBvcnQgRmVlZEZvcndhcmRDcml0aWMKZnJvbSByYWlscmwuYWxnb3MuZGRwZyBpbXBvcnQgRERQRwoKZnJvbSBybGxhYi5lbnZzLm11am9jby5oYWxmX2NoZWV0YWhfZW52IGltcG9ydCBIYWxmQ2hlZXRhaEVudgpmcm9tIHJsbGFiLmV4cGxvcmF0aW9uX3N0cmF0ZWdpZXMub3Vfc3RyYXRlZ3kgaW1wb3J0IE9VU3RyYXRlZ3kKCgpkZWYgZXhhbXBsZSgqXyk6CiAgICBlbnYgPSBIYWxmQ2hlZXRhaEVudigpCiAgICBlcyA9IE9VU3RyYXRlZ3koZW52X3NwZWM9ZW52LnNwZWMpCiAgICBxZiA9IEZlZWRGb3J3YXJkQ3JpdGljKAogICAgICAgIG5hbWVfb3Jfc2NvcGU9ImNyaXRpYyIsCiAgICAgICAgZW52X3NwZWM9ZW52LnNwZWMsCiAgICApCiAgICBwb2xpY3kgPSBGZWVkRm9yd2FyZFBvbGljeSgKICAgICAgICBuYW1lX29yX3Njb3BlPSJhY3RvciIsCiAgICAgICAgZW52X3NwZWM9ZW52LnNwZWMsCiAgICApCiAgICBhbGdvcml0aG0gPSBERFBHKAogICAgICAgIGVudiwKICAgICAgICBlcywKICAgICAgICBwb2xpY3ksCiAgICAgICAgcWYsCiAgICAgICAgbl9lcG9jaHM9MTAwLAogICAgICAgIGJhdGNoX3NpemU9MTAyNCwKICAgICkKICAgIGFsZ29yaXRobS50cmFpbigpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJ1bl9leHBlcmltZW50KAogICAgICAgIGV4YW1wbGUsCiAgICAgICAgZXhwX3ByZWZpeD0iZGRwZy1oYWxmLWNoZWV0YWgiLAogICAgICAgIHNlZWQ9MiwKICAgICAgICBtb2RlPSdoZXJlJywKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBiZWdpbm5lcl90dXRvcmlhbHMuc3J2IGltcG9ydCBBZGRUd29JbnRzLCBBZGRUd29JbnRzUmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICMgSGVscGVycyB0aGF0IGRlcml2ZSBmcm9tIFNwYWNlcwogICAgQHByb3BlcnR5CiAgICBkZWYgYWN0aW9uX2RpbShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5hY3Rpb25fc3BhY2UuZmxhdF9kaW0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yaWdodF9qb2ludF9uYW1lcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zIGEgU3BhY2Ugb2JqZWN0CiAgICAgICAgOnJ0eXBlOiBybGxhYi5zcGFjZXMuYmFzZS5TcGFjZQogICAgICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zIGEgU3BhY2Ugb2JqZWN0CiAgICAgICAgOnJ0eXBlOiBybGxhYi5zcGFjZXMuYmFzZS5TcGFjZQogICAgICAgICIiIgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5079,19 +5081,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzYWZlCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBMb2cgZXh0cmEgaW5mb3JtYXRpb24gcGVyIGl0ZXJhdGlvbiBiYXNlZCBvbiB0aGUgY29sbGVjdGVkIHBhdGhzCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBIb3Jpem9uIG9mIHRoZSBlbnZpcm9ubWVudCwgaWYgaXQgaGFzIG9uZQogICAgICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGpvaW50X2NvbW1hbmQgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDbGVhbiB1cCBvcGVyYXRpb24sCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBqb2ludF9uYW1lLCBjdXJyZW50X3BvcyBpbiBjdXJyZW50X3Bvc2l0aW9ucy5pdGVtcygpOgogICAgICAgIGpvaW50X2NvbW1hbmRbam9pbnRfbmFtZV0gPSBjdXJyZW50X3BvcyArIGpvaW50X3RvX2RlbHRhW2pvaW50X25hbWVdCg==</text>
+        <text encoding="base64">ICAgICAgICBSdW4gb25lIHRpbWVzdGVwIG9mIHRoZSBlbnZpcm9ubWVudCdzIGR5bmFtaWNzLiBXaGVuIGVuZCBvZiBlcGlzb2RlCiAgICAgICAgaXMgcmVhY2hlZCwgcmVzZXQoKSBzaG91bGQgYmUgY2FsbGVkIHRvIHJlc2V0IHRoZSBlbnZpcm9ubWVudCdzIGludGVybmFsCiAgICAgICAgc3RhdGUuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6131,10 +6133,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUuc2xlZXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBiaS5MaW1iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzYWZlCiAgICBkZWYgY2hhbmdlX2pvaW50KHNlbGYsIGxpbWIsIGpvaW50X25hbWVzLCBkZWx0YXMpOgogICAgICAgIGN1cnJlbnRfcG9zaXRpb25zID0gbGltYi5qb2ludF9hbmdsZXMoKQogICAgICAgIGpvaW50X2NvbW1hbmQgPSB7fQogICAgICAgIGpvaW50X3RvX2RlbHRhID0gZGljdCh6aXAoam9pbnRfbmFtZXMsIGRlbHRhcykpCiAgICAgICAgZm9yIGpvaW50X25hbWUsIGN1cnJlbnRfcG9zIGluIGN1cnJlbnRfcG9zaXRpb25zLml0ZW1zKCk6CiAgICAgICAgICAgIGpvaW50X2NvbW1hbmRbam9pbnRfbmFtZV0gPSBjdXJyZW50X3BvcyArIGpvaW50X3RvX2RlbHRhW2pvaW50X25hbWVdCiAgICAgICAgbGltYi5zZXRfam9pbnRfcG9zaXRpb25zKGpvaW50X2NvbW1hbmQpCg==</text>
+        <text encoding="base64">ZnJvbSBiZWdpbm5lcl90dXRvcmlhbHMuc3J2IGltcG9ydCBBZGRUd29JbnRzLCBBZGRUd29JbnRzUmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
