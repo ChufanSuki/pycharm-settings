@@ -506,12 +506,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492816064586">
-        <mark key="'" line="377" column="16" />
-        <mark key="[" line="410" column="29" />
-        <mark key="]" line="410" column="30" />
-        <mark key="." line="410" column="30" />
-        <mark key="^" line="301" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492818190756">
+        <mark key="'" line="260" column="0" />
+        <mark key="[" line="411" column="29" />
+        <mark key="]" line="411" column="30" />
+        <mark key="." line="411" column="30" />
+        <mark key="^" line="256" column="40" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -2661,11 +2661,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="262" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="359" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="265" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="260" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="250" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="249" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="20" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
@@ -2761,13 +2758,16 @@
       <jump line="335" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="345" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="377" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="411" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="368" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="260" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>-reward-change-qf&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5027,13 +5027,13 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>-reward-change-qf&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>=1</text>
+        <text>=5,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3Rfb2JzZXJ2YXRpb24gPSBwYXRoWyJvYnNlcnZhdGlvbnMiXVswXQo=</text>
+        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICI0LTIxLWJwdHQtZGRwZy1vY20tcmV3YXJkLWNoYW5nZS1xZiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -6247,9 +6247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>=1</last-search>
+      <last-search>=5,</last-search>
       <last-offset />
-      <last-pattern>=1</last-pattern>
+      <last-pattern>=5,</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6257,8 +6257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>action_space</entry>
-        <entry>def reset</entry>
         <entry>env_params</entry>
         <entry>class</entry>
         <entry>exp_id</entry>
@@ -6277,6 +6275,8 @@
         <entry>maximum</entry>
         <entry>max</entry>
         <entry>=1</entry>
+        <entry>=1,</entry>
+        <entry>=5,</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
