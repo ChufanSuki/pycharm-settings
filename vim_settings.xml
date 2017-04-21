@@ -506,12 +506,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492808323155">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1492812604272">
         <mark key="'" line="331" column="32" />
-        <mark key="[" line="331" column="34" />
-        <mark key="]" line="331" column="33" />
-        <mark key="." line="331" column="33" />
-        <mark key="^" line="331" column="33" />
+        <mark key="[" line="331" column="4" />
+        <mark key="]" line="331" column="15" />
+        <mark key="." line="331" column="15" />
+        <mark key="^" line="331" column="15" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -2766,8 +2766,8 @@
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lbW9yeV9lc19jbGFzcyA9IE5vb3BTdHJhdGVneQo=</text>
+      <register name="&quot;" type="4">
+        <text>memory_es_class</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5027,10 +5027,10 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>_reward_for_remembering</text>
+        <text>memory_es_class</text>
       </register>
       <register name="/" type="4">
-        <text>rnn_cell_class</text>
+        <text>env_es-class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lbW9yeV9lc19jbGFzcyA9IE5vb3BTdHJhdGVneQo=</text>
@@ -6247,9 +6247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rnn_cell_class</last-search>
+      <last-search>env_es-class</last-search>
       <last-offset />
-      <last-pattern>rnn_cell_class</last-pattern>
+      <last-pattern>env_es-class</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6257,7 +6257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>horizon</entry>
         <entry>G</entry>
         <entry>freeze_hidden</entry>
         <entry>H</entry>
@@ -6277,6 +6276,7 @@
         <entry>max_reward</entry>
         <entry>hint</entry>
         <entry>rnn_cell_class</entry>
+        <entry>env_es-class</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
