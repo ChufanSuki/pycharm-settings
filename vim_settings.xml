@@ -2616,6 +2616,9 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/3-8-atari-fixed-2.csv" timestamp="1489445036866">
         <mark key="'" line="31" column="36" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" timestamp="1492898446267">
+        <mark key="'" line="100" column="31" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/rllab/deterministic_mlp_policy.py" timestamp="1488152729404">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="2" column="0" />
@@ -2663,12 +2666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
-      <jump line="468" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
-      <jump line="44" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
-      <jump line="52" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
-      <jump line="57" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
-      <jump line="68" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="114" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="116" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="119" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
@@ -2763,6 +2760,12 @@
       <jump line="293" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="310" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="408" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="33" column="44" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" />
+      <jump line="64" column="37" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" />
+      <jump line="65" column="24" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" />
+      <jump line="93" column="39" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" />
+      <jump line="118" column="59" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" />
+      <jump line="100" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5032,7 +5035,7 @@
         <text encoding="base64">TWF4IA==</text>
       </register>
       <register name="/" type="4">
-        <text>magnitude</text>
+        <text>tf.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhdGlzdGljcy51cGRhdGUoCiAgICAgICAgICAgICAgICB7J3t9X0xvc3MnLmZvcm1hdChzdGF0X2Jhc2VfbmFtZSk6IHFmX2xvc3N9LAogICAgICAgICAgICApCg==</text>
@@ -6249,9 +6252,9 @@
       </register>
     </registers>
     <search>
-      <last-search>magnitude</last-search>
+      <last-search>tf.</last-search>
       <last-offset />
-      <last-pattern>magnitude</last-pattern>
+      <last-pattern>tf.</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6259,7 +6262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>target_onehots</entry>
         <entry>max_ma</entry>
         <entry>maximum</entry>
         <entry>max</entry>
@@ -6279,6 +6281,7 @@
         <entry>= 1</entry>
         <entry>magnitudde</entry>
         <entry>magnitude</entry>
+        <entry>tf.</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
