@@ -540,12 +540,11 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1491006470618">
         <mark key="'" line="6" column="12" />
       </file>
-      <file name="/code.py" timestamp="1492980821777">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="30" column="11" />
+      <file name="/code.py" timestamp="1492981210880">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py" timestamp="1491536421445">
         <mark key="'" line="2208" column="4" />
@@ -2664,8 +2663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
-      <jump line="92" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/memory/oracle_unroll_qfunction.py" />
       <jump line="83" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="11" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="162" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
@@ -2764,13 +2761,15 @@
       <jump line="136" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="6" column="24" filename="/code.py" />
       <jump line="9" column="23" filename="/code.py" />
+      <jump line="16" column="0" filename="/code.py" />
+      <jump line="5" column="0" filename="/code.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd4JywgeCkK</text>
+        <text encoding="base64">ICAgIHByaW50KEpuZXh0KQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -4608,25 +4607,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>get_action(x, Js[k+1])</text>
+        <text>Js</text>
       </register>
       <register name="/" type="4">
         <text>ipd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd4JywgeCkK</text>
+        <text encoding="base64">ICAgIEpzW2tdID0gY3JlYXRlX25ld19KKEpzW2srMV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd4JywgeCkK</text>
+        <text encoding="base64">ICAgIHByaW50KEpuZXh0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJ3gnLCB4KQo=</text>
+        <text encoding="base64">CnByaW50KEpzWzBdWzVdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJlc3RfdSA9IC0xCg==</text>
+        <text encoding="base64">Zm9yIHAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -4661,19 +4660,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNvc3QodHJhaik6CiAgICByZXR1cm4gc3VtKHgqKjIgKyB1KioyIGZvciB4LCB1IGluIHRyYWopCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9hY3Rpb24oeCwgSm5leHQpOgogICAgcmV0dXJuIG1pbihnZXRfVWsoeCksIGtleT1sYW1iZGEgdTogeCoqMiArIHUqKjIgKyBKbmV4dFt4K3VdKQoK</text>
+        <text encoding="base64">ICAgIGlmIGsgPT0gMDoKICAgICAgICBiZXN0X3UgPSAtNAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9hY3Rpb24oeCwgSm5leHQpOgogICAgcmV0dXJuIG1pbihnZXRfVWsoeCksIGtleT1sYW1iZGEgdTogeCoqMiArIHUqKjIgKyBKbmV4dFt4K3VdKQoKeCA9IDUK</text>
+        <text encoding="base64">ICAgIHRvdGFsX2Nvc3QgKz0gY29zdAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzID0gZ2V0X1VrKHgpCg==</text>
+        <text encoding="base64">ICAgIGNvc3QgPSB4KioyICsgYmVzdF91KioyCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5818,10 +5817,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtaW4odXMsIGtleT1sYW1iZGEoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCd4JywgeCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9hY3Rpb24oeCwgSik6CiAgICByZXR1cm4gbWluKGdldF9Vayh4KSwga2V5PWxhbWJkYSB1OiB4KioyICsgdSoqMiArIEpuZXh0W3grdV0pCgo=</text>
+        <text encoding="base64">cHJpbnQoJ3gnLCB4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
