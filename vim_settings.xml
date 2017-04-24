@@ -864,6 +864,9 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/core/network.py" timestamp="1489966437280">
         <mark key="'" line="37" column="56" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/tests/test_algos.py" timestamp="1493057929547">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/example_local_docker_ddpg_cartpole.py" timestamp="1484612968607">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="17" />
@@ -936,12 +939,18 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" timestamp="1491685612184">
         <mark key="'" line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/tests/test_baselines.py" timestamp="1493057991257">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/quadratic_naf_qfunction.py" timestamp="1491849738510">
         <mark key="'" line="49" column="21" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="29" />
         <mark key="^" line="12" column="29" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_testing_utils.py" timestamp="1493058003332">
+        <mark key="'" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/tmp.py" timestamp="1484007147336">
         <mark key="'" line="26" column="13" />
@@ -974,8 +983,8 @@
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_product_strategy.py" timestamp="1492450414645">
-        <mark key="'" line="9" column="16" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_product_strategy.py" timestamp="1493057942804">
+        <mark key="'" line="9" column="9" />
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="14" />
         <mark key="^" line="20" column="7" />
@@ -2648,10 +2657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="/code.py" />
-      <jump line="5" column="0" filename="/code.py" />
-      <jump line="77" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="222" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="16" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="32" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="45" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2748,6 +2753,10 @@
       <jump line="494" column="68" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="258" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="260" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/tests/test_algos.py" />
+      <jump line="9" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_product_strategy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/tests/test_baselines.py" />
+      <jump line="9" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_testing_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5808,7 +5817,7 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5862,8 +5871,8 @@
         <entry>170</entry>
         <entry>195</entry>
         <entry>275</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
