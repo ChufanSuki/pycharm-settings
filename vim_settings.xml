@@ -2257,8 +2257,8 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1493245173910">
-        <mark key="'" line="285" column="44" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1493248759435">
+        <mark key="'" line="293" column="12" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/railrl/tests/test_convex_naf.py" timestamp="1484691962890">
         <mark key="'" line="20" column="23" />
@@ -2651,7 +2651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="116" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="135" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="174" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
@@ -2751,6 +2750,7 @@
       <jump line="205" column="38" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
       <jump line="290" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
       <jump line="285" column="44" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="293" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5020,7 +5020,7 @@
         <text>([</text>
       </register>
       <register name="/" type="4">
-        <text>generator</text>
+        <text>6.a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Sk9JTlRfQU5HTEVTX0hJR0ggPSBucC5hcnJheShbCiAgICAtMS43MDE2Nzk5NSwgLTIuMTQ3MDAwMjUsIC0zLjA1NDE4MDEgLCAtMC4wNDk5NTE5OCwgLTMuMDU5MDAwMTUsCiAgICAgICAtMS41NzA4MDAzICwgLTMuMDU4OTk5ODkKXSkK</text>
@@ -6128,13 +6128,13 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSByb3NweS5SYXRlKHNlbGYuKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>144</text>
       </register>
     </registers>
     <search>
-      <last-search>generator</last-search>
+      <last-search>6.a</last-search>
       <last-offset />
-      <last-pattern>generator</last-pattern>
+      <last-pattern>6.a</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6142,7 +6142,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hyper</entry>
         <entry>def define</entry>
         <entry>print</entry>
         <entry>set</entry>
@@ -6162,9 +6161,9 @@
         <entry>6</entry>
         <entry>Question 6</entry>
         <entry>generator</entry>
+        <entry>6.a</entry>
       </history-search>
       <history-cmd>
-        <entry>117</entry>
         <entry>62</entry>
         <entry>63</entry>
         <entry>197</entry>
@@ -6184,6 +6183,7 @@
         <entry>157</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>144</entry>
       </history-cmd>
       <history-expr />
       <history-input />
