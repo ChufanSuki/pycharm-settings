@@ -2257,8 +2257,8 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1492400873118">
-        <mark key="'" line="182" column="17" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1493245173910">
+        <mark key="'" line="285" column="44" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/railrl/tests/test_convex_naf.py" timestamp="1484691962890">
         <mark key="'" line="20" column="23" />
@@ -2651,19 +2651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="66" column="14" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/catkin_ws/src/vitchyr_baxter/scripts/joint_position_keyboard.py" />
-      <jump line="465" column="11" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/tpe.py" />
-      <jump line="464" column="23" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/tpe.py" />
-      <jump line="460" column="23" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/tpe.py" />
-      <jump line="459" column="23" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/tpe.py" />
-      <jump line="426" column="50" filename="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/tpe.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="25" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="52" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="98" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="114" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="115" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="116" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="135" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
@@ -2751,6 +2738,19 @@
       <jump line="449" column="12" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
       <jump line="34" column="5" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/limb.py" />
       <jump line="26" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="216" column="38" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="232" column="24" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="325" column="47" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="295" column="27" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="117" column="4" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="176" column="29" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="174" column="33" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="205" column="38" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="290" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="285" column="44" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5020,7 +5020,7 @@
         <text>([</text>
       </register>
       <register name="/" type="4">
-        <text>7</text>
+        <text>generator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Sk9JTlRfQU5HTEVTX0hJR0ggPSBucC5hcnJheShbCiAgICAtMS43MDE2Nzk5NSwgLTIuMTQ3MDAwMjUsIC0zLjA1NDE4MDEgLCAtMC4wNDk5NTE5OCwgLTMuMDU5MDAwMTUsCiAgICAgICAtMS41NzA4MDAzICwgLTMuMDU4OTk5ODkKXSkK</text>
@@ -6132,23 +6132,16 @@
       </register>
     </registers>
     <search>
-      <last-search>7</last-search>
+      <last-search>generator</last-search>
       <last-offset />
-      <last-pattern>7</last-pattern>
+      <last-pattern>generator</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hint</entry>
-        <entry>use_hint</entry>
-        <entry>create_loss</entry>
-        <entry>create</entry>
-        <entry>oracle_qf</entry>
-        <entry>left</entry>
-        <entry>bindings</entry>
         <entry>hyper</entry>
         <entry>def define</entry>
         <entry>print</entry>
@@ -6162,6 +6155,13 @@
         <entry>action</entry>
         <entry>action_space</entry>
         <entry>7</entry>
+        <entry>6a</entry>
+        <entry>GradientDescent</entry>
+        <entry>get_loss_tensor</entry>
+        <entry>6b</entry>
+        <entry>6</entry>
+        <entry>Question 6</entry>
+        <entry>generator</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
