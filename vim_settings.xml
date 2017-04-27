@@ -414,6 +414,9 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm_policy.py" timestamp="1486955985283">
         <mark key="'" line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" timestamp="1493250634784">
+        <mark key="'" line="67" column="22" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/linear_ocm.py" timestamp="1486797598305">
         <mark key="'" line="64" column="24" />
         <mark key="[" line="5" column="0" />
@@ -2651,8 +2654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
-      <jump line="135" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="174" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="473" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="46" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2751,6 +2752,8 @@
       <jump line="290" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
       <jump line="285" column="44" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
       <jump line="293" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="78" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" />
+      <jump line="67" column="22" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5020,7 +5023,7 @@
         <text>([</text>
       </register>
       <register name="/" type="4">
-        <text>6.a</text>
+        <text>solve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Sk9JTlRfQU5HTEVTX0hJR0ggPSBucC5hcnJheShbCiAgICAtMS43MDE2Nzk5NSwgLTIuMTQ3MDAwMjUsIC0zLjA1NDE4MDEgLCAtMC4wNDk5NTE5OCwgLTMuMDU5MDAwMTUsCiAgICAgICAtMS41NzA4MDAzICwgLTMuMDU4OTk5ODkKXSkK</text>
@@ -6132,9 +6135,9 @@
       </register>
     </registers>
     <search>
-      <last-search>6.a</last-search>
+      <last-search>solve</last-search>
       <last-offset />
-      <last-pattern>6.a</last-pattern>
+      <last-pattern>solve</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6142,8 +6145,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def define</entry>
-        <entry>print</entry>
         <entry>set</entry>
         <entry>except</entry>
         <entry>close</entry>
@@ -6162,6 +6163,8 @@
         <entry>Question 6</entry>
         <entry>generator</entry>
         <entry>6.a</entry>
+        <entry>YOUR ODE</entry>
+        <entry>solve</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
