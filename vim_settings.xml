@@ -519,13 +519,13 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1493421286346">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1493422952348">
         <mark key="b" line="112" column="0" />
-        <mark key="'" line="326" column="23" />
-        <mark key="[" line="284" column="19" />
-        <mark key="]" line="284" column="25" />
-        <mark key="." line="284" column="25" />
-        <mark key="^" line="284" column="25" />
+        <mark key="'" line="264" column="15" />
+        <mark key="[" line="322" column="24" />
+        <mark key="]" line="322" column="24" />
+        <mark key="." line="322" column="24" />
+        <mark key="^" line="322" column="24" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -683,8 +683,8 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" timestamp="1493421486090">
-        <mark key="'" line="50" column="5" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" timestamp="1493422762282">
+        <mark key="'" line="158" column="16" />
         <mark key="[" line="158" column="11" />
         <mark key="]" line="158" column="15" />
         <mark key="." line="158" column="15" />
@@ -2697,8 +2697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="134" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="322" column="59" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="116" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="259" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2797,13 +2795,15 @@
       <jump line="326" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="49" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="335" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
+      <jump line="158" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
+      <jump line="264" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>32</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5214,10 +5214,10 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
-        <text>summary</text>
+        <text>ddpg_params</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvYnMgPSBzZWxmLl9zcGxpdF9mbGF0X29icyhiYXRjaFsnb2JzZXJ2YXRpb25zJ10pCiAgICAgICAgaW5pdGlhbF9tZW1vcnlfb2JzID0gc2VsZi5fZ2V0X3RpbWVfc3RlcChvYnMsIDApWzFdCiAgICAgICAgZW52X29icywgXyA9IG9icwogICAgICAgIGxhc3Rfb2JzID0gc2VsZi5fZ2V0X3RpbWVfc3RlcChvYnMsIHQ9LTEpCiAgICAgICAgZmVlZF9kaWN0ID0gewogICAgICAgICAgICBzZWxmLnBvbGljeS5vYnNlcnZhdGlvbl9pbnB1dDogb2JzLAo=</text>
@@ -6731,9 +6731,9 @@
       </register>
     </registers>
     <search>
-      <last-search>summary</last-search>
+      <last-search>ddpg_params</last-search>
       <last-offset />
-      <last-pattern>summary</last-pattern>
+      <last-pattern>ddpg_params</last-pattern>
       <last-replace>LSTMCell</last-replace>
       <last-substitute>tf.contrib.rnn.LSTMCell</last-substitute>
       <last-dir>1</last-dir>
@@ -6741,8 +6741,6 @@
     </search>
     <history>
       <history-search>
-        <entry>all_</entry>
-        <entry>times</entry>
         <entry>reshape</entry>
         <entry>_for_policy</entry>
         <entry>for_policy</entry>
@@ -6761,6 +6759,8 @@
         <entry>bp</entry>
         <entry>ipd</entry>
         <entry>summary</entry>
+        <entry>save_tf_graph</entry>
+        <entry>ddpg_params</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
