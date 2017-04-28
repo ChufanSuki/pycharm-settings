@@ -519,13 +519,13 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1493413701657">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1493419028824">
         <mark key="b" line="112" column="0" />
-        <mark key="'" line="389" column="8" />
-        <mark key="[" line="364" column="26" />
-        <mark key="]" line="364" column="24" />
-        <mark key="." line="364" column="24" />
-        <mark key="^" line="364" column="24" />
+        <mark key="'" line="265" column="14" />
+        <mark key="[" line="336" column="18" />
+        <mark key="]" line="336" column="21" />
+        <mark key="." line="336" column="21" />
+        <mark key="^" line="336" column="21" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1488841760602">
         <mark key="'" line="73" column="15" />
@@ -710,11 +710,9 @@
         <mark key="^" line="73" column="75" />
         <mark key="." line="73" column="75" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1493415078024">
-        <mark key="'" line="320" column="59" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1493418936346">
+        <mark key="a" line="319" column="8" />
+        <mark key="'" line="116" column="0" />
         <mark key="^" line="333" column="43" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
@@ -2699,9 +2697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/python/ops/init_ops.py" />
-      <jump line="249" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" />
-      <jump line="971" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/python/ops/variable_scope.py" />
       <jump line="252" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" />
       <jump line="265" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" />
       <jump line="259" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_tensorflow.py" />
@@ -2799,13 +2794,16 @@
       <jump line="327" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="134" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="322" column="59" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="259" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="265" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5216,13 +5214,13 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>inputs</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>use_hint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnFmX3dpdGhfYWN0aW9uX2lucHV0ID0gc2VsZi5xZi5nZXRfd2VpZ2h0X3RpZWRfY29weSgKICAgICAgICAgICAgYWN0aW9uX2lucHV0PXNlbGYuX2ZpbmFsX3Jubl9hdWdtZW50ZWRfYWN0aW9uLAogICAgICAgICAgICBvYnNlcnZhdGlvbl9pbnB1dD1zZWxmLl9maW5hbF9ybm5fYXVnbWVudGVkX2lucHV0LAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICMgbW9kZSA9ICdoZXJlJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
@@ -6733,9 +6731,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>use_hint</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>use_hint</last-pattern>
       <last-replace>LSTMCell</last-replace>
       <last-substitute>tf.contrib.rnn.LSTMCell</last-substitute>
       <last-dir>1</last-dir>
@@ -6747,7 +6745,6 @@
         <entry>use_hint_qf</entry>
         <entry>n_epoch</entry>
         <entry>NoOp</entry>
-        <entry>use_hint</entry>
         <entry>freeze_</entry>
         <entry>freeze_hidden</entry>
         <entry>freeze</entry>
@@ -6763,6 +6760,7 @@
         <entry>_all</entry>
         <entry>qf_feed_dict</entry>
         <entry>ipdb</entry>
+        <entry>use_hint</entry>
       </history-search>
       <history-cmd>
         <entry>429</entry>
