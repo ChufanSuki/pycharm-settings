@@ -433,6 +433,10 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="129" column="18" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/plotUtil.py" timestamp="1493336856122">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="27" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/training/optimizer.py" timestamp="1490671967187">
         <mark key="'" line="230" column="6" />
       </file>
@@ -2681,8 +2685,10 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1492400873118">
-        <mark key="'" line="182" column="17" />
+      <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" timestamp="1493337267009">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="89" column="8" />
+        <mark key="]" line="89" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/ocm_subtraj_replay_buffer.py" timestamp="1493073699798">
         <mark key="'" line="6" column="6" />
@@ -2693,20 +2699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="331" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="143" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="102" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="71" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="293" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="330" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="364" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="472" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="473" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="294" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="298" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="300" column="61" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="328" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="353" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="354" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="355" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2793,13 +2785,27 @@
       <jump line="17" column="67" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="251" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="410" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="159" column="60" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="160" column="73" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="225" column="49" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="257" column="60" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="258" column="73" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="336" column="49" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="344" column="48" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="38" column="50" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="46" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="57" column="21" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="58" column="90" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="59" column="13" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
+      <jump line="44" column="24" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFswLiwgMC4xLCAwLjMsIDEsIDVdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>get_updates_with_momentum(</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5213,7 +5219,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>line_logger</text>
+        <text>get_updates_with</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFswLiwgMC4xLCAwLjMsIDEsIDVdLAo=</text>
@@ -6727,9 +6733,9 @@
       </register>
     </registers>
     <search>
-      <last-search>line_logger</last-search>
+      <last-search>get_updates_with</last-search>
       <last-offset />
-      <last-pattern>line_logger</last-pattern>
+      <last-pattern>get_updates_with</last-pattern>
       <last-replace>LSTMCell</last-replace>
       <last-substitute>tf.contrib.rnn.LSTMCell</last-substitute>
       <last-dir>1</last-dir>
@@ -6737,10 +6743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>smaple</entry>
-        <entry>normal_smaple</entry>
-        <entry>normal_sample</entry>
-        <entry>AddOne</entry>
         <entry>fixed</entry>
         <entry>lstm_state</entry>
         <entry>reset</entry>
@@ -6757,6 +6759,10 @@
         <entry>validation</entry>
         <entry>flush</entry>
         <entry>line_logger</entry>
+        <entry>vel_ve</entry>
+        <entry>vel</entry>
+        <entry>momentum</entry>
+        <entry>get_updates_with</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
