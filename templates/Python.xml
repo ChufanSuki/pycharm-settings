@@ -4,7 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="ip" value="import ipdb&#10;ipdb.set_trace()" description="import ipdb" toReformat="false" toShortenFQNames="true">
+  <template name="ip" value="import ipdb; ipdb.set_trace()" description="import ipdb" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
