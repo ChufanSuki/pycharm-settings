@@ -542,7 +542,7 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py" timestamp="1489101398775">
         <mark key="'" line="2795" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1493619264636">
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1493942033954">
         <mark key="'" line="6" column="12" />
       </file>
       <file name="/code.py" timestamp="1493842999070">
@@ -1143,8 +1143,8 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/spaces/box.py" timestamp="1487973493116">
         <mark key="'" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" timestamp="1493620006764">
-        <mark key="'" line="99" column="26" />
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" timestamp="1493942047989">
+        <mark key="'" line="12" column="12" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="94" column="48" />
         <mark key="^" line="45" column="13" />
@@ -1977,6 +1977,9 @@
         <mark key="^" line="170" column="18" />
         <mark key="." line="171" column="24" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/sampler/base.py" timestamp="1493942098463">
+        <mark key="'" line="67" column="24" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" timestamp="1488913344368">
         <mark key="'" line="96" column="8" />
       </file>
@@ -2693,11 +2696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="83" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="128" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="413" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="354" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="365" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="395" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="136" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
@@ -2793,6 +2791,11 @@
       <jump line="250" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="114" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="122" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" />
+      <jump line="12" column="12" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/npo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/base.py" />
+      <jump line="173" column="51" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/base.py" />
+      <jump line="67" column="24" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5213,7 +5216,7 @@
         <text>stochastic</text>
       </register>
       <register name="/" type="4">
-        <text>split_state</text>
+        <text>ev =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudl9ub2lzZV9zdGQgPSAwCg==</text>
@@ -6727,9 +6730,9 @@
       </register>
     </registers>
     <search>
-      <last-search>split_state</last-search>
+      <last-search>ev =</last-search>
       <last-offset />
-      <last-pattern>split_state</last-pattern>
+      <last-pattern>ev =</last-pattern>
       <last-replace>LSTMCell</last-replace>
       <last-substitute>tf.contrib.rnn.LSTMCell</last-substitute>
       <last-dir>1</last-dir>
@@ -6737,9 +6740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>done =</entry>
-        <entry>softmax</entry>
-        <entry>qf_feed</entry>
         <entry>en_param</entry>
         <entry>env_par</entry>
         <entry>num_steps</entry>
@@ -6757,6 +6757,9 @@
         <entry>H =</entry>
         <entry>flat_state</entry>
         <entry>split_state</entry>
+        <entry>Explained</entry>
+        <entry>ev</entry>
+        <entry>ev =</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
