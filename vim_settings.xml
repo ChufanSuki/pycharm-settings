@@ -509,11 +509,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494109566281">
-        <mark key="[" line="312" column="30" />
-        <mark key="]" line="312" column="33" />
-        <mark key="." line="312" column="33" />
-        <mark key="^" line="312" column="33" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494111760238">
+        <mark key="'" line="290" column="4" />
+        <mark key="[" line="265" column="29" />
+        <mark key="]" line="265" column="33" />
+        <mark key="." line="265" column="33" />
+        <mark key="^" line="265" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1494041240222">
         <mark key="'" line="205" column="8" />
@@ -706,7 +707,7 @@
         <mark key="." line="73" column="75" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1494091283710">
-        <mark key="'" line="327" column="30" />
+        <mark key="'" line="326" column="30" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
@@ -2661,10 +2662,6 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" timestamp="1494109894564">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="102" column="31" />
-        <mark key="]" line="103" column="25" />
-        <mark key="." line="103" column="25" />
-        <mark key="^" line="103" column="25" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt_ddpg.py" timestamp="1487699103146">
         <mark key="'" line="47" column="14" />
@@ -2737,7 +2734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="23" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="24" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="536" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2837,6 +2833,7 @@
       <jump line="106" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="266" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="89" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/subtraj_replay_buffer.py" />
+      <jump line="290" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2850,8 +2847,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IG51bXB5IGFzIG5wCiAgICAgICAgICAgIG5wLnNhdmV0eHQoCiAgICAgICAgICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9yZXBsYXlfYnVmZmVyL29icycKICAgICAgICAgICAgICAgICcuY3N2JywKICAgICAgICAgICAgICAgIHNlbGYuX29ic2VydmF0aW9ucywKICAgICAgICAgICAgICAgIGRlbGltaXRlcj0nLCcsCiAgICAgICAgICAgICkKICAgICAgICAgICAgbnAuc2F2ZXR4dCgKICAgICAgICAgICAgICAgICcvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9kYXRhL3JlcGxheV9idWZmZXIvYWN0aW9ucycKICAgICAgICAgICAgICAgICcuY3N2JywKICAgICAgICAgICAgICAgIHNlbGYuX2FjdGlvbnMsCiAgICAgICAgICAgICAgICBkZWxpbWl0ZXI9JywnLAogICAgICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5262,10 +5259,10 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>self._rewards,</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>add_sample</text>
+        <text>meta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICgnb2JzJywgc2VsZi5fb2JzZXJ2YXRpb25zKSwK</text>
@@ -6779,9 +6776,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add_sample</last-search>
+      <last-search>meta</last-search>
       <last-offset />
-      <last-pattern>add_sample</last-pattern>
+      <last-pattern>meta</last-pattern>
       <last-replace>meta_qf</last-replace>
       <last-substitute>meta_critic</last-substitute>
       <last-dir>1</last-dir>
@@ -6789,7 +6786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_training_ops</entry>
         <entry>_do_training</entry>
         <entry>plot</entry>
         <entry>reload_data</entry>
@@ -6809,6 +6805,7 @@
         <entry>H =</entry>
         <entry>HEAD</entry>
         <entry>add_sample</entry>
+        <entry>meta</entry>
       </history-search>
       <history-cmd>
         <entry>78</entry>
