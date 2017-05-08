@@ -517,13 +517,13 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494198510866">
-        <mark key="e" line="295" column="47" />
-        <mark key="'" line="587" column="12" />
-        <mark key="[" line="260" column="8" />
-        <mark key="]" line="260" column="9" />
-        <mark key="^" line="520" column="65" />
-        <mark key="." line="260" column="9" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494211656160">
+        <mark key="e" line="296" column="47" />
+        <mark key="'" line="249" column="16" />
+        <mark key="[" line="265" column="29" />
+        <mark key="]" line="265" column="33" />
+        <mark key="^" line="265" column="33" />
+        <mark key="." line="265" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1494124884453">
         <mark key="'" line="170" column="58" />
@@ -2702,8 +2702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/plot.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/plot.py" />
       <jump line="256" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="380" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="388" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2802,6 +2800,8 @@
       <jump line="46" column="11" filename="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw4/logz.py" />
       <jump line="244" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="587" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="293" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="249" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2816,7 +2816,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5227,13 +5227,13 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>boundary_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1ldGFfcWZfb3V0cHV0X3dlaWdodCA9IDAuNTg5NTA4MDg3ODY4MjEwMgo=</text>
+        <text encoding="base64">ICAgICMgZW52X25vaXNlX3N0ZCA9IDAuNzgzNDc5ODc2NTE0ODQxOQogICAgIyBtZW1vcnlfbm9pc2Vfc3RkID0gLTEuMzYyNDA4MDE0Mjc2MDE0NAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbHN0bV9tYXRyaXggPSBsYXllcl9ub3JtKGxzdG1fbWF0cml4KQo=</text>
@@ -6744,9 +6744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>boundary_</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>boundary_</last-pattern>
       <last-replace>meta_qf</last-replace>
       <last-substitute>meta_critic</last-substitute>
       <last-dir>1</last-dir>
@@ -6754,7 +6754,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data_and_variant</entry>
         <entry>data</entry>
         <entry>y_means</entry>
         <entry>value_to_unique</entry>
@@ -6774,6 +6773,7 @@
         <entry>grid</entry>
         <entry>n_seeds</entry>
         <entry>git</entry>
+        <entry>boundary_</entry>
       </history-search>
       <history-cmd>
         <entry>336</entry>
