@@ -517,12 +517,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494215944648">
-        <mark key="'" line="320" column="4" />
-        <mark key="[" line="529" column="64" />
-        <mark key="]" line="529" column="63" />
-        <mark key="." line="529" column="63" />
-        <mark key="^" line="529" column="63" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494216605719">
+        <mark key="'" line="250" column="41" />
+        <mark key="[" line="527" column="62" />
+        <mark key="]" line="527" column="62" />
+        <mark key="." line="527" column="62" />
+        <mark key="^" line="527" column="62" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1494124884453">
         <mark key="'" line="170" column="58" />
@@ -2787,7 +2787,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="602" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="551" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="250" column="69" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="278" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="305" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="338" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2800,6 +2799,7 @@
       <jump line="233" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="251" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="320" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="250" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2814,7 +2814,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>10</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5225,7 +5225,7 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>=H</text>
@@ -5234,16 +5234,16 @@
         <text encoding="base64">ICAgICAgICAgICAgIyAnZW52X3BhcmFtcy5lcGlzb2RlX2JvdW5kYXJ5X2ZsYWdzJzogW1RydWUsIEZhbHNlXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52X3BhcmFtcyA9IGRpY3QoCiAgICAgICAgICAgIG49bnVtX3ZhbHVlcywKICAgICAgICAgICAgbnVtX3N0ZXBzPUgsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnLWFuZC1hYmxhdGlvbicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHFmX2xlYXJuaW5nX3JhdGUgPSAxZS00Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52X3BhcmFtcyA9IGRpY3QoCiAgICAgICAgICAgIG49bnVtX3ZhbHVlcywKICAgICAgICAgICAgbnVtX3N0ZXBzPUgsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1ldGFfcWZfbGVhcm5pbmdfcmF0ZSA9IDAuMDA0MzY4NjkxMjA0MjQ2NzEyNQogICAgbWV0YV9xZl9vdXRwdXRfd2VpZ2h0ID0gMC41ODk1MDgwODc4NjgyMTAyCiAgICBtZXRhX3FmX291dHB1dF93ZWlnaHQgPSAwLgo=</text>
+        <text encoding="base64">ICAgIHFmX2xlYXJuaW5nX3JhdGUgPSAxZS00Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5277,20 +5277,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1ldGFfcWZfbGVhcm5pbmdfcmF0ZSA9IDAuMDA0MzY4NjkxMjA0MjQ2NzEyNQogICAgbWV0YV9xZl9vdXRwdXRfd2VpZ2h0ID0gMC41ODk1MDgwODc4NjgyMTAyCiAgICBtZXRhX3FmX291dHB1dF93ZWlnaHQgPSAwLgo=</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">LSAgICAKLSAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgIyBlbnZfbm9pc2Vfc3RkID0gMC43ODM0Nzk4NzY1MTQ4NDE5CiAgICAjIG1lbW9yeV9ub2lzZV9zdGQgPSAtMS4zNjI0MDgwMTQyNzYwMTQ0CiAgICBlbnZfbm9pc2Vfc3RkID0gMC43NTY3NjI5MjEwNzk2MjEKICAgIG1lbW9yeV9ub2lzZV9zdGQgPSAwLjIxNTMwNzg4NDQ0NzcyMzQ3Cj4+Pj4+Pj4gbWVtLW1hdGNoLXNsLTMtOAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgIyBlbnZfbm9pc2Vfc3RkID0gMC43ODM0Nzk4NzY1MTQ4NDE5CiAgICAjIG1lbW9yeV9ub2lzZV9zdGQgPSAtMS4zNjI0MDgwMTQyNzYwMTQ0CiAgICBlbnZfbm9pc2Vfc3RkID0gMC43NTY3NjI5MjEwNzk2MjEKICAgIG1lbW9yeV9ub2lzZV9zdGQgPSAwLjIxNTMwNzg4NDQ0NzcyMzQ3Cj4+Pj4+Pj4gbWVtLW1hdGNoLXNsLTMtOAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6732,10 +6732,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgIyBtZXRhX3FmX2xlYXJuaW5nX3JhdGUgPSAwLjAwNDM2ODY5MTIwNDI0NjcxMjUKICAgICMgbWV0YV9xZl9vdXRwdXRfd2VpZ2h0ID0gMC41ODk1MDgwODc4NjgyMTAyCiAgICBtZXRhX3FmX2xlYXJuaW5nX3JhdGUgPSAwLjAwMDE5MDAyNzE4Mjk1ODA1NDIKICAgIG1ldGFfcWZfb3V0cHV0X3dlaWdodCA9IDQuNTY3NjczNjA2NTE0Nzc0Cj4+Pj4+Pj4gbWVtLW1hdGNoLXNsLTMtOAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgcWZfbGVhcm5pbmdfcmF0ZSA9IDAuMDAxMzM0OTkwMzA1NTQ2ODY2MQo+Pj4+Pj4+IG1lbS1tYXRjaC1zbC0zLTgK</text>
+        <text encoding="base64">PT09PT09PQogICAgIyBtZXRhX3FmX2xlYXJuaW5nX3JhdGUgPSAwLjAwNDM2ODY5MTIwNDI0NjcxMjUKICAgICMgbWV0YV9xZl9vdXRwdXRfd2VpZ2h0ID0gMC41ODk1MDgwODc4NjgyMTAyCiAgICBtZXRhX3FmX2xlYXJuaW5nX3JhdGUgPSAwLjAwMDE5MDAyNzE4Mjk1ODA1NDIKICAgIG1ldGFfcWZfb3V0cHV0X3dlaWdodCA9IDQuNTY3NjczNjA2NTE0Nzc0Cj4+Pj4+Pj4gbWVtLW1hdGNoLXNsLTMtOAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
