@@ -517,13 +517,15 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494211656160">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494212684023">
         <mark key="e" line="296" column="47" />
-        <mark key="'" line="249" column="16" />
-        <mark key="[" line="265" column="29" />
-        <mark key="]" line="265" column="33" />
-        <mark key="^" line="265" column="33" />
-        <mark key="." line="265" column="33" />
+        <mark key="'" line="250" column="69" />
+        <mark key="g" line="519" column="16" />
+        <mark key="[" line="250" column="65" />
+        <mark key="m" line="252" column="20" />
+        <mark key="]" line="250" column="73" />
+        <mark key="^" line="250" column="73" />
+        <mark key="." line="250" column="73" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1494124884453">
         <mark key="'" line="170" column="58" />
@@ -2702,18 +2704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="380" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="388" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="81" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/plot.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/plot.py" />
-      <jump line="305" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="399" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="60" column="49" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn/rnn_cell_mulint_layernorm_modern.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
-      <jump line="174" column="4" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
-      <jump line="9" column="7" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
       <jump line="134" column="45" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
       <jump line="136" column="36" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
       <jump line="138" column="34" filename="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" />
@@ -2802,6 +2792,18 @@
       <jump line="587" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="293" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="249" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="519" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="252" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="525" column="69" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="294" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="337" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="524" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="278" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="602" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="551" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="250" column="69" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2816,7 +2818,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>1, 10, 100],</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5227,25 +5229,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>1, 10, 100],</text>
       </register>
       <register name="/" type="4">
-        <text>boundary_</text>
+        <text>bpt_bellman</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgZW52X25vaXNlX3N0ZCA9IDAuNzgzNDc5ODc2NTE0ODQxOQogICAgIyBtZW1vcnlfbm9pc2Vfc3RkID0gLTEuMzYyNDA4MDE0Mjc2MDE0NAo=</text>
+        <text encoding="base64">ICAgIGJwdF9iZWxsbWFuX2Vycm9yX3dlaWdodCA9IDAuMjIwNDg0OTU4MDA3ODIxMzYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHN0bV9tYXRyaXggPSBsYXllcl9ub3JtKGxzdG1fbWF0cml4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnZGRwZ19wYXJhbXMuYnB0X2JlbGxtYW5fZXJyb3Jfd2VpZ2h0JzogWzAsIDEsIDEwLCAxMDBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRzID0gbGF5ZXJfbm9ybShpbnB1dHMpCiAgICAgICAgICAgIG1fcHJldiA9IGxheWVyX25vcm0obV9wcmV2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHN0bV9tYXRyaXggPSBsYXllcl9ub3JtKGxzdG1fbWF0cml4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBzdGF0ZV9zaXplKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9zdGF0ZV9zaXplCgogICAgQHByb3BlcnR5CiAgICBkZWYgb3V0cHV0X3NpemUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX291dHB1dF9zaXplCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRzID0gbGF5ZXJfbm9ybShpbnB1dHMpCiAgICAgICAgICAgIG1fcHJldiA9IGxheWVyX25vcm0obV9wcmV2KQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5280,19 +5282,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIkxvbmcgc2hvcnQtdGVybSBtZW1vcnkgdW5pdCAoTFNUTSkgcmVjdXJyZW50IG5ldHdvcmsgY2VsbC4KICAKICAgIFRoZSBkZWZhdWx0IG5vbi1wZWVwaG9sZSBpbXBsZW1lbnRhdGlvbiBpcyBiYXNlZCBvbjoKICAKICAgICAgaHR0cDovL2RlZXBsZWFybmluZy5jcy5jbXUuZWR1L3BkZnMvSG9jaHJlaXRlcjk3X2xzdG0ucGRmCiAgCiAgICBTLiBIb2NocmVpdGVyIGFuZCBKLiBTY2htaWRodWJlci4KICAgICJMb25nIFNob3J0LVRlcm0gTWVtb3J5Ii4gTmV1cmFsIENvbXB1dGF0aW9uLCA5KDgpOjE3MzUtMTc4MCwgMTk5Ny4KICAKICAgIFRoZSBwZWVwaG9sZSBpbXBsZW1lbnRhdGlvbiBpcyBiYXNlZCBvbjoKICAKICAgICAgaHR0cHM6Ly9yZXNlYXJjaC5nb29nbGUuY29tL3B1YnMvYXJjaGl2ZS80MzkwNS5wZGYKICAKICAgIEhhc2ltIFNhaywgQW5kcmV3IFNlbmlvciwgYW5kIEZyYW5jb2lzZSBCZWF1ZmF5cy4KICAgICJMb25nIHNob3J0LXRlcm0gbWVtb3J5IHJlY3VycmVudCBuZXVyYWwgbmV0d29yayBhcmNoaXRlY3R1cmVzIGZvcgogICAgIGxhcmdlIHNjYWxlIGFjb3VzdGljIG1vZGVsaW5nLiIgSU5URVJTUEVFQ0gsIDIwMTQuCiAgCiAgICBUaGUgY2xhc3MgdXNlcyBvcHRpb25hbCBwZWVwLWhvbGUgY29ubmVjdGlvbnMsIG9wdGlvbmFsIGNlbGwgY2xpcHBpbmcsIGFuZAogICAgYW4gb3B0aW9uYWwgcHJvamVjdGlvbiBsYXllci4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBudW1fdW5pdHMsIGlucHV0X3NpemU9Tm9uZSwKICAgICAgICAgICAgICAgICB1c2VfcGVlcGhvbGVzPUZhbHNlLCBjZWxsX2NsaXA9Tm9uZSwKICAgICAgICAgICAgICAgICBpbml0aWFsaXplcj1Ob25lLCBudW1fcHJvaj1Ob25lLCBwcm9qX2NsaXA9Tm9uZSwKICAgICAgICAgICAgICAgICBudW1fdW5pdF9zaGFyZHM9Tm9uZSwgbnVtX3Byb2pfc2hhcmRzPU5vbmUsCiAgICAgICAgICAgICAgICAgZm9yZ2V0X2JpYXM9MS4wLCBzdGF0ZV9pc190dXBsZT1UcnVlLAogICAgICAgICAgICAgICAgIGFjdGl2YXRpb249dGFuaCk6CiAgICAgICAgIiIiSW5pdGlhbGl6ZSB0aGUgcGFyYW1ldGVycyBmb3IgYW4gTFNUTSBjZWxsLgogICAgCiAgICAgICAgQXJnczoKICAgICAgICAgIG51bV91bml0czogaW50LCBUaGUgbnVtYmVyIG9mIHVuaXRzIGluIHRoZSBMU1RNIGNlbGwKICAgICAgICAgIGlucHV0X3NpemU6IERlcHJlY2F0ZWQgYW5kIHVudXNlZC4KICAgICAgICAgIHVzZV9wZWVwaG9sZXM6IGJvb2wsIHNldCBUcnVlIHRvIGVuYWJsZSBkaWFnb25hbC9wZWVwaG9sZSBjb25uZWN0aW9ucy4KICAgICAgICAgIGNlbGxfY2xpcDogKG9wdGlvbmFsKSBBIGZsb2F0IHZhbHVlLCBpZiBwcm92aWRlZCB0aGUgY2VsbCBzdGF0ZSBpcyBjbGlwcGVkCiAgICAgICAgICAgIGJ5IHRoaXMgdmFsdWUgcHJpb3IgdG8gdGhlIGNlbGwgb3V0cHV0IGFjdGl2YXRpb24uCiAgICAgICAgICBpbml0aWFsaXplcjogKG9wdGlvbmFsKSBUaGUgaW5pdGlhbGl6ZXIgdG8gdXNlIGZvciB0aGUgd2VpZ2h0IGFuZAogICAgICAgICAgICBwcm9qZWN0aW9uIG1hdHJpY2VzLgogICAgICAgICAgbnVtX3Byb2o6IChvcHRpb25hbCkgaW50LCBUaGUgb3V0cHV0IGRpbWVuc2lvbmFsaXR5IGZvciB0aGUgcHJvamVjdGlvbgogICAgICAgICAgICBtYXRyaWNlcy4gIElmIE5vbmUsIG5vIHByb2plY3Rpb24gaXMgcGVyZm9ybWVkLgogICAgICAgICAgcHJval9jbGlwOiAob3B0aW9uYWwpIEEgZmxvYXQgdmFsdWUuICBJZiBgbnVtX3Byb2ogPiAwYCBhbmQgYHByb2pfY2xpcGAgaXMKICAgICAgICAgICAgcHJvdmlkZWQsIHRoZW4gdGhlIHByb2plY3RlZCB2YWx1ZXMgYXJlIGNsaXBwZWQgZWxlbWVudHdpc2UgdG8gd2l0aGluCiAgICAgICAgICAgIGBbLXByb2pfY2xpcCwgcHJval9jbGlwXWAuCiAgICAgICAgICBudW1fdW5pdF9zaGFyZHM6IERlcHJlY2F0ZWQsIHdpbGwgYmUgcmVtb3ZlZCBieSBKYW4uIDIwMTcuCiAgICAgICAgICAgIFVzZSBhIHZhcmlhYmxlX3Njb3BlIHBhcnRpdGlvbmVyIGluc3RlYWQuCiAgICAgICAgICBudW1fcHJval9zaGFyZHM6IERlcHJlY2F0ZWQsIHdpbGwgYmUgcmVtb3ZlZCBieSBKYW4uIDIwMTcuCiAgICAgICAgICAgIFVzZSBhIHZhcmlhYmxlX3Njb3BlIHBhcnRpdGlvbmVyIGluc3RlYWQuCiAgICAgICAgICBmb3JnZXRfYmlhczogQmlhc2VzIG9mIHRoZSBmb3JnZXQgZ2F0ZSBhcmUgaW5pdGlhbGl6ZWQgYnkgZGVmYXVsdCB0byAxCiAgICAgICAgICAgIGluIG9yZGVyIHRvIHJlZHVjZSB0aGUgc2NhbGUgb2YgZm9yZ2V0dGluZyBhdCB0aGUgYmVnaW5uaW5nIG9mCiAgICAgICAgICAgIHRoZSB0cmFpbmluZy4KICAgICAgICAgIHN0YXRlX2lzX3R1cGxlOiBJZiBUcnVlLCBhY2NlcHRlZCBhbmQgcmV0dXJuZWQgc3RhdGVzIGFyZSAyLXR1cGxlcyBvZgogICAgICAgICAgICB0aGUgYGNfc3RhdGVgIGFuZCBgbV9zdGF0ZWAuICBJZiBGYWxzZSwgdGhleSBhcmUgY29uY2F0ZW5hdGVkCiAgICAgICAgICAgIGFsb25nIHRoZSBjb2x1bW4gYXhpcy4gIFRoaXMgbGF0dGVyIGJlaGF2aW9yIHdpbGwgc29vbiBiZSBkZXByZWNhdGVkLgogICAgICAgICAgYWN0aXZhdGlvbjogQWN0aXZhdGlvbiBmdW5jdGlvbiBvZiB0aGUgaW5uZXIgc3RhdGVzLgogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBzdGF0ZV9pc190dXBsZToKICAgICAgICAgICAgbG9nZ2luZy53YXJuKCIlczogVXNpbmcgYSBjb25jYXRlbmF0ZWQgc3RhdGUgaXMgc2xvd2VyIGFuZCB3aWxsIHNvb24gYmUgIgogICAgICAgICAgICAgICAgICAgICAgICAgImRlcHJlY2F0ZWQuICBVc2Ugc3RhdGVfaXNfdHVwbGU9VHJ1ZS4iLCBzZWxmKQogICAgICAgIGlmIGlucHV0X3NpemUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGxvZ2dpbmcud2FybigiJXM6IFRoZSBpbnB1dF9zaXplIHBhcmFtZXRlciBpcyBkZXByZWNhdGVkLiIsIHNlbGYpCiAgICAgICAgaWYgbnVtX3VuaXRfc2hhcmRzIGlzIG5vdCBOb25lIG9yIG51bV9wcm9qX3NoYXJkcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgbG9nZ2luZy53YXJuKAogICAgICAgICAgICAgICAgIiVzOiBUaGUgbnVtX3VuaXRfc2hhcmRzIGFuZCBwcm9qX3VuaXRfc2hhcmRzIHBhcmFtZXRlcnMgYXJlICIKICAgICAgICAgICAgICAgICJkZXByZWNhdGVkIGFuZCB3aWxsIGJlIHJlbW92ZWQgaW4gSmFuIDIwMTcuICAiCiAgICAgICAgICAgICAgICAiVXNlIGEgdmFyaWFibGUgc2NvcGUgd2l0aCBhIHBhcnRpdGlvbmVyIGluc3RlYWQuIiwgc2VsZikKCiAgICAgICAgc2VsZi5fbnVtX3VuaXRzID0gbnVtX3VuaXRzCiAgICAgICAgc2VsZi5fdXNlX3BlZXBob2xlcyA9IHVzZV9wZWVwaG9sZXMKICAgICAgICBzZWxmLl9jZWxsX2NsaXAgPSBjZWxsX2NsaXAKICAgICAgICBzZWxmLl9pbml0aWFsaXplciA9IGluaXRpYWxpemVyCiAgICAgICAgc2VsZi5fbnVtX3Byb2ogPSBudW1fcHJvagogICAgICAgIHNlbGYuX3Byb2pfY2xpcCA9IHByb2pfY2xpcAogICAgICAgIHNlbGYuX251bV91bml0X3NoYXJkcyA9IG51bV91bml0X3NoYXJkcwogICAgICAgIHNlbGYuX251bV9wcm9qX3NoYXJkcyA9IG51bV9wcm9qX3NoYXJkcwogICAgICAgIHNlbGYuX2ZvcmdldF9iaWFzID0gZm9yZ2V0X2JpYXMKICAgICAgICBzZWxmLl9zdGF0ZV9pc190dXBsZSA9IHN0YXRlX2lzX3R1cGxlCiAgICAgICAgc2VsZi5fYWN0aXZhdGlvbiA9IGFjdGl2YXRpb24KCiAgICAgICAgaWYgbnVtX3Byb2o6CiAgICAgICAgICAgIHNlbGYuX3N0YXRlX3NpemUgPSAoCiAgICAgICAgICAgICAgICBMU1RNU3RhdGVUdXBsZShudW1fdW5pdHMsIG51bV9wcm9qKQogICAgICAgICAgICAgICAgaWYgc3RhdGVfaXNfdHVwbGUgZWxzZSBudW1fdW5pdHMgKyBudW1fcHJvaikKICAgICAgICAgICAgc2VsZi5fb3V0cHV0X3NpemUgPSBudW1fcHJvagogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuX3N0YXRlX3NpemUgPSAoCiAgICAgICAgICAgICAgICBMU1RNU3RhdGVUdXBsZShudW1fdW5pdHMsIG51bV91bml0cykKICAgICAgICAgICAgICAgIGlmIHN0YXRlX2lzX3R1cGxlIGVsc2UgMiAqIG51bV91bml0cykKICAgICAgICAgICAgc2VsZi5fb3V0cHV0X3NpemUgPSBudW1fdW5pdHMK</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBzdGF0ZV9zaXplKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9zdGF0ZV9zaXplCgogICAgQHByb3BlcnR5CiAgICBkZWYgb3V0cHV0X3NpemUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX291dHB1dF9zaXplCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIubGF5ZXJzIGltcG9ydCBsYXllcl9ub3JtCg==</text>
+        <text encoding="base64">ICAgICIiIkxvbmcgc2hvcnQtdGVybSBtZW1vcnkgdW5pdCAoTFNUTSkgcmVjdXJyZW50IG5ldHdvcmsgY2VsbC4KICAKICAgIFRoZSBkZWZhdWx0IG5vbi1wZWVwaG9sZSBpbXBsZW1lbnRhdGlvbiBpcyBiYXNlZCBvbjoKICAKICAgICAgaHR0cDovL2RlZXBsZWFybmluZy5jcy5jbXUuZWR1L3BkZnMvSG9jaHJlaXRlcjk3X2xzdG0ucGRmCiAgCiAgICBTLiBIb2NocmVpdGVyIGFuZCBKLiBTY2htaWRodWJlci4KICAgICJMb25nIFNob3J0LVRlcm0gTWVtb3J5Ii4gTmV1cmFsIENvbXB1dGF0aW9uLCA5KDgpOjE3MzUtMTc4MCwgMTk5Ny4KICAKICAgIFRoZSBwZWVwaG9sZSBpbXBsZW1lbnRhdGlvbiBpcyBiYXNlZCBvbjoKICAKICAgICAgaHR0cHM6Ly9yZXNlYXJjaC5nb29nbGUuY29tL3B1YnMvYXJjaGl2ZS80MzkwNS5wZGYKICAKICAgIEhhc2ltIFNhaywgQW5kcmV3IFNlbmlvciwgYW5kIEZyYW5jb2lzZSBCZWF1ZmF5cy4KICAgICJMb25nIHNob3J0LXRlcm0gbWVtb3J5IHJlY3VycmVudCBuZXVyYWwgbmV0d29yayBhcmNoaXRlY3R1cmVzIGZvcgogICAgIGxhcmdlIHNjYWxlIGFjb3VzdGljIG1vZGVsaW5nLiIgSU5URVJTUEVFQ0gsIDIwMTQuCiAgCiAgICBUaGUgY2xhc3MgdXNlcyBvcHRpb25hbCBwZWVwLWhvbGUgY29ubmVjdGlvbnMsIG9wdGlvbmFsIGNlbGwgY2xpcHBpbmcsIGFuZAogICAgYW4gb3B0aW9uYWwgcHJvamVjdGlvbiBsYXllci4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBudW1fdW5pdHMsIGlucHV0X3NpemU9Tm9uZSwKICAgICAgICAgICAgICAgICB1c2VfcGVlcGhvbGVzPUZhbHNlLCBjZWxsX2NsaXA9Tm9uZSwKICAgICAgICAgICAgICAgICBpbml0aWFsaXplcj1Ob25lLCBudW1fcHJvaj1Ob25lLCBwcm9qX2NsaXA9Tm9uZSwKICAgICAgICAgICAgICAgICBudW1fdW5pdF9zaGFyZHM9Tm9uZSwgbnVtX3Byb2pfc2hhcmRzPU5vbmUsCiAgICAgICAgICAgICAgICAgZm9yZ2V0X2JpYXM9MS4wLCBzdGF0ZV9pc190dXBsZT1UcnVlLAogICAgICAgICAgICAgICAgIGFjdGl2YXRpb249dGFuaCk6CiAgICAgICAgIiIiSW5pdGlhbGl6ZSB0aGUgcGFyYW1ldGVycyBmb3IgYW4gTFNUTSBjZWxsLgogICAgCiAgICAgICAgQXJnczoKICAgICAgICAgIG51bV91bml0czogaW50LCBUaGUgbnVtYmVyIG9mIHVuaXRzIGluIHRoZSBMU1RNIGNlbGwKICAgICAgICAgIGlucHV0X3NpemU6IERlcHJlY2F0ZWQgYW5kIHVudXNlZC4KICAgICAgICAgIHVzZV9wZWVwaG9sZXM6IGJvb2wsIHNldCBUcnVlIHRvIGVuYWJsZSBkaWFnb25hbC9wZWVwaG9sZSBjb25uZWN0aW9ucy4KICAgICAgICAgIGNlbGxfY2xpcDogKG9wdGlvbmFsKSBBIGZsb2F0IHZhbHVlLCBpZiBwcm92aWRlZCB0aGUgY2VsbCBzdGF0ZSBpcyBjbGlwcGVkCiAgICAgICAgICAgIGJ5IHRoaXMgdmFsdWUgcHJpb3IgdG8gdGhlIGNlbGwgb3V0cHV0IGFjdGl2YXRpb24uCiAgICAgICAgICBpbml0aWFsaXplcjogKG9wdGlvbmFsKSBUaGUgaW5pdGlhbGl6ZXIgdG8gdXNlIGZvciB0aGUgd2VpZ2h0IGFuZAogICAgICAgICAgICBwcm9qZWN0aW9uIG1hdHJpY2VzLgogICAgICAgICAgbnVtX3Byb2o6IChvcHRpb25hbCkgaW50LCBUaGUgb3V0cHV0IGRpbWVuc2lvbmFsaXR5IGZvciB0aGUgcHJvamVjdGlvbgogICAgICAgICAgICBtYXRyaWNlcy4gIElmIE5vbmUsIG5vIHByb2plY3Rpb24gaXMgcGVyZm9ybWVkLgogICAgICAgICAgcHJval9jbGlwOiAob3B0aW9uYWwpIEEgZmxvYXQgdmFsdWUuICBJZiBgbnVtX3Byb2ogPiAwYCBhbmQgYHByb2pfY2xpcGAgaXMKICAgICAgICAgICAgcHJvdmlkZWQsIHRoZW4gdGhlIHByb2plY3RlZCB2YWx1ZXMgYXJlIGNsaXBwZWQgZWxlbWVudHdpc2UgdG8gd2l0aGluCiAgICAgICAgICAgIGBbLXByb2pfY2xpcCwgcHJval9jbGlwXWAuCiAgICAgICAgICBudW1fdW5pdF9zaGFyZHM6IERlcHJlY2F0ZWQsIHdpbGwgYmUgcmVtb3ZlZCBieSBKYW4uIDIwMTcuCiAgICAgICAgICAgIFVzZSBhIHZhcmlhYmxlX3Njb3BlIHBhcnRpdGlvbmVyIGluc3RlYWQuCiAgICAgICAgICBudW1fcHJval9zaGFyZHM6IERlcHJlY2F0ZWQsIHdpbGwgYmUgcmVtb3ZlZCBieSBKYW4uIDIwMTcuCiAgICAgICAgICAgIFVzZSBhIHZhcmlhYmxlX3Njb3BlIHBhcnRpdGlvbmVyIGluc3RlYWQuCiAgICAgICAgICBmb3JnZXRfYmlhczogQmlhc2VzIG9mIHRoZSBmb3JnZXQgZ2F0ZSBhcmUgaW5pdGlhbGl6ZWQgYnkgZGVmYXVsdCB0byAxCiAgICAgICAgICAgIGluIG9yZGVyIHRvIHJlZHVjZSB0aGUgc2NhbGUgb2YgZm9yZ2V0dGluZyBhdCB0aGUgYmVnaW5uaW5nIG9mCiAgICAgICAgICAgIHRoZSB0cmFpbmluZy4KICAgICAgICAgIHN0YXRlX2lzX3R1cGxlOiBJZiBUcnVlLCBhY2NlcHRlZCBhbmQgcmV0dXJuZWQgc3RhdGVzIGFyZSAyLXR1cGxlcyBvZgogICAgICAgICAgICB0aGUgYGNfc3RhdGVgIGFuZCBgbV9zdGF0ZWAuICBJZiBGYWxzZSwgdGhleSBhcmUgY29uY2F0ZW5hdGVkCiAgICAgICAgICAgIGFsb25nIHRoZSBjb2x1bW4gYXhpcy4gIFRoaXMgbGF0dGVyIGJlaGF2aW9yIHdpbGwgc29vbiBiZSBkZXByZWNhdGVkLgogICAgICAgICAgYWN0aXZhdGlvbjogQWN0aXZhdGlvbiBmdW5jdGlvbiBvZiB0aGUgaW5uZXIgc3RhdGVzLgogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBzdGF0ZV9pc190dXBsZToKICAgICAgICAgICAgbG9nZ2luZy53YXJuKCIlczogVXNpbmcgYSBjb25jYXRlbmF0ZWQgc3RhdGUgaXMgc2xvd2VyIGFuZCB3aWxsIHNvb24gYmUgIgogICAgICAgICAgICAgICAgICAgICAgICAgImRlcHJlY2F0ZWQuICBVc2Ugc3RhdGVfaXNfdHVwbGU9VHJ1ZS4iLCBzZWxmKQogICAgICAgIGlmIGlucHV0X3NpemUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGxvZ2dpbmcud2FybigiJXM6IFRoZSBpbnB1dF9zaXplIHBhcmFtZXRlciBpcyBkZXByZWNhdGVkLiIsIHNlbGYpCiAgICAgICAgaWYgbnVtX3VuaXRfc2hhcmRzIGlzIG5vdCBOb25lIG9yIG51bV9wcm9qX3NoYXJkcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgbG9nZ2luZy53YXJuKAogICAgICAgICAgICAgICAgIiVzOiBUaGUgbnVtX3VuaXRfc2hhcmRzIGFuZCBwcm9qX3VuaXRfc2hhcmRzIHBhcmFtZXRlcnMgYXJlICIKICAgICAgICAgICAgICAgICJkZXByZWNhdGVkIGFuZCB3aWxsIGJlIHJlbW92ZWQgaW4gSmFuIDIwMTcuICAiCiAgICAgICAgICAgICAgICAiVXNlIGEgdmFyaWFibGUgc2NvcGUgd2l0aCBhIHBhcnRpdGlvbmVyIGluc3RlYWQuIiwgc2VsZikKCiAgICAgICAgc2VsZi5fbnVtX3VuaXRzID0gbnVtX3VuaXRzCiAgICAgICAgc2VsZi5fdXNlX3BlZXBob2xlcyA9IHVzZV9wZWVwaG9sZXMKICAgICAgICBzZWxmLl9jZWxsX2NsaXAgPSBjZWxsX2NsaXAKICAgICAgICBzZWxmLl9pbml0aWFsaXplciA9IGluaXRpYWxpemVyCiAgICAgICAgc2VsZi5fbnVtX3Byb2ogPSBudW1fcHJvagogICAgICAgIHNlbGYuX3Byb2pfY2xpcCA9IHByb2pfY2xpcAogICAgICAgIHNlbGYuX251bV91bml0X3NoYXJkcyA9IG51bV91bml0X3NoYXJkcwogICAgICAgIHNlbGYuX251bV9wcm9qX3NoYXJkcyA9IG51bV9wcm9qX3NoYXJkcwogICAgICAgIHNlbGYuX2ZvcmdldF9iaWFzID0gZm9yZ2V0X2JpYXMKICAgICAgICBzZWxmLl9zdGF0ZV9pc190dXBsZSA9IHN0YXRlX2lzX3R1cGxlCiAgICAgICAgc2VsZi5fYWN0aXZhdGlvbiA9IGFjdGl2YXRpb24KCiAgICAgICAgaWYgbnVtX3Byb2o6CiAgICAgICAgICAgIHNlbGYuX3N0YXRlX3NpemUgPSAoCiAgICAgICAgICAgICAgICBMU1RNU3RhdGVUdXBsZShudW1fdW5pdHMsIG51bV9wcm9qKQogICAgICAgICAgICAgICAgaWYgc3RhdGVfaXNfdHVwbGUgZWxzZSBudW1fdW5pdHMgKyBudW1fcHJvaikKICAgICAgICAgICAgc2VsZi5fb3V0cHV0X3NpemUgPSBudW1fcHJvagogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuX3N0YXRlX3NpemUgPSAoCiAgICAgICAgICAgICAgICBMU1RNU3RhdGVUdXBsZShudW1fdW5pdHMsIG51bV91bml0cykKICAgICAgICAgICAgICAgIGlmIHN0YXRlX2lzX3R1cGxlIGVsc2UgMiAqIG51bV91bml0cykKICAgICAgICAgICAgc2VsZi5fb3V0cHV0X3NpemUgPSBudW1fdW5pdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhdF9zdGF0ZSA9IHRmLmNvbmNhdChheGlzPTEsIHZhbHVlcz0obHN0bV9vdXRwdXQsIGxzdG1fc3RhdGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIubGF5ZXJzIGltcG9ydCBsYXllcl9ub3JtCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBzZWxmLl9sYXllcl9ub3JtOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhdF9zdGF0ZSA9IHRmLmNvbmNhdChheGlzPTEsIHZhbHVlcz0obHN0bV9vdXRwdXQsIGxzdG1fc3RhdGUpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6734,19 +6736,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBzZWxmLl9sYXllcl9ub3JtOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUGFyYW1zIiwgcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>boundary_</last-search>
+      <last-search>bpt_bellman</last-search>
       <last-offset />
-      <last-pattern>boundary_</last-pattern>
+      <last-pattern>bpt_bellman</last-pattern>
       <last-replace>meta_qf</last-replace>
       <last-substitute>meta_critic</last-substitute>
       <last-dir>1</last-dir>
@@ -6754,8 +6756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>y_means</entry>
         <entry>value_to_unique</entry>
         <entry>max_path_length</entry>
         <entry>bpt_bel</entry>
@@ -6774,6 +6774,8 @@
         <entry>n_seeds</entry>
         <entry>git</entry>
         <entry>boundary_</entry>
+        <entry>meta_qf_output_weight</entry>
+        <entry>bpt_bellman</entry>
       </history-search>
       <history-cmd>
         <entry>336</entry>
