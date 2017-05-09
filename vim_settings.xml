@@ -736,10 +736,10 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/core/parameterized.py" timestamp="1491094158813">
         <mark key="'" line="56" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1491169340174">
-        <mark key="'" line="12" column="22" />
-        <mark key="[" line="92" column="47" />
-        <mark key="]" line="92" column="47" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1494360728705">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="31" />
         <mark key="." line="92" column="47" />
         <mark key="^" line="92" column="46" />
       </file>
@@ -2738,7 +2738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="47" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="346" column="10" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
       <jump line="181" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
@@ -2838,6 +2837,7 @@
       <jump line="272" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="195" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="311" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2851,8 +2851,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>none</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ1cy13ZXN0LTEiOiAiYW1pLWFkODFjOGNkIiwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5266,7 +5266,7 @@
         <text>none</text>
       </register>
       <register name="/" type="4">
-        <text>peep</text>
+        <text>IMAGE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbWJlZGRlZCA9IHRmLmNvbmNhdChheGlzPTEsIHZhbHVlcz1bb2JzZXJ2YXRpb25fb3V0cHV0LCBhY3Rpb25faW5wdXRdKQogICAgICAgIGVtYmVkZGVkX2RpbSA9IHN1bShzZWxmLmFjdGlvbl9kaW0pICsgb2JzX291dHB1dF9kaW0KICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJmdXNpb25fbWxwIik6CiAgICAgICAgICAgIGlmIGxlbihzZWxmLmVtYmVkZGVkX2hpZGRlbl9zaXplcykgPiAwOgogICAgICAgICAgICAgICAgZnVzZWRfb3V0cHV0ID0gbWxwKAogICAgICAgICAgICAgICAgICAgIGVtYmVkZGVkLAogICAgICAgICAgICAgICAgICAgIGVtYmVkZGVkX2RpbSwKICAgICAgICAgICAgICAgICAgICBzZWxmLmVtYmVkZGVkX2hpZGRlbl9zaXplcywKICAgICAgICAgICAgICAgICAgICBzZWxmLmhpZGRlbl9ub25saW5lYXJpdHksCiAgICAgICAgICAgICAgICAgICAgV19pbml0aWFsaXplcj1zZWxmLmhpZGRlbl9XX2luaXQsCiAgICAgICAgICAgICAgICAgICAgYl9pbml0aWFsaXplcj1zZWxmLmhpZGRlbl9iX2luaXQsCiAgICAgICAgICAgICAgICAgICAgcHJlX25vbmxpbl9sYW1iZGE9c2VsZi5fcHJvY2Vzc19sYXllciwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGZ1c2VkX291dHB1dCA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIoZnVzZWRfb3V0cHV0KQogICAgICAgICAgICAgICAgZnVzZWRfb3V0cHV0X2RpbSA9IHNlbGYuZW1iZWRkZWRfaGlkZGVuX3NpemVzWy0xXQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZnVzZWRfb3V0cHV0ID0gZW1iZWRkZWQKICAgICAgICAgICAgICAgIGZ1c2VkX291dHB1dF9kaW0gPSBlbWJlZGRlZF9kaW0K</text>
@@ -6780,9 +6780,9 @@
       </register>
     </registers>
     <search>
-      <last-search>peep</last-search>
+      <last-search>IMAGE</last-search>
       <last-offset />
-      <last-pattern>peep</last-pattern>
+      <last-pattern>IMAGE</last-pattern>
       <last-replace>meta_qf</last-replace>
       <last-substitute>meta_critic</last-substitute>
       <last-dir>1</last-dir>
@@ -6790,7 +6790,6 @@
     </search>
     <history>
       <history-search>
-        <entry>w_f_diagh</entry>
         <entry>w_f_diag</entry>
         <entry>layer_norm</entry>
         <entry>_std =</entry>
@@ -6810,6 +6809,7 @@
         <entry>use_hint</entry>
         <entry>bellman_error =</entry>
         <entry>peep</entry>
+        <entry>IMAGE</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
