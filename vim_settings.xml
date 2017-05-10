@@ -1815,10 +1815,10 @@
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/network.py" timestamp="1493649871048">
-        <mark key="'" line="311" column="63" />
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/network.py" timestamp="1494450051112">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="311" column="64" />
-        <mark key="]" line="311" column="65" />
+        <mark key="]" line="311" column="64" />
         <mark key="." line="311" column="64" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1313875005/numpy/random/mtrand.py" timestamp="1487123306233">
@@ -2768,7 +2768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="10" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
       <jump line="181" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="175" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
       <jump line="110" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
@@ -2868,6 +2867,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
       <jump line="23" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="33" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/network.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2881,8 +2881,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ1cy13ZXN0LTEiOiAiYW1pLWFkODFjOGNkIiwK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5293,10 +5293,10 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>IMAGE</text>
+        <text>u0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbWJlZGRlZCA9IHRmLmNvbmNhdChheGlzPTEsIHZhbHVlcz1bb2JzZXJ2YXRpb25fb3V0cHV0LCBhY3Rpb25faW5wdXRdKQogICAgICAgIGVtYmVkZGVkX2RpbSA9IHN1bShzZWxmLmFjdGlvbl9kaW0pICsgb2JzX291dHB1dF9kaW0KICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJmdXNpb25fbWxwIik6CiAgICAgICAgICAgIGlmIGxlbihzZWxmLmVtYmVkZGVkX2hpZGRlbl9zaXplcykgPiAwOgogICAgICAgICAgICAgICAgZnVzZWRfb3V0cHV0ID0gbWxwKAogICAgICAgICAgICAgICAgICAgIGVtYmVkZGVkLAogICAgICAgICAgICAgICAgICAgIGVtYmVkZGVkX2RpbSwKICAgICAgICAgICAgICAgICAgICBzZWxmLmVtYmVkZGVkX2hpZGRlbl9zaXplcywKICAgICAgICAgICAgICAgICAgICBzZWxmLmhpZGRlbl9ub25saW5lYXJpdHksCiAgICAgICAgICAgICAgICAgICAgV19pbml0aWFsaXplcj1zZWxmLmhpZGRlbl9XX2luaXQsCiAgICAgICAgICAgICAgICAgICAgYl9pbml0aWFsaXplcj1zZWxmLmhpZGRlbl9iX2luaXQsCiAgICAgICAgICAgICAgICAgICAgcHJlX25vbmxpbl9sYW1iZGE9c2VsZi5fcHJvY2Vzc19sYXllciwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGZ1c2VkX291dHB1dCA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIoZnVzZWRfb3V0cHV0KQogICAgICAgICAgICAgICAgZnVzZWRfb3V0cHV0X2RpbSA9IHNlbGYuZW1iZWRkZWRfaGlkZGVuX3NpemVzWy0xXQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZnVzZWRfb3V0cHV0ID0gZW1iZWRkZWQKICAgICAgICAgICAgICAgIGZ1c2VkX291dHB1dF9kaW0gPSBlbWJlZGRlZF9kaW0K</text>
@@ -6810,9 +6810,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IMAGE</last-search>
+      <last-search>u0</last-search>
       <last-offset />
-      <last-pattern>IMAGE</last-pattern>
+      <last-pattern>u0</last-pattern>
       <last-replace>meta_qf</last-replace>
       <last-substitute>meta_critic</last-substitute>
       <last-dir>1</last-dir>
@@ -6820,7 +6820,6 @@
     </search>
     <history>
       <history-search>
-        <entry>w_f_diag</entry>
         <entry>layer_norm</entry>
         <entry>_std =</entry>
         <entry>meta</entry>
@@ -6840,6 +6839,7 @@
         <entry>bellman_error =</entry>
         <entry>peep</entry>
         <entry>IMAGE</entry>
+        <entry>u0</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
