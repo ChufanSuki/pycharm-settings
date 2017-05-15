@@ -519,14 +519,14 @@
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494874437273">
-        <mark key="'" line="247" column="54" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" timestamp="1494876589689">
+        <mark key="'" line="473" column="45" />
         <mark key="g" line="469" column="8" />
-        <mark key="[" line="270" column="9" />
+        <mark key="[" line="245" column="16" />
         <mark key="m" line="244" column="0" />
-        <mark key="]" line="270" column="10" />
-        <mark key="." line="270" column="10" />
-        <mark key="^" line="270" column="9" />
+        <mark key="]" line="245" column="16" />
+        <mark key="." line="245" column="16" />
+        <mark key="^" line="245" column="16" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1494796145469">
         <mark key="'" line="138" column="21" />
@@ -2716,9 +2716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="584" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="330" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="476" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="289" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="559" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2799,7 +2796,6 @@
       <jump line="366" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="423" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
-      <jump line="248" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="401" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="389" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="247" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2816,6 +2812,10 @@
       <jump line="743" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="746" column="15" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="845" column="51" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
+      <jump line="438" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="485" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="248" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
+      <jump line="473" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2830,7 +2830,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>j</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11473,10 +11473,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>sync_s3_log</text>
+        <text>OUS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVjYXlfcGVyaW9kPWVwb2NoX2xlbmd0aCoxNSwK</text>
@@ -12990,9 +12990,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sync_s3_log</last-search>
+      <last-search>OUS</last-search>
       <last-offset />
-      <last-pattern>sync_s3_log</last-pattern>
+      <last-pattern>OUS</last-pattern>
       <last-replace>dmemory</last-replace>
       <last-substitute>dwrite</last-substitute>
       <last-dir>1</last-dir>
@@ -13000,7 +13000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new_start_in</entry>
         <entry>termin</entry>
         <entry>fake</entry>
         <entry>_saved_write</entry>
@@ -13020,6 +13019,7 @@
         <entry>_std</entry>
         <entry>stdout.log</entry>
         <entry>sync_s3_log</entry>
+        <entry>OUS</entry>
       </history-search>
       <history-cmd>
         <entry>182</entry>
