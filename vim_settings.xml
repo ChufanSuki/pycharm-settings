@@ -316,6 +316,13 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1495149201425">
+        <mark key="'" line="98" column="8" />
+        <mark key="[" line="158" column="31" />
+        <mark key="]" line="158" column="31" />
+        <mark key="^" line="158" column="31" />
+        <mark key="." line="158" column="31" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
         <mark key="[" line="985" column="61" />
@@ -493,6 +500,12 @@
         <mark key="]" line="7" column="48" />
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/our_method.py" timestamp="1495149482268">
+        <mark key="[" line="76" column="24" />
+        <mark key="]" line="76" column="25" />
+        <mark key="." line="76" column="25" />
+        <mark key="^" line="66" column="17" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py" timestamp="1494991642710">
         <mark key="'" line="1884" column="4" />
@@ -1200,6 +1213,13 @@
         <mark key="]" line="34" column="64" />
         <mark key="^" line="34" column="64" />
         <mark key="." line="34" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" timestamp="1495149180033">
+        <mark key="'" line="115" column="36" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" timestamp="1492902562656">
         <mark key="'" line="60" column="27" />
@@ -1927,6 +1947,12 @@
         <mark key="]" line="43" column="9" />
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1495051903518">
+        <mark key="[" line="136" column="33" />
+        <mark key="]" line="136" column="33" />
+        <mark key="." line="136" column="43" />
+        <mark key="^" line="135" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" timestamp="1494979734249">
         <mark key="'" line="7" column="19" />
@@ -2749,8 +2775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="329" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="410" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="196" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="202" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
@@ -2849,6 +2873,8 @@
       <jump line="140" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="580" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="188" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="114" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2866,7 +2892,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>30</text>
+        <text>10</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11509,25 +11535,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>ipd</text>
+        <text>_std</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCJudW1fc3RlcHNfcGVyX2JhdGNoPTI1NiIsIDQpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlcG9jaF9sZW5ndGg9MTAwMCwKICAgICAgICBldmFsX3NhbXBsZXM9MjAwMCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAjICdkZHBnX3BhcmFtcy5udW1fYnB0dF91bnJvbGxzJzogWzY0LCA0OCwgMzIsIDE2LCA0LCAxXSwKPj4+Pj4+PiBtZW0tbWF0Y2gtc2wtMy04Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAjICdkZHBnX3BhcmFtcy5udW1fYnB0dF91bnJvbGxzJzogWzY0LCA0OCwgMzIsIDE2LCA0LCAxXSwKPj4+Pj4+PiBtZW0tbWF0Y2gtc2wtMy04Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11562,19 +11588,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIG51bV9icHR0X3Vucm9sbHM9MzIsCj4+Pj4+Pj4gbWVtLW1hdGNoLXNsLTMtOAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgIG51bV9icHR0X3Vucm9sbHM9MzIsCj4+Pj4+Pj4gbWVtLW1hdGNoLXNsLTMtOAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIG5fZXBvY2hzPTUwLAo+Pj4+Pj4+IG1lbS1tYXRjaC1zbC0zLTgK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIG5fZXBvY2hzPTUwLAo+Pj4+Pj4+IG1lbS1tYXRjaC1zbC0zLTgK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13016,19 +13042,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIG51bV9zdGVwcz0zMiwKICAgICAgICBuPTIsCiAgICAgICAgemVyb19vYnNlcnZhdGlvbj1UcnVlLAogICAgICAgIG91dHB1dF90YXJnZXRfbnVtYmVyPUZhbHNlLAogICAgICAgIG91dHB1dF90aW1lPUZhbHNlLAogICAgICAgIGVwaXNvZGVfYm91bmRhcnlfZmxhZ3M9RmFsc2UsCiAgICAgICAgbWF4X3Jld2FyZF9tYWduaXR1ZGU9MSwKPj4+Pj4+PiBtZW0tbWF0Y2gtc2wtMy04Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIG51bV9zdGVwcz0zMiwKICAgICAgICBuPTIsCiAgICAgICAgemVyb19vYnNlcnZhdGlvbj1UcnVlLAogICAgICAgIG91dHB1dF90YXJnZXRfbnVtYmVyPUZhbHNlLAogICAgICAgIG91dHB1dF90aW1lPUZhbHNlLAogICAgICAgIGVwaXNvZGVfYm91bmRhcnlfZmxhZ3M9RmFsc2UsCiAgICAgICAgbWF4X3Jld2FyZF9tYWduaXR1ZGU9MSwKPj4+Pj4+PiBtZW0tbWF0Y2gtc2wtMy04Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipd</last-search>
+      <last-search>_std</last-search>
       <last-offset />
-      <last-pattern>ipd</last-pattern>
+      <last-pattern>_std</last-pattern>
       <last-replace>write_optimize_everything</last-replace>
       <last-substitute>write_only_optimize_bellman</last-substitute>
       <last-dir>1</last-dir>
@@ -13036,7 +13062,6 @@
     </search>
     <history>
       <history-search>
-        <entry>velocity =</entry>
         <entry>env_params</entry>
         <entry>otuput_time</entry>
         <entry>output_time</entry>
@@ -13056,6 +13081,7 @@
         <entry>write_only_optimize_bellman</entry>
         <entry>write_only</entry>
         <entry>ipd</entry>
+        <entry>_std</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
