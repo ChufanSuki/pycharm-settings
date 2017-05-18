@@ -709,12 +709,12 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_trpo.py" timestamp="1495064985948">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_trpo.py" timestamp="1495068679181">
         <mark key="'" line="57" column="11" />
-        <mark key="[" line="77" column="68" />
-        <mark key="]" line="77" column="69" />
-        <mark key="." line="77" column="69" />
-        <mark key="^" line="77" column="69" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="63" />
+        <mark key="." line="77" column="63" />
+        <mark key="^" line="77" column="65" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" timestamp="1495060855586">
         <mark key="'" line="328" column="10" />
@@ -736,11 +736,12 @@
         <mark key="." line="70" column="15" />
         <mark key="^" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1495066464917">
-        <mark key="'" line="572" column="13" />
-        <mark key="[" line="578" column="0" />
-        <mark key="]" line="578" column="0" />
-        <mark key="." line="578" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1495068526923">
+        <mark key="'" line="546" column="73" />
+        <mark key="[" line="724" column="35" />
+        <mark key="]" line="725" column="11" />
+        <mark key="." line="725" column="11" />
+        <mark key="^" line="725" column="11" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
@@ -2305,12 +2306,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-gpu/lib/python3.5/site-packages/gym/wrappers/monitoring.py" timestamp="1488748441476">
         <mark key="'" line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/notes.md" timestamp="1492058692922">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/notes.md" timestamp="1495068717377">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hyperparameter.py" timestamp="1494046279808">
         <mark key="'" line="173" column="16" />
@@ -2778,8 +2779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
-      <jump line="84" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
       <jump line="91" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
       <jump line="74" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
@@ -2878,6 +2877,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/our_method.py" />
       <jump line="172" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/our_method.py" />
       <jump line="182" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/our_method.py" />
+      <jump line="546" column="73" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/notes.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2895,7 +2896,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>hl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11538,25 +11539,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>memory_dim</text>
+        <text>handle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9SGlnaExvdywK</text>
+        <text encoding="base64">IyMgSUNNTAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">LSA1LTE3LWJlbmNobWFyay1tdHJwby13YXRlcm1hemUtYmF0Y2hzaXplMTAwMDAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5fcm9sbG91dHNfcGVyX2Vwb2NoID0gMTAwCiAgICBuX3JvbGxvdXRzX3Blcl9ldmFsID0gNjQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">NS0xNy1kZXYtYmVuY2htYXJrLW91ci1tZXRob2QtaGwvCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11591,19 +11592,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvbGljeSA9IEZsYXRMc3RtTWVtb3J5UG9saWN5KAogICAgICAgIG5hbWVfb3Jfc2NvcGU9InBvbGljeSIsCiAgICAgICAgYWN0aW9uX2RpbT1lbnZfYWN0aW9uX2RpbSwKICAgICAgICBtZW1vcnlfZGltPW1lbW9yeV9kaW0sCiAgICAgICAgZW52X29ic19kaW09ZW52X29ic19kaW0sCiAgICAgICAgZW52X3NwZWM9ZW52LnNwZWMsCiAgICAgICAgKipwb2xpY3lfcGFyYW1zCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZW52X2FjdGlvbl9kaW0gPSBlbnYuYWN0aW9uX3NwYWNlLmZsYXRfZGltCiAgICAjIGVudl9vYnNfZGltID0gZW52Lm9ic2VydmF0aW9uX3NwYWNlLmZsYXRfZGltCiAgICAjIGVudiA9IENvbnRpbnVvdXNNZW1vcnlBdWdtZW50ZWQoCiAgICAjICAgICBlbnYsCiAgICAjICAgICBudW1fbWVtb3J5X3N0YXRlcz1tZW1vcnlfZGltLAogICAgIyApCiAgICAjIGVudiA9IEZsYXR0ZW5lZFByb2R1Y3RCb3goZW52KQo=</text>
+        <text encoding="base64">ICAgIG5fcm9sbG91dHNfcGVyX2Vwb2NoID0gMTAwCiAgICBuX3JvbGxvdXRzX3Blcl9ldmFsID0gNjQK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13045,19 +13046,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZExfZHRoZXRhX2FjdHVhbGx5X2FwcGxpZWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgIyAgICAgc2VsZi5fc2F2ZWRfd3JpdGVfbG9zcywKICAgICAgICAjICAgICBzZWxmLndwYXJhbSwKICAgICAgICAjIClbMF0KICAgICAgICAjIHNlbGYuZExfZHdyaXRlX2FjdHVhbGx5X2FwcGxpZWQgPSB0Zi5ncmFkaWVudHMoCiAgICAgICAgIyAgICAgc2VsZi5fc2F2ZWRfd3JpdGVfbG9zcywKICAgICAgICAjICAgICBzZWxmLmFsbF93cml0ZXNfbGlzdAogICAgICAgICMgKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9icHRfYmVsbG1hbl9lcnJvcl93ZWlnaHQgPiAwLjoK</text>
+        <text encoding="base64">ICAgIHBvbGljeSA9IEZsYXRMc3RtTWVtb3J5UG9saWN5KAogICAgICAgIG5hbWVfb3Jfc2NvcGU9InBvbGljeSIsCiAgICAgICAgYWN0aW9uX2RpbT1lbnZfYWN0aW9uX2RpbSwKICAgICAgICBtZW1vcnlfZGltPW1lbW9yeV9kaW0sCiAgICAgICAgZW52X29ic19kaW09ZW52X29ic19kaW0sCiAgICAgICAgZW52X3NwZWM9ZW52LnNwZWMsCiAgICAgICAgKipwb2xpY3lfcGFyYW1zCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>memory_dim</last-search>
+      <last-search>handle</last-search>
       <last-offset />
-      <last-pattern>memory_dim</last-pattern>
+      <last-pattern>handle</last-pattern>
       <last-replace>dmemory</last-replace>
       <last-substitute>dwrite</last-substitute>
       <last-dir>1</last-dir>
@@ -13065,7 +13066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>launcher</entry>
         <entry>dropout</entry>
         <entry>returns</entry>
         <entry>rewards</entry>
@@ -13085,6 +13085,7 @@
         <entry>version</entry>
         <entry>recurrent</entry>
         <entry>memory_dim</entry>
+        <entry>handle</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
