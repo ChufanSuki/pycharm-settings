@@ -539,8 +539,8 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1494888057177">
-        <mark key="'" line="125" column="39" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" timestamp="1495083664503">
+        <mark key="'" line="139" column="34" />
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
@@ -2768,14 +2768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="714" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="711" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="133" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" />
-      <jump line="213" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="439" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="443" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="572" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="64" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg.py" />
       <jump line="79" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg.py" />
@@ -2868,6 +2860,14 @@
       <jump line="53" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="677" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="650" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="70" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="77" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="83" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="81" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
+      <jump line="139" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/meta_bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11531,7 +11531,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>saved</text>
+        <text>meta_qf_loss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZUVhc3kK</text>
@@ -13045,9 +13045,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saved</last-search>
+      <last-search>meta_qf_loss</last-search>
       <last-offset />
-      <last-pattern>saved</last-pattern>
+      <last-pattern>meta_qf_loss</last-pattern>
       <last-replace>dmemory</last-replace>
       <last-substitute>dwrite</last-substitute>
       <last-dir>1</last-dir>
@@ -13055,12 +13055,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save_</entry>
-        <entry>saved_</entry>
-        <entry>WaterMaze</entry>
-        <entry>version</entry>
-        <entry>recurrent</entry>
-        <entry>memory_dim</entry>
         <entry>handle</entry>
         <entry>compute</entry>
         <entry>dloss_dmems</entry>
@@ -13075,6 +13069,12 @@
         <entry>32</entry>
         <entry>handle_rollout</entry>
         <entry>saved</entry>
+        <entry>meta_critic</entry>
+        <entry>meta</entry>
+        <entry>target</entry>
+        <entry>ys_</entry>
+        <entry>meta_qf</entry>
+        <entry>meta_qf_loss</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
