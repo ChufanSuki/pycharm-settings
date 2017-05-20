@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1492638314908">
+      <file name="/start_script.py" timestamp="1495248835740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gradients_impl.py" timestamp="1490121793455">
@@ -2032,6 +2032,13 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495248738338">
+        <mark key="'" line="203" column="12" />
+        <mark key="[" line="267" column="24" />
+        <mark key="]" line="260" column="22" />
+        <mark key="." line="267" column="28" />
+        <mark key="^" line="260" column="22" />
+      </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="64" column="0" />
@@ -2634,7 +2641,6 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/git/classes/cs188-ai-spring2017-projects/classification_sp16/perceptron.py" timestamp="1492841639724" />
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/noop.py" timestamp="1492201086506">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="9" column="12" />
@@ -2654,7 +2660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/regress_q_bptt_ddpg.py" />
       <jump line="473" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="46" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
       <jump line="179" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_ocm.py" />
@@ -2754,13 +2759,14 @@
       <jump line="293" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
       <jump line="78" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" />
       <jump line="67" column="22" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" />
+      <jump line="203" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>([</text>
+        <text>self.flatt</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5020,25 +5026,25 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>([</text>
+        <text>self.flatt</text>
       </register>
       <register name="/" type="4">
-        <text>solve</text>
+        <text>do_train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Sk9JTlRfQU5HTEVTX0hJR0ggPSBucC5hcnJheShbCiAgICAtMS43MDE2Nzk5NSwgLTIuMTQ3MDAwMjUsIC0zLjA1NDE4MDEgLCAtMC4wNDk5NTE5OCwgLTMuMDU5MDAwMTUsCiAgICAgICAtMS41NzA4MDAzICwgLTMuMDU4OTk5ODkKXSkK</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gc2VsZi5nZXRfc3VidHJhal9iYXRjaCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0xLjcwMTY3OTk1LCAtMi4xNDcwMDAyNSwgLTMuMDU0MTgwMSAsIC0wLjA0OTk1MTk4LCAtMy4wNTkwMDAxNSwKICAgICAgIC0xLjU3MDgwMDMgLCAtMy4wNTg5OTk4OQpdKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYmF0Y2ggaW4gc2VsZi5zdWJ0cmFqX2JhdGNoX3RvX2xpc3Rfb2ZfYmF0Y2goc3VidHJhal9iYXRjaCk6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiB1bnJvbGxfcG9saWN5KHNlbGYsIGJhdGNoKToKICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X21lbW9yaWVzLCBuZXdfd3JpdGVzLCBuZXdfbmV4dF9tZW1vcmllcyA9IHNlbGYudW5yb2xsX3BvbGljeSgKICAgICAgICAgICAgICAgIGJhdGNoCiAgICAgICAgICAgICkKCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5073,19 +5079,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIC0xLjcwMTY3OTk1LCAtMi4xNDcwMDAyNSwgLTMuMDU0MTgwMSAsIC0wLjA0OTk1MTk4LCAtMy4wNTkwMDAxNSwKICAgICAgIC0xLjU3MDgwMDMgLCAtMy4wNTg5OTk4OQpdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb3csIGhpZ2gsIHNoYXBlPU5vbmUpOgo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3NweS53YWl0X2Zvcl9zZXJ2aWNlKCdhZGRfdHdvX2ludHMnKQogICAgICAgIHNlbGYuYWRkX3R3b19pbnRzID0gcm9zcHkuU2VydmljZVByb3h5KCdhZGRfdHdvX2ludHMnLCBBZGRUd29JbnRzKQo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6125,19 +6131,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSAyMAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhdGUgPSByb3NweS5SYXRlKHNlbGYuKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>144</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>solve</last-search>
+      <last-search>do_train</last-search>
       <last-offset />
-      <last-pattern>solve</last-pattern>
+      <last-pattern>do_train</last-pattern>
       <last-replace>max_num_q_updates</last-replace>
       <last-substitute>max_n_q_updates</last-substitute>
       <last-dir>1</last-dir>
@@ -6145,7 +6151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>except</entry>
         <entry>close</entry>
         <entry>toggle</entry>
@@ -6165,6 +6170,7 @@
         <entry>6.a</entry>
         <entry>YOUR ODE</entry>
         <entry>solve</entry>
+        <entry>do_train</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
@@ -6185,8 +6191,8 @@
         <entry>466</entry>
         <entry>157</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>144</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
