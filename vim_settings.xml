@@ -1248,8 +1248,11 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/pytorch_bptt_ddpg_highlow.py" timestamp="1495259372482">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/pytorch_bptt_ddpg_highlow.py" timestamp="1495333315427">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1492472710595">
         <mark key="'" line="35" column="41" />
@@ -2038,12 +2041,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495267979085">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495333491253">
         <mark key="'" line="121" column="12" />
-        <mark key="[" line="448" column="25" />
-        <mark key="]" line="448" column="74" />
-        <mark key="." line="448" column="74" />
-        <mark key="^" line="448" column="74" />
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="37" />
+        <mark key="^" line="47" column="37" />
+        <mark key="." line="47" column="37" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
         <mark key="'" line="39" column="0" />
@@ -2781,7 +2784,7 @@
         <text>n$%p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Should the policy optimii</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5041,25 +5044,26 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>Should the policy optimii</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>memories</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNwbGl0IHBvbGljeSBpbnRvIHRyYWluaW5nIGVudiBhbmQgd3JpdGUgYWN0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9kaW0gPSBlbnYuZW52X3NwZWMuYWN0aW9uX3NwYWNlLmZsYXRfZGltCiAgICAgICAgc2VsZi5vYnNfZGltID0gZW52LmVudl9zcGVjLm9ic2VydmF0aW9uX3NwYWNlLmZsYXRfZGltCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
+      <register name="2" type="4">
+        <text>1
+        self</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXNbMTpdIHNob3VsZCBvdmVyd3JpdGUgdGhlIG1lbW9yaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5094,19 +5098,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBpcyBpdCBzYWZlIHRvIG1vZGlmeSB0aGlzIGRpY3Rpb25hcnk/Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXNbMTpdIHNob3VsZCBvdmVyd3JpdGUgdGhlIG1lbW9yaWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBzaG91bGQgSSBkZXRhY2ggKHN0b3AgZ3JhZGllbnRzKT8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBpcyBpdCBzYWZlIHRvIG1vZGlmeSB0aGlzIGRpY3Rpb25hcnk/Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YnRyYWpfYmF0Y2hbJ3BvbGljeV93cml0ZXMnXVs6LCA6LTEsIDpdCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6146,10 +6150,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBzaG91bGQgSSBkZXRhY2ggKHN0b3AgZ3JhZGllbnRzKT8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXNbMTpdIHNob3VsZCBvdmVyd3JpdGUgdGhlIG1lbW9yaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YnRyYWpfYmF0Y2hbJ3BvbGljeV93cml0ZXMnXVs6LCA6LTEsIDpdCiAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6202,11 +6206,11 @@
         <entry>106</entry>
         <entry>379</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>.12</entry>
         <entry>112</entry>
         <entry>45</entry>
         <entry>427</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
