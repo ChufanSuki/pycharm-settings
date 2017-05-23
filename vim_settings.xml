@@ -2041,12 +2041,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495333491253">
-        <mark key="'" line="121" column="12" />
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="47" column="37" />
-        <mark key="^" line="47" column="37" />
-        <mark key="." line="47" column="37" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495400163058">
+        <mark key="'" line="407" column="24" />
+        <mark key="[" line="227" column="27" />
+        <mark key="]" line="227" column="32" />
+        <mark key="^" line="227" column="32" />
+        <mark key="." line="227" column="32" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
         <mark key="'" line="39" column="0" />
@@ -2678,7 +2678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="12" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/solvers.py" />
       <jump line="78" column="31" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" />
       <jump line="67" column="22" filename="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/search_hyperparams.py" />
       <jump line="203" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
@@ -2778,13 +2777,14 @@
       <jump line="100" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="102" column="52" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="117" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="407" column="24" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>n$%p</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXMgc2hvdWxkIG92ZXJ3cml0ZSB0aGUgIyBtZW1vcmllcy4uLnJpZ2h0Pwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -5044,7 +5044,7 @@
         <text>jkkn</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>policy_actions</text>
       </register>
       <register name="/" type="4">
         <text>memories</text>
@@ -5053,17 +5053,17 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9kaW0gPSBlbnYuZW52X3NwZWMuYWN0aW9uX3NwYWNlLmZsYXRfZGltCiAgICAgICAgc2VsZi5vYnNfZGltID0gZW52LmVudl9zcGVjLm9ic2VydmF0aW9uX3NwYWNlLmZsYXRfZGltCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXMgc2hvdWxkIG92ZXJ3cml0ZSB0aGUgIyBtZW1vcmllcy4uLnJpZ2h0Pwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="3" type="4">
         <text>1
         self</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -5101,16 +5101,16 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXNbMTpdIHNob3VsZCBvdmVyd3JpdGUgdGhlIG1lbW9yaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IFNob3VsZCB0aGUgcG9saWN5IG9wdGltaWkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBpcyBpdCBzYWZlIHRvIG1vZGlmeSB0aGlzIGRpY3Rpb25hcnk/Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5cik6IHBvbGljeV93cml0ZXNbMTpdIHNob3VsZCBvdmVyd3JpdGUgdGhlIG1lbW9yaWVzCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBpcyBpdCBzYWZlIHRvIG1vZGlmeSB0aGlzIGRpY3Rpb25hcnk/Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6150,10 +6150,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBzaG91bGQgSSBkZXRhY2ggKHN0b3AgZ3JhZGllbnRzKT8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YnRyYWpfYmF0Y2hbJ3BvbGljeV93cml0ZXMnXVs6LCA6LTEsIDpdCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKHZpdGNoeXIpOiBzaG91bGQgSSBkZXRhY2ggKHN0b3AgZ3JhZGllbnRzKT8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
