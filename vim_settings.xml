@@ -1709,6 +1709,9 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1491537315403">
         <mark key="'" line="1265" column="4" />
       </file>
+      <file name="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" timestamp="1495574049731">
+        <mark key="'" line="389" column="12" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
         <mark key="'" line="9" column="0" />
       </file>
@@ -2140,12 +2143,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495572426191">
-        <mark key="'" line="574" column="42" />
-        <mark key="[" line="487" column="30" />
-        <mark key="]" line="488" column="36" />
-        <mark key="." line="488" column="36" />
-        <mark key="^" line="488" column="36" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1495574197323">
+        <mark key="'" line="462" column="20" />
+        <mark key="[" line="699" column="45" />
+        <mark key="]" line="699" column="13" />
+        <mark key="." line="699" column="13" />
+        <mark key="^" line="699" column="13" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
         <mark key="'" line="39" column="0" />
@@ -2861,43 +2864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="86" column="4" filename="$USER_HOME$/git/rllab-rail-private/rllab/misc/logger.py" />
-      <jump line="186" column="49" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="259" column="40" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="524" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="123" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="58" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="262" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="272" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="206" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="258" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="254" column="17" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="253" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="249" column="17" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="248" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="235" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="280" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="153" column="40" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/memory/high_low.py" />
-      <jump line="1" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/memory/high_low.py" />
-      <jump line="471" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="672" column="39" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="607" column="56" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="608" column="60" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="298" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="604" column="40" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="674" column="40" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="279" column="23" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="194" column="40" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/__init__.py" />
-      <jump line="650" column="39" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="656" column="46" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="73" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="181" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/exploration_strategies/ou_strategy.py" />
       <jump line="72" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/exploration_strategies/ou_strategy.py" />
       <jump line="1707" column="0" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/numpy/core/fromnumeric.py" />
       <jump line="38" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/memory/high_low.py" />
@@ -2949,7 +2915,6 @@
       <jump line="654" column="24" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="447" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="268" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="274" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="43" column="26" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="351" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/online_algorithm.py" />
@@ -2961,6 +2926,44 @@
       <jump line="46" column="41" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="504" column="22" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="573" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="469" column="36" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="702" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="704" column="10" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="755" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="473" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="235" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="479" column="24" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="277" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="56" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="5" column="7" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="189" column="9" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="214" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="223" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="229" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="235" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="241" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="280" column="9" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="291" column="9" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="302" column="9" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="322" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="335" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="347" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="359" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="362" column="13" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="365" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="369" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="373" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="377" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="381" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="385" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="389" column="12" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/torch/nn/functional.py" />
+      <jump line="455" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="457" column="11" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="462" column="20" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11624,7 +11627,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>sample_paths</text>
+        <text>policy_writes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYXN0X3NpemUgPSBsYXN0X3NpemUgKyBhY3Rpb25fZGltICsgbWVtb3J5X2RpbQo=</text>
@@ -13134,13 +13137,13 @@
         <text encoding="base64">ICAgIHByaW50KCJFQVNZIE1PREUiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>sample_paths</last-search>
+      <last-search>policy_writes</last-search>
       <last-offset />
-      <last-pattern>sample_paths</last-pattern>
+      <last-pattern>policy_writes</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13148,12 +13151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>algo_params</entry>
-        <entry>memory_dim</entry>
-        <entry>target_pol</entry>
-        <entry>sigma</entry>
-        <entry>path_return</entry>
-        <entry>returns</entry>
         <entry>+= Var</entry>
         <entry>+= Va</entry>
         <entry>actions</entry>
@@ -13161,13 +13158,19 @@
         <entry>hx_cx</entry>
         <entry>new_hxs</entry>
         <entry>train_critic</entry>
-        <entry>policy_writes</entry>
         <entry>qf</entry>
         <entry>input_dim</entry>
         <entry>num_eval</entry>
         <entry>eval</entry>
         <entry>eval_samples</entry>
         <entry>sample_paths</entry>
+        <entry>graphviz</entry>
+        <entry>Digraph</entry>
+        <entry>grad_fn</entry>
+        <entry>ipd</entry>
+        <entry>relu</entry>
+        <entry>functions</entry>
+        <entry>policy_writes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/iteration/epoch/g</entry>
@@ -13188,8 +13191,8 @@
         <entry>211</entry>
         <entry>53</entry>
         <entry>505</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
