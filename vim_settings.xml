@@ -351,12 +351,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/pytorch_bptt_ddpg_highlow.py" timestamp="1495169191688">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="24" />
-        <mark key="^" line="38" column="24" />
-        <mark key="." line="38" column="24" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/recurrent_trpo_exp.py" timestamp="1495067197557">
         <mark key="'" line="62" column="12" />
         <mark key="[" line="46" column="0" />
@@ -506,12 +500,6 @@
         <mark key="]" line="7" column="48" />
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/our_method.py" timestamp="1495149482268">
-        <mark key="[" line="76" column="24" />
-        <mark key="]" line="76" column="25" />
-        <mark key="." line="76" column="25" />
-        <mark key="^" line="66" column="17" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py" timestamp="1494991642710">
         <mark key="'" line="1884" column="4" />
@@ -744,8 +732,8 @@
         <mark key="." line="70" column="15" />
         <mark key="^" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1495170216186">
-        <mark key="'" line="405" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" timestamp="1495764926761">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="88" column="4" />
         <mark key="." line="413" column="0" />
@@ -2898,7 +2886,6 @@
       <jump line="404" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="405" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="341" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="62" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="339" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="153" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="143" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
@@ -2940,6 +2927,7 @@
       <jump line="348" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="258" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="401" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -13123,7 +13111,7 @@
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
