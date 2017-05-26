@@ -68,6 +68,11 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
+      <file name="$USER_HOME$/Downloads/rtrpo_rocky/doom_maze_77.py" timestamp="1495836169037">
+        <mark key="'" line="259" column="24" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="183" column="111" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/docker/rllab-vitchyr/environment.yml" timestamp="1484530219343">
         <mark key="'" line="109" column="17" />
         <mark key="[" line="6" column="0" />
@@ -316,12 +321,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1495834162005">
-        <mark key="'" line="84" column="20" />
-        <mark key="[" line="91" column="16" />
-        <mark key="]" line="91" column="22" />
-        <mark key="." line="91" column="22" />
-        <mark key="^" line="91" column="22" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1495836692078">
+        <mark key="'" line="333" column="36" />
+        <mark key="[" line="113" column="22" />
+        <mark key="]" line="113" column="23" />
+        <mark key="." line="113" column="23" />
+        <mark key="^" line="113" column="23" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -1798,6 +1803,9 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="87" column="26" />
       </file>
+      <file name="$USER_HOME$/Downloads/rtrpo_rocky/pposgd_joint_ac.py" timestamp="1495836176238">
+        <mark key="'" line="189" column="12" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/exploration_strategies/ou_strategy.py" timestamp="1487137066232">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="62" column="47" />
@@ -2835,11 +2843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/modules/rnn.py" />
-      <jump line="78" column="26" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/modules/rnn.py" />
-      <jump line="51" column="26" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="33" column="38" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/backends/thnn.py" />
-      <jump line="339" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/_functions/rnn.py" />
       <jump line="257" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/_functions/rnn.py" />
       <jump line="341" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/_functions/rnn.py" />
       <jump line="210" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/_functions/rnn.py" />
@@ -2935,6 +2938,11 @@
       <jump line="195" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="208" column="25" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="244" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
+      <jump line="259" column="24" filename="$USER_HOME$/Downloads/rtrpo_rocky/doom_maze_77.py" />
+      <jump line="189" column="12" filename="$USER_HOME$/Downloads/rtrpo_rocky/pposgd_joint_ac.py" />
+      <jump line="197" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="218" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="333" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2952,7 +2960,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>250</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11595,10 +11603,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>250</text>
       </register>
       <register name="/" type="4">
-        <text>randomized</text>
+        <text>LSTM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeVR5cGVDaGVja2VyCiAgICAgICAgdmFyaWFudCA9IGRpY3QoCiAgICAgICAgICAgIEg9MjAwLAogICAgICAgICAgICBleHBfcHJlZml4PWV4cF9wcmVmaXgsCiAgICAgICAgICAgIHRycG9fcGFyYW1zPWRpY3QoCiAgICAgICAgICAgICAgICBiYXRjaF9zaXplPTEwMDAwLAogICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPTEwMDAsICAjIEVudmlyb25tZW50IHNob3VsZCBzdG9wIGl0CiAgICAgICAgICAgICAgICBuX2l0cj0xMDAsCiAgICAgICAgICAgICAgICBkaXNjb3VudD0xLiwKICAgICAgICAgICAgICAgIHN0ZXBfc2l6ZT0wLjAxLAogICAgICAgICAgICApLAogICAgICAgICAgICBvcHRpbWl6ZXJfcGFyYW1zPWRpY3QoCiAgICAgICAgICAgICAgICBiYXNlX2Vwcz0xZS01LAogICAgICAgICAgICApLAogICAgICAgICAgICB2ZXJzaW9uPSdSZWN1cnJlbnQgVFJQTycsCiAgICAgICAgICAgICMgZW52X2NsYXNzPUhpZ2hMb3csCiAgICAgICAgICAgICMgZW52X2NsYXNzPVdhdGVyTWF6ZUVhc3ksCiAgICAgICAgICAgIGVudl9jbGFzcz1lbnZfY2xhc3MsCiAgICAgICAgKQo=</text>
@@ -13112,9 +13120,9 @@
       </register>
     </registers>
     <search>
-      <last-search>randomized</last-search>
+      <last-search>LSTM</last-search>
       <last-offset />
-      <last-pattern>randomized</last-pattern>
+      <last-pattern>LSTM</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13122,8 +13130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>train_cri</entry>
-        <entry>1e-4</entry>
         <entry>last</entry>
         <entry>train_poli</entry>
         <entry>1000</entry>
@@ -13142,6 +13148,8 @@
         <entry>variant</entry>
         <entry>variants()</entry>
         <entry>randomized</entry>
+        <entry>keep_old</entry>
+        <entry>LSTM</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
