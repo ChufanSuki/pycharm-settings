@@ -2221,7 +2221,7 @@
         <mark key="^" line="177" column="28" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1495580636019">
+      <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1495765719488">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="40" />
@@ -2785,7 +2785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="16" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="371" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="427" column="47" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="62" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
@@ -2885,6 +2884,7 @@
       <jump line="599" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="534" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="8" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="4" column="4" filename="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11551,7 +11551,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>line_logger</text>
+        <text>terminals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmF3X3N1YnRyYWpfYmF0Y2gsIF8gPSBzZWxmLnBvb2wucmFuZG9tX3N1YnRyYWplY3RvcmllcyhzZWxmLmJhdGNoX3NpemUpCiAgICAgICAgICAgIHN1YnRyYWpfYmF0Y2ggPSBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaChyYXdfc3VidHJhal9iYXRjaCkK</text>
@@ -13065,9 +13065,9 @@
       </register>
     </registers>
     <search>
-      <last-search>line_logger</last-search>
+      <last-search>terminals</last-search>
       <last-offset />
-      <last-pattern>line_logger</last-pattern>
+      <last-pattern>terminals</last-pattern>
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
@@ -13075,7 +13075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forward</entry>
         <entry>write_opt</entry>
         <entry>write_</entry>
         <entry>train_policy</entry>
@@ -13095,6 +13094,7 @@
         <entry>qf_opt</entry>
         <entry>get_policy_output</entry>
         <entry>line_logger</entry>
+        <entry>terminals</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
