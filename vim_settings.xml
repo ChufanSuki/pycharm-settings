@@ -321,12 +321,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1495842558327">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1495923878831">
         <mark key="'" line="119" column="20" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="163" column="8" />
-        <mark key="." line="113" column="23" />
-        <mark key="^" line="113" column="23" />
+        <mark key="[" line="115" column="32" />
+        <mark key="]" line="115" column="33" />
+        <mark key="." line="115" column="33" />
+        <mark key="^" line="121" column="35" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -1304,8 +1304,8 @@
         <mark key="^" line="51" column="35" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" timestamp="1495920309526">
-        <mark key="'" line="196" column="32" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" timestamp="1495923345702">
+        <mark key="'" line="50" column="32" />
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
@@ -1810,12 +1810,8 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" timestamp="1495920672803">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" timestamp="1495923447225">
+        <mark key="'" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/np_test_case.py" timestamp="1485821566821">
         <mark key="'" line="87" column="22" />
@@ -2009,8 +2005,10 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1495920694827">
-        <mark key="'" line="51" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1495923293781">
+        <mark key="'" line="163" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="60" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" timestamp="1494979734249">
         <mark key="'" line="7" column="19" />
@@ -2863,16 +2861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="861" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
-      <jump line="76" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
-      <jump line="42" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_lstm_policy.py" />
       <jump line="84" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="190" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="196" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
@@ -2963,6 +2951,16 @@
       <jump line="117" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="150" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
       <jump line="51" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="163" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
+      <jump line="194" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py" />
+      <jump line="173" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="39" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="40" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="49" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="50" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="56" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2980,7 +2978,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>00</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11623,13 +11621,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
-        <text>output_non</text>
+        <text>rnn_cell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBsYXN0X3N0YXRpc3RpY3MuaXRlbXMoKToKICAgICAgICAgICAgbG9nZ2VyLnJlY29yZF90YWJ1bGFyKGtleSwgdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm5uX2NlbGxfY2xhc3M9U2VwYXJhdGVMc3RtTGluZWFyQ2VsbCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -13140,9 +13138,9 @@
       </register>
     </registers>
     <search>
-      <last-search>output_non</last-search>
+      <last-search>rnn_cell</last-search>
       <last-offset />
-      <last-pattern>output_non</last-pattern>
+      <last-pattern>rnn_cell</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13154,7 +13152,6 @@
         <entry>keep_old</entry>
         <entry>LSTM</entry>
         <entry>WaterMaze</entry>
-        <entry>rnn_cell</entry>
         <entry>get_batch</entry>
         <entry>env</entry>
         <entry>log_diag</entry>
@@ -13170,6 +13167,7 @@
         <entry>paths</entry>
         <entry>ipd</entry>
         <entry>output_non</entry>
+        <entry>rnn_cell</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
