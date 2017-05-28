@@ -853,9 +853,9 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1495949326495">
         <mark key="'" line="34" column="15" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/target_mode_ddpg.py" timestamp="1488756752038">
         <mark key="'" line="52" column="20" />
@@ -1334,11 +1334,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" timestamp="1495843142037">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" timestamp="1495951468968">
         <mark key="'" line="20" column="55" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="227" column="18" />
-        <mark key="." line="319" column="0" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
         <mark key="^" line="319" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2016/cs281a-statistical-learning-theory/homework/hw6/hw6_4.py" timestamp="1477951569636">
@@ -1781,12 +1781,12 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" timestamp="1495925553739">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="41" column="12" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" timestamp="1495951483164">
+        <mark key="'" line="68" column="28" />
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="42" column="11" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/np_test_case.py" timestamp="1485821566821">
         <mark key="'" line="87" column="22" />
@@ -2826,7 +2826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="218" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="333" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="30" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/sl_bptt_exp.py" />
@@ -2849,7 +2848,6 @@
       <jump line="57" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
       <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
       <jump line="128" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
-      <jump line="20" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
       <jump line="145" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
       <jump line="17" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
       <jump line="153" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
@@ -2926,6 +2924,8 @@
       <jump line="134" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="230" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="34" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="68" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
+      <jump line="20" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/one_char_memory.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2942,8 +2942,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLlNPRlQKICAgICAgICAgICAgICAgIG9yIHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLk5PTkUKICAgICAgICAgICAgICAgIG9yIHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLkhBUkQgYW5kCiAgICAgICAgaWYgbl9zdGVwc190b3RhbCAlIHNlbGYuX2hhcmRfdXBkYXRlX3BlcmlvZCA9PSAwOgogICAgICAgICAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>64</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11586,13 +11586,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
         <text>self._bat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLkhBUkQ6CiAgICAgICAgICAgIGlmIG5fc3RlcHNfdG90YWwgJSBzZWxmLl9oYXJkX3VwZGF0ZV9wZXJpb2QgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9ub25saW5lYXJpdHk9dGYubm4udGFuaCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLlNPRlQKICAgICAgICAgICAgICAgIG9yIHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLk5PTkUKICAgICAgICAgICAgICAgIG9yIHNlbGYuX3RhcmdldF91cGRhdGVfbW9kZSA9PSBUYXJnZXRVcGRhdGVNb2RlLkhBUkQgYW5kCiAgICAgICAgaWYgbl9zdGVwc190b3RhbCAlIHNlbGYuX2hhcmRfdXBkYXRlX3BlcmlvZCA9PSAwOgogICAgICAgICAgICAgICAgKQo=</text>
