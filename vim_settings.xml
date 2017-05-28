@@ -1286,7 +1286,9 @@
         <mark key="^" line="51" column="35" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" timestamp="1495923345702" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" timestamp="1496013869258">
+        <mark key="'" line="71" column="39" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_ddpg.py" timestamp="1479235055478">
         <mark key="'" line="412" column="19" />
         <mark key="[" line="533" column="77" />
@@ -2784,7 +2786,6 @@
         <mark key="^" line="189" column="10" />
         <mark key="." line="189" column="10" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" timestamp="1495767456304" />
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/3-8-atari-fixed-2.csv" timestamp="1489445036866">
         <mark key="'" line="31" column="36" />
       </file>
@@ -2828,12 +2829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="765" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="55" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="94" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="146" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="557" column="50" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="637" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="136" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="357" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="599" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2928,6 +2923,12 @@
       <jump line="56" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/sl_bptt_exp.py" />
       <jump line="3" column="2" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
       <jump line="26" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/sl_bptt_exp.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="130" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="172" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="206" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="30" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
+      <jump line="71" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11591,7 +11592,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>set_s</text>
+        <text>get_batch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsc3RtX291dHB1dCA9IHRmLm1pbmltdW0obHN0bV9vdXRwdXQsIDEpCiAgICAgICAgICAgICAgICAgICAgbHN0bV9vdXRwdXQgPSB0Zi5tYXhpbXVtKGxzdG1fb3V0cHV0LCAtMSkK</text>
@@ -13105,9 +13106,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set_s</last-search>
+      <last-search>get_batch</last-search>
       <last-offset />
-      <last-pattern>set_s</last-pattern>
+      <last-pattern>get_batch</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13115,8 +13116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_policy_training_loss</entry>
-        <entry>get_policy_train</entry>
         <entry>policy_env_action_loss</entry>
         <entry>get_obs</entry>
         <entry>get_time_step</entry>
@@ -13135,6 +13134,8 @@
         <entry>32</entry>
         <entry>save</entry>
         <entry>set_s</entry>
+        <entry>eval_num_ep</entry>
+        <entry>get_batch</entry>
       </history-search>
       <history-cmd>
         <entry>1447</entry>
