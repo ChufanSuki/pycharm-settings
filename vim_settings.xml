@@ -2066,12 +2066,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1496010728314">
-        <mark key="'" line="370" column="24" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="45" />
-        <mark key="^" line="263" column="38" />
-        <mark key="." line="266" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" timestamp="1496011422912">
+        <mark key="'" line="265" column="15" />
+        <mark key="[" line="265" column="30" />
+        <mark key="]" line="265" column="44" />
+        <mark key="^" line="265" column="44" />
+        <mark key="." line="265" column="44" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/analysis.py" timestamp="1487802780990">
         <mark key="'" line="39" column="0" />
@@ -2785,8 +2785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="59" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
-      <jump line="456" column="27" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="466" column="45" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="577" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="507" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2885,6 +2883,8 @@
       <jump line="458" column="7" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="362" column="26" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
       <jump line="370" column="24" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="261" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
+      <jump line="265" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/bptt_ddpg_pytorch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2901,8 +2901,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWluX3ZhbGlkYXRpb25fYmF0Y2hfc2l6ZSA9IDY0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>200</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11548,10 +11548,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>do_training</text>
+        <text>eval</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmF3X3N1YnRyYWpfYmF0Y2gsIF8gPSBzZWxmLnBvb2wucmFuZG9tX3N1YnRyYWplY3RvcmllcyhzZWxmLmJhdGNoX3NpemUpCiAgICAgICAgICAgIHN1YnRyYWpfYmF0Y2ggPSBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaChyYXdfc3VidHJhal9iYXRjaCkK</text>
@@ -13065,9 +13065,9 @@
       </register>
     </registers>
     <search>
-      <last-search>do_training</last-search>
+      <last-search>eval</last-search>
       <last-offset />
-      <last-pattern>do_training</last-pattern>
+      <last-pattern>eval</last-pattern>
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
@@ -13075,7 +13075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qf_loss</entry>
         <entry>train_critic</entry>
         <entry>1000</entry>
         <entry>train_pol</entry>
@@ -13095,6 +13094,7 @@
         <entry>policy_writes</entry>
         <entry>env_actions</entry>
         <entry>do_training</entry>
+        <entry>eval</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
