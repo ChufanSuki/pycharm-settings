@@ -68,11 +68,6 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Downloads/rtrpo_rocky/doom_maze_77.py" timestamp="1495836169037">
-        <mark key="'" line="259" column="24" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="183" column="111" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/docker/rllab-vitchyr/environment.yml" timestamp="1484530219343">
         <mark key="'" line="109" column="17" />
         <mark key="[" line="6" column="0" />
@@ -140,6 +135,9 @@
         <mark key="]" line="166" column="75" />
         <mark key="^" line="170" column="37" />
         <mark key="." line="166" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/point_env.py" timestamp="1496019994182">
+        <mark key="'" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/sgd_quadratic_naf_qfunction.py" timestamp="1485216138059">
         <mark key="'" line="82" column="8" />
@@ -321,12 +319,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496019223231">
-        <mark key="'" line="328" column="25" />
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="11" />
-        <mark key="." line="230" column="11" />
-        <mark key="^" line="230" column="11" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496020033327">
+        <mark key="'" line="96" column="17" />
+        <mark key="[" line="105" column="22" />
+        <mark key="]" line="105" column="22" />
+        <mark key="." line="105" column="32" />
+        <mark key="^" line="96" column="26" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -2866,11 +2864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="611" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="623" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="626" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="631" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="649" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="624" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="647" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="650" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2966,6 +2959,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
       <jump line="24" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="95" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="9" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/point_env.py" />
+      <jump line="21" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/point_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2982,8 +2980,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfcGFyYW1zID0gZGljdCgKICAgICAgICAgICAgbnVtX3N0ZXBzPTIwMCwKICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>PointEnv</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11626,13 +11624,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>PointEnv</text>
       </register>
       <register name="/" type="4">
-        <text>variant</text>
+        <text>action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIPUgsCg==</text>
+        <text encoding="base64">ICAgICAgICBlcG9jaF9sZW5ndGggPSAxMDAwCiAgICAgICAgZXZhbF9zYW1wbGVzID0gNDAwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbnZfcGFyYW1zID0gZGljdCgKICAgICAgICAgICAgbnVtX3N0ZXBzPTIwMCwKICAgICAgICApCg==</text>
@@ -13143,9 +13141,9 @@
       </register>
     </registers>
     <search>
-      <last-search>variant</last-search>
+      <last-search>action</last-search>
       <last-offset />
-      <last-pattern>variant</last-pattern>
+      <last-pattern>action</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13153,8 +13151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>static_method</entry>
-        <entry>static</entry>
         <entry>subtraj_bath_to</entry>
         <entry>subtraj_batch</entry>
         <entry>self.pool.update_write</entry>
@@ -13173,6 +13169,8 @@
         <entry>final_rewards</entry>
         <entry>clip</entry>
         <entry>variant</entry>
+        <entry>HighLow</entry>
+        <entry>action</entry>
       </history-search>
       <history-cmd>
         <entry>1447</entry>
