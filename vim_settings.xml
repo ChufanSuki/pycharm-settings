@@ -319,12 +319,8 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496020140939">
-        <mark key="'" line="93" column="27" />
-        <mark key="[" line="105" column="22" />
-        <mark key="]" line="105" column="22" />
-        <mark key="." line="105" column="32" />
-        <mark key="^" line="96" column="26" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496086812565">
+        <mark key="'" line="94" column="21" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -1236,11 +1232,7 @@
         <mark key="." line="34" column="64" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" timestamp="1495149180033">
-        <mark key="'" line="115" column="36" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="'" line="113" column="36" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" timestamp="1492902562656">
         <mark key="'" line="60" column="27" />
@@ -2864,7 +2856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="647" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="650" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="654" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="652" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -2964,6 +2955,7 @@
       <jump line="9" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/point_env.py" />
       <jump line="21" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/point_env.py" />
       <jump line="93" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="94" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11627,7 +11619,7 @@
         <text>PointEnv</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>Cartpole</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlcG9jaF9sZW5ndGggPSAxMDAwCiAgICAgICAgZXZhbF9zYW1wbGVzID0gNDAwCg==</text>
@@ -13141,9 +13133,9 @@
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>Cartpole</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>Cartpole</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13151,7 +13143,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subtraj_bath_to</entry>
         <entry>subtraj_batch</entry>
         <entry>self.pool.update_write</entry>
         <entry>saved_write_loss</entry>
@@ -13171,6 +13162,7 @@
         <entry>variant</entry>
         <entry>HighLow</entry>
         <entry>action</entry>
+        <entry>Cartpole</entry>
       </history-search>
       <history-cmd>
         <entry>1447</entry>
