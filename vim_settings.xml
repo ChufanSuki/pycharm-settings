@@ -281,13 +281,13 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496176838646">
-        <mark key="'" line="71" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496183324599">
+        <mark key="'" line="92" column="26" />
         <mark key="k" line="94" column="23" />
-        <mark key="[" line="71" column="54" />
-        <mark key="]" line="71" column="60" />
-        <mark key="^" line="71" column="60" />
-        <mark key="." line="71" column="60" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="41" />
+        <mark key="^" line="71" column="41" />
+        <mark key="." line="71" column="41" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -2505,15 +2505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="58" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/algo_launchers.py" />
-      <jump line="124" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="70" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="860" column="13" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
-      <jump line="829" column="32" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
-      <jump line="95" column="5" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
-      <jump line="20" column="30" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
-      <jump line="22" column="40" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
-      <jump line="12" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/water_maze.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/water_maze.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
       <jump line="67" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
@@ -2605,6 +2596,15 @@
       <jump line="189" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
       <jump line="446" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="507" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="69" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="119" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="104" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="97" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="96" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="82" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="67" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="416" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="92" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2621,8 +2621,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, policy_writes)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnNS0zMC1kZXYtd2F0ZXJtYXplLWVhc3knCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11265,10 +11265,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, policy_writes)</text>
+        <text>benchmark-our-method-water-maze-memory'</text>
       </register>
       <register name="/" type="4">
-        <text>adf</text>
+        <text>memory_dim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZUVhc3kK</text>
@@ -12778,13 +12778,13 @@
         <text encoding="base64">ICAgICAgICBSZXQK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>adf</last-search>
+      <last-search>memory_dim</last-search>
       <last-offset />
-      <last-pattern>adf</last-pattern>
+      <last-pattern>memory_dim</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -12792,8 +12792,6 @@
     </search>
     <history>
       <history-search>
-        <entry>git_diff</entry>
-        <entry>START_DIST</entry>
         <entry>full_path</entry>
         <entry>model</entry>
         <entry>env_para</entry>
@@ -12812,6 +12810,8 @@
         <entry>_get_observation</entry>
         <entry>rnn</entry>
         <entry>adf</entry>
+        <entry>100</entry>
+        <entry>memory_dim</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
@@ -12831,9 +12831,9 @@
         <entry>.,.+2q</entry>
         <entry>w'</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
