@@ -869,8 +869,8 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/gym/core.py" timestamp="1496088051579">
         <mark key="'" line="82" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1496190850767">
-        <mark key="'" line="34" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1496199550045">
+        <mark key="'" line="34" column="13" />
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
@@ -1159,12 +1159,12 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="46" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/ddpg_cheetah.py" timestamp="1496198439287">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/ddpg_cheetah.py" timestamp="1496199558323">
         <mark key="'" line="16" column="21" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="17" column="27" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1486701468147">
         <mark key="'" line="175" column="14" />
@@ -2276,7 +2276,7 @@
         <mark key="^" line="65" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1496197142523">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1496199546303">
         <mark key="'" line="23" column="18" />
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="20" />
@@ -2429,11 +2429,11 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-gpu/lib/python3.5/site-packages/gym/wrappers/monitoring.py" timestamp="1488748441476">
         <mark key="'" line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/bptt_ddpg_highlow.py" timestamp="1496198392591">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="69" column="25" />
-        <mark key="^" line="69" column="25" />
-        <mark key="." line="69" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/bptt_ddpg_highlow.py" timestamp="1496199606339">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="24" />
+        <mark key="^" line="70" column="35" />
+        <mark key="." line="69" column="24" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/notes.md" timestamp="1495072326681">
         <mark key="'" line="0" column="0" />
@@ -2951,7 +2951,6 @@
       <jump line="46" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="51" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="154" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="34" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="43" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="143" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="144" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -2998,7 +2997,6 @@
       <jump line="18" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" />
       <jump line="24" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" />
       <jump line="119" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="23" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="48" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="164" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="231" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3029,6 +3027,8 @@
       <jump line="311" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="96" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="352" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="23" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
+      <jump line="34" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
