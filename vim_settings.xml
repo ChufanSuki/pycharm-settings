@@ -327,12 +327,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496378235254">
-        <mark key="'" line="77" column="8" />
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="94" column="9" />
-        <mark key="^" line="94" column="9" />
-        <mark key="." line="94" column="9" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496380219937">
+        <mark key="'" line="77" column="15" />
+        <mark key="[" line="313" column="47" />
+        <mark key="]" line="313" column="53" />
+        <mark key="." line="313" column="53" />
+        <mark key="^" line="313" column="53" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -748,12 +748,12 @@
         <mark key="]" line="80" column="15" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" timestamp="1496375319716">
-        <mark key="'" line="241" column="48" />
-        <mark key="[" line="484" column="0" />
-        <mark key="]" line="484" column="0" />
-        <mark key="." line="484" column="0" />
-        <mark key="^" line="485" column="75" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" timestamp="1496380110474">
+        <mark key="'" line="84" column="15" />
+        <mark key="[" line="81" column="11" />
+        <mark key="]" line="83" column="37" />
+        <mark key="." line="83" column="37" />
+        <mark key="^" line="83" column="37" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/launchers/trpo_cartpole_recurrent.py" timestamp="1488329772171">
         <mark key="'" line="15" column="21" />
@@ -2955,15 +2955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="13" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
-      <jump line="190" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
-      <jump line="191" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
-      <jump line="192" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
-      <jump line="201" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
-      <jump line="193" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
-      <jump line="243" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="183" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" />
       <jump line="747" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="775" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="749" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -3039,7 +3030,6 @@
       <jump line="246" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="748" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="156" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="744" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="752" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="780" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -3055,6 +3045,16 @@
       <jump line="23" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="727" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="114" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="78" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="425" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
+      <jump line="39" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
+      <jump line="41" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
+      <jump line="63" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
+      <jump line="82" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="294" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="77" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3071,8 +3071,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11715,25 +11715,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>max_number_trajectories_loaded_at_once</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>'grid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gMzIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1pbl9wb29sX3NpemU9NTEyLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2UK</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXg9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11768,19 +11768,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2U9MzIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gYmF0Y2hfc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gYmF0Y2hfc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2U9MzIsCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2UK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gYmF0Y2hfc2l6ZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13222,19 +13222,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X251bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9udW1iZXJfdHJhamVjdG9yaWVzX2xvYWRlZF9hdF9vbmNlID0gYmF0Y2hfc2l6ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWF4X251bWJlcl90cmFqZWN0b3JpZXNfbG9hZGVkX2F0X29uY2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>'grid</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>'grid</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13242,7 +13242,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handle_</entry>
         <entry>saved_write_loss_weight</entry>
         <entry encoding="base64">PiAw</entry>
         <entry>update_dloss</entry>
@@ -13255,13 +13254,14 @@
         <entry>save</entry>
         <entry>_sigma</entry>
         <entry>memory_dim</entry>
-        <entry>'grid</entry>
         <entry>'batch</entry>
         <entry>batch_size</entry>
         <entry>refresh</entry>
         <entry>update_trajectory_and_memo</entry>
         <entry>update_traj</entry>
         <entry>TODO</entry>
+        <entry>min_pool</entry>
+        <entry>'grid</entry>
       </history-search>
       <history-cmd>
         <entry>189</entry>
