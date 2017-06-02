@@ -2917,8 +2917,8 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/classification_sp16/models.py" timestamp="1492898446267">
         <mark key="'" line="100" column="31" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" timestamp="1496369527094">
-        <mark key="'" line="84" column="4" />
+      <file name="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" timestamp="1496370321986">
+        <mark key="'" line="181" column="12" />
         <mark key="[" line="119" column="39" />
         <mark key="]" line="119" column="46" />
         <mark key="^" line="119" column="46" />
@@ -2967,9 +2967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
-      <jump line="98" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
-      <jump line="101" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="80" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg.py" />
       <jump line="82" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_ddpg.py" />
       <jump line="72" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
@@ -3067,6 +3064,9 @@
       <jump line="23" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
       <jump line="18" column="18" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
       <jump line="84" column="4" filename="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" />
+      <jump line="113" column="43" filename="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" />
+      <jump line="322" column="4" filename="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" />
+      <jump line="181" column="12" filename="$USER_HOME$/git/rllab-rail/scripts/setup_ec2_for_rllab.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11730,7 +11730,7 @@
         <text>is None:</text>
       </register>
       <register name="/" type="4">
-        <text>setup_iam</text>
+        <text>createing role</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNhdmVfbmV3X21lbW9yaWVzX2JhY2tfdG9fcmVwbGF5X2J1ZmZlcjoK</text>
@@ -13244,9 +13244,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setup_iam</last-search>
+      <last-search>createing role</last-search>
       <last-offset />
-      <last-pattern>setup_iam</last-pattern>
+      <last-pattern>createing role</last-pattern>
       <last-replace>clone</last-replace>
       <last-substitute>get_copy</last-substitute>
       <last-dir>1</last-dir>
@@ -13254,7 +13254,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_path_length</entry>
         <entry>USE_EC2</entry>
         <entry>num_iterations</entry>
         <entry>num_steps_per_iter</entry>
@@ -13274,6 +13273,7 @@
         <entry>ROLE</entry>
         <entry>rllab</entry>
         <entry>setup_iam</entry>
+        <entry>createing role</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
