@@ -322,17 +322,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496714121797">
-        <mark key="[" line="145" column="25" />
-        <mark key="]" line="145" column="26" />
-        <mark key="^" line="145" column="26" />
-        <mark key="." line="145" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1496450905976">
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="22" column="72" />
-        <mark key="^" line="22" column="72" />
-        <mark key="." line="22" column="72" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496715264216">
+        <mark key="'" line="80" column="15" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="63" />
+        <mark key="^" line="328" column="66" />
+        <mark key="." line="328" column="59" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -2393,12 +2388,6 @@
         <mark key="." line="336" column="10" />
         <mark key="^" line="336" column="10" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_comp/tf_ddpg.py" timestamp="1496616926682">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ec2_ddpg_cartpole_example.py" timestamp="1484632043033">
         <mark key="'" line="31" column="8" />
         <mark key="[" line="33" column="41" />
@@ -2851,7 +2840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="295" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="105" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="420" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -2948,9 +2936,10 @@
       <jump line="81" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="126" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="300" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="80" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="42" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="41" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/ddpg_cheetah.py" />
+      <jump line="78" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="80" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2967,8 +2956,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>32</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNi01LWhsLWJwdHQtZGRwZy1yd2EtZ3JpZC1tZW1vcnktZGltLXdyaXRlLWxyIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -9932,7 +9921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>'grid</text>
