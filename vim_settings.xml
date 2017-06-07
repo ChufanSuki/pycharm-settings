@@ -346,11 +346,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496873925434">
-        <mark key="'" line="162" column="8" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496875795421">
+        <mark key="[" line="145" column="25" />
+        <mark key="]" line="145" column="25" />
+        <mark key="." line="145" column="25" />
+        <mark key="^" line="145" column="25" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1496450905976">
         <mark key="[" line="22" column="63" />
@@ -592,6 +592,13 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="58" column="56" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" timestamp="1496875605683">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="9" />
+        <mark key="^" line="58" column="9" />
+        <mark key="." line="58" column="9" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll/base.py" timestamp="1494039053204">
         <mark key="'" line="203" column="9" />
@@ -2027,13 +2034,6 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="693" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" timestamp="1496871510824">
-        <mark key="'" line="734" column="8" />
-        <mark key="[" line="772" column="0" />
-        <mark key="]" line="772" column="0" />
-        <mark key="." line="772" column="0" />
-        <mark key="^" line="760" column="28" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_memory_ocm.py" timestamp="1493621026997">
         <mark key="'" line="81" column="24" />
         <mark key="[" line="74" column="14" />
@@ -2371,12 +2371,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-gpu/lib/python3.5/site-packages/gym/wrappers/monitoring.py" timestamp="1488748441476">
         <mark key="'" line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/bptt_ddpg_highlow.py" timestamp="1496872295978">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/bptt_ddpg_highlow.py" timestamp="1496876812749">
         <mark key="'" line="59" column="18" />
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="23" />
-        <mark key="^" line="70" column="23" />
-        <mark key="." line="70" column="23" />
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="34" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="69" column="34" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/notes.md" timestamp="1496298426955">
         <mark key="'" line="0" column="0" />
@@ -2703,12 +2703,12 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1496873138289">
-        <mark key="'" line="393" column="4" />
-        <mark key="[" line="393" column="26" />
-        <mark key="]" line="393" column="26" />
-        <mark key="." line="393" column="26" />
-        <mark key="^" line="393" column="26" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1496875226921">
+        <mark key="'" line="160" column="8" />
+        <mark key="[" line="329" column="19" />
+        <mark key="]" line="329" column="19" />
+        <mark key="." line="329" column="19" />
+        <mark key="^" line="329" column="19" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_ddpg.py" timestamp="1479790464827">
         <mark key="'" line="42" column="12" />
@@ -2870,10 +2870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="303" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="159" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="166" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="167" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="310" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2970,6 +2966,10 @@
       <jump line="207" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="393" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="168" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
+      <jump line="44" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
+      <jump line="160" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="26" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2986,8 +2986,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtZW1vcnktYnB0dC01LTI2Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -9951,25 +9951,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>def eval</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrOiBhcnJheS52aWV3KC0xLCBhcnJheS5zaXplKClbLTFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtZW1vcnktYnB0dC01LTI2Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3lfbG9zcyA9IHBvbGljeV9kaWN0Wydsb3NzJ10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAjIG5fc2VlZHMgPSA4CiAgICAjIG1vZGUgPSAnZWMyJwogICAgIyBleHBfcHJlZml4ID0gIjYtNS1obC1icHR0LWRkcGctcndhLWdyaWQtbWVtb3J5LWRpbS13cml0ZS1sciIKPT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGs6IGFycmF5LnZpZXcoLTEsIGFycmF5LnNpemUoKVstMV0pCg==</text>
+        <text encoding="base64">ICAgIC0gY3VkYTgwCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10004,19 +10004,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtZW1vcnktYnB0dC01LTI2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzdGF0ZQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAjIG5fc2VlZHMgPSA4CiAgICAjIG1vZGUgPSAnZWMyJwogICAgIyBleHBfcHJlZml4ID0gIjYtNS1obC1icHR0LWRkcGctcndhLWdyaWQtbWVtb3J5LWRpbS13cml0ZS1sciIKPT09PT09PQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KQoKICAgICAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGs6IGFycmF5LnZpZXcoLTEsIGFycmF5LnNpemUoKVstMV0pCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3BvbGljeV9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11458,19 +11458,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9wb2xpY3lfb3B0aW1pemVyLnplcm9fZ3JhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzdGF0ZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3lfbG9zcy5iYWNrd2FyZChyZXRhaW5fdmFyaWFibGVzPVRydWUpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">KQoKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>def eval</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>def eval</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11478,9 +11478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bpt_bellman_error_weight</entry>
-        <entry>copy_</entry>
-        <entry>train_policy</entry>
         <entry>extra_train_period</entry>
         <entry>_should_train_qf_extra</entry>
         <entry>max_num_q_updates</entry>
@@ -11498,6 +11495,9 @@
         <entry>flatten_subtra_batch</entry>
         <entry>flatten_subtraj</entry>
         <entry>HEAD</entry>
+        <entry>mkl</entry>
+        <entry>numpy</entry>
+        <entry>def eval</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
