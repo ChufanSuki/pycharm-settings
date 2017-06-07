@@ -346,12 +346,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496872574660">
-        <mark key="'" line="165" column="27" />
-        <mark key="[" line="148" column="25" />
-        <mark key="]" line="148" column="26" />
-        <mark key="^" line="148" column="26" />
-        <mark key="." line="148" column="26" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1496873925434">
+        <mark key="'" line="162" column="8" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1496450905976">
         <mark key="[" line="22" column="63" />
@@ -2706,9 +2705,9 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1496873138289">
         <mark key="'" line="393" column="4" />
-        <mark key="[" line="394" column="26" />
-        <mark key="]" line="394" column="26" />
-        <mark key="." line="394" column="26" />
+        <mark key="[" line="393" column="26" />
+        <mark key="]" line="393" column="26" />
+        <mark key="." line="393" column="26" />
         <mark key="^" line="393" column="26" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_ddpg.py" timestamp="1479790464827">
@@ -2871,7 +2870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="283" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="303" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="145" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2971,6 +2969,7 @@
       <jump line="125" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="207" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="393" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2987,8 +2986,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtZW1vcnktYnB0dC01LTI2Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -9955,22 +9954,22 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>flatten_subtraj</text>
+        <text>HEAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrOiBhcnJheS52aWV3KC0xLCBhcnJheS5zaXplKClbLTFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGs6IGFycmF5LnZpZXcoLTEsIGFycmF5LnNpemUoKVstMV0pCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtZW1vcnktYnB0dC01LTI2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAjIG5fc2VlZHMgPSA4CiAgICAjIG1vZGUgPSAnZWMyJwogICAgIyBleHBfcHJlZml4ID0gIjYtNS1obC1icHR0LWRkcGctcndhLWdyaWQtbWVtb3J5LWRpbS13cml0ZS1sciIKPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGs6IGFycmF5LnZpZXcoLTEsIGFycmF5LnNpemUoKVstMV0pCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10004,20 +10003,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KQoKICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3BvbGljeV9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzdGF0ZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9wb2xpY3lfb3B0aW1pemVyLnplcm9fZ3JhZCgpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KQoKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3lfbG9zcy5iYWNrd2FyZChyZXRhaW5fdmFyaWFibGVzPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3BvbGljeV9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11459,19 +11458,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuX3N0ZXBzX3RvdGFsICUgc2VsZi5jb3B5X3RhcmdldF9wYXJhbV9wZXJpb2QgPT0gMDoKICAgICAgICAgICAgY29weV9tb2RlbF9wYXJhbXNfZnJvbV90byhzZWxmLnFmLCBzZWxmLnRhcmdldF9xZikKICAgICAgICAgICAgY29weV9tb2RlbF9wYXJhbXNfZnJvbV90byhzZWxmLnBvbGljeSwgc2VsZi50YXJnZXRfcG9saWN5KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9wb2xpY3lfb3B0aW1pemVyLnplcm9fZ3JhZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhcmdldF9oYXJkX3VwZGF0ZV9wZXJpb2QgPSAxMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3lfbG9zcy5iYWNrd2FyZChyZXRhaW5fdmFyaWFibGVzPVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flatten_subtraj</last-search>
+      <last-search>HEAD</last-search>
       <last-offset />
-      <last-pattern>flatten_subtraj</last-pattern>
+      <last-pattern>HEAD</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11479,7 +11478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env_action_minimize</entry>
         <entry>bpt_bellman_error_weight</entry>
         <entry>copy_</entry>
         <entry>train_policy</entry>
@@ -11499,6 +11497,7 @@
         <entry>flat_next_memories</entry>
         <entry>flatten_subtra_batch</entry>
         <entry>flatten_subtraj</entry>
+        <entry>HEAD</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
