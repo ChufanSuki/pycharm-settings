@@ -1838,8 +1838,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1497032948482">
-        <mark key="'" line="173" column="10" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1497033106920">
+        <mark key="'" line="150" column="30" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="35" />
         <mark key="." line="147" column="15" />
@@ -2836,8 +2836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="760" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="772" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="208" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="236" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="187" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2917,7 +2915,6 @@
       <jump line="168" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="56" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="80" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="150" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="190" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="333" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="117" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2936,6 +2933,9 @@
       <jump line="34" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
       <jump line="33" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
       <jump line="173" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="66" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="150" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="195" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9920,7 +9920,7 @@
         <text>OUStrategy</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>snapshot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVzID0gT1VTdHJhdGVneSgK</text>
@@ -11435,9 +11435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern>snapshot</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11445,7 +11445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stat_prefix</entry>
         <entry>Y target</entry>
         <entry>get_critic_output</entry>
         <entry>horizon</entry>
@@ -11456,7 +11455,6 @@
         <entry>asdf</entry>
         <entry>statistics_from</entry>
         <entry>self.policy</entry>
-        <entry>snapshot</entry>
         <entry>do_train</entry>
         <entry>=1</entry>
         <entry>cuda</entry>
@@ -11465,6 +11463,8 @@
         <entry>create</entry>
         <entry>get_action</entry>
         <entry>render</entry>
+        <entry>get_epoch</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>151</entry>
