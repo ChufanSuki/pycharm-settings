@@ -2720,8 +2720,8 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1496987423696">
-        <mark key="'" line="117" column="14" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497029027985">
+        <mark key="'" line="155" column="20" />
         <mark key="h" line="440" column="0" />
         <mark key="[" line="186" column="33" />
         <mark key="]" line="186" column="33" />
@@ -2883,7 +2883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
       <jump line="446" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="719" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="403" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2983,6 +2982,7 @@
       <jump line="130" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="133" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="137" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="155" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -9967,7 +9967,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>=1</text>
+        <text>cuda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9saWN5X2xvc3MuYmFja3dhcmQocmV0YWluX3ZhcmlhYmxlcz1UcnVlKQo=</text>
@@ -11482,9 +11482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>=1</last-search>
+      <last-search>cuda</last-search>
       <last-offset />
-      <last-pattern>=1</last-pattern>
+      <last-pattern>cuda</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11492,7 +11492,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3RhdGlzdGljc19mcm9tX3BhdGhzXD4=</entry>
         <entry>paths</entry>
         <entry>tf_util</entry>
         <entry>handle_rollout</entry>
@@ -11512,6 +11511,7 @@
         <entry>snapshot</entry>
         <entry>do_train</entry>
         <entry>=1</entry>
+        <entry>cuda</entry>
       </history-search>
       <history-cmd>
         <entry>151</entry>
