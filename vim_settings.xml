@@ -2775,9 +2775,13 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497389128042">
-        <mark key="'" line="207" column="37" />
-        <mark key="h" line="472" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497402630833">
+        <mark key="'" line="173" column="28" />
+        <mark key="h" line="473" column="0" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="69" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="207" column="40" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_ddpg.py" timestamp="1479790464827">
         <mark key="'" line="42" column="12" />
@@ -2936,8 +2940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="384" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="325" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="88" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
       <jump line="136" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
@@ -3025,17 +3027,19 @@
       <jump line="41" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/tf_mem_ddpg.py" />
       <jump line="43" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/tf_mem_ddpg.py" />
       <jump line="31" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/rdpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="114" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="115" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="124" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="125" column="50" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="132" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="138" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="170" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="171" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="208" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="111" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="171" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="114" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="115" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="173" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3052,8 +3056,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10020,7 +10024,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYXdfc3VidHJhal9iYXRjaFw+</text>
+        <text encoding="base64">XDx0cmFpbl9wb2xpY3lcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
@@ -10032,10 +10036,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZUVhc3kKICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZU1lbW9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3ViCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10070,19 +10074,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMCwK</text>
+        <text encoding="base64">ICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZUVhc3kKICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZU1lbW9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXZhbD1udW1fc3RlcHNfcGVyX2V2YWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXZhbD1udW1fc3RlcHNfcGVyX2V2YWwsCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiZSB0aGUgb3V0cHV0IG9mIGBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaGAK</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11527,16 +11531,16 @@
         <text encoding="base64">ICAgICAgICBiZSB0aGUgb3V0cHV0IG9mIGBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+        <text encoding="base64">ICAgICAgICBiZSB0aGUgb3V0cHV0IG9mIGBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaGAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYXdfc3VidHJhal9iYXRjaFw+</last-search>
+      <last-search encoding="base64">XDx0cmFpbl9wb2xpY3lcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYXdfc3VidHJhal9iYXRjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbl9wb2xpY3lcPg==</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11544,9 +11548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ddpg</entry>
-        <entry>batch</entry>
-        <entry>asdf</entry>
         <entry>eps</entry>
         <entry>BN</entry>
         <entry>memory</entry>
@@ -11564,6 +11565,9 @@
         <entry>memory_dim</entry>
         <entry>subtra</entry>
         <entry encoding="base64">XDxyYXdfc3VidHJhal9iYXRjaFw+</entry>
+        <entry>raw_sub</entry>
+        <entry encoding="base64">XDx0cmFpbl9jcml0aWNcPg==</entry>
+        <entry encoding="base64">XDx0cmFpbl9wb2xpY3lcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+305</entry>
@@ -11581,10 +11585,10 @@
         <entry>325</entry>
         <entry>bp|bd #</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>479</entry>
         <entry>139</entry>
         <entry>126</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
