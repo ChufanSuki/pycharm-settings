@@ -88,6 +88,13 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1488775465788">
         <mark key="'" line="1733" column="30" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/simple_gaussian_strategy.py" timestamp="1497471333306">
+        <mark key="'" line="17" column="19" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487802119256">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="520" column="0" />
@@ -119,10 +126,10 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" timestamp="1489966429901">
         <mark key="'" line="77" column="30" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" timestamp="1497222418745">
-        <mark key="'" line="103" column="8" />
-        <mark key="[" line="210" column="46" />
-        <mark key="]" line="210" column="45" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" timestamp="1497478684686">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="39" />
         <mark key="." line="210" column="45" />
         <mark key="^" line="210" column="45" />
       </file>
@@ -178,12 +185,6 @@
         <mark key="^" line="128" column="46" />
         <mark key="." line="128" column="46" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" timestamp="1496808399866">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="46" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="46" />
-      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/vpg_benchmark/main.py" timestamp="1477676106265">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="97" column="0" />
@@ -211,6 +212,13 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/wrappers.py" timestamp="1497477941468">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="67" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/core/test_tf_util.py" timestamp="1486668017423">
         <mark key="'" line="0" column="0" />
@@ -305,6 +313,19 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/csv.py" timestamp="1490040698743">
         <mark key="'" line="116" column="28" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/water_maze.py" timestamp="1497469093167">
+        <mark key="'" line="104" column="21" />
+        <mark key="[" line="104" column="15" />
+        <mark key="]" line="104" column="15" />
+        <mark key="." line="104" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" timestamp="1497479770407">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="55" column="25" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/mddpg.py" timestamp="1487301264644">
         <mark key="'" line="216" column="8" />
         <mark key="[" line="24" column="12" />
@@ -322,18 +343,19 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1497466141698">
-        <mark key="'" line="55" column="10" />
-        <mark key="[" line="123" column="24" />
-        <mark key="]" line="123" column="24" />
-        <mark key="." line="123" column="24" />
-        <mark key="^" line="136" column="55" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1497478404213">
+        <mark key="'" line="43" column="15" />
+        <mark key="[" line="98" column="21" />
+        <mark key="]" line="98" column="21" />
+        <mark key="^" line="98" column="21" />
+        <mark key="." line="98" column="21" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1496450905976">
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="22" column="72" />
-        <mark key="^" line="22" column="72" />
-        <mark key="." line="22" column="72" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" timestamp="1497480996139">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="45" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1485847049950">
         <mark key="'" line="392" column="12" />
@@ -516,6 +538,13 @@
       <file name="$USER_HOME$/git/rllab-rail/examples/point_env.py" timestamp="1496204652238">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" timestamp="1497477351398">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_nn_policy.py" timestamp="1478909327364">
         <mark key="'" line="59" column="13" />
         <mark key="[" line="61" column="14" />
@@ -564,18 +593,24 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/rdpg.py" timestamp="1497388915873">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="63" column="27" />
-        <mark key="]" line="63" column="28" />
-        <mark key="^" line="63" column="28" />
-        <mark key="." line="63" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/rdpg.py" timestamp="1497478455040">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" timestamp="1496343553506">
-        <mark key="'" line="112" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" timestamp="1497479579938">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1497471156088">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg.py" timestamp="1496985793030">
         <mark key="'" line="0" column="2" />
@@ -596,15 +631,20 @@
       <file name="$USER_HOME$/git/rllab-rail-private/sandbox/rocky/tf/core/layers.py" timestamp="1486666334656">
         <mark key="'" line="658" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg_pt.py" timestamp="1497388811897">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg_pt.py" timestamp="1497478154309">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="87" column="25" />
-        <mark key="^" line="87" column="25" />
-        <mark key="." line="87" column="25" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="29" />
+        <mark key="^" line="80" column="33" />
+        <mark key="." line="79" column="10" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py" timestamp="1489101398775">
         <mark key="'" line="2795" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" timestamp="1497476843076">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1496280150236">
         <mark key="'" line="6" column="12" />
@@ -673,6 +713,13 @@
         <mark key="]" line="55" column="26" />
         <mark key="." line="55" column="26" />
         <mark key="^" line="54" column="66" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" timestamp="1497480944241">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="192" column="0" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" timestamp="1493091707657">
         <mark key="'" line="1241" column="25" />
@@ -918,12 +965,6 @@
         <mark key="^" line="84" column="13" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/rdpg.py" timestamp="1497388855057">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="43" />
-        <mark key="." line="50" column="43" />
-        <mark key="^" line="50" column="43" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" timestamp="1488850727201">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="40" column="8" />
@@ -944,8 +985,8 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" timestamp="1497303763120">
-        <mark key="'" line="13" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/proxy_env.py" timestamp="1497469741475">
+        <mark key="'" line="4" column="16" />
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="14" />
         <mark key="^" line="31" column="14" />
@@ -978,12 +1019,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="255" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" timestamp="1497334188501">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/sim_policy.py" timestamp="1478225006778">
         <mark key="'" line="1" column="0" />
@@ -1032,6 +1067,9 @@
         <mark key="]" line="13" column="29" />
         <mark key="^" line="12" column="29" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" timestamp="1497475559504">
+        <mark key="'" line="41" column="26" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_testing_utils.py" timestamp="1493058003332">
         <mark key="'" line="9" column="18" />
@@ -1098,12 +1136,6 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/data/reference/6-5-modified-ddpg/add_use_soft_update_to_variant.py" timestamp="1496771057894">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
-        <mark key="^" line="30" column="66" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/sandbox/rocky/tf/launchers/launcher_utils.py" timestamp="1486940654722">
         <mark key="'" line="4" column="27" />
       </file>
@@ -1159,12 +1191,6 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_comp/pytorch_ddpg.py" timestamp="1496616914730">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_comp/tf_vs_pytorch.py" timestamp="1496625312562">
         <mark key="'" line="20" column="16" />
@@ -1280,8 +1306,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/spaces/box.py" timestamp="1497038670300">
-        <mark key="'" line="4" column="10" />
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/spaces/box.py" timestamp="1497477943050">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/examples/ddpg_cartpole.py" timestamp="1496451507961">
         <mark key="'" line="22" column="11" />
@@ -1299,6 +1328,9 @@
         <mark key="]" line="21" column="36" />
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/mujoco_env.py" timestamp="1497466655084">
+        <mark key="'" line="12" column="52" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1477676276739">
         <mark key="'" line="46" column="0" />
@@ -1344,8 +1376,12 @@
         <mark key="^" line="66" column="15" />
         <mark key="." line="66" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" timestamp="1497062199681">
-        <mark key="'" line="18" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" timestamp="1497477961154">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_naf.py" timestamp="1486097878517">
         <mark key="'" line="38" column="13" />
@@ -1388,6 +1424,9 @@
         <mark key="]" line="31" column="20" />
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/sampler/utils.py" timestamp="1497475560631">
+        <mark key="'" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2016/cs281a-statistical-learning-theory/homework/hw6/hw6_4.py" timestamp="1477951569636">
         <mark key="'" line="11" column="0" />
@@ -1613,6 +1652,9 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/pygame/__init__.py" timestamp="1497474190757">
+        <mark key="'" line="140" column="15" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/memory/memory_trpo_ocm.py" timestamp="1488077350689">
         <mark key="'" line="54" column="31" />
         <mark key="[" line="11" column="27" />
@@ -1649,6 +1691,11 @@
         <mark key="]" line="110" column="3" />
         <mark key="^" line="110" column="3" />
         <mark key="." line="110" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/spaces/product.py" timestamp="1497477871466">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/unbiased/unbiased_naf_qfunction.py" timestamp="1488775684523">
         <mark key="'" line="63" column="22" />
@@ -1714,11 +1761,12 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/sampler/parallel_sampler.py" timestamp="1488306831239">
         <mark key="'" line="120" column="27" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_ddpg_pt.py" timestamp="1497388808358">
-        <mark key="[" line="96" column="23" />
-        <mark key="]" line="96" column="25" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="96" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_ddpg_pt.py" timestamp="1497480668820">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="68" />
       </file>
       <file name="$USER_HOME$/git/pytorch-ddpg/memory.py" timestamp="1496267227393">
         <mark key="'" line="257" column="8" />
@@ -1799,6 +1847,13 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1486713577763">
         <mark key="'" line="1128" column="4" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/noop.py" timestamp="1497471317206">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/qddpg_cart.py" timestamp="1484454651950">
         <mark key="'" line="39" column="4" />
         <mark key="[" line="58" column="10" />
@@ -1816,8 +1871,8 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="53" column="63" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/base.py" timestamp="1496986108996">
-        <mark key="'" line="70" column="4" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/base.py" timestamp="1497469742200">
+        <mark key="'" line="9" column="20" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="40" />
         <mark key="^" line="62" column="19" />
@@ -1874,8 +1929,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1497412347708">
-        <mark key="'" line="235" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1497472723179">
+        <mark key="'" line="61" column="20" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -1921,12 +1976,12 @@
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" timestamp="1497292848597">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="184" column="40" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" timestamp="1497471462844">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="184" column="41" />
+        <mark key="]" line="184" column="19" />
+        <mark key="." line="184" column="19" />
+        <mark key="^" line="184" column="19" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1313875005/numpy/random/mtrand.py" timestamp="1487123306233">
         <mark key="'" line="3422" column="8" />
@@ -1934,11 +1989,12 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/algos/ddpg.py" timestamp="1497303800629">
         <mark key="'" line="221" column="28" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" timestamp="1497052107418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/updatable_subtraj_replay_buffer.py" timestamp="1497470853863">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="37" column="45" />
+        <mark key="^" line="37" column="45" />
+        <mark key="." line="37" column="45" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/torch/nn/backends/thnn.py" timestamp="1496811511671">
         <mark key="'" line="33" column="38" />
@@ -1984,6 +2040,12 @@
       <file name="$USER_HOME$/git/pytorch-ddpg/main.py" timestamp="1496268646904">
         <mark key="'" line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/ou_strategy.py" timestamp="1497476604659">
+        <mark key="'" line="39" column="28" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/algos/ddpg.py" timestamp="1486666516116">
         <mark key="'" line="58" column="8" />
       </file>
@@ -1993,6 +2055,11 @@
         <mark key="]" line="45" column="34" />
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" timestamp="1497478732265">
+        <mark key="'" line="303" column="8" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="61" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/predictors/state_action_network.py" timestamp="1480545356982">
         <mark key="'" line="104" column="30" />
@@ -2260,14 +2327,13 @@
         <mark key="^" line="65" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1497412392771">
-        <mark key="'" line="28" column="16" />
-      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1491878042315">
         <mark key="'" line="84" column="24" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" timestamp="1497465792005">
-        <mark key="'" line="140" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" timestamp="1497471903745">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="137" column="70" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/launcher_util.py" timestamp="1485126303284">
         <mark key="'" line="0" column="35" />
@@ -2293,9 +2359,9 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="89" column="39" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" timestamp="1497418779475">
-        <mark key="[" line="208" column="11" />
-        <mark key="]" line="208" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/pythonplusplus.py" timestamp="1497479966002">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="41" />
         <mark key="^" line="208" column="28" />
         <mark key="." line="208" column="28" />
       </file>
@@ -2382,7 +2448,6 @@
         <mark key="." line="59" column="32" />
         <mark key="^" line="59" column="32" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/nn_policy.py" timestamp="1497410454186" />
       <file name="$USER_HOME$/git/sandbox/rllab/algos/vfunction/mlp_vfunction.py" timestamp="1479770474986">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="48" column="0" />
@@ -2393,12 +2458,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/rnn_cell_policy.py" timestamp="1495152019308">
         <mark key="'" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bnlstm.py" timestamp="1497373652942">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bnlstm.py" timestamp="1497470282224">
         <mark key="'" line="93" column="37" />
-        <mark key="[" line="132" column="11" />
-        <mark key="]" line="133" column="43" />
-        <mark key="." line="133" column="43" />
-        <mark key="^" line="133" column="43" />
+        <mark key="[" line="122" column="36" />
+        <mark key="]" line="122" column="38" />
+        <mark key="." line="122" column="38" />
+        <mark key="^" line="122" column="38" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/learningAgents.py" timestamp="1488323378312">
         <mark key="'" line="184" column="4" />
@@ -2430,6 +2495,13 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/notes.md" timestamp="1496298426955">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_env.py" timestamp="1497472080913">
+        <mark key="'" line="22" column="21" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_onehot_sampler.py" timestamp="1487136090523">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -2460,12 +2532,6 @@
         <mark key="]" line="336" column="10" />
         <mark key="." line="336" column="10" />
         <mark key="^" line="336" column="10" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_comp/tf_ddpg.py" timestamp="1496616926682">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ec2_ddpg_cartpole_example.py" timestamp="1484632043033">
         <mark key="'" line="31" column="8" />
@@ -2504,12 +2570,11 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491601357529">
         <mark key="'" line="265" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/run_water_maze.py" timestamp="1497374203167">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="12" />
-        <mark key="^" line="46" column="22" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/run_water_maze.py" timestamp="1497477424152">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1495087834697">
         <mark key="'" line="306" column="18" />
@@ -2551,6 +2616,13 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cartpole_local_docker.py" timestamp="1488772386582">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/gaussian_strategy.py" timestamp="1497471284197">
+        <mark key="'" line="17" column="19" />
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/affine_softmax_policy.py" timestamp="1488341793334">
         <mark key="'" line="6" column="27" />
@@ -2764,14 +2836,6 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497466131354">
-        <mark key="'" line="500" column="11" />
-        <mark key="h" line="490" column="0" />
-        <mark key="[" line="500" column="61" />
-        <mark key="]" line="500" column="65" />
-        <mark key="." line="500" column="65" />
-        <mark key="^" line="500" column="65" />
-      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_ddpg.py" timestamp="1479790464827">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="160" column="0" />
@@ -2833,6 +2897,9 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/optimizers/conjugate_gradient_optimizer.py" timestamp="1487971881691">
         <mark key="'" line="60" column="6" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2017.1/system/python_stubs/865245323/pygame/color.py" timestamp="1497472417174">
+        <mark key="'" line="2660" column="15" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_tensorflow.py" timestamp="1479143347691">
         <mark key="'" line="50" column="21" />
@@ -2927,108 +2994,111 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/core.py" timestamp="1497472737897">
+        <mark key="'" line="100" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" />
-      <jump line="39" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="87" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="88" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="350" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="323" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="214" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="212" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="204" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="153" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="149" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="34" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="59" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="34" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="235" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
-      <jump line="60" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="162" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="448" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="640" column="58" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="156" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="11" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="103" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="102" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="332" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="456" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="307" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="99" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="63" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="64" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="270" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="484" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="485" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="155" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="11" column="66" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="7" column="9" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="185" column="18" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="20" column="9" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="49" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="46" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="47" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="48" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="110" column="42" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_env.py" />
-      <jump line="242" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="280" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="16" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="17" column="10" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="33" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="36" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="40" column="13" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="42" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="44" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="55" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="61" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="70" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="72" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="84" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="109" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="123" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="125" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="167" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="273" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="276" column="25" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="154" column="13" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="270" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="275" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="155" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="146" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="140" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
-      <jump line="5371" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/Box2D/Box2D.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/ddpg_cheetah.py" />
-      <jump line="51" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="451" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="6" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="154" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="229" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="500" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="55" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
-      <jump line="174" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
-      <jump line="139" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/autograd/variable.py" />
-      <jump line="88" column="15" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/autograd/variable.py" />
-      <jump line="9" column="29" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/autograd/variable.py" />
+      <jump line="349" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/pygame/__init__.py" />
+      <jump line="140" column="15" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/pygame/__init__.py" />
+      <jump line="129" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="123" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="128" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="5" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="73" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="124" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="78" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="134" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="64" column="64" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="38" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="141" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
+      <jump line="41" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
+      <jump line="5" column="64" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/utils.py" />
+      <jump line="144" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="25" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="50" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="39" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="136" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="149" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="122" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="46" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_viewer.py" />
+      <jump line="40" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="125" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/run_water_maze.py" />
+      <jump line="4" column="50" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/run_water_maze.py" />
+      <jump line="138" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/spaces/__init__.py" />
+      <jump line="37" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
+      <jump line="108" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="15" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="33" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/spaces/box.py" />
+      <jump line="8" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/spaces/box.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/wrappers.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/spaces/box.py" />
+      <jump line="43" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
+      <jump line="177" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="189" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="238" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="243" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="241" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="339" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="324" column="16" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
+      <jump line="325" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
+      <jump line="329" column="14" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
+      <jump line="333" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="337" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_ddpg_pt.py" />
+      <jump line="303" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="29" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="30" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="34" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="35" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="38" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="39" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="55" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="56" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/trpo.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="11" column="3" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="41" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="55" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" />
+      <jump line="41" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="162" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="65" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/mem_ddpg_pt.py" />
+      <jump line="32" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" />
+      <jump line="165" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="160" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3046,7 +3116,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>iteration</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10010,25 +10080,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>iteration</text>
       </register>
       <register name="/" type="4">
-        <text>requires</text>
+        <text>variant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0iNi01LXRmLXZzLXRvcmNoLWRkcGctaGFsZi1jaGVldGFoLWgxMDAiLAo=</text>
+        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfaXRlcmF0aW9uID0gMTAwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBzZWVkIGluIHJhbmdlKDIwKToK</text>
+        <text encoding="base64">ICAgIEggPSB2YXJpYW50WydIJ10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0iNi01LXRmLXZzLXRvcmNoLWRkcGctaGFsZi1jaGVldGFoLWgxMDAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSD1ILAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsX21lbW9yaWVzLmRhdGEuZmlsbF8oMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52X3BhcmFtcz1kaWN0KAogICAgICAgICAgICAgICAgbnVtX3N0ZXBzPUgsCiAgICAgICAgICAgICAgICAjIHVzZV9zbWFsbF9tYXplPVRydWUsCiAgICAgICAgICAgICAgICAjIGwyX2FjdGlvbl9wZW5hbHR5X3dlaWdodD0wLAogICAgICAgICAgICAgICAgIyBudW1fc3RlcHNfdW50aWxfcmVzZXQ9MCwKICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10063,19 +10133,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhY3Rpb25fcG9saWN5X29wdGltaXplX2JlbGxtYW49RmFsc2UsCiAgICAgICAgICAgICMgd3JpdGVfcG9saWN5X29wdGltaXplcz0ncWYnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVtb3J5X2RpbT0yMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD1leHBfcHJlZml4LAogICAgICAgICAgICBlbnZfY2xhc3M9ZW52X2NsYXNzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gSAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhcmdldF9oYXJkX3VwZGF0ZV9wZXJpb2QgPSAxMDAwCg==</text>
+        <text encoding="base64">ICAgIEggPSB2YXJpYW50WydIJ10K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11517,19 +11587,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5zYXZlX25ld19tZW1vcmllc19iYWNrX3RvX3JlcGxheV9idWZmZXI6CiAgICAgICAgICAgIGFzc2VydCBzZWxmLnNob3VsZF9yZWZyZXNoX2J1ZmZlci5hbHdheXNfZmFsc2UsICgKICAgICAgICAgICAgICAgICJJZiBzYXZlX25ld19tZW1vcmllc19iYWNrX3RvX3JlcGxheV9idWZmZXIgaXMgRmFsc2UsICIKICAgICAgICAgICAgICAgICJ5b3UgY2Fubm90IHJlZnJlc2ggdGhlIHJlcGxheSBidWZmZXIuIgogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWN0KAogICAgICAgICAgICB0cnBvX3BhcmFtcz1kaWN0KAogICAgICAgICAgICAgICAgYmF0Y2hfc2l6ZT1udW1fc3RlcHNfcGVyX2l0ZXJhdGlvbiwKICAgICAgICAgICAgICAgIG1heF9wYXRoX2xlbmd0aD1ILCAgIyBFbnZpcm9ubWVudCBzaG91bGQgc3RvcCBpdAogICAgICAgICAgICAgICAgbl9pdHI9bnVtX2l0ZXJhdGlvbnMsCiAgICAgICAgICAgICAgICBkaXNjb3VudD0xLiwKICAgICAgICAgICAgICAgIHN0ZXBfc2l6ZT0wLjAxLAogICAgICAgICAgICApLAogICAgICAgICAgICBvcHRpbWl6ZXJfcGFyYW1zPWRpY3QoCiAgICAgICAgICAgICAgICBiYXNlX2Vwcz0xZS01LAogICAgICAgICAgICApLAogICAgICAgICAgICB2ZXJzaW9uPSdUUlBPJywKICAgICAgICApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNob3VsZF9yZWZyZXNoX2J1ZmZlciA9IENvbmRpdGlvblRpbWVyKAogICAgICAgICAgICByZWZyZXNoX2VudGlyZV9idWZmZXJfcGVyaW9kCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICMgZXMgPSBOb29wU3RyYXRlZ3koCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>requires</last-search>
+      <last-search>variant</last-search>
       <last-offset />
-      <last-pattern>requires</last-pattern>
+      <last-pattern>variant</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11537,35 +11607,28 @@
     </search>
     <history>
       <history-search>
-        <entry>use_</entry>
-        <entry>handle</entry>
-        <entry>tau</entry>
-        <entry>action_dim</entry>
-        <entry>refresh</entry>
-        <entry>initial_mem</entry>
-        <entry>save</entry>
-        <entry>debug</entry>
-        <entry>asdf</entry>
-        <entry>aabb</entry>
-        <entry>Pygame</entry>
-        <entry>finish</entry>
-        <entry>Draw</entry>
-        <entry>renderer</entry>
-        <entry>DrawDebugData</entry>
-        <entry>self.world</entry>
-        <entry>self.screen</entry>
-        <entry>viewZoom</entry>
-        <entry>Variable</entry>
-        <entry>requires</entry>
+        <entry>self.surface</entry>
+        <entry>surface</entry>
+        <entry>rect</entry>
+        <entry>red</entry>
+        <entry>center</entry>
+        <entry>reset</entry>
+        <entry>print</entry>
+        <entry>scale</entry>
+        <entry>ipd</entry>
+        <entry>speed</entry>
+        <entry>Water</entry>
+        <entry>Box</entry>
+        <entry>log_file</entry>
+        <entry>log_dir</entry>
+        <entry>log_variant</entry>
+        <entry>render</entry>
+        <entry>seed</entry>
+        <entry>exp_prefix</entry>
+        <entry>version</entry>
+        <entry>variant</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+305</entry>
-        <entry>117</entry>
-        <entry>140</entry>
-        <entry>251</entry>
-        <entry>195</entry>
-        <entry>194</entry>
-        <entry>129</entry>
         <entry>145</entry>
         <entry>283</entry>
         <entry>312</entry>
@@ -11577,8 +11640,15 @@
         <entry>479</entry>
         <entry>139</entry>
         <entry>126</entry>
-        <entry>w</entry>
+        <entry>we</entry>
+        <entry>152</entry>
+        <entry>87</entry>
+        <entry>47</entry>
+        <entry>32</entry>
+        <entry>16</entry>
         <entry>q</entry>
+        <entry>52</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
