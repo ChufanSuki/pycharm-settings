@@ -2287,8 +2287,8 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1491878042315">
         <mark key="'" line="84" column="24" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" timestamp="1497461543749">
-        <mark key="'" line="146" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" timestamp="1497461672795">
+        <mark key="'" line="140" column="20" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/launcher_util.py" timestamp="1485126303284">
         <mark key="'" line="0" column="35" />
@@ -2963,9 +2963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="208" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="87" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="111" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="171" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -3063,6 +3060,9 @@
       <jump line="145" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
       <jump line="155" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
       <jump line="146" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="140" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="5371" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/Box2D/Box2D.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -10047,7 +10047,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>self.world</text>
+        <text>viewZoom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9uZXdfbWVtb3JpZXNfYmFja190b19yZXBsYXlfYnVmZmVyPVRydWUsCg==</text>
@@ -11561,9 +11561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.world</last-search>
+      <last-search>viewZoom</last-search>
       <last-offset />
-      <last-pattern>self.world</last-pattern>
+      <last-pattern>viewZoom</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11571,8 +11571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>JOINT_ANGLES_LOW</entry>
-        <entry>variant</entry>
         <entry encoding="base64">XDxzYXZlX25ld19tZW1vcmllc19iYWNrX3RvX3JlcGxheV9idWZmZXJcPg==</entry>
         <entry>target_hard_updat</entry>
         <entry>use_</entry>
@@ -11591,6 +11589,8 @@
         <entry>renderer</entry>
         <entry>DrawDebugData</entry>
         <entry>self.world</entry>
+        <entry>self.screen</entry>
+        <entry>viewZoom</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+305</entry>
