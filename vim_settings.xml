@@ -1895,10 +1895,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1497330729489">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1497412347708">
+        <mark key="'" line="235" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_comparison.py" timestamp="1484173480189">
         <mark key="'" line="27" column="26" />
@@ -2280,7 +2281,7 @@
         <mark key="^" line="65" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1497410525170">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1497412392771">
         <mark key="'" line="28" column="16" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1491878042315">
@@ -2951,8 +2952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="119" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="228" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="452" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="133" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -3036,7 +3035,6 @@
       <jump line="76" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/nn_policy.py" />
       <jump line="17" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="18" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/nn_qfunction.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
       <jump line="39" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="87" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="88" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
@@ -3051,6 +3049,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
       <jump line="34" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
       <jump line="59" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="34" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="235" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="28" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3068,7 +3069,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZXBvY2g9MCwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10035,22 +10036,22 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>JOINT_ANGLES_LOW</text>
+        <text>variant</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZXBvY2g9MCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0X25ld193cml0ZXMucmVnaXN0ZXJfaG9vayhwcmludCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X21lbW9yaWVzLnJlZ2lzdGVyX2hvb2socHJpbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGF0X25ld193cml0ZXMucmVnaXN0ZXJfaG9vayhwcmludCkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10085,19 +10086,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X21lbW9yaWVzLnJlZ2lzdGVyX2hvb2socHJpbnQpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHY9IFZhcmlhYmxlKHRvcmNoLnplcm9zKDApKQogICAgdi5yZWdpc3Rlcl9ob29rKGgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvcmNoX2JhdGNoLnJlZ2lzdGVyCg==</text>
+        <text encoding="base64">ICAgIHY9IFZhcmlhYmxlKHRvcmNoLnplcm9zKDApKQogICAgdi5yZWdpc3Rlcl9ob29rKGgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11539,7 +11540,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+        <text encoding="base64">ICAgIHRvcmNoX2JhdGNoLnJlZ2lzdGVyCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
@@ -11549,9 +11550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JOINT_ANGLES_LOW</last-search>
+      <last-search>variant</last-search>
       <last-offset />
-      <last-pattern>JOINT_ANGLES_LOW</last-pattern>
+      <last-pattern>variant</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11559,7 +11560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>W_a</entry>
         <entry>new_memories</entry>
         <entry>reset</entry>
         <entry>--</entry>
@@ -11579,6 +11579,7 @@
         <entry>next_memories</entry>
         <entry>self.policy\.</entry>
         <entry>JOINT_ANGLES_LOW</entry>
+        <entry>variant</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+305</entry>
