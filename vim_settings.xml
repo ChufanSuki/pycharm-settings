@@ -331,11 +331,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1497420778167">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1497460598438">
         <mark key="'" line="60" column="48" />
-        <mark key="[" line="92" column="35" />
-        <mark key="]" line="92" column="45" />
-        <mark key="." line="92" column="45" />
+        <mark key="[" line="155" column="26" />
+        <mark key="]" line="155" column="27" />
+        <mark key="." line="155" column="27" />
         <mark key="^" line="92" column="45" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1496450905976">
@@ -2287,6 +2287,9 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/nn.py" timestamp="1491878042315">
         <mark key="'" line="84" column="24" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" timestamp="1497460480307">
+        <mark key="'" line="48" column="19" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/launcher_util.py" timestamp="1485126303284">
         <mark key="'" line="0" column="35" />
         <mark key="[" line="17" column="23" />
@@ -2960,15 +2963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bnlstm.py" />
-      <jump line="155" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
-      <jump line="8" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
-      <jump line="35" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="38" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="40" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
-      <jump line="106" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg_rq.py" />
       <jump line="110" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/water_maze.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/main.py" />
       <jump line="289" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/main.py" />
@@ -3060,6 +3054,15 @@
       <jump line="485" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="155" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="25" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="11" column="66" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="7" column="9" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="185" column="18" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="20" column="9" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="49" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="42" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="46" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="47" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
+      <jump line="48" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/box2d_viewer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -10044,7 +10047,7 @@
         <text>H25sl1</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>aabb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9uZXdfbWVtb3JpZXNfYmFja190b19yZXBsYXlfYnVmZmVyPVRydWUsCg==</text>
@@ -11558,9 +11561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>aabb</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>aabb</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11568,8 +11571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subtra</entry>
-        <entry encoding="base64">XDxyYXdfc3VidHJhal9iYXRjaFw+</entry>
         <entry>raw_sub</entry>
         <entry encoding="base64">XDx0cmFpbl9jcml0aWNcPg==</entry>
         <entry encoding="base64">XDx0cmFpbl9wb2xpY3lcPg==</entry>
@@ -11580,7 +11581,6 @@
         <entry>variant</entry>
         <entry encoding="base64">XDxzYXZlX25ld19tZW1vcmllc19iYWNrX3RvX3JlcGxheV9idWZmZXJcPg==</entry>
         <entry>target_hard_updat</entry>
-        <entry>asdf</entry>
         <entry>use_</entry>
         <entry>handle</entry>
         <entry>tau</entry>
@@ -11588,6 +11588,9 @@
         <entry>refresh</entry>
         <entry>initial_mem</entry>
         <entry>save</entry>
+        <entry>debug</entry>
+        <entry>asdf</entry>
+        <entry>aabb</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+305</entry>
