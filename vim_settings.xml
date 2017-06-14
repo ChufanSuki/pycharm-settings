@@ -2687,6 +2687,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" timestamp="1487121091938">
         <mark key="'" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1497411181037">
+        <mark key="'" line="59" column="30" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/json_to_yaml.py" timestamp="1486583488726">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="0" />
@@ -2945,9 +2951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="71" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="117" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="118" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="119" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="228" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -3045,6 +3048,9 @@
       <jump line="153" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="149" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
       <jump line="95" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
+      <jump line="59" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3061,8 +3067,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10029,22 +10035,22 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>self.policy\.</text>
+        <text>JOINT_ANGLES_LOW</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0X25ld193cml0ZXMucmVnaXN0ZXJfaG9vayhwcmludCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X21lbW9yaWVzLnJlZ2lzdGVyX2hvb2socHJpbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGF0X25ld193cml0ZXMucmVnaXN0ZXJfaG9vayhwcmludCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X21lbW9yaWVzLnJlZ2lzdGVyX2hvb2socHJpbnQpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10082,16 +10088,16 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHY9IFZhcmlhYmxlKHRvcmNoLnplcm9zKDApKQogICAgdi5yZWdpc3Rlcl9ob29rKGgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvcmNoX2JhdGNoLnJlZ2lzdGVyCg==</text>
+        <text encoding="base64">ICAgIHY9IFZhcmlhYmxlKHRvcmNoLnplcm9zKDApKQogICAgdi5yZWdpc3Rlcl9ob29rKGgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+        <text encoding="base64">ICAgIHRvcmNoX2JhdGNoLnJlZ2lzdGVyCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11536,16 +11542,16 @@
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.policy\.</last-search>
+      <last-search>JOINT_ANGLES_LOW</last-search>
       <last-offset />
-      <last-pattern>self.policy\.</last-pattern>
+      <last-pattern>JOINT_ANGLES_LOW</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11553,7 +11559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rwa</entry>
         <entry>W_a</entry>
         <entry>new_memories</entry>
         <entry>reset</entry>
@@ -11573,6 +11578,7 @@
         <entry>grid</entry>
         <entry>next_memories</entry>
         <entry>self.policy\.</entry>
+        <entry>JOINT_ANGLES_LOW</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+305</entry>
