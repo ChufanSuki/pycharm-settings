@@ -2775,13 +2775,13 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497402630833">
-        <mark key="'" line="173" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497407285238">
+        <mark key="'" line="487" column="17" />
         <mark key="h" line="473" column="0" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="69" />
-        <mark key="." line="214" column="0" />
-        <mark key="^" line="207" column="40" />
+        <mark key="[" line="487" column="20" />
+        <mark key="]" line="487" column="20" />
+        <mark key="." line="487" column="20" />
+        <mark key="^" line="487" column="20" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_ddpg.py" timestamp="1479790464827">
         <mark key="'" line="42" column="12" />
@@ -2940,8 +2940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="88" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
       <jump line="136" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
       <jump line="110" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="43" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/recurrent_q_bptt_ddpg_exp.py" />
@@ -3040,6 +3038,8 @@
       <jump line="114" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="115" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="173" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="214" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
+      <jump line="487" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3056,8 +3056,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10021,7 +10021,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbl9wb2xpY3lcPg==</text>
@@ -10030,7 +10030,7 @@
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+        <text encoding="base64">ICAgIHRvcmNoX2JhdGNoLnJlZ2lzdGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -10039,7 +10039,7 @@
         <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10074,19 +10074,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZUVhc3kKICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZU1lbW9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3ViCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMCwK</text>
+        <text encoding="base64">ICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZUVhc3kKICAgIGVudl9jbGFzcyA9IFdhdGVyTWF6ZU1lbW9yeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXZhbD1udW1fc3RlcHNfcGVyX2V2YWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMCwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
+        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXZhbD1udW1fc3RlcHNfcGVyX2V2YWwsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11528,7 +11528,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZSB0aGUgb3V0cHV0IG9mIGBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaGAK</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2JhdGNoID0gY3JlYXRlX3RvcmNoX3N1YnRyYWpfYmF0Y2gocmF3X3N1YnRyYWpfYmF0Y2gpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBiZSB0aGUgb3V0cHV0IG9mIGBjcmVhdGVfdG9yY2hfc3VidHJhal9iYXRjaGAK</text>
