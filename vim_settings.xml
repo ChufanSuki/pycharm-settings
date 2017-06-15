@@ -127,11 +127,8 @@
         <mark key="'" line="77" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" timestamp="1497545364908">
-        <mark key="'" line="348" column="14" />
+        <mark key="'" line="344" column="14" />
         <mark key="[" line="209" column="0" />
-        <mark key="]" line="210" column="45" />
-        <mark key="." line="210" column="45" />
-        <mark key="^" line="210" column="45" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/viskit/frontend.py" timestamp="1485193395721">
         <mark key="'" line="532" column="4" />
@@ -343,12 +340,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1497545258427">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1497547251495">
         <mark key="'" line="70" column="19" />
-        <mark key="[" line="105" column="33" />
-        <mark key="]" line="105" column="33" />
-        <mark key="^" line="96" column="53" />
-        <mark key="." line="105" column="33" />
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="107" column="22" />
+        <mark key="^" line="107" column="22" />
+        <mark key="." line="107" column="22" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" timestamp="1497508648807">
         <mark key="'" line="11" column="15" />
@@ -2802,8 +2799,8 @@
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497507885363">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" timestamp="1497547032970">
+        <mark key="'" line="501" column="29" />
         <mark key="h" line="491" column="0" />
         <mark key="[" line="234" column="25" />
         <mark key="]" line="234" column="29" />
@@ -2973,7 +2970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
       <jump line="26" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
       <jump line="55" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/sl.py" />
       <jump line="19" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" />
@@ -3073,6 +3069,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="156" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="6" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="501" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3090,7 +3087,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>logger_</text>
+        <text>200</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10054,10 +10051,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logger_</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>get_table</text>
+        <text>fill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdldF9sb2dnZXJfdGFibGVfa2V5X3NldCgpOgo=</text>
@@ -11571,9 +11568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_table</last-search>
+      <last-search>fill</last-search>
       <last-offset />
-      <last-pattern>get_table</last-pattern>
+      <last-pattern>fill</last-pattern>
       <last-replace>get_param_values</last-replace>
       <last-substitute>get_self.param_values</last-substitute>
       <last-dir>1</last-dir>
@@ -11581,7 +11578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refresh</entry>
         <entry>fixed</entry>
         <entry>High</entry>
         <entry>variant</entry>
@@ -11601,6 +11597,7 @@
         <entry>get_tab</entry>
         <entry>_tabular</entry>
         <entry>get_table</entry>
+        <entry>fill</entry>
       </history-search>
       <history-cmd>
         <entry>479</entry>
@@ -11620,8 +11617,8 @@
         <entry>.,.+149</entry>
         <entry>158</entry>
         <entry>w'</entry>
-        <entry>q</entry>
         <entry>156</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
