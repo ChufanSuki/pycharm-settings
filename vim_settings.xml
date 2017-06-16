@@ -331,12 +331,6 @@
         <mark key="^" line="56" column="48" />
         <mark key="." line="56" column="48" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/memory/continuous_memory_augmented.py" timestamp="1496033667996">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/run_experiment_lite.py" timestamp="1492804469899">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="0" />
@@ -1524,9 +1518,12 @@
         <mark key="^" line="84" column="13" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/examples/ddpg_cheetah.py" timestamp="1496031815949">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="31" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/examples/ddpg_cheetah.py" timestamp="1497591110731">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="48" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="16" column="48" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/predictors/state_network.py" timestamp="1487291447868">
         <mark key="'" line="10" column="20" />
@@ -1960,13 +1957,6 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll/base.py" timestamp="1494039053204">
         <mark key="'" line="203" column="9" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/memory/high_low.py" timestamp="1496032800024">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="67" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/memory/trpo_memory_ocm.py" timestamp="1488324929816">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -2116,8 +2106,8 @@
         <mark key="^" line="197" column="21" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" timestamp="1496031911153">
-        <mark key="'" line="11" column="22" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" timestamp="1497591278043">
+        <mark key="'" line="106" column="35" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/affine_softmax_policy.py" timestamp="1488341793334">
         <mark key="'" line="6" column="27" />
@@ -2555,13 +2545,6 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/pytorch/schedule_discount_factor.py" timestamp="1496033949758">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="18" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/nn_qfunction.py" timestamp="1480548619841">
         <mark key="'" line="25" column="42" />
         <mark key="[" line="28" column="0" />
@@ -2876,16 +2859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="45" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="291" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="26" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="45" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="85" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="207" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="208" column="58" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="215" column="52" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="63" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
-      <jump line="162" column="53" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
       <jump line="9" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/pytorch/schedule_discount_factor.py" />
       <jump line="125" column="8" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
       <jump line="254" column="8" filename="$USER_HOME$/anaconda/envs/railrl/lib/python3.5/site-packages/gym/core.py" />
@@ -2976,6 +2949,16 @@
       <jump line="57" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/pytorch/schedule_discount_factor.py" />
       <jump line="8" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/twod_point.py" />
       <jump line="50" column="33" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/policies/nn_policy.py" />
+      <jump line="314" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="316" column="51" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="317" column="55" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="320" column="32" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/examples/ddpg_cheetah.py" />
+      <jump line="309" column="58" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="363" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="104" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="105" column="35" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
+      <jump line="106" column="35" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2992,8 +2975,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgRmVlZEZvcndhcmRQb2xpY3koTk5Qb2xpY3kpOgogICAgZGVmIF9faW5pdF9fKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBuYW1lX29yX3Njb3BlLAogICAgICAgICAgICBvYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZXM9KDEwMCwgMTAwKSwKICAgICAgICAgICAgaGlkZGVuX1dfaW5pdD1Ob25lLAogICAgICAgICAgICBoaWRkZW5fYl9pbml0PU5vbmUsCiAgICAgICAgICAgIG91dHB1dF9XX2luaXQ9Tm9uZSwKICAgICAgICAgICAgb3V0cHV0X2JfaW5pdD1Ob25lLAogICAgICAgICAgICBoaWRkZW5fbm9ubGluZWFyaXR5PXRmLm5uLnJlbHUsCiAgICAgICAgICAgIG91dHB1dF9ub25saW5lYXJpdHk9dGYubm4udGFuaCwKICAgICAgICAgICAgKiprd2FyZ3MKICAgICk6CiAgICAgICAgc2VsZi5zZXR1cF9zZXJpYWxpemF0aW9uKGxvY2FscygpKQogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZV9vcl9zY29wZT1uYW1lX29yX3Njb3BlLCAqKmt3YXJncykKICAgICAgICBzZWxmLm9ic2VydmF0aW9uX2hpZGRlbl9zaXplcyA9IG9ic2VydmF0aW9uX2hpZGRlbl9zaXplcwogICAgICAgIHNlbGYuaGlkZGVuX1dfaW5pdCA9IGhpZGRlbl9XX2luaXQgb3IgaGVfdW5pZm9ybV9pbml0aWFsaXplcigpCiAgICAgICAgc2VsZi5oaWRkZW5fYl9pbml0ID0gaGlkZGVuX2JfaW5pdCBvciB0Zi5jb25zdGFudF9pbml0aWFsaXplcigwLikKICAgICAgICBzZWxmLm91dHB1dF9XX2luaXQgPSBvdXRwdXRfV19pbml0IG9yIHRmLnJhbmRvbV91bmlmb3JtX2luaXRpYWxpemVyKAogICAgICAgICAgICAtM2UtMywgM2UtMykKICAgICAgICBzZWxmLm91dHB1dF9iX2luaXQgPSBvdXRwdXRfYl9pbml0IG9yIHRmLnJhbmRvbV91bmlmb3JtX2luaXRpYWxpemVyKAogICAgICAgICAgICAtM2UtMywgM2UtMykKICAgICAgICBzZWxmLmhpZGRlbl9ub25saW5lYXJpdHkgPSBoaWRkZW5fbm9ubGluZWFyaXR5CiAgICAgICAgc2VsZi5vdXRwdXRfbm9ubGluZWFyaXR5ID0gb3V0cHV0X25vbmxpbmVhcml0eQogICAgICAgIHNlbGYuX2NyZWF0ZV9uZXR3b3JrKCkKCiAgICBkZWYgX2NyZWF0ZV9uZXR3b3JrX2ludGVybmFsKHNlbGYsIG9ic2VydmF0aW9uX2lucHV0PU5vbmUpOgogICAgICAgIGFzc2VydCBvYnNlcnZhdGlvbl9pbnB1dCBpcyBub3QgTm9uZQogICAgICAgIG9ic2VydmF0aW9uX2lucHV0ID0gc2VsZi5fcHJvY2Vzc19sYXllcihvYnNlcnZhdGlvbl9pbnB1dCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGVfbmFtZT0ib2JzZXJ2YXRpb25faW5wdXQiKQogICAgICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoIm1scCIpOgogICAgICAgICAgICBvYnNlcnZhdGlvbl9vdXRwdXQgPSBtbHAoCiAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbl9pbnB1dCwKICAgICAgICAgICAgICAgIHNlbGYub2JzZXJ2YXRpb25fZGltLAogICAgICAgICAgICAgICAgc2VsZi5vYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZXMsCiAgICAgICAgICAgICAgICBzZWxmLmhpZGRlbl9ub25saW5lYXJpdHksCiAgICAgICAgICAgICAgICBXX2luaXRpYWxpemVyPXNlbGYuaGlkZGVuX1dfaW5pdCwKICAgICAgICAgICAgICAgIGJfaW5pdGlhbGl6ZXI9c2VsZi5oaWRkZW5fYl9pbml0LAogICAgICAgICAgICAgICAgcHJlX25vbmxpbl9sYW1iZGE9c2VsZi5fcHJvY2Vzc19sYXllciwKICAgICAgICAgICAgKQogICAgICAgIG9ic2VydmF0aW9uX291dHB1dCA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIoCiAgICAgICAgICAgIG9ic2VydmF0aW9uX291dHB1dCwKICAgICAgICAgICAgc2NvcGVfbmFtZT0ib3V0cHV0X3ByZWFjdGl2YXRpb25zIiwKICAgICAgICApCiAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgib3V0cHV0Iik6CiAgICAgICAgICAgIHJldHVybiBzZWxmLm91dHB1dF9ub25saW5lYXJpdHkobGluZWFyKAogICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25fb3V0cHV0LAogICAgICAgICAgICAgICAgc2VsZi5vYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZXNbLTFdLAogICAgICAgICAgICAgICAgc2VsZi5vdXRwdXRfZGltLAogICAgICAgICAgICAgICAgV19pbml0aWFsaXplcj1zZWxmLm91dHB1dF9XX2luaXQsCiAgICAgICAgICAgICAgICBiX2luaXRpYWxpemVyPXNlbGYub3V0cHV0X2JfaW5pdCwKICAgICAgICAgICAgKSkK</text>
+      <register name="&quot;" type="4">
+        <text>spec</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11639,25 +11622,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TwoDPointRandomInit</text>
+        <text>spec</text>
       </register>
       <register name="/" type="4">
-        <text>reward</text>
+        <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTXVqb2NvV2F0ZXJNYXplKG11am9jb19lbnYuTXVqb2NvRW52LCB1dGlscy5FelBpY2tsZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZhbF9zYW1wbGVzPTEwMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZW52ID0gVHdvRE1hemUoKiplbnZfcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIGZvciBzZWVkIGluIHJhbmdlKDIwKToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlscy5FelBpY2tsZS5fX2luaXRfXyhzZWxmKQo=</text>
+        <text encoding="base64">ICAgICMgZW52ID0gVHdvRE1hemUoKiplbnZfcGFyYW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1dGlscy5FelBpY2tsZS5fX2luaXRfXyhzZWxmKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11692,19 +11675,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmcm9tIHJsbGFiLnNwYWNlcy5ib3ggaW1wb3J0IEJveAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtdWpvY29fZW52Lk11am9jb0Vudi5fX2luaXRfXyhzZWxmLCBnZXRfYXNzZXRfeG1sKCd3YXRlcl9tYXplLnhtbCcpLCAyKQo=</text>
+        <text encoding="base64">IyBmcm9tIHJsbGFiLnNwYWNlcy5ib3ggaW1wb3J0IEJveAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlscy5FelBpY2tsZS5fX2luaXRfXyhzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICBtdWpvY29fZW52Lk11am9jb0Vudi5fX2luaXRfXyhzZWxmLCBnZXRfYXNzZXRfeG1sKCd3YXRlcl9tYXplLnhtbCcpLCAyKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB1dGlscy5FelBpY2tsZS5fX2luaXRfXyhzZWxmKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13146,30 +13129,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2V0X211am9jbyh7CiAgICAgICAgICAgICdxcG9zJzogcXBvcywKICAgICAgICAgICAgJ3F2ZWwnOiBxdmVsLAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLihhKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2V0X211am9jbyh7CiAgICAgICAgICAgICdxcG9zJzogcXBvcywKICAgICAgICAgICAgJ3F2ZWwnOiBxdmVsLAogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reward</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>reward</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spec</entry>
-        <entry>FILE</entry>
-        <entry>get_asset_xml</entry>
-        <entry>do_simul</entry>
         <entry>set</entry>
         <entry>def set</entry>
         <entry>set_State</entry>
@@ -13186,6 +13165,10 @@
         <entry>def reset</entry>
         <entry>l2_action</entry>
         <entry>reward</entry>
+        <entry>obs</entry>
+        <entry>do train</entry>
+        <entry>do_train</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
