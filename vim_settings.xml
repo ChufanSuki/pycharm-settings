@@ -1867,6 +1867,11 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/policies/nn_policy.py" timestamp="1497589673206">
+        <mark key="'" line="50" column="33" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="101" column="13" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/linear_ocm_policy.py" timestamp="1487137923278">
         <mark key="'" line="62" column="26" />
         <mark key="[" line="62" column="53" />
@@ -2871,7 +2876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
       <jump line="13" column="45" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
       <jump line="291" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="26" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2971,6 +2975,7 @@
       <jump line="14" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/twod_point.py" />
       <jump line="57" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/pytorch/schedule_discount_factor.py" />
       <jump line="8" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/twod_point.py" />
+      <jump line="50" column="33" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/policies/nn_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2988,7 +2993,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgZW52ID0gVHdvRE1hemUoKiplbnZfcGFyYW1zKQo=</text>
+        <text encoding="base64">Y2xhc3MgRmVlZEZvcndhcmRQb2xpY3koTk5Qb2xpY3kpOgogICAgZGVmIF9faW5pdF9fKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBuYW1lX29yX3Njb3BlLAogICAgICAgICAgICBvYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZXM9KDEwMCwgMTAwKSwKICAgICAgICAgICAgaGlkZGVuX1dfaW5pdD1Ob25lLAogICAgICAgICAgICBoaWRkZW5fYl9pbml0PU5vbmUsCiAgICAgICAgICAgIG91dHB1dF9XX2luaXQ9Tm9uZSwKICAgICAgICAgICAgb3V0cHV0X2JfaW5pdD1Ob25lLAogICAgICAgICAgICBoaWRkZW5fbm9ubGluZWFyaXR5PXRmLm5uLnJlbHUsCiAgICAgICAgICAgIG91dHB1dF9ub25saW5lYXJpdHk9dGYubm4udGFuaCwKICAgICAgICAgICAgKiprd2FyZ3MKICAgICk6CiAgICAgICAgc2VsZi5zZXR1cF9zZXJpYWxpemF0aW9uKGxvY2FscygpKQogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZV9vcl9zY29wZT1uYW1lX29yX3Njb3BlLCAqKmt3YXJncykKICAgICAgICBzZWxmLm9ic2VydmF0aW9uX2hpZGRlbl9zaXplcyA9IG9ic2VydmF0aW9uX2hpZGRlbl9zaXplcwogICAgICAgIHNlbGYuaGlkZGVuX1dfaW5pdCA9IGhpZGRlbl9XX2luaXQgb3IgaGVfdW5pZm9ybV9pbml0aWFsaXplcigpCiAgICAgICAgc2VsZi5oaWRkZW5fYl9pbml0ID0gaGlkZGVuX2JfaW5pdCBvciB0Zi5jb25zdGFudF9pbml0aWFsaXplcigwLikKICAgICAgICBzZWxmLm91dHB1dF9XX2luaXQgPSBvdXRwdXRfV19pbml0IG9yIHRmLnJhbmRvbV91bmlmb3JtX2luaXRpYWxpemVyKAogICAgICAgICAgICAtM2UtMywgM2UtMykKICAgICAgICBzZWxmLm91dHB1dF9iX2luaXQgPSBvdXRwdXRfYl9pbml0IG9yIHRmLnJhbmRvbV91bmlmb3JtX2luaXRpYWxpemVyKAogICAgICAgICAgICAtM2UtMywgM2UtMykKICAgICAgICBzZWxmLmhpZGRlbl9ub25saW5lYXJpdHkgPSBoaWRkZW5fbm9ubGluZWFyaXR5CiAgICAgICAgc2VsZi5vdXRwdXRfbm9ubGluZWFyaXR5ID0gb3V0cHV0X25vbmxpbmVhcml0eQogICAgICAgIHNlbGYuX2NyZWF0ZV9uZXR3b3JrKCkKCiAgICBkZWYgX2NyZWF0ZV9uZXR3b3JrX2ludGVybmFsKHNlbGYsIG9ic2VydmF0aW9uX2lucHV0PU5vbmUpOgogICAgICAgIGFzc2VydCBvYnNlcnZhdGlvbl9pbnB1dCBpcyBub3QgTm9uZQogICAgICAgIG9ic2VydmF0aW9uX2lucHV0ID0gc2VsZi5fcHJvY2Vzc19sYXllcihvYnNlcnZhdGlvbl9pbnB1dCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGVfbmFtZT0ib2JzZXJ2YXRpb25faW5wdXQiKQogICAgICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoIm1scCIpOgogICAgICAgICAgICBvYnNlcnZhdGlvbl9vdXRwdXQgPSBtbHAoCiAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbl9pbnB1dCwKICAgICAgICAgICAgICAgIHNlbGYub2JzZXJ2YXRpb25fZGltLAogICAgICAgICAgICAgICAgc2VsZi5vYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZXMsCiAgICAgICAgICAgICAgICBzZWxmLmhpZGRlbl9ub25saW5lYXJpdHksCiAgICAgICAgICAgICAgICBXX2luaXRpYWxpemVyPXNlbGYuaGlkZGVuX1dfaW5pdCwKICAgICAgICAgICAgICAgIGJfaW5pdGlhbGl6ZXI9c2VsZi5oaWRkZW5fYl9pbml0LAogICAgICAgICAgICAgICAgcHJlX25vbmxpbl9sYW1iZGE9c2VsZi5fcHJvY2Vzc19sYXllciwKICAgICAgICAgICAgKQogICAgICAgIG9ic2VydmF0aW9uX291dHB1dCA9IHNlbGYuX3Byb2Nlc3NfbGF5ZXIoCiAgICAgICAgICAgIG9ic2VydmF0aW9uX291dHB1dCwKICAgICAgICAgICAgc2NvcGVfbmFtZT0ib3V0cHV0X3ByZWFjdGl2YXRpb25zIiwKICAgICAgICApCiAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgib3V0cHV0Iik6CiAgICAgICAgICAgIHJldHVybiBzZWxmLm91dHB1dF9ub25saW5lYXJpdHkobGluZWFyKAogICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25fb3V0cHV0LAogICAgICAgICAgICAgICAgc2VsZi5vYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZXNbLTFdLAogICAgICAgICAgICAgICAgc2VsZi5vdXRwdXRfZGltLAogICAgICAgICAgICAgICAgV19pbml0aWFsaXplcj1zZWxmLm91dHB1dF9XX2luaXQsCiAgICAgICAgICAgICAgICBiX2luaXRpYWxpemVyPXNlbGYub3V0cHV0X2JfaW5pdCwKICAgICAgICAgICAgKSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -13157,7 +13162,7 @@
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
