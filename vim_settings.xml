@@ -573,12 +573,12 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" timestamp="1497667047207">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="37" column="23" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" timestamp="1497668789491">
+        <mark key="'" line="41" column="19" />
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="75" column="31" />
+        <mark key="." line="75" column="31" />
+        <mark key="^" line="75" column="31" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_nn_policy.py" timestamp="1478909327364">
         <mark key="'" line="59" column="13" />
@@ -3114,12 +3114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig2.py" />
-      <jump line="111" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="59" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/__init__.py" />
       <jump line="30" column="25" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/__init__.py" />
       <jump line="77" column="28" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
       <jump line="79" column="8" filename="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/gripper.py" />
@@ -3208,12 +3202,18 @@
       <jump line="30" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="35" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="472" column="0" filename="$USER_HOME$/.local/lib/python3.5/site-packages/numpy/lib/index_tricks.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="123" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
       <jump line="131" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/analyze_variants.py" />
       <jump line="37" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="60" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="38" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="40" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="293" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/seaborn/matrix.py" />
+      <jump line="11" column="64" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="39" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="54" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="41" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3230,8 +3230,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>titles</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10195,25 +10195,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, x_ranges, y_ranges):</text>
+        <text>titles</text>
       </register>
       <register name="/" type="4">
         <text>subplot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpZywgYXhlcyA9IHBsdC5zdWJwbG90cyhudW1fcGFyYW1zKQo=</text>
+        <text encoding="base64">Zm9yIHRhcmdldF9wb3MgaW4gbnAubGluc3BhY2UoLTEsIDEsIG51bT0zKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlcy5hcHBlbmQoIlRhcmdldF9Qb3MgPSB7fSIuZm9ybWF0KHRhcmdldF9wb3MpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3QgPSBucC5saW5hbGcubm9ybShzZWxmLl9wb3NpdGlvbiAtIHNlbGYuX3RhcmdldF9wb3NpdGlvbikKICAgIG9uX3BsYXRmb3JtID0gZGlzdCA8PSBzZWxmLlRBUkdFVF9SQURJVVMK</text>
+        <text encoding="base64">dGl0bGVzID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcGx0Lmltc2hvdyhjb21iaW5lZCwgY21hcD0nYWZtaG90JywgaW50ZXJwb2xhdGlvbj0nbm9uZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwbHQuCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10248,19 +10248,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgICMgaGVhdG1hcHMgPSBbaGVhdG1hcCBmb3IgaGVhdG1hcCwgXywgXyBpbiBoZWF0bWFwc19hbmRfcmFuZ2VzXQogICAgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgY29tYmluZWQgPSBucC5jX1toZWF0bWFwc10K</text>
+        <text encoding="base64">dGFyZ2V0X3Bvc2VzID0gbnAubGluc3BhY2UoLTEsIDEsIG51bT0zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF4LnNldAo=</text>
+        <text encoding="base64">dGl0bGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+        <text encoding="base64">Zm9yIHRhcmdldF9wb3MgaW4gbnAubGluc3BhY2UoLTEsIDEsIG51bT0zKToK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzW2ksIGpdID0gZXZhbF9mdW5jKGxpbnNwYWNlW2ldLCBsaW5zcGFjZVtqXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeGxhCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11702,10 +11702,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHVlcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGYucmVzZXRfZGVmYXVsdF9ncmFwaCgpCnNlc3MgPSB0Zi5JbnRlcmFjdGl2ZVNlc3Npb24oKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
