@@ -1582,12 +1582,12 @@
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" timestamp="1498168985805">
-        <mark key="'" line="34" column="55" />
-        <mark key="[" line="90" column="12" />
-        <mark key="]" line="90" column="13" />
-        <mark key="." line="90" column="13" />
-        <mark key="^" line="90" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" timestamp="1498170286517">
+        <mark key="'" line="294" column="0" />
+        <mark key="[" line="217" column="19" />
+        <mark key="]" line="217" column="20" />
+        <mark key="^" line="217" column="20" />
+        <mark key="." line="217" column="20" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" timestamp="1488567698647">
         <mark key="'" line="67" column="24" />
@@ -2832,8 +2832,8 @@
         <mark key="." line="74" column="13" />
         <mark key="^" line="74" column="13" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" timestamp="1498167359202">
-        <mark key="'" line="215" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" timestamp="1498169692524">
+        <mark key="'" line="214" column="8" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="233" column="34" />
         <mark key="." line="237" column="0" />
@@ -3114,12 +3114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="218" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="209" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="196" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="178" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="216" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="197" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="10" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="211" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
@@ -3214,6 +3208,12 @@
       <jump line="27" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="31" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="34" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="90" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="214" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
+      <jump line="202" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="215" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="212" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3231,7 +3231,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>dev</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10195,25 +10195,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>version =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm4uTGluZWFyKHNlbGYub2JzX2RpbSwgc2VsZi5lbWJlZF9mYzFfc2l6ZSksCiAgICAgICAgICAgIG5uLlRhbmgoKSwKICAgICAgICAgICAgbm4uTGluZWFyKHNlbGYuZW1iZWRfZmMxX3NpemUsIHNlbGYuZW1iZWRfc2l6ZSksCiAgICAgICAgICAgIG5uLlRhbmgoKSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJzID0gQmF0Y2hTcXVhcmUoc2VsZi5lbWJlZF9zaXplLCBzZWxmLmFjdGlvbl9kaW0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHAsCiAgICAgICAgbnAuc3dhcGF4ZXMocCwgMCwgMSksICAjIGltc2hvdyB0aGluZ3MgZmlyc3QgYXhpcyBpcyB5LWF4aXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQICo9IDAKICAgICAgICBQICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICBtYXRyaXhfZW1iZWQgPSBzZWxmLmVtYmVkX2Zvcl9tYXRyaXgoc3RhdGUpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10248,19 +10248,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIG1hdGguY29zKHN0YXRlICsgYWN0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHRvcmNoLmNvcyhzdGF0ZSArIGFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVtYmVkX2Zvcl9tYXRyaXggPSBubi5TZXF1ZW50aWFsKAogICAgICAgICAgICBubi5MaW5lYXIoc2VsZi5vYnNfZGltLCBzZWxmLmVtYmVkX2ZjMV9zaXplKSwKICAgICAgICAgICAgbm4uVGFuaCgpLAogICAgICAgICAgICBubi5MaW5lYXIoc2VsZi5lbWJlZF9mYzFfc2l6ZSwgc2VsZi5lbWJlZF9zaXplKSwKICAgICAgICAgICAgbm4uVGFuaCgpLAogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGaXJzdCBkaW1lbnNpbyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHAsCiAgICAgICAgbnAuc3dhcGF4ZXMocCwgMCwgMSksICAjIGltc2hvdyB0aGluZ3MgZmlyc3QgYXhpcyBpcyB5LWF4aXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11702,19 +11702,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQICo9IDAKICAgICAgICBQICs9IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIG1hdGguY29zKHN0YXRlICsgYWN0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>version =</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>version =</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -11722,9 +11722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forward</entry>
-        <entry>expand</entry>
-        <entry>return</entry>
         <entry>q_function</entry>
         <entry>Float</entry>
         <entry>Linear</entry>
@@ -11741,7 +11738,10 @@
         <entry>hidden_size</entry>
         <entry>action_dmi</entry>
         <entry>action_dim</entry>
+        <entry>x</entry>
         <entry>asdf</entry>
+        <entry>Outer</entry>
+        <entry>version =</entry>
       </history-search>
       <history-cmd>
         <entry>110</entry>
