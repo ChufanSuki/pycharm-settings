@@ -1083,11 +1083,19 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="255" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" timestamp="1498164662490">
-        <mark key="'" line="128" column="4" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" timestamp="1498168740719">
+        <mark key="'" line="156" column="4" />
+        <mark key="[" line="106" column="22" />
+        <mark key="]" line="106" column="22" />
+        <mark key="." line="106" column="22" />
+        <mark key="^" line="117" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/visualization_util.py" timestamp="1498168653887">
+        <mark key="'" line="73" column="11" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="73" column="44" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/sim_policy.py" timestamp="1478225006778">
         <mark key="'" line="1" column="0" />
@@ -1574,12 +1582,12 @@
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" timestamp="1498166447391">
-        <mark key="'" line="200" column="15" />
-        <mark key="[" line="204" column="12" />
-        <mark key="]" line="204" column="20" />
-        <mark key="." line="204" column="20" />
-        <mark key="^" line="204" column="20" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" timestamp="1498168985805">
+        <mark key="'" line="34" column="55" />
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="13" />
+        <mark key="." line="90" column="13" />
+        <mark key="^" line="90" column="12" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/qlearningAgents.py" timestamp="1488567698647">
         <mark key="'" line="67" column="24" />
@@ -2293,7 +2301,6 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/scripts_util.py" timestamp="1498103821157" />
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/data_management/test_subtraj_replay_buffer.py" timestamp="1489000715274">
         <mark key="'" line="170" column="23" />
         <mark key="[" line="171" column="23" />
@@ -2382,6 +2389,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="31" column="18" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/modules.py" timestamp="1498167034569">
+        <mark key="'" line="17" column="29" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/samplers/batch_sampler.py" timestamp="1483743667396">
         <mark key="'" line="14" column="20" />
@@ -2821,10 +2832,10 @@
         <mark key="." line="74" column="13" />
         <mark key="^" line="74" column="13" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" timestamp="1498156730300">
-        <mark key="'" line="244" column="8" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="207" column="57" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" timestamp="1498167359202">
+        <mark key="'" line="215" column="8" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="233" column="34" />
         <mark key="." line="237" column="0" />
         <mark key="^" line="227" column="29" />
       </file>
@@ -3103,34 +3114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/selu.py" />
-      <jump line="128" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="99" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="145" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="139" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/generalized_naf.py" />
-      <jump line="363" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/selu.py" />
-      <jump line="357" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/selu.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/polynomial_nn.py/generalized_naf.py" />
-      <jump line="110" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="96" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="111" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="106" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="1" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="37" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="38" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="18" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="48" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="57" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="124" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="146" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="164" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="183" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="184" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="185" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="189" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="218" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="209" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
@@ -3142,7 +3125,6 @@
       <jump line="211" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="55" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="34" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
-      <jump line="150" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="170" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="113" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="267" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
@@ -3152,7 +3134,6 @@
       <jump line="151" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="95" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
       <jump line="153" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="2" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="1" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="225" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
@@ -3172,7 +3153,6 @@
       <jump line="29" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="167" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="244" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
-      <jump line="25" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="35" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="17" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="219" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
@@ -3191,18 +3171,49 @@
       <jump line="217" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="154" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="164" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="187" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="190" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="210" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="300" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
-      <jump line="195" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="128" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
       <jump line="194" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="165" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="181" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="184" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
       <jump line="32" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
+      <jump line="150" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/modules.py" />
+      <jump line="16" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/modules.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="62" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="78" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="28" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="45" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="228" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
+      <jump line="233" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
+      <jump line="215" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="187" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="308" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="301" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="293" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="284" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="300" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="285" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/visualization_util.py" />
+      <jump line="73" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/visualization_util.py" />
+      <jump line="21" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="23" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="25" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="27" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="31" column="57" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
+      <jump line="34" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/polynomial_nn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3220,7 +3231,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SelfOuterProductLinear</text>
+        <text>state</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10184,25 +10195,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SelfOuterProductLinear</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
-        <text>Linear</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VsZk91dGVyUHJvZHVjdExpbmVhcihzZWxmLmZjMl9zaXplLCAxKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm4uTGluZWFyKHNlbGYub2JzX2RpbSwgc2VsZi5lbWJlZF9mYzFfc2l6ZSksCiAgICAgICAgICAgIG5uLlRhbmgoKSwKICAgICAgICAgICAgbm4uTGluZWFyKHNlbGYuZW1iZWRfZmMxX3NpemUsIHNlbGYuZW1iZWRfc2l6ZSksCiAgICAgICAgICAgIG5uLlRhbmgoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHAsCiAgICAgICAgbnAuc3dhcGF4ZXMocCwgMCwgMSksICAjIGltc2hvdyB0aGluZ3MgZmlyc3QgYXhpcyBpcyB5LWF4aXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfcHJvZHVjdF9mbGF0ID0gb3V0ZXJfcHJvZHVjdChpbjEsIGluMikKICAgICAgICByZXR1cm4gc2VsZi5mYyhvdXRfcHJvZHVjdF9mbGF0KQo=</text>
+        <text encoding="base64">ICAgICAgICBQICo9IDAKICAgICAgICBQICs9IDEK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10236,20 +10247,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">MSwgaW4yKToKICAgICAgICBvdXRfcHJvZHVjdF9mbGF0ID0gb3V0ZXJfcHJvZHVjdChpbjEsIGluMikKICAgICAgICByZXR1cm4gc2VsZi5mYyhvdXRfcHJvZHVjdF9mbGF0KQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgcmV0dXJuIG1hdGguY29zKHN0YXRlICsgYWN0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjID0gbm4uTGluZWFyKAogICAgICAgICAgICAoaW5fZmVhdHVyZXMgKyAxKSAqIChpbl9mZWF0dXJlczIgKyAxKSwKICAgICAgICAgICAgb3V0X2ZlYXR1cmVzLAogICAgICAgICAgICBiaWFzPWJpYXMsCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHRvcmNoLmNvcyhzdGF0ZSArIGFjdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGaXJzdCBkaW1lbnNpbyAK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9ic19kaW0gPSBvYnNfZGltCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11691,19 +11702,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9faW5pdF9fKHNlbGYsIG9ic19kaW0sIGFjdGlvbl9kaW0pOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHN0YXRlICogYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Linear</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>Linear</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -11711,29 +11722,28 @@
     </search>
     <history>
       <history-search>
-        <entry>state_bounds</entry>
-        <entry>logger</entry>
-        <entry>setup</entry>
-        <entry>timestamp</entry>
-        <entry>craete</entry>
-        <entry>30</entry>
-        <entry>report</entry>
-        <entry>Path</entry>
-        <entry>num_im</entry>
-        <entry>create_exp_name</entry>
-        <entry>line_logg</entry>
-        <entry>FloatTensor</entry>
-        <entry>mu</entry>
-        <entry>obs_Dim</entry>
         <entry>forward</entry>
         <entry>expand</entry>
         <entry>return</entry>
         <entry>q_function</entry>
         <entry>Float</entry>
         <entry>Linear</entry>
+        <entry>nn</entry>
+        <entry>Polynomial</entry>
+        <entry>linear</entry>
+        <entry>self.mu</entry>
+        <entry>State</entry>
+        <entry>make</entry>
+        <entry>visualize</entry>
+        <entry>vector</entry>
+        <entry>bs</entry>
+        <entry>swap</entry>
+        <entry>hidden_size</entry>
+        <entry>action_dmi</entry>
+        <entry>action_dim</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
-        <entry>78</entry>
         <entry>110</entry>
         <entry>235</entry>
         <entry>58</entry>
@@ -11752,6 +11762,7 @@
         <entry>220</entry>
         <entry>215</entry>
         <entry>177'</entry>
+        <entry>35</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
