@@ -371,12 +371,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1498254198434">
-        <mark key="'" line="139" column="12" />
-        <mark key="[" line="95" column="43" />
-        <mark key="]" line="95" column="45" />
-        <mark key="." line="95" column="45" />
-        <mark key="^" line="95" column="45" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1498262223537">
+        <mark key="'" line="95" column="28" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+        <mark key="^" line="95" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" timestamp="1498251736830">
         <mark key="'" line="71" column="17" />
@@ -638,6 +638,15 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg.py" timestamp="1496985793030">
         <mark key="'" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" timestamp="1498262591235">
+        <mark key="'" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" timestamp="1498263072052">
+        <mark key="'" line="63" column="18" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll/base.py" timestamp="1494039053204">
         <mark key="'" line="203" column="9" />
@@ -2060,11 +2069,11 @@
         <mark key="." line="1" column="65" />
         <mark key="^" line="1" column="65" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/ddpg_policy_help_critic.py" timestamp="1498253927003">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/ddpg_policy_help_critic.py" timestamp="1498262093694">
         <mark key="'" line="44" column="18" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="41" />
-        <mark key="." line="73" column="20" />
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="19" />
+        <mark key="." line="61" column="19" />
         <mark key="^" line="73" column="20" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/misc/instrument.py" timestamp="1478408958970">
@@ -3167,12 +3176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
-      <jump line="202" column="32" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
-      <jump line="215" column="25" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
-      <jump line="219" column="14" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
-      <jump line="28" column="15" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/example/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="47" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="50" column="43" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
@@ -3267,6 +3270,12 @@
       <jump line="318" column="20" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="52" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/try_doodad.py" />
       <jump line="59" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/try_doodad.py" />
+      <jump line="62" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="82" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="95" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="62" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
+      <jump line="62" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3284,7 +3293,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10248,25 +10257,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>mujoco</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjICAgICBkb2NrZXJfY21kID0gc2VsZi5nZXRfZG9ja2VyX2NtZChtYWluX2NtZCwgdXNlX3R0eT1GYWxzZSwgZXh0cmFfYXJncz1tbnRfYXJncywgcHl0aG9ucGF0aD1weV9wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW91bnRzID0gWwpdCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10301,19 +10310,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9UkVQT19ESVIsIHB5dGhvbnBhdGg9VHJ1ZSksCiAgICBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9pbnN0YWxsL3JsbGFiJywgcHl0aG9ucGF0aD1UcnVlKSwgICMgcmxsYWIKICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9J34vaW5zdGFsbC9neW0vLm11am9jbycsIG1vdW50X3BvaW50PScvcm9vdC8ubXVqb2NvJyksICAjIG11am9jbwogICAgIyBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9jb2RlL2Rvb2RhZCcsIHB5dGhvbnBhdGg9VHJ1ZSksICAjIHJsbGFiCg==</text>
+        <text encoding="base64">bW91bnRzID0gWwpdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vdW50Lk1vdW50TG9jYWwobG9jYWxfZGlyPSd+L2RhdGEvdml0Y2h5cicsIG1vdW50X3BvaW50PU9VVFBVVF9ESVIsCiAgICAgICAgICAgICAgICAgICAgIHJlYWRfb25seT1GYWxzZSksICAjIG11am9jbwogICAgbW91bnQuTW91bnRTMygKICAgICAgICBzM19wYXRoPSJ0ZXN0IiwKICAgICAgICBzM19idWNrZXQ9IjItMTItMjAxNy5yYWlscmwudml0Y2h5ci5yYWlsLmJ1Y2tldCIsCiAgICAgICAgbW91bnRfcG9pbnQ9T1VUUFVUX0RJUiwKICAgICAgICBvdXRwdXQ9VHJ1ZSwKICAgICkK</text>
+        <text encoding="base64">ICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9UkVQT19ESVIsIHB5dGhvbnBhdGg9VHJ1ZSksCiAgICBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9pbnN0YWxsL3JsbGFiJywgcHl0aG9ucGF0aD1UcnVlKSwgICMgcmxsYWIKICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9J34vaW5zdGFsbC9neW0vLm11am9jbycsIG1vdW50X3BvaW50PScvcm9vdC8ubXVqb2NvJyksICAjIG11am9jbwogICAgIyBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9jb2RlL2Rvb2RhZCcsIHB5dGhvbnBhdGg9VHJ1ZSksICAjIHJsbGFiCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVGhlc2UgdHdvIGFyZSB1c2VkIGZvciBvdXRwdXRzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11755,19 +11764,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5wdHVzX21vdW50cwo=</text>
+        <text encoding="base64">ICAgIG1vdW50Lk1vdW50TG9jYWwobG9jYWxfZGlyPSd+L2RhdGEvdml0Y2h5cicsIG1vdW50X3BvaW50PU9VVFBVVF9ESVIsCiAgICAgICAgICAgICAgICAgICAgIHJlYWRfb25seT1GYWxzZSksICAjIG11am9jbwogICAgbW91bnQuTW91bnRTMygKICAgICAgICBzM19wYXRoPSJ0ZXN0IiwKICAgICAgICBzM19idWNrZXQ9IjItMTItMjAxNy5yYWlscmwudml0Y2h5ci5yYWlsLmJ1Y2tldCIsCiAgICAgICAgbW91bnRfcG9pbnQ9T1VUUFVUX0RJUiwKICAgICAgICBvdXRwdXQ9VHJ1ZSwKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb3VudF9wb2ludD1PVVRQVVRfRElSLAo=</text>
+        <text encoding="base64">ICAgICMgVGhlc2UgdHdvIGFyZSB1c2VkIGZvciBvdXRwdXRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>mujoco</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>mujoco</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -11775,10 +11784,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run_experiment_lite</entry>
-        <entry>launch_ec2</entry>
-        <entry>polling</entry>
-        <entry>exp_name</entry>
         <entry>relu</entry>
         <entry>tanh</entry>
         <entry>soft</entry>
@@ -11795,6 +11800,10 @@
         <entry>checkpoint</entry>
         <entry>mounts</entry>
         <entry>asdf</entry>
+        <entry>ec</entry>
+        <entry>gym</entry>
+        <entry>hym</entry>
+        <entry>mujoco</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
