@@ -1210,11 +1210,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1498497209246">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="61" column="33" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1498503126346">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/README.md" timestamp="1486882252796">
         <mark key="'" line="65" column="2" />
@@ -3154,8 +3155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
-      <jump line="50" column="43" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="56" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="196" column="91" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="10" column="34" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
@@ -3254,6 +3253,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
       <jump line="62" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
       <jump line="41" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
+      <jump line="14" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -10238,7 +10239,7 @@
         <text>self.obs_fc(h))</text>
       </register>
       <register name="/" type="4">
-        <text>mujoco</text>
+        <text>Varia</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGlucHV0KToKICAgICAgICByZXR1cm4gRi5jb252MWQoaW5wdXQsIHNlbGYud2VpZ2h0LCBzZWxmLmJpYXMsIHNlbGYuc3RyaWRlLAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBhZGRpbmcsIHNlbGYuZGlsYXRpb24sIHNlbGYuZ3JvdXBzKQo=</text>
@@ -11752,9 +11753,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mujoco</last-search>
+      <last-search>Varia</last-search>
       <last-offset />
-      <last-pattern>mujoco</last-pattern>
+      <last-pattern>Varia</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -11762,7 +11763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>relu</entry>
         <entry>tanh</entry>
         <entry>soft</entry>
         <entry>ip</entry>
@@ -11782,6 +11782,7 @@
         <entry>gym</entry>
         <entry>hym</entry>
         <entry>mujoco</entry>
+        <entry>Varia</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
