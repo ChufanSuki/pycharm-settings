@@ -215,11 +215,6 @@
         <mark key="." line="86" column="40" />
         <mark key="^" line="79" column="19" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/linear.py" timestamp="1498165381502">
-        <mark key="'" line="53" column="30" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="60" />
-      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/gym/monitoring/__init__.py" timestamp="1486884717812">
         <mark key="'" line="2" column="19" />
         <mark key="[" line="0" column="55" />
@@ -1053,11 +1048,6 @@
       <file name="$USER_HOME$/git/rllab-rail/tests/test_algos.py" timestamp="1493057929547">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/carlos_plotting/maze_evaluate.py" timestamp="1498101114631">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="47" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/example_local_docker_ddpg_cartpole.py" timestamp="1484612968607">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="17" />
@@ -1220,12 +1210,11 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1498253640176">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="14" />
-        <mark key="." line="63" column="17" />
-        <mark key="^" line="61" column="17" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1498497209246">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="61" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/README.md" timestamp="1486882252796">
         <mark key="'" line="65" column="2" />
@@ -2040,11 +2029,6 @@
       <file name="$USER_HOME$/git/tensorflow_with_latest_papers/rnn_cell_mulint_layernorm_modern.py" timestamp="1494189494525">
         <mark key="'" line="177" column="22" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" timestamp="1498252896139">
-        <mark key="'" line="101" column="18" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="114" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_tf_util.py" timestamp="1485207779181">
         <mark key="'" line="38" column="36" />
         <mark key="[" line="181" column="41" />
@@ -2660,6 +2644,10 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/conv.py" timestamp="1498497151273">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="142" column="64" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_onehot_sampler.py" timestamp="1487136090523">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -2869,11 +2857,6 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/state_action_network.py" timestamp="1494979832659">
         <mark key="'" line="51" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/carlos_plotting/maze_oracle_algo.py" timestamp="1498101128120">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="34" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/policies/deterministic_mlp_policy.py" timestamp="1486666375710">
         <mark key="'" line="68" column="8" />
       </file>
@@ -3000,11 +2983,6 @@
         <mark key="]" line="51" column="58" />
         <mark key="^" line="69" column="57" />
         <mark key="." line="69" column="57" />
-      </file>
-      <file name="$USER_HOME$/Downloads/carlos_plotting/visualization.py" timestamp="1498100306996">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="77" column="13" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/tests/test_ddpg.py" timestamp="1479790464827">
         <mark key="'" line="42" column="12" />
@@ -3176,7 +3154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="47" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="50" column="43" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
       <jump line="56" column="4" filename="$USER_HOME$/git/rllab-rail/contrib/rllab_hyperopt/core.py" />
@@ -3276,6 +3253,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
       <jump line="62" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/Dockerfile" />
       <jump line="62" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
+      <jump line="41" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3293,7 +3271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBubi5Db252MWQK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10257,25 +10235,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>self.obs_fc(h))</text>
       </register>
       <register name="/" type="4">
         <text>mujoco</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBkb2NrZXJfY21kID0gc2VsZi5nZXRfZG9ja2VyX2NtZChtYWluX2NtZCwgdXNlX3R0eT1GYWxzZSwgZXh0cmFfYXJncz1tbnRfYXJncywgcHl0aG9ucGF0aD1weV9wYXRoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGlucHV0KToKICAgICAgICByZXR1cm4gRi5jb252MWQoaW5wdXQsIHNlbGYud2VpZ2h0LCBzZWxmLmJpYXMsIHNlbGYuc3RyaWRlLAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBhZGRpbmcsIHNlbGYuZGlsYXRpb24sIHNlbGYuZ3JvdXBzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBubi5Db252MWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
+        <text encoding="base64">ZGVmIGNvbnYxZCh3ZWlnaHQsIGJpYXMsIGlucHV0LCBzdHJpZGU9MSk6CiAgICByZXR1cm4gRi5jb252MWQoaW5wdXQsIHdlaWdodCwgYmlhcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnBhZGRpbmcsIHNlbGYuZGlsYXRpb24sIHNlbGYuZ3JvdXBzKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10310,19 +10288,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW91bnRzID0gWwpdCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAtIHBvcnRhbG9ja2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9UkVQT19ESVIsIHB5dGhvbnBhdGg9VHJ1ZSksCiAgICBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9pbnN0YWxsL3JsbGFiJywgcHl0aG9ucGF0aD1UcnVlKSwgICMgcmxsYWIKICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9J34vaW5zdGFsbC9neW0vLm11am9jbycsIG1vdW50X3BvaW50PScvcm9vdC8ubXVqb2NvJyksICAjIG11am9jbwogICAgIyBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9jb2RlL2Rvb2RhZCcsIHB5dGhvbnBhdGg9VHJ1ZSksICAjIHJsbGFiCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bW91bnRzID0gWwpdCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11764,13 +11742,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vdW50Lk1vdW50TG9jYWwobG9jYWxfZGlyPSd+L2RhdGEvdml0Y2h5cicsIG1vdW50X3BvaW50PU9VVFBVVF9ESVIsCiAgICAgICAgICAgICAgICAgICAgIHJlYWRfb25seT1GYWxzZSksICAjIG11am9jbwogICAgbW91bnQuTW91bnRTMygKICAgICAgICBzM19wYXRoPSJ0ZXN0IiwKICAgICAgICBzM19idWNrZXQ9IjItMTItMjAxNy5yYWlscmwudml0Y2h5ci5yYWlsLmJ1Y2tldCIsCiAgICAgICAgbW91bnRfcG9pbnQ9T1VUUFVUX0RJUiwKICAgICAgICBvdXRwdXQ9VHJ1ZSwKICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVGhlc2UgdHdvIGFyZSB1c2VkIGZvciBvdXRwdXRzCg==</text>
+        <text encoding="base64">ICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9UkVQT19ESVIsIHB5dGhvbnBhdGg9VHJ1ZSksCiAgICBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9pbnN0YWxsL3JsbGFiJywgcHl0aG9ucGF0aD1UcnVlKSwgICMgcmxsYWIKICAgICMgbW91bnQuTW91bnRMb2NhbChsb2NhbF9kaXI9J34vaW5zdGFsbC9neW0vLm11am9jbycsIG1vdW50X3BvaW50PScvcm9vdC8ubXVqb2NvJyksICAjIG11am9jbwogICAgIyBtb3VudC5Nb3VudExvY2FsKGxvY2FsX2Rpcj0nfi9jb2RlL2Rvb2RhZCcsIHB5dGhvbnBhdGg9VHJ1ZSksICAjIHJsbGFiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -11824,8 +11802,8 @@
         <entry>319</entry>
         <entry>95</entry>
         <entry>354</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
