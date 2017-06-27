@@ -554,12 +554,12 @@
         <mark key="^" line="20" column="53" />
         <mark key="." line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" timestamp="1498582931779">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" timestamp="1498584613019">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/spaces/onehot.py" timestamp="1486101096931">
         <mark key="'" line="34" column="41" />
@@ -831,6 +831,9 @@
         <mark key="]" line="116" column="27" />
         <mark key="^" line="116" column="27" />
         <mark key="." line="116" column="27" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/fanova-2.0-py3.5.egg!/fanova/__init__.py" timestamp="1498583005018">
+        <mark key="'" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/unbiased_af.py" timestamp="1488775509799">
         <mark key="'" line="96" column="13" />
@@ -3195,11 +3198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="144" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="115" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="26" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/ddpg_test.py" />
-      <jump line="50" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/easy_v_ql.py" />
       <jump line="59" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/easy_v_ql.py" />
       <jump line="121" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/easy_v_ql.py" />
       <jump line="164" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3294,7 +3292,12 @@
       <jump line="38" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
       <jump line="1" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
       <jump line="37" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
-      <jump line="0" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
+      <jump line="0" column="13" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/fanova-2.0-py3.5.egg!/fanova/__init__.py" />
+      <jump line="27" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
+      <jump line="10" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
+      <jump line="31" column="50" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
+      <jump line="0" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3312,7 +3315,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>zeros</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10276,7 +10279,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>zeros</text>
       </register>
       <register name="/" type="4">
         <text>unique</text>
@@ -10285,16 +10288,16 @@
         <text encoding="base64">ICAgIHVuaXF1ZV9rZXlfdG9fdmFsdWVzID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZV9rZXlzID0gWwogICAgICAgIGsgZm9yIGsgaW4gdmFyaWFudF9rZXlfdG9fdmFsdWVzCiAgICAgICAgaWYgbGVuKHZhcmlhbnRfa2V5X3RvX3ZhbHVlc1trXSkgPiAxCiAgICBdCg==</text>
+        <text encoding="base64">ICAgIHJldHVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ampqampqZ2cK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIoKQogICAgXQo=</text>
+        <text encoding="base64">IyBmcm9tIGZhbm92YSBpbXBvcnQgRmFub3ZhCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10329,19 +10332,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZV9rZXlfdG9fdmFsdWVzID0gewogICAgICAgIGs6IHZhcmlhbnRfa2V5X3RvX3ZhbHVlc1trXQogICAgICAgIGZvciBrIGluIHZhcmlhbnRfa2V5X3RvX3ZhbHVlcwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHVuaXF1ZV9rZXlzID0gWwogICAgICAgIGsgZm9yIGsgaW4gdmFyaWFudF9rZXlfdG9fdmFsdWVzCiAgICAgICAgaWYgbGVuKHZhcmlhbnRfa2V5X3RvX3ZhbHVlc1trXSkgPiAxCiAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4odmFyaWFudF9rZXlfdG9fdmFsdWVzW2tdKSA+IDEK</text>
+        <text encoding="base64">ampqampqZ2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHlfbGFiZWwgPSBhcmdzLnlsYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIoKQogICAgXQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0teWxhYmVsIiwgZGVmYXVsdD0nQXZlcmFnZVJldHVybicpCg==</text>
+        <text encoding="base64">ICAgIHVuaXF1ZV9rZXlfdG9fdmFsdWVzID0gewogICAgICAgIGs6IHZhcmlhbnRfa2V5X3RvX3ZhbHVlc1trXQogICAgICAgIGZvciBrIGluIHZhcmlhbnRfa2V5X3RvX3ZhbHVlcwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11783,10 +11786,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGFfYW5kX3ZhcmlhbnQgPSBbXQogICAgdmFyaWFudCA9IHt9CiAgICBmb3IgZGlyX25hbWUgaW4gZGlyX25hbWVzOgogICAgICAgIGRhdGFfZmlsZV9uYW1lID0gam9pbihhcmdzLmV4cGRpciwgZGlyX25hbWUsICdwcm9ncmVzcy5jc3YnKQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRhX2ZpbGVfbmFtZSk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcHJpbnQoIlJlYWRpbmcge30iLmZvcm1hdChkYXRhX2ZpbGVfbmFtZSkpCiAgICAgICAgdmFyaWFudF9maWxlX25hbWUgPSBqb2luKGFyZ3MuZXhwZGlyLCBkaXJfbmFtZSwgJ3ZhcmlhbnQuanNvbicpCiAgICAgICAgd2l0aCBvcGVuKHZhcmlhbnRfZmlsZV9uYW1lKSBhcyB2YXJpYW50X2ZpbGU6CiAgICAgICAgICAgIHZhcmlhbnQgPSBqc29uLmxvYWQodmFyaWFudF9maWxlKQogICAgICAgIHZhcmlhbnQgPSBuZXN0ZWRfZGljdF90b19kb3RfbWFwX2RpY3QodmFyaWFudCkKICAgICAgICBkYXRhID0gbnAuZ2VuZnJvbXR4dChkYXRhX2ZpbGVfbmFtZSwgZGVsaW1pdGVyPScsJywgZHR5cGU9Tm9uZSwgbmFtZXM9VHJ1ZSkKICAgICAgICBkYXRhX2FuZF92YXJpYW50LmFwcGVuZCgoZGF0YSwgdmFyaWFudCkpCgogICAgaWYgeV9sYWJlbCBub3QgaW4gZGF0YS5kdHlwZS5uYW1lczoKICAgICAgICBwcmludCgiSW52YWxpZCB5bGFiZWwuIFZhbGlkIHlsYWJlbHM6IikKICAgICAgICBmb3IgbmFtZSBpbiBzb3J0ZWQoZGF0YS5kdHlwZS5uYW1lcyk6CiAgICAgICAgICAgIHByaW50KG5hbWUpCiAgICAgICAgcmV0dXJuCgogICAgIiIiCiAgICBHZXQgdGhlIHVuaXF1ZSBwYXJhbWV0ZXJzCiAgICAiIiIKICAgIF8sIGFsbF92YXJpYW50cyA9IHppcCgqZGF0YV9hbmRfdmFyaWFudCkKICAgIHVuaXF1ZV9wYXJhbV90b192YWx1ZXMgPSBnZXRfdW5pcXVlX3BhcmFtX3RvX3ZhbHVlcyhhbGxfdmFyaWFudHMpCiAgICB1bmlxdWVfbnVtZXJpY19wYXJhbV90b192YWx1ZXMgPSB7CiAgICAgICAgazogdW5pcXVlX3BhcmFtX3RvX3ZhbHVlc1trXQogICAgICAgIGZvciBrIGluIHVuaXF1ZV9wYXJhbV90b192YWx1ZXMKICAgICAgICBpZiBpc19udW1lcmljKGxpc3QodW5pcXVlX3BhcmFtX3RvX3ZhbHVlc1trXSlbMF0pCiAgICB9CiAgICAjIFRPRE8odml0Y2h5cik6IFVzZSBiYXIgcGxvdCBpZiB4bGFiZWwgaXMgbm90IG51bWVyaWMsIHJhdGhlciB0aGFuIGp1c3QKICAgICMgaWdub3JpbmcgaXQKICAgIHZhbHVlX3RvX3VuaXF1ZV9wYXJhbXMgPSBkZWZhdWx0ZGljdChkaWN0KQoKICAgICIiIgogICAgUGxvdCByZXN1bHRzCiAgICAiIiIKICAgIG51bV9wYXJhbXMgPSBsZW4odW5pcXVlX251bWVyaWNfcGFyYW1fdG9fdmFsdWVzKQogICAgZmlnLCBheGVzID0gcGx0LnN1YnBsb3RzKG51bV9wYXJhbXMpCiAgICBpZiBudW1fcGFyYW1zID09IDE6CiAgICAgICAgYXhlcyA9IFtheGVzXQogICAgZm9yIGksIHhfbGFiZWwgaW4gZW51bWVyYXRlKHVuaXF1ZV9udW1lcmljX3BhcmFtX3RvX3ZhbHVlcyk6CiAgICAgICAgeF92YWx1ZV90b195X3ZhbHVlcyA9IGRlZmF1bHRkaWN0KGxpc3QpCiAgICAgICAgZm9yIGRhdGEsIHZhcmlhbnQgaW4gZGF0YV9hbmRfdmFyaWFudDoKICAgICAgICAgICAgaWYgbGVuKGRhdGFbeV9sYWJlbF0pID4gMDoKICAgICAgICAgICAgICAgIHByaW50KCJXQVJOSU5HLiBkYXRhIGlzIG1pc3NpbmcgdGhpcyBsYWJlbDoge30iLmZvcm1hdCh5X2xhYmVsKSkKICAgICAgICAgICAgICAgIHhfdmFsdWVfdG9feV92YWx1ZXNbdmFyaWFudFt4X2xhYmVsXV0uYXBwZW5kKGRhdGFbeV9sYWJlbF1bLTFdKQogICAgICAgIHlfbWVhbnMgPSBbXQogICAgICAgIHlfc3RkcyA9IFtdCiAgICAgICAgeF92YWx1ZXMgPSBbXQogICAgICAgIGZvciB4X3ZhbHVlLCB5X3ZhbHVlcyBpbiB4X3ZhbHVlX3RvX3lfdmFsdWVzLml0ZW1zKCk6CiAgICAgICAgICAgIHhfdmFsdWVzLmFwcGVuZCh4X3ZhbHVlKQogICAgICAgICAgICB5X21lYW5zLmFwcGVuZChucC5tZWFuKHlfdmFsdWVzKSkKICAgICAgICAgICAgeV9zdGRzLmFwcGVuZChucC5zdGQoeV92YWx1ZXMpKQogICAgICAgICAgICB2YWx1ZV90b191bmlxdWVfcGFyYW1zW25wLm1lYW4oeV92YWx1ZXMpXVt4X2xhYmVsXSA9IHhfdmFsdWUKCiAgICAgICAgeF92YWx1ZXMsIHlfbWVhbnMsIHlfc3RkcyA9IHNvcnRfYnlfZmlyc3QoeF92YWx1ZXMsIHlfbWVhbnMsIHlfc3RkcykKCiAgICAgICAgYXhlc1tpXS5lcnJvcmJhcih4X3ZhbHVlcywgeV9tZWFucywgeWVycj15X3N0ZHMpCiAgICAgICAgYXhlc1tpXS5zZXRfeWxhYmVsKHlfbGFiZWwpCiAgICAgICAgYXhlc1tpXS5zZXRfeGxhYmVsKHhfbGFiZWwpCgogICAgIiIiCiAgICBEaXNwbGF5IGluZm9ybWF0aW9uIGFib3V0IHRoZSBiZXN0IHBhcmFtZXRlcnMKICAgICIiIgogICAgdmFsdWVfYW5kX3VuaXF1ZV9wYXJhbXMgPSBzb3J0ZWQodmFsdWVfdG9fdW5pcXVlX3BhcmFtcy5pdGVtcygpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSB2X2FuZF9wYXJhbXM6IC12X2FuZF9wYXJhbXNbMF0pCiAgICB1bmlxdWVfcGFyYW1zID0gbGlzdCh1bmlxdWVfbnVtZXJpY19wYXJhbV90b192YWx1ZXMua2V5cygpKQogICAgZGVmYXVsdF9wYXJhbXMgPSB7CiAgICAgICAgazogdmFyaWFudFtrXQogICAgICAgIGZvciBrIGluIHZhcmlhbnQKICAgICAgICBpZiBrIG5vdCBpbiB1bmlxdWVfcGFyYW1zCiAgICB9CiAgICBwcmludCgiRGVmYXVsdCBQYXJhbSIsIGRlZmF1bHRfcGFyYW1zKQogICAgcHJpbnQoIlRvcCAzIHBhcmFtcyIpCiAgICBmb3IgdmFsdWUsIHBhcmFtcyBpbiB2YWx1ZV9hbmRfdW5pcXVlX3BhcmFtc1s6M106CiAgICAgICAgZm9yIGssIHYgaW4gcGFyYW1zLml0ZW1zKCk6CiAgICAgICAgICAgIHByaW50KCJcdHt9OiB7fSIuZm9ybWF0KGssIHYpKQogICAgICAgIHByaW50KCJWYWx1ZSIsIHZhbHVlKQoKICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4odmFyaWFudF9rZXlfdG9fdmFsdWVzW2tdKSA+IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhcmlhbnQgPSB7fQo=</text>
+        <text encoding="base64">ICAgIHlfbGFiZWwgPSBhcmdzLnlsYWJlbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -11799,7 +11802,7 @@
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
