@@ -245,6 +245,13 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/conjugate_gradient.py" timestamp="1498687038142">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/core/test_tf_util.py" timestamp="1486668017423">
         <mark key="'" line="0" column="0" />
       </file>
@@ -596,8 +603,8 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" timestamp="1498618743526">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" timestamp="1498686223537">
+        <mark key="'" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_nn_policy.py" timestamp="1478909327364">
         <mark key="'" line="59" column="13" />
@@ -3260,11 +3267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="13" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/fanova-2.0-py3.5.egg!/fanova/visualizer.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/fanova-2.0-py3.5.egg!/fanova/visualizer.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/analyze_hyperparameter_sweep.py" />
-      <jump line="46" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/analyze_hyperparameter_sweep.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
       <jump line="106" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
       <jump line="57" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/critic_gradients_watermaze_1d.py" />
@@ -3360,6 +3362,11 @@
       <jump line="73" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
       <jump line="1315" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/numpy/lib/npyio.py" />
       <jump line="7" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
+      <jump line="7" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/conjugate_gradient.py" />
+      <jump line="10" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/conjugate_gradient.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/conjugate_gradient.py" />
+      <jump line="156" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
+      <jump line="56" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/memory_bptt/analyze_critic_watermaze_1d.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3377,7 +3384,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10341,25 +10348,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>param_names</text>
+        <text>subplot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWF0aC5lICoqIChzZWxmLl9saW5lYXJfZmxvYXRfcGFyYW0uZ2VuZXJhdGUoKSkgKyBzZWxmLm9mZnNldAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGl0ZXJhdGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lcywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBwb2xpY3lfbGVhcm5pbj0wLjksCj4+Pj4+Pj4gZWFzeS12LWFyY2hpdGVjdHVyZS02LTI2Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICB4ICs9IGFscGhhICogcAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10394,19 +10401,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoID0gdG9yY2guY2F0KChvYnMsIGFjdGlvbiksIGRpbT0xKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5PVEU6IHRoZSBub3JtYWwK</text>
+        <text encoding="base64">ICAgIG4gPSBBLnNoYXBlWzBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ0Zsb2F0T2Zmc2V0UGFyYW0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbMV0sCiAgICAgICAgWzJdLAogICAgXSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11848,19 +11855,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTG9nRmxvYXRPZmZzZXRQYXJhbShSYW5kb21IeXBlcnBhcmFtZXRlcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbmFtZSwgbWluX3ZhbHVlLCBtYXhfdmFsdWUsIG9mZnNldCk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhuYW1lKQogICAgICAgIHNlbGYuX2xpbmVhcl9mbG9hdF9wYXJhbSA9IExpbmVhckZsb2F0UGFyYW0oImxvZ18iICsgbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hdGgubG9nKG1pbl92YWx1ZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXRoLmxvZyhtYXhfdmFsdWUpKQoK</text>
+        <text encoding="base64">a2tra2tqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>param_names</last-search>
+      <last-search>subplot</last-search>
       <last-offset />
-      <last-pattern>param_names</last-pattern>
+      <last-pattern>subplot</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -11868,7 +11875,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb1w+</entry>
         <entry>port</entry>
         <entry>args.port</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
@@ -11888,6 +11894,7 @@
         <entry>HEAD</entry>
         <entry>names</entry>
         <entry>param_names</entry>
+        <entry>subplot</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
