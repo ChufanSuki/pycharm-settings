@@ -554,12 +554,12 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1499452316496">
-        <mark key="'" line="284" column="12" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="39" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="130" column="23" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1499455921438">
+        <mark key="'" line="286" column="12" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="180" column="7" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/numpy/lib/npyio.py" timestamp="1498627647242">
         <mark key="'" line="1318" column="15" />
@@ -997,12 +997,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" timestamp="1498083531399">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="44" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" timestamp="1499455483502">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/tmp.py" timestamp="1484007147336">
         <mark key="'" line="26" column="13" />
@@ -1046,12 +1046,11 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1499452319780">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="95" column="33" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1499455823648">
+        <mark key="[" line="225" column="24" />
+        <mark key="]" line="225" column="24" />
+        <mark key="^" line="223" column="23" />
+        <mark key="." line="225" column="24" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/README.md" timestamp="1486882252796">
         <mark key="'" line="65" column="2" />
@@ -2745,8 +2744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/split_buffer.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" />
       <jump line="43" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/split_buffer.py" />
       <jump line="21" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/split_buffer.py" />
       <jump line="177" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -2845,6 +2842,8 @@
       <jump line="250" column="7" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/init.py" />
       <jump line="128" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
       <jump line="284" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
+      <jump line="19" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
+      <jump line="20" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2861,8 +2860,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuX2luaXQ9cHR1LmZhbmluX2luaXQsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -9829,25 +9828,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>sefanin_init</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>hidden_init</text>
+        <text>use_gpu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuX2luaXQ9cHR1LmZhbmluX2luaXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hY3Rpb25fZGltICsgc2VsZi5vYnNfZGltLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5mYzEud2VpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX3dyaXRlcyA9IFZhcmlhYmxlKAogICAgICAgICAgICBwdHUuRmxvYXRUZW5zb3IoYmF0Y2hfc2l6ZSwgc3Vic2VxdWVuY2VfbGVuZ3RoLCBzZWxmLm1lbW9yeV9kaW0pCiAgICAgICAgKQogICAgICAgIHN1YnRyYWpfYWN0aW9ucyA9IFZhcmlhYmxlKAogICAgICAgICAgICBwdHUuRmxvYXRUZW5zb3IoYmF0Y2hfc2l6ZSwgc3Vic2VxdWVuY2VfbGVuZ3RoLCBzZWxmLmFjdGlvbl9kaW0pCiAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5mYzIud2VpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0cmFqX2FjdGlvbnMgPSBWYXJpYWJsZSgKICAgICAgICAgICAgcHR1LkZsb2F0VGVuc29yKGJhdGNoX3NpemUsIHN1YnNlcXVlbmNlX2xlbmd0aCwgc2VsZi5hY3Rpb25fZGltKQogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5mYzIud2VpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5oaWRkZW5faW5pdCA9IGhpZGRlbl9pbml0Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -9882,19 +9881,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5mYzEud2VpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1lbW9yeV9kaW0gPSBtZW1vcnlfZGltIC8vIDMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5vYnNfZmMud2VpZ2h0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMi53ZWlnaHQuZGF0YSA9IHB0dS5mYW5pbl9pbml0KHNlbGYuZmMyLndlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5lbWJlZGRlZF9mYy53ZWlnaHQpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMS53ZWlnaHQuZGF0YSA9IHB0dS5mYW5pbl9pbml0KHNlbGYuZmMxLndlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5lbWJlZGRlZF9mYy53ZWlnaHQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11336,19 +11335,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBGbG9hdFRlbnNvcihzaXplKS51bmlmb3JtXygtdiwgdikK</text>
+        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5vYnNfZmMud2VpZ2h0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5sYXN0X2ZjLndlaWdodCkKICAgICAgICAjIHNlbGYubGFzdF9mYy5iaWFzLmRhdGEuZmlsbF8oMCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ19ub3JtYWwoc2VsZi5mYzEud2VpZ2h0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hidden_init</last-search>
+      <last-search>use_gpu</last-search>
       <last-offset />
-      <last-pattern>hidden_init</last-pattern>
+      <last-pattern>use_gpu</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -11356,7 +11355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validation</entry>
         <entry>weight_decay</entry>
         <entry>random</entry>
         <entry>ec2</entry>
@@ -11372,10 +11370,11 @@
         <entry>mode</entry>
         <entry>uniform</entry>
         <entry>fanin</entry>
-        <entry>use_gpu</entry>
         <entry>uniform_</entry>
         <entry>isinstance</entry>
         <entry>hidden_init</entry>
+        <entry>use-gpu</entry>
+        <entry>use_gpu</entry>
       </history-search>
       <history-cmd>
         <entry>1203</entry>
