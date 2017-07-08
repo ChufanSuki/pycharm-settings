@@ -697,12 +697,12 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll/base.py" timestamp="1498578378794">
         <mark key="'" line="203" column="8" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1499470613094">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1499470646587">
         <mark key="'" line="367" column="41" />
-        <mark key="[" line="367" column="21" />
-        <mark key="]" line="367" column="24" />
-        <mark key="^" line="367" column="24" />
-        <mark key="." line="367" column="24" />
+        <mark key="[" line="383" column="64" />
+        <mark key="]" line="383" column="75" />
+        <mark key="^" line="383" column="75" />
+        <mark key="." line="383" column="75" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/state_distance.py" timestamp="1499464614022">
         <mark key="[" line="33" column="0" />
@@ -3499,7 +3499,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self.get_new_state(1)</text>
+        <text>subsequence</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11033,7 +11033,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>self.get_new_state(1)</text>
+        <text>subsequence</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
@@ -11042,16 +11042,16 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmh4ID0gTm9uZQogICAgICAgIHNlbGYuY3ggPSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuaHggPSBOb25lCiAgICAgICAgIyBzZWxmLmN4ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RhdGU6IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuaHggPSBOb25lCiAgICAgICAgIyBzZWxmLmN4ID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmh4ID0gVmFyaWFibGUoCiAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCAxLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICkKICAgICAgICBzZWxmLmN4ID0gVmFyaWFibGUoCiAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCAxLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICkKICAgICAgICBzZWxmLmh4LmRhdGEuZmlsbF8oMCkKICAgICAgICBzZWxmLmN4LmRhdGEuZmlsbF8oMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11086,19 +11086,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ggPSBWYXJpYWJsZSgKICAgICAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCBiYXRjaF9zaXplLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICAgICApCiAgICAgICAgICAgIGN4LmRhdGEuZmlsbF8oMCkKICAgICAgICAgICAgaHggPSBWYXJpYWJsZSgKICAgICAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCBiYXRjaF9zaXplLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICAgICApCiAgICAgICAgICAgIGh4LmRhdGEuZmlsbF8oMCkKICAgICAgICAgICAgc3RhdGUgPSAoaHgsIGN4KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmh4ID0gVmFyaWFibGUoCiAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCAxLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICkKICAgICAgICBzZWxmLmN4ID0gVmFyaWFibGUoCiAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCAxLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICkKICAgICAgICBzZWxmLmh4LmRhdGEuZmlsbF8oMCkKICAgICAgICBzZWxmLmN4LmRhdGEuZmlsbF8oMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN4ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ggPSBWYXJpYWJsZSgKICAgICAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCBiYXRjaF9zaXplLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICAgICApCiAgICAgICAgICAgIGN4LmRhdGEuZmlsbF8oMCkKICAgICAgICAgICAgaHggPSBWYXJpYWJsZSgKICAgICAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigxLCBiYXRjaF9zaXplLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgICAgICApCiAgICAgICAgICAgIGh4LmRhdGEuZmlsbF8oMCkKICAgICAgICAgICAgc3RhdGUgPSAoaHgsIGN4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN4ID0gTm9uZQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQk5MU1RNQ2VsbCwK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12540,10 +12540,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQk5MU1RNQ2VsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
