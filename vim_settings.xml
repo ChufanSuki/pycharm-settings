@@ -13,8 +13,12 @@
       <file name="/start_script.py" timestamp="1496867366314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1491169413023">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1499568945055">
+        <mark key="'" line="35" column="44" />
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/core/network.py" timestamp="1486666171569">
         <mark key="'" line="190" column="25" />
@@ -478,7 +482,7 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1499568354501">
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1499568956180">
         <mark key="'" line="69" column="2" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/testing/tf_test_case.py" timestamp="1494549439674">
@@ -3250,23 +3254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="258" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="685" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
-      <jump line="135" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
-      <jump line="391" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="143" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/lstm_memory_policy.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
-      <jump line="12" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
-      <jump line="22" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
-      <jump line="46" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
-      <jump line="29" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" />
-      <jump line="224" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="45" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="16" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="109" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3348,6 +3335,23 @@
       <jump line="45" column="2" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
+      <jump line="4" column="30" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="36" column="17" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="3" column="28" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="5" column="21" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="8" column="28" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="10" column="21" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="29" column="26" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="64" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
+      <jump line="21" column="5" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="22" column="15" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="25" column="32" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="26" column="20" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="34" column="19" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="35" column="44" filename="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" />
+      <jump line="65" column="27" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
       <jump line="68" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
       <jump line="69" column="2" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
     </jumps>
@@ -3369,8 +3373,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNy04LXN0YXRlLWRpc3RhbmNlLXRycG8tYmFzZWxpbmUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10904,10 +10908,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>MUJ</text>
+        <text>MUJOCO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5fc2VlZHMgPSAxCiAgICBtb2RlID0gImhlcmUiCiAgICBleHBfcHJlZml4ID0gIjctOC1kZXYtc3RhdGUtZGlzdGFuY2UtZGRwZy1iYXNlbGluZSIKCiAgICAjIG5fc2VlZHMgPSAxMAogICAgIyBtb2RlID0gImVjMiIKICAgICMgZXhwX3ByZWZpeCA9ICI3LTgtc3RhdGUtZGlzdGFuY2UtZGRwZy1iYXNlbGluZSIK</text>
@@ -12421,9 +12425,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MUJ</last-search>
+      <last-search>MUJOCO</last-search>
       <last-offset />
-      <last-pattern>MUJ</last-pattern>
+      <last-pattern>MUJOCO</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12431,14 +12435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LinearCritic</entry>
-        <entry>get_param_values</entry>
-        <entry>render</entry>
-        <entry>HEAD</entry>
-        <entry>data_and_variants</entry>
-        <entry>variants_list</entry>
-        <entry>report</entry>
-        <entry>add_text</entry>
         <entry>memory_dim</entry>
         <entry>-1</entry>
         <entry>delta</entry>
@@ -12451,6 +12447,14 @@
         <entry>MU</entry>
         <entry>MJ</entry>
         <entry>MUJ</entry>
+        <entry>zip</entry>
+        <entry>131</entry>
+        <entry>models</entry>
+        <entry>mu</entry>
+        <entry>mujoco</entry>
+        <entry>.mujoco</entry>
+        <entry>\.mujoco</entry>
+        <entry>MUJOCO</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
