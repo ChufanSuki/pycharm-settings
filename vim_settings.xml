@@ -883,8 +883,8 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/reacher.py" timestamp="1499629463763">
-        <mark key="'" line="35" column="0" />
+      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/reacher.py" timestamp="1499638053997">
+        <mark key="'" line="12" column="8" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="42" column="9" />
         <mark key="." line="32" column="0" />
@@ -3337,8 +3337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="34" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/parallel_sampler.py" />
-      <jump line="149" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/stateful_pool.py" />
       <jump line="121" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/parallel_sampler.py" />
       <jump line="21" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/utils.py" />
       <jump line="41" column="38" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/utils.py" />
@@ -3437,6 +3435,8 @@
       <jump line="113" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
       <jump line="162" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
       <jump line="32" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/reacher.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/reacher.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/reacher.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -10994,7 +10994,7 @@
         <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>discount</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcmllc19sZW5ndGggPSBsZW4odGFyZ2V0X3Bvc2VzKQo=</text>
@@ -12508,9 +12508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>discount</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>discount</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12518,9 +12518,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5fZXhwZXJpbWVudF9saXRlX2t3YXJnc1w+</entry>
-        <entry>n_pa</entry>
-        <entry>filename</entry>
         <entry>rollout</entry>
         <entry>env</entry>
         <entry>set_gpu</entry>
@@ -12538,6 +12535,9 @@
         <entry>find_nearest</entry>
         <entry>x_bounds</entry>
         <entry>discount</entry>
+        <entry>reward_ctrl</entry>
+        <entry>vec</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
