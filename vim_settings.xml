@@ -478,8 +478,8 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1496369410901">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1499568354501">
+        <mark key="'" line="69" column="2" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/testing/tf_test_case.py" timestamp="1494549439674">
         <mark key="'" line="6" column="18" />
@@ -931,8 +931,8 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="224" column="30" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1498256766302">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1499568338060">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="42" />
         <mark key="^" line="15" column="41" />
@@ -3250,10 +3250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="688" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="153" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="160" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="207" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
       <jump line="247" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/bptt_ddpg.py" />
@@ -3350,6 +3346,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg.py" />
       <jump line="48" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/trpo.py" />
       <jump line="45" column="2" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
+      <jump line="69" column="2" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -10907,7 +10907,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>mode</text>
+        <text>MUJ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5fc2VlZHMgPSAxCiAgICBtb2RlID0gImhlcmUiCiAgICBleHBfcHJlZml4ID0gIjctOC1kZXYtc3RhdGUtZGlzdGFuY2UtZGRwZy1iYXNlbGluZSIKCiAgICAjIG5fc2VlZHMgPSAxMAogICAgIyBtb2RlID0gImVjMiIKICAgICMgZXhwX3ByZWZpeCA9ICI3LTgtc3RhdGUtZGlzdGFuY2UtZGRwZy1iYXNlbGluZSIK</text>
@@ -12421,9 +12421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mode</last-search>
+      <last-search>MUJ</last-search>
       <last-offset />
-      <last-pattern>mode</last-pattern>
+      <last-pattern>MUJ</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12431,10 +12431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rwa</entry>
-        <entry>memories</entry>
-        <entry>RWA</entry>
-        <entry>self._layer</entry>
         <entry>LinearCritic</entry>
         <entry>get_param_values</entry>
         <entry>render</entry>
@@ -12451,6 +12447,10 @@
         <entry>TRPO</entry>
         <entry>example</entry>
         <entry>mode</entry>
+        <entry>KEY</entry>
+        <entry>MU</entry>
+        <entry>MJ</entry>
+        <entry>MUJ</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
