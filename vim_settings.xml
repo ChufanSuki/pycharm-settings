@@ -3099,11 +3099,11 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" timestamp="1499797855508">
-        <mark key="'" line="54" column="21" />
-        <mark key="[" line="45" column="27" />
-        <mark key="]" line="45" column="28" />
-        <mark key="." line="45" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" timestamp="1499802282498">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="45" column="26" />
         <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1499797517522">
@@ -3371,13 +3371,6 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/core.py" timestamp="1497472737897">
         <mark key="'" line="100" column="8" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" timestamp="1499725756938">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="93" column="19" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/baxter_interface/src/baxter_interface/__init__.py" timestamp="1497644128401">
         <mark key="'" line="32" column="21" />
         <mark key="[" line="30" column="28" />
@@ -3387,18 +3380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
-      <jump line="83" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
-      <jump line="215" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="34" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
-      <jump line="66" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="98" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="23" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="226" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="244" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="144" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
@@ -3487,6 +3468,18 @@
       <jump line="228" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="30" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="90" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="91" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="92" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="93" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="95" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="97" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="100" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="101" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="106" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="109" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3507,7 +3500,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11041,25 +11034,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>num_samples, 2)</text>
+        <text>str(path))</text>
       </register>
       <register name="/" type="4">
-        <text>Variable</text>
+        <text>args</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9icyA9IFZhcmlhYmxlKHB0dS5mcm9tX251bXB5KG9icykuZmxvYXQoKSwgcmVxdWlyZXNfZ3JhZD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICBiYXNlID0gUGF0aChvcy5nZXRjd2QoKSkKICAgIGJhc2UgPSBiYXNlIC8gYXJncy5mb2xkZXJfcGF0aAoKICAgIHBhdGhfYW5kX2l0ZXIgPSBnZXRfcGF0aF9hbmRfaXRlcnMoYmFzZSkKICAgIHBhdGgsIF8gPSBwYXRoX2FuZF9pdGVyWy0xXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImZvbGRlcl9wYXRoIiwgdHlwZT1zdHIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9icyA9IG9iCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11097,16 +11090,16 @@
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG9icyA9IG9iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcmludCgiUG9saWN5IGxvYWRlZCIpCiAgICBpZiBhcmdzLmdwdToKICAgICAgICBzZXRfZ3B1X21vZGUoVHJ1ZSkKICAgICAgICBwb2xpY3kuY3VkYSgpCiAgICBpZiBhcmdzLnBhdXNlOgogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICBpZiBpc2luc3RhbmNlKHBvbGljeSwgUHlUb3JjaE1vZHVsZSk6CiAgICAgICAgcG9saWN5LnRyYWluKEZhbHNlKQogICAgd2hpbGUgVHJ1ZToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhdGggPSByb2xsb3V0KAogICAgICAgICAgICAgICAgZW52LAogICAgICAgICAgICAgICAgcG9saWN5LAogICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPWFyZ3MubWF4X3BhdGhfbGVuZ3RoLAogICAgICAgICAgICAgICAgYW5pbWF0ZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgIHNwZWVkdXA9YXJncy5zcGVlZHVwLAogICAgICAgICAgICAgICAgYWx3YXlzX3JldHVybl9wYXRocz1UcnVlLAogICAgICAgICAgICApCiAgICAgICAgICAgIGVudi5sb2dfZGlhZ25vc3RpY3MoW3BhdGhdKQogICAgICAgICAgICBwb2xpY3kubG9nX2RpYWdub3N0aWNzKFtwYXRoXSkKICAgICAgICAgICAgbG9nZ2VyLmR1bXBfdGFidWxhcigpCiAgICAgICAgIyBIYWNrIGZvciBub3cuIE5vdCBzdXJlIHdoeSByb2xsb3V0IGFzc3VtZXMgdGhhdCBjbG9zZSBpcyBhbgogICAgICAgICMga2V5d29yZCBhcmd1bWVudAogICAgICAgIGV4Y2VwdCBUeXBlRXJyb3IgYXMgZToKICAgICAgICAgICAgaWYgKHN0cihlKSAhPSAicmVuZGVyKCkgZ290IGFuIHVuZXhwZWN0ZWQga2V5d29yZCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgImFyZ3VtZW50ICdjbG9zZSciKToKICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12548,19 +12541,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBxZi5pbXBsaWNpdF9wb2xpY3kK</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxZiA9IGRhdGFbJ29wdGltaXphYmxlX3FmdW5jdGlvbiddCg==</text>
+        <text encoding="base64">CiAgICBwcmludCgiUG9saWN5IGxvYWRlZCIpCiAgICBpZiBhcmdzLmdwdToKICAgICAgICBzZXRfZ3B1X21vZGUoVHJ1ZSkKICAgICAgICBwb2xpY3kuY3VkYSgpCiAgICBpZiBhcmdzLnBhdXNlOgogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICBpZiBpc2luc3RhbmNlKHBvbGljeSwgUHlUb3JjaE1vZHVsZSk6CiAgICAgICAgcG9saWN5LnRyYWluKEZhbHNlKQogICAgd2hpbGUgVHJ1ZToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhdGggPSByb2xsb3V0KAogICAgICAgICAgICAgICAgZW52LAogICAgICAgICAgICAgICAgcG9saWN5LAogICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPWFyZ3MubWF4X3BhdGhfbGVuZ3RoLAogICAgICAgICAgICAgICAgYW5pbWF0ZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgIHNwZWVkdXA9YXJncy5zcGVlZHVwLAogICAgICAgICAgICAgICAgYWx3YXlzX3JldHVybl9wYXRocz1UcnVlLAogICAgICAgICAgICApCiAgICAgICAgICAgIGVudi5sb2dfZGlhZ25vc3RpY3MoW3BhdGhdKQogICAgICAgICAgICBwb2xpY3kubG9nX2RpYWdub3N0aWNzKFtwYXRoXSkKICAgICAgICAgICAgbG9nZ2VyLmR1bXBfdGFidWxhcigpCiAgICAgICAgIyBIYWNrIGZvciBub3cuIE5vdCBzdXJlIHdoeSByb2xsb3V0IGFzc3VtZXMgdGhhdCBjbG9zZSBpcyBhbgogICAgICAgICMga2V5d29yZCBhcmd1bWVudAogICAgICAgIGV4Y2VwdCBUeXBlRXJyb3IgYXMgZToKICAgICAgICAgICAgaWYgKHN0cihlKSAhPSAicmVuZGVyKCkgZ290IGFuIHVuZXhwZWN0ZWQga2V5d29yZCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgImFyZ3VtZW50ICdjbG9zZSciKToKICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Variable</last-search>
+      <last-search>args</last-search>
       <last-offset />
-      <last-pattern>Variable</last-pattern>
+      <last-pattern>args</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12568,8 +12561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_batch</entry>
-        <entry>batch_size</entry>
         <entry>_do_train</entry>
         <entry>def eval</entry>
         <entry>data.pkl</entry>
@@ -12588,6 +12579,8 @@
         <entry>max_path</entry>
         <entry>ptu</entry>
         <entry>Variable</entry>
+        <entry>path</entry>
+        <entry>args</entry>
       </history-search>
       <history-cmd>
         <entry>316</entry>
