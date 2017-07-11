@@ -3099,12 +3099,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" timestamp="1499728036647">
-        <mark key="'" line="45" column="21" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" timestamp="1499793776083">
+        <mark key="'" line="51" column="21" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1499727654991">
         <mark key="'" line="7" column="4" />
@@ -3270,9 +3270,10 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/samplers/batch_sampler.py" timestamp="1499621826425">
         <mark key="'" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" timestamp="1499727829907">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" timestamp="1499793744044">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="39" />
         <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_tensorflow.py" timestamp="1479143347691">
@@ -3386,7 +3387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/reacher.py" />
       <jump line="43" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
       <jump line="14" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
       <jump line="83" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
@@ -3412,7 +3412,6 @@
       <jump line="86" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="65" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="185" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="96" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="179" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3486,6 +3485,8 @@
       <jump line="24" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="38" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
+      <jump line="228" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3506,7 +3507,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>array([])</text>
+        <text>np.expand()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11040,13 +11041,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>array([])</text>
+        <text>np.expand()</text>
       </register>
       <register name="/" type="4">
-        <text>ptu</text>
+        <text>Variable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3kuY3VkYSgpCg==</text>
+        <text encoding="base64">ICAgIG9icyA9IFZhcmlhYmxlKHB0dS5mcm9tX251bXB5KG9icykuZmxvYXQoKSwgcmVxdWlyZXNfZ3JhZD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
@@ -12557,9 +12558,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ptu</last-search>
+      <last-search>Variable</last-search>
       <last-offset />
-      <last-pattern>ptu</last-pattern>
+      <last-pattern>Variable</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12567,7 +12568,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdHVcPg==</entry>
         <entry>get_batch</entry>
         <entry>batch_size</entry>
         <entry>_do_train</entry>
@@ -12587,6 +12587,7 @@
         <entry>eval</entry>
         <entry>max_path</entry>
         <entry>ptu</entry>
+        <entry>Variable</entry>
       </history-search>
       <history-cmd>
         <entry>316</entry>
