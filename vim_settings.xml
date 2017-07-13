@@ -395,12 +395,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1499920960747">
-        <mark key="'" line="79" column="47" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="72" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="112" column="71" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" timestamp="1499985337645">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="108" column="71" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" timestamp="1499914032718">
         <mark key="'" line="34" column="23" />
@@ -1180,6 +1180,13 @@
         <mark key="'" line="73" column="4" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" timestamp="1499985334649">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="149" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/sim_policy.py" timestamp="1478225006778">
         <mark key="'" line="1" column="0" />
@@ -3402,9 +3409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="924" column="36" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
-      <jump line="96" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="99" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="189" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="182" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
@@ -3502,6 +3506,9 @@
       <jump line="122" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="100" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="151" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3522,7 +3529,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNy0xMi1icHR0LWRkcGctd2F0ZXJtYXplLW1lbW9yeS1ncnUtYWN0aXZhdGlvbi1jaGVjay0yIgo=</text>
+        <text encoding="base64">ZGVmIGNsaXAxKHgpOgogICAgcmV0dXJuIHRvcmNoLmNsYW1wKHgsIC0xLCAxKQoKCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11059,22 +11066,22 @@
         <text>sweep</text>
       </register>
       <register name="/" type="4">
-        <text>log_diag</text>
+        <text>clip1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNy0xMi1icHR0LWRkcGctd2F0ZXJtYXplLW1lbW9yeS1yd2Etc3dlZXAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICI3LTEyLWJwdHQtZGRwZy13YXRlcm1hemUtbWVtb3J5LXJ3YS1zd2VlcCIK</text>
+        <text encoding="base64">ZGVmIGNsaXAxKHgpOgogICAgcmV0dXJuIHRvcmNoLmNsYW1wKHgsIC0xLCAxKQoKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lbW9yaWVzX2Zvcl9hY3Rpb25bOiwgaSwgOl0gPSBzdGF0ZVswXQo=</text>
+        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICI3LTEyLWJwdHQtZGRwZy13YXRlcm1hemUtbWVtb3J5LXJ3YS1zd2VlcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vcmllc19mb3JfYWN0aW9uID0gVmFyaWFibGUoCiAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigKICAgICAgICAgICAgICAgIGJhdGNoX3NpemUsCiAgICAgICAgICAgICAgICBzdWJzZXF1ZW5jZV9sZW5ndGgsCiAgICAgICAgICAgICAgICBzZWxmLm1lbW9yeV9kaW0gLy8gc2VsZi5udW1fc3BsaXRzX2Zvcl9ybm5faW50ZXJuYWxseQogICAgICAgICAgICApLAogICAgICAgICAgICByZXF1aXJlc19ncmFkPUZhbHNlCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lbW9yaWVzX2Zvcl9hY3Rpb25bOiwgaSwgOl0gPSBzdGF0ZVswXQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11109,13 +11116,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3RfZmMgPSBubi5MaW5lYXIoCiAgICAgICAgICAgIG9ic19kaW0gKyBtZW1vcnlfZGltIC8vIHNlbGYubnVtX3NwbGl0c19mb3Jfcm5uX2ludGVybmFsbHksCiAgICAgICAgICAgIGFjdGlvbl9kaW0KICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBtZW1vcmllc19mb3JfYWN0aW9uID0gVmFyaWFibGUoCiAgICAgICAgICAgIHB0dS5GbG9hdFRlbnNvcigKICAgICAgICAgICAgICAgIGJhdGNoX3NpemUsCiAgICAgICAgICAgICAgICBzdWJzZXF1ZW5jZV9sZW5ndGgsCiAgICAgICAgICAgICAgICBzZWxmLm1lbW9yeV9kaW0gLy8gc2VsZi5udW1fc3BsaXRzX2Zvcl9ybm5faW50ZXJuYWxseQogICAgICAgICAgICApLAogICAgICAgICAgICByZXF1aXJlc19ncmFkPUZhbHNlCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdmVyc2lvbiA9ICJPdXIgTWV0aG9kIC0gbG9hZGluZyBidXQgUSBkb2VzIG5vdCByZWFkIG1lbSBzdGF0ZSIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3RfZmMgPSBubi5MaW5lYXIoCiAgICAgICAgICAgIG9ic19kaW0gKyBtZW1vcnlfZGltIC8vIHNlbGYubnVtX3NwbGl0c19mb3Jfcm5uX2ludGVybmFsbHksCiAgICAgICAgICAgIGFjdGlvbl9kaW0KICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVtb3JpZXNfZm9yX2FjdGlvbls6LCBpLCA6XQo=</text>
+        <text encoding="base64">ICAgICMgdmVyc2lvbiA9ICJPdXIgTWV0aG9kIC0gbG9hZGluZyBidXQgUSBkb2VzIG5vdCByZWFkIG1lbSBzdGF0ZSIK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
@@ -12563,19 +12570,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vcmllc19mb3JfYWN0aW9uID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVtb3JpZXNfZm9yX2FjdGlvbls6LCBpLCA6XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3RfZmMgPSBubi5MaW5lYXIob2JzX2RpbSArIG1lbW9yeV9kaW0sIGFjdGlvbl9kaW0pCg==</text>
+        <text encoding="base64">ICAgICAgICBtZW1vcmllc19mb3JfYWN0aW9uID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log_diag</last-search>
+      <last-search>clip1</last-search>
       <last-offset />
-      <last-pattern>log_diag</last-pattern>
+      <last-pattern>clip1</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12583,8 +12590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tele</entry>
-        <entry>Memor</entry>
         <entry>memory_dim</entry>
         <entry>new_variant</entry>
         <entry>version</entry>
@@ -12603,6 +12608,8 @@
         <entry>policy_param</entry>
         <entry>memory_es</entry>
         <entry>log_diag</entry>
+        <entry>LSTM</entry>
+        <entry>clip1</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
