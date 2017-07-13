@@ -716,8 +716,8 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py" timestamp="1489101398775">
         <mark key="'" line="2795" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" timestamp="1499914538060">
-        <mark key="'" line="182" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" timestamp="1499979388829">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="167" column="76" />
         <mark key="]" line="167" column="76" />
         <mark key="." line="167" column="76" />
@@ -3402,17 +3402,14 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="926" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="924" column="36" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="190" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="96" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="99" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
-      <jump line="100" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="189" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="182" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="178" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="108" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="70" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="74" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="75" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
@@ -3502,6 +3499,9 @@
       <jump line="251" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
       <jump line="295" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
       <jump line="79" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
+      <jump line="122" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11059,7 +11059,7 @@
         <text>sweep</text>
       </register>
       <register name="/" type="4">
-        <text>memory_es</text>
+        <text>log_diag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNy0xMi1icHR0LWRkcGctd2F0ZXJtYXplLW1lbW9yeS1yd2Etc3dlZXAiCg==</text>
@@ -12573,9 +12573,9 @@
       </register>
     </registers>
     <search>
-      <last-search>memory_es</last-search>
+      <last-search>log_diag</last-search>
       <last-offset />
-      <last-pattern>memory_es</last-pattern>
+      <last-pattern>log_diag</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12583,7 +12583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Hard</entry>
         <entry>tele</entry>
         <entry>Memor</entry>
         <entry>memory_dim</entry>
@@ -12603,6 +12602,7 @@
         <entry>memories</entry>
         <entry>policy_param</entry>
         <entry>memory_es</entry>
+        <entry>log_diag</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
