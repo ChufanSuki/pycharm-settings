@@ -1019,10 +1019,10 @@
         <mark key="." line="48" column="39" />
         <mark key="^" line="48" column="39" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" timestamp="1499727982913">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" timestamp="1500334246313">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="24" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="56" column="45" />
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
@@ -2881,7 +2881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="623" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="316" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="615" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -2981,6 +2980,7 @@
       <jump line="18" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="35" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" />
       <jump line="69" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3000,8 +3000,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGggPSByb2xsb3V0KAogICAgICAgICAgICAgICAgICAgIGVudiwKICAgICAgICAgICAgICAgICAgICBwb2xpY3ksCiAgICAgICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPWFyZ3MubWF4X3BhdGhfbGVuZ3RoLAogICAgICAgICAgICAgICAgICAgIGFuaW1hdGVkPVRydWUsCiAgICAgICAgICAgICAgICAgICAgc3BlZWR1cD1hcmdzLnNwZWVkdXAsCiAgICAgICAgICAgICAgICAgICAgYWx3YXlzX3JldHVybl9wYXRocz1UcnVlLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZW52LmxvZ19kaWFnbm9zdGljcyhbcGF0aF0pCiAgICAgICAgICAgICAgICBwb2xpY3kubG9nX2RpYWdub3N0aWNzKFtwYXRoXSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10538,10 +10538,10 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>do_tra</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNy0xNy1kZXYtc3RhdGUtZGlzdGFuY2UtdHJhaW4tbXVsdGlwbGUtZ29hbHMtbm9uemVyby1nYW1tYSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGggPSByb2xsb3V0KAogICAgICAgICAgICAgICAgICAgIGVudiwKICAgICAgICAgICAgICAgICAgICBwb2xpY3ksCiAgICAgICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPWFyZ3MubWF4X3BhdGhfbGVuZ3RoLAogICAgICAgICAgICAgICAgICAgIGFuaW1hdGVkPVRydWUsCiAgICAgICAgICAgICAgICAgICAgc3BlZWR1cD1hcmdzLnNwZWVkdXAsCiAgICAgICAgICAgICAgICAgICAgYWx3YXlzX3JldHVybl9wYXRocz1UcnVlLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZW52LmxvZ19kaWFnbm9zdGljcyhbcGF0aF0pCiAgICAgICAgICAgICAgICBwb2xpY3kubG9nX2RpYWdub3N0aWNzKFtwYXRoXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdvYWwgPSBucC5yYW5kb20udW5pZm9ybShsb3c9LS4yLCBoaWdoPS4yLCBzaXplPTIpCiAgICBlbnYuc2V0X2dvYWwoZ29hbCkKICAgIG9icyA9IGVudi5yZXNldCgpCg==</text>
@@ -12052,9 +12052,9 @@
       </register>
     </registers>
     <search>
-      <last-search>do_tra</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>do_tra</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12062,7 +12062,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_step</entry>
         <entry>act(</entry>
         <entry>action</entry>
         <entry>action_space</entry>
@@ -12082,6 +12081,7 @@
         <entry>exploration_pol</entry>
         <entry>self.goal</entry>
         <entry>do_tra</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>bp|bd #</entry>
