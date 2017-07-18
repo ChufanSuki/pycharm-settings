@@ -80,12 +80,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1500401276915">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="160" column="27" />
-        <mark key="." line="193" column="26" />
-        <mark key="^" line="193" column="30" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1500402646568">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="12" />
+        <mark key="." line="79" column="12" />
+        <mark key="^" line="78" column="31" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
@@ -2880,8 +2880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_simple_state.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_simple_state.py" />
       <jump line="104" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_simple_state.py" />
       <jump line="11" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="144" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
@@ -2980,6 +2978,8 @@
       <jump line="131" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="136" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="0" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
+      <jump line="61" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/utils/ezpickle.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2999,8 +2999,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFuZ2xlIDIgKGRlZ3JlZXMpID0gIiwgZ29hbCkK</text>
+      <register name="&quot;" type="4">
+        <text>sself</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10534,13 +10534,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>goal</text>
+        <text>sself</text>
       </register>
       <register name="/" type="4">
         <text>goal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFuZ2xlIDEgKGRlZ3JlZXMpID0gIiwgbnAuYXJjdGFuMihjMSwgczEpIC8gbWF0aC5waSAqIDE4MCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLW5wLmxpbmFsZy5ub3JtKG5leHRfb2JzIC0gZ29hbF9zdGF0ZXMsIGF4aXM9MSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFuZ2xlIDIgKGRlZ3JlZXMpID0gIiwgZ29hbCkK</text>
