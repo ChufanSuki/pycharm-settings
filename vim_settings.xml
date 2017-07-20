@@ -213,6 +213,13 @@
         <mark key="^" line="128" column="46" />
         <mark key="." line="128" column="46" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" timestamp="1500512221564">
+        <mark key="'" line="16" column="67" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/vpg_benchmark/main.py" timestamp="1477676106265">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="97" column="0" />
@@ -1325,10 +1332,10 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/sawyer.xml" timestamp="1500061541424">
         <mark key="'" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/ablation.py" timestamp="1500508538024">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/ablation.py" timestamp="1500511582327">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="94" column="9" />
         <mark key="^" line="6" column="52" />
         <mark key="." line="74" column="0" />
       </file>
@@ -1750,6 +1757,13 @@
         <mark key="]" line="52" column="31" />
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" timestamp="1500512587542">
+        <mark key="'" line="57" column="47" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="43" column="71" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/base.py" timestamp="1492201060418">
         <mark key="'" line="4" column="30" />
@@ -2687,10 +2701,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" timestamp="1499910893192">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" timestamp="1500511924989">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="21" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="6" column="25" />
       </file>
@@ -3398,26 +3412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="268" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="258" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="63" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/generate_highlow_figure_data.py" />
-      <jump line="138" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="487" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/memory_bptt_launchers.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="228" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="230" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="260" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="329" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="343" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/bptt_ddpg_exp.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="374" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="38" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="65" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="82" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="93" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
-      <jump line="276" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="286" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="291" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
       <jump line="299" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/bptt_ddpg.py" />
@@ -3496,8 +3490,28 @@
       <jump line="92" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
       <jump line="120" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
       <jump line="108" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/ablation.py" />
       <jump line="12" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="23" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/ablation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/ablation.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
+      <jump line="47" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="20" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="23" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="31" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="36" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="16" column="67" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
+      <jump line="108" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/fig1.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="71" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="70" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="57" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3517,8 +3531,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>32</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11052,25 +11066,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>trial</text>
+        <text>y_stds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbl90b19saXN0X29mX2ZpbmFsX3N0YXRzW25hbWVdWydtZWFuJ10gPSBucC5tZWFuKGZpbmFsX3Njb3JlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5kYXRhWydBdmVyYWdlUmV0dXJuJ11bOjUwXSBmb3IgdCBpbiB0cmlhbHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhdGNoX3NpemUgPSAxMDAKICAgIG1lbW9yeV9kaW0gPSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlY3RzMSA9IGF4LmJhcihpbmQsIG1lbl9tZWFucywgd2lkdGgsIGNvbG9yPSdyJywgeWVycj1tZW5fc3RkKQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2RfdG9fZGF0YVtuYW1lXSA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGF4LmVycm9yYmFyKHhfYXhpcywgeV9tZWFucywgeWVycj15X3N0ZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11105,19 +11119,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfb3V0cHV0KHNlbGYsIGxhYmVsKToKICAgICAgICBzZWxmLmxhYmVsID0gbGFiZWwKCg==</text>
+        <text encoding="base64">ICAgIGNtYXAgPSBtYXRwbG90bGliLmNtLmdldF9jbWFwKCdwbGFzbWEnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmZyb20gb3MucGF0aCBpbXBvcnQgam9pbgppbXBvcnQganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwucHl0aG9ucGx1c3BsdXMgaW1wb3J0IG5lc3RlZF9kaWN0X3RvX2RvdF9tYXBfZGljdAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHhfYXhpcyA9IHN1YnRyYWpfbGVuZ3Rocwo=</text>
+        <text encoding="base64">ICAgIHN1YnRyYWpfbGVuZ3RocyA9IFsxLCA1LCAxMCwgMTUsIDIwLCAyNV0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12559,19 +12573,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJnYmEgPSBjbWFwKDApCgo=</text>
+        <text encoding="base64">aW1wb3J0IHNlYWJvcm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJnYmEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2xvcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>trial</last-search>
+      <last-search>y_stds</last-search>
       <last-offset />
-      <last-pattern>trial</last-pattern>
+      <last-pattern>y_stds</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12579,15 +12593,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ipd</entry>
-        <entry>can_eval</entry>
-        <entry>def eval</entry>
-        <entry>add_traj</entry>
-        <entry>Average</entry>
-        <entry>ylabel</entry>
-        <entry>y_label</entry>
-        <entry>mean</entry>
-        <entry>data</entry>
         <entry>first_color</entry>
         <entry>all_data</entry>
         <entry>method_name</entry>
@@ -12599,9 +12604,17 @@
         <entry>get_dirs</entry>
         <entry>get_unique_param_to_values</entry>
         <entry>trial</entry>
+        <entry>pattern</entry>
+        <entry>method_to_data</entry>
+        <entry>version_to</entry>
+        <entry>sns</entry>
+        <entry>58</entry>
+        <entry>data_combined</entry>
+        <entry>cmap</entry>
+        <entry>method_names</entry>
+        <entry>y_stds</entry>
       </history-search>
       <history-cmd>
-        <entry>300</entry>
         <entry>310</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>338</entry>
@@ -12620,6 +12633,7 @@
         <entry>69</entry>
         <entry>68</entry>
         <entry>q</entry>
+        <entry>58</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
