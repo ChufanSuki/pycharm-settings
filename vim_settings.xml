@@ -977,12 +977,12 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="224" column="30" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1500584502372">
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1500620726285">
         <mark key="'" line="9" column="27" />
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+        <mark key="." line="42" column="21" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" timestamp="1491177773564">
         <mark key="'" line="154" column="43" />
@@ -1061,12 +1061,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/__init__.py" timestamp="1499575240780">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/watermaze_memory/generate_ablation_figure_data.py" timestamp="1500583087489">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/watermaze_memory/generate_ablation_figure_data.py" timestamp="1500620737094">
         <mark key="'" line="34" column="24" />
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="34" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="57" />
         <mark key="^" line="27" column="57" />
-        <mark key="." line="102" column="34" />
+        <mark key="." line="27" column="22" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/ddpg.py" timestamp="1499448804795">
         <mark key="'" line="34" column="12" />
@@ -3540,8 +3540,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiNy0yMS1nZW5lcmF0ZS1hYmxhdGlvbi1maWd1cmUtZGF0YS10YWtlIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11075,10 +11075,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>PATH</text>
+        <text>0.03</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBzdWJ0cmFqX2xlbmd0aCBpbiBbMSwgNSwgMTAsIDE1LCAyMCwgMjVdOgo=</text>
@@ -12592,9 +12592,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PATH</last-search>
+      <last-search>0.03</last-search>
       <last-offset />
-      <last-pattern>PATH</last-pattern>
+      <last-pattern>0.03</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12602,7 +12602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kwargs</entry>
         <entry>ls</entry>
         <entry>fontsize</entry>
         <entry>tick</entry>
@@ -12622,6 +12621,7 @@
         <entry>region</entry>
         <entry>CONF</entry>
         <entry>PATH</entry>
+        <entry>0.03</entry>
       </history-search>
       <history-cmd>
         <entry>310</entry>
