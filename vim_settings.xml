@@ -1061,8 +1061,8 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/__init__.py" timestamp="1499575240780">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/watermaze_memory/generate_ablation_figure_data.py" timestamp="1500670577691">
-        <mark key="'" line="34" column="24" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/watermaze_memory/generate_ablation_figure_data.py" timestamp="1500674831616">
+        <mark key="'" line="38" column="4" />
         <mark key="[" line="27" column="53" />
         <mark key="]" line="27" column="53" />
         <mark key="^" line="27" column="67" />
@@ -3421,8 +3421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
       <jump line="62" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
       <jump line="85" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
       <jump line="81" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
@@ -3521,6 +3519,8 @@
       <jump line="120" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
       <jump line="134" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
       <jump line="28" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/icml2017/watermaze/comparison.py" />
+      <jump line="55" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/watermaze_memory/generate_ablation_figure_data.py" />
+      <jump line="38" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icml2017/watermaze_memory/generate_ablation_figure_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11078,7 +11078,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>axes</text>
+        <text>batch_size</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBzdWJ0cmFqX2xlbmd0aCBpbiBbMSwgMTAsIDIwLCAyNV06Cg==</text>
@@ -12592,9 +12592,9 @@
       </register>
     </registers>
     <search>
-      <last-search>axes</last-search>
+      <last-search>batch_size</last-search>
       <last-offset />
-      <last-pattern>axes</last-pattern>
+      <last-pattern>batch_size</last-pattern>
       <last-replace>F.tanh</last-replace>
       <last-substitute>HTMLReport</last-substitute>
       <last-dir>1</last-dir>
@@ -12602,7 +12602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ax.legend</entry>
         <entry>only_use_rnn</entry>
         <entry>self.fc1</entry>
         <entry>policy</entry>
@@ -12622,6 +12621,7 @@
         <entry>100</entry>
         <entry>ipd</entry>
         <entry>axes</entry>
+        <entry>batch_size</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
