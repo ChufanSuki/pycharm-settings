@@ -977,12 +977,12 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="224" column="30" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1500620726285">
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1500682733333">
         <mark key="'" line="9" column="27" />
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="21" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
         <mark key="^" line="42" column="21" />
-        <mark key="." line="42" column="21" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" timestamp="1491177773564">
         <mark key="'" line="154" column="43" />
@@ -3540,8 +3540,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhfYXhpcyA9IFsxLCA1LCAxMCwgMTUsIDIwLCAyNV0K</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11075,7 +11075,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
