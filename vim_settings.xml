@@ -1305,8 +1305,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1500433407811">
-        <mark key="'" line="83" column="13" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" timestamp="1500950931839">
+        <mark key="'" line="84" column="13" />
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="59" column="36" />
+        <mark key="^" line="59" column="36" />
+        <mark key="." line="59" column="36" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/README.md" timestamp="1486882252796">
         <mark key="'" line="65" column="2" />
@@ -2359,12 +2363,12 @@
         <mark key="." line="191" column="0" />
         <mark key="^" line="190" column="51" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1500931967150">
-        <mark key="'" line="103" column="36" />
-        <mark key="[" line="87" column="10" />
-        <mark key="]" line="88" column="36" />
-        <mark key="." line="88" column="36" />
-        <mark key="^" line="88" column="36" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1500951123014">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="193" column="26" />
+        <mark key="]" line="193" column="27" />
+        <mark key="." line="193" column="27" />
+        <mark key="^" line="193" column="27" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/predictors/state_action_network.py" timestamp="1480545356982">
         <mark key="'" line="104" column="30" />
@@ -3448,8 +3452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
-      <jump line="83" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="102" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="56" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
@@ -3526,7 +3528,6 @@
       <jump line="101" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="397" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/autograd/variable.py" />
       <jump line="107" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/autograd/_functions/pointwise.py" />
-      <jump line="89" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="732" column="4" filename="$USER_HOME$/.PyCharm2017.1/system/python_stubs/865245323/torch/_C/__init__.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_q.py" />
       <jump line="61" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
@@ -3548,6 +3549,9 @@
       <jump line="86" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="97" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="103" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
+      <jump line="89" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
+      <jump line="187" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
+      <jump line="81" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3567,8 +3571,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>np.zeros_like(obs_expanded)).float(),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11111,16 +11115,16 @@
         <text encoding="base64">ICAgICAgICBhY3Rpb25fbnAgPSBucC5yYW5kb20udW5pZm9ybSgtMSwgMSwgKDEsIDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAuemVyb3MoKDEsIDIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X3N0YXRlX25wID0gbnAudnN0YWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBwdHUuVmFyaWFibGUocHR1LkZsb2F0VGVuc29yKDEsIDIpLCByZXF1aXJlc19ncmFkPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11155,19 +11159,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW1pemVyLnN0ZXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuemVyb3MoKDEsIDIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X3N0YXRlX25wID0gbnAudnN0YWNrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0aXZlX2xvc3MgPSAK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBwdHUuVmFyaWFibGUocHR1LkZsb2F0VGVuc29yKDEsIDIpLCByZXF1aXJlc19ncmFkPVRydWUpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0aXZlX3Jld2FyZCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW1pemVyLnN0ZXAoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12609,10 +12613,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgc2VsZi5sYWdyYW5nZV9jb25zdGFudCAqIGFjdGlvbioqMgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0aXZlX2xvc3MgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
