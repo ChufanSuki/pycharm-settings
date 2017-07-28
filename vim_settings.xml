@@ -1133,7 +1133,8 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" timestamp="1501186918722">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" timestamp="1501275183754">
+        <mark key="'" line="40" column="38" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/core/network.py" timestamp="1489966437280">
@@ -2334,8 +2335,8 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" timestamp="1501190686927">
-        <mark key="'" line="371" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" timestamp="1501275189060">
+        <mark key="'" line="41" column="8" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="46" />
       </file>
@@ -3415,8 +3416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="73" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
       <jump line="141" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="156" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="256" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
@@ -3515,6 +3514,8 @@
       <jump line="50" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
       <jump line="60" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
       <jump line="73" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action_partial_state.py" />
+      <jump line="40" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
