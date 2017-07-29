@@ -715,6 +715,10 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" timestamp="1500520316669">
         <mark key="'" line="211" column="21" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/murtaza/ros/sawyer_ddpg_torch.py" timestamp="1501296950850">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="18" column="24" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1497561719887">
         <mark key="'" line="6" column="12" />
       </file>
@@ -3141,12 +3145,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1501296023883">
-        <mark key="'" line="153" column="24" />
-        <mark key="[" line="148" column="32" />
-        <mark key="]" line="148" column="32" />
-        <mark key="." line="148" column="32" />
-        <mark key="^" line="148" column="32" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1501297269434">
+        <mark key="'" line="78" column="21" />
+        <mark key="[" line="140" column="23" />
+        <mark key="]" line="140" column="25" />
+        <mark key="." line="140" column="25" />
+        <mark key="^" line="140" column="25" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3432,8 +3436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="86" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" />
       <jump line="26" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
       <jump line="42" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="35" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
@@ -3532,6 +3534,8 @@
       <jump line="149" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
       <jump line="25" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/naf_test.py" />
       <jump line="20" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/naf_test.py" />
+      <jump line="74" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="78" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3552,7 +3556,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>-</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11086,13 +11090,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>naf</text>
+        <text>=False</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIGlmIGxvYWRfcG9saWN5X2ZpbGUgaXMgbm90IE5vbmUgYW5kIGV4aXN0cyhsb2FkX3BvbGljeV9maWxlKToKICAgICAgICBkYXRhID0gam9ibGliLmxvYWQobG9hZF9wb2xpY3lfZmlsZSkKICAgICAgICBhbGdvcml0aG0gPSBkYXRhWydhbGdvcml0aG0nXQogICAgICAgIHVzZV9ncHUgPSB2YXJpYW50Wyd1c2VfZ3B1J10KICAgICAgICBpZiB1c2VfZ3B1OgogICAgICAgICAgICBhbGdvcml0aG0uY3VkYSgpCiAgICAgICAgYWxnb3JpdGhtLnRyYWluKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
@@ -12603,9 +12607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>naf</last-search>
+      <last-search>=False</last-search>
       <last-offset />
-      <last-pattern>naf</last-pattern>
+      <last-pattern>=False</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12613,7 +12617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>outer</entry>
         <entry>_fc</entry>
         <entry>ip</entry>
         <entry>last_sop</entry>
@@ -12633,6 +12636,7 @@
         <entry>print</entry>
         <entry>self.policy</entry>
         <entry>naf</entry>
+        <entry>=False</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
