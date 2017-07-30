@@ -27,6 +27,9 @@
         <mark key="^" line="61" column="29" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1501455976290">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -86,13 +89,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1501295147971">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="106" column="36" />
-        <mark key="]" line="107" column="18" />
-        <mark key="^" line="107" column="18" />
-        <mark key="." line="107" column="18" />
-      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1501453770812" />
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
         <mark key="[" line="63" column="20" />
@@ -102,6 +99,13 @@
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/hp.py" timestamp="1492559360242">
         <mark key="'" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" timestamp="1501456917801">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="53" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1488775465788">
         <mark key="'" line="1733" column="30" />
@@ -673,6 +677,12 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/shaped_qfunction.py" timestamp="1501455866006">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/envs/env_utils.py" timestamp="1486885431150">
         <mark key="'" line="2" column="34" />
       </file>
@@ -685,10 +695,10 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/hyperopt/pyll/base.py" timestamp="1498578378794">
         <mark key="'" line="203" column="8" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1500520959923">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="146" column="18" />
-        <mark key="]" line="146" column="24" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1501456824475">
+        <mark key="'" line="292" column="6" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="416" column="39" />
         <mark key="." line="146" column="24" />
         <mark key="^" line="146" column="24" />
       </file>
@@ -715,10 +725,6 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" timestamp="1500520316669">
         <mark key="'" line="211" column="21" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/murtaza/ros/sawyer_ddpg_torch.py" timestamp="1501296950850">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="18" column="24" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1497561719887">
         <mark key="'" line="6" column="12" />
       </file>
@@ -728,11 +734,12 @@
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/envs/base.py" timestamp="1486787174306">
         <mark key="'" line="29" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/ml_util.py" timestamp="1501294502671">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/ml_util.py" timestamp="1501451898846">
         <mark key="'" line="0" column="2" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="35" column="27" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/time_limited_env.py" timestamp="1498864590050">
         <mark key="'" line="7" column="8" />
@@ -769,12 +776,12 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="24" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" timestamp="1501201971450">
-        <mark key="'" line="87" column="17" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="91" column="54" />
-        <mark key="." line="91" column="22" />
-        <mark key="^" line="91" column="24" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" timestamp="1501457029547">
+        <mark key="'" line="92" column="26" />
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/noop_algo.py" timestamp="1494891508188">
         <mark key="'" line="8" column="6" />
@@ -909,11 +916,6 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/sim_learned_policy.py" timestamp="1501274442198">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/online_algorithm.py" timestamp="1501112367083">
         <mark key="'" line="230" column="24" />
         <mark key="[" line="207" column="21" />
@@ -941,12 +943,11 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/core/rnn/rnn.py" timestamp="1499552423448">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" timestamp="1501270832968">
-        <mark key="'" line="60" column="33" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="83" column="55" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="50" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" timestamp="1501451676887">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
@@ -1148,10 +1149,6 @@
         <mark key="]" line="83" column="25" />
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" timestamp="1501275183754">
-        <mark key="'" line="40" column="38" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/core/network.py" timestamp="1489966437280">
         <mark key="'" line="37" column="56" />
@@ -1499,12 +1496,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/backends/thnn.py" timestamp="1497922066975">
         <mark key="'" line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1501447874219">
-        <mark key="'" line="38" column="28" />
-        <mark key="[" line="168" column="37" />
-        <mark key="]" line="168" column="46" />
-        <mark key="." line="168" column="46" />
-        <mark key="^" line="168" column="46" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1501456713993">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="201" column="22" />
+        <mark key="]" line="201" column="20" />
+        <mark key="." line="201" column="20" />
+        <mark key="^" line="201" column="20" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/sum_qfunction.py" timestamp="1480361037137">
         <mark key="'" line="6" column="16" />
@@ -1574,6 +1571,13 @@
         <mark key="]" line="21" column="36" />
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" timestamp="1501452859671">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="81" column="12" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="26" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" timestamp="1501448171579">
         <mark key="'" line="23" column="6" />
@@ -2204,12 +2208,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1501447964752">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="28" />
-        <mark key="." line="97" column="13" />
-        <mark key="^" line="97" column="13" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1501453065902">
+        <mark key="'" line="93" column="8" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_comparison.py" timestamp="1484173480189">
         <mark key="'" line="27" column="26" />
@@ -2249,12 +2249,11 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/logging/__init__.py" timestamp="1487964792090">
         <mark key="'" line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" timestamp="1501448370865">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="78" column="50" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" timestamp="1501455272327">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/np_util.py" timestamp="1487124489803">
         <mark key="'" line="28" column="23" />
@@ -2276,11 +2275,12 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/network.py" timestamp="1497508906873">
         <mark key="'" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" timestamp="1501447937621">
-        <mark key="'" line="62" column="14" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="142" column="9" />
-        <mark key="." line="23" column="16" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" timestamp="1501456882681">
+        <mark key="'" line="129" column="8" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="44" />
+        <mark key="^" line="265" column="0" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1313875005/numpy/random/mtrand.py" timestamp="1487123306233">
         <mark key="'" line="3422" column="8" />
@@ -2361,13 +2361,6 @@
         <mark key="]" line="45" column="34" />
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" timestamp="1501447561618">
-        <mark key="'" line="150" column="8" />
-        <mark key="[" line="192" column="49" />
-        <mark key="]" line="192" column="49" />
-        <mark key="." line="192" column="49" />
-        <mark key="^" line="192" column="49" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1501131237885">
         <mark key="'" line="104" column="8" />
@@ -2616,11 +2609,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="31" column="18" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/modules.py" timestamp="1501202446153">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/samplers/batch_sampler.py" timestamp="1483743667396">
         <mark key="'" line="14" column="20" />
@@ -3044,6 +3032,13 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" timestamp="1501453407151">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="88" column="28" />
+        <mark key="]" line="88" column="47" />
+        <mark key="^" line="92" column="28" />
+        <mark key="." line="92" column="28" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/predictors/mlp_state_action_network.py" timestamp="1480490527742">
         <mark key="'" line="41" column="17" />
         <mark key="[" line="22" column="0" />
@@ -3161,12 +3156,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1501449248614">
-        <mark key="'" line="58" column="35" />
-        <mark key="[" line="158" column="40" />
-        <mark key="]" line="158" column="40" />
-        <mark key="^" line="158" column="42" />
-        <mark key="." line="158" column="40" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1501456165425">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="87" column="34" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3421,11 +3416,6 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="35" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" timestamp="1501126111195">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl-ddpg/example.py" timestamp="1487914135846">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="10" column="5" />
@@ -3452,79 +3442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
-      <jump line="36" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
-      <jump line="50" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
-      <jump line="60" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
-      <jump line="73" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action_partial_state.py" />
-      <jump line="40" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="143" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="69" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="273" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="280" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="281" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="290" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="17" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="27" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="25" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="29" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="35" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="55" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="0" column="2" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/ml_util.py" />
-      <jump line="124" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="166" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="199" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="84" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="126" column="55" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="245" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="42" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="82" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="39" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="233" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="48" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="128" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="131" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="119" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="120" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="46" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="43" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="23" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="24" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="30" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="31" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="40" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="91" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="137" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/ml_util.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="152" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="325" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="61" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="55" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
-      <jump line="149" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
-      <jump line="25" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/naf_test.py" />
-      <jump line="20" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/naf_test.py" />
-      <jump line="78" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="92" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="18" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="21" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="136" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="139" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="186" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
-      <jump line="11" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/state_distance_qf.py" />
-      <jump line="29" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/state_distance_qf.py" />
-      <jump line="9" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
-      <jump line="269" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/torch.py" />
-      <jump line="132" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
       <jump line="30" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
       <jump line="43" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
       <jump line="46" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
@@ -3552,6 +3469,79 @@
       <jump line="9" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
       <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
       <jump line="58" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/modules.py" />
+      <jump line="100" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
+      <jump line="82" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
+      <jump line="83" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="156" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="72" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
+      <jump line="50" column="18" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/batchnorm.py" />
+      <jump line="102" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="46" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/outer_product_qfunction.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="144" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="126" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="40" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="11" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="162" column="49" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="89" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/ou_strategy.py" />
+      <jump line="25" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" />
+      <jump line="61" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="56" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="87" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="53" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="1" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="88" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/qlearning/ddpg_increase_gamma.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="292" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="273" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="156" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="163" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="130" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="131" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="66" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="78" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="121" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="91" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="274" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/predictors/torch.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="182" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="89" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="15" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" />
+      <jump line="94" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" />
+      <jump line="59" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="292" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="0" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="116" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="122" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="124" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="131" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="91" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3571,8 +3561,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvYnMgPSBucC5leHBhbmRfZGltcyhvYnMsIGF4aXM9MCkKICAgICAgICBvYnMgPSBucC5leHBhbmRfZGltcyhvYnMsIGF4aXM9MSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11106,25 +11096,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>elem_or_tuple</text>
       </register>
       <register name="/" type="4">
-        <text>Mlp</text>
+        <text>np_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZGV2LXNkcWxyLXh5LXJhbXB1cC1nYW1tYSIK</text>
+        <text encoding="base64">ZGVmIGVsZW1fb3JfdHVwbGVfdG9fdmFyaWFibGUoZWxlbV9vcl90dXBsZSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoID0gc2VsZi5oaWRkZW5fYWN0aXZhdGlvbihzZWxmLmZjMihoKSkK</text>
+        <text encoding="base64">ICAgICAgICBvYnMgPSBucC5leHBhbmRfZGltcyhvYnMsIGF4aXM9MCkKICAgICAgICBvYnMgPSBucC5leHBhbmRfZGltcyhvYnMsIGF4aXM9MSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYnMgPSBWYXJpYWJsZShwdHUuZnJvbV9udW1weShvYnMpLmZsb2F0KCksIHJlcXVpcmVzX2dyYWQ9RmFsc2UpCiAgICAgICAgb2JzID0gbnAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW5faW5pdChzZWxmLmZjMi53ZWlnaHQpCiAgICAgICAgc2VsZi5mYzIuYmlhcy5kYXRhLmZpbGxfKDApCg==</text>
+        <text encoding="base64">ICAgICAgICBvYnMgPSBucAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11159,19 +11149,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMS5iaWFzLmRhdGEuZmlsbF8oMCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW5faW5pdChzZWxmLmZjMS53ZWlnaHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMSA9IG5uLkxpbmVhcihpbnB1dF9kaW0sIGZjMV9zaXplKQogICAgICAgIHNlbGYuZmMyID0gbm4uTGluZWFyKGZjMV9zaXplLCBmYzJfc2l6ZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9kaW0sCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mY3MuYXBwZW5kKGZjKQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwucWZ1bmN0aW9ucy5zdGF0ZV9kaXN0YW5jZS5zaGFwZWRfcWZ1bmN0aW9uIGltcG9ydCBVbml2ZXJzYWxRZnVuY3Rpb24K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12613,19 +12603,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBhc3NlcnQgbGVuKGhpZGRlbl9zKQo=</text>
+        <text encoding="base64">Y2xhc3MgVW5pdmVyc2FsUG9saWN5KEZlZWRGb3J3YXJkUG9saWN5KToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmMyX3NpemUsCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2FjdGlvbihzZWxmLCBvYnMpOgogICAgICAgIG9icyA9IG5wLmV4cGFuZF9kaW1zKG9icywgYXhpcz0wKQogICAgICAgIG9icyA9IFZhcmlhYmxlKHB0dS5mcm9tX251bXB5KG9icykuZmxvYXQoKSwgcmVxdWlyZXNfZ3JhZD1GYWxzZSkKICAgICAgICBhY3Rpb24gPSBzZWxmLl9fY2FsbF9fKG9icykKICAgICAgICBhY3Rpb24gPSBhY3Rpb24uc3F1ZWV6ZSgwKQogICAgICAgIHJldHVybiBwdHUuZ2V0X251bXB5KGFjdGlvbiksIHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Mlp</last-search>
+      <last-search>np_</last-search>
       <last-offset />
-      <last-pattern>Mlp</last-pattern>
+      <last-pattern>np_</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12633,33 +12623,28 @@
     </search>
     <history>
       <history-search>
-        <entry>num_batches</entry>
-        <entry>Outer</entry>
-        <entry>print</entry>
-        <entry>self.policy</entry>
-        <entry>naf</entry>
-        <entry>=False</entry>
-        <entry>sample</entry>
-        <entry>output_dim</entry>
-        <entry>hidden_init</entry>
-        <entry>qf =</entry>
-        <entry>qf_class</entry>
-        <entry>time</entry>
-        <entry>rampup</entry>
-        <entry>ramp</entry>
-        <entry>schedule</entry>
+        <entry>basic</entry>
+        <entry>generic</entry>
         <entry>discount</entry>
+        <entry encoding="base64">XDxnZXRfZ2VuZXJpY19wYXRoX2luZm9ybWF0aW9uXD4=</entry>
+        <entry>100</entry>
         <entry>self.discount</entry>
-        <entry>epoch</entry>
-        <entry>__set</entry>
-        <entry>Mlp</entry>
+        <entry>data</entry>
+        <entry>dataset_path</entry>
+        <entry>sample_goals</entry>
+        <entry>np_to_pytoch</entry>
+        <entry encoding="base64">XDxucF90b19weXRvcmNoX2JhdGNoXD4=</entry>
+        <entry>ipd</entry>
+        <entry>state</entry>
+        <entry>asdf</entry>
+        <entry>self.qf(</entry>
+        <entry>t_target</entry>
+        <entry>FeedForward</entry>
+        <entry>Uni</entry>
+        <entry>obs</entry>
+        <entry>np_</entry>
       </history-search>
       <history-cmd>
-        <entry>309</entry>
-        <entry>140</entry>
-        <entry>d</entry>
-        <entry>57</entry>
-        <entry>136</entry>
         <entry>49</entry>
         <entry>206</entry>
         <entry>%s/pool/replay_buffer/g</entry>
@@ -12672,8 +12657,13 @@
         <entry>50</entry>
         <entry>169</entry>
         <entry>vs[</entry>
+        <entry>115</entry>
         <entry>vsp</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
+        <entry>52</entry>
+        <entry>30</entry>
+        <entry>29</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
