@@ -89,12 +89,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1501465351557">
-        <mark key="'" line="330" column="15" />
-        <mark key="[" line="330" column="15" />
-        <mark key="]" line="330" column="16" />
-        <mark key="." line="330" column="16" />
-        <mark key="^" line="298" column="49" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1501466223673">
+        <mark key="'" line="231" column="52" />
+        <mark key="[" line="313" column="25" />
+        <mark key="]" line="313" column="25" />
+        <mark key="." line="313" column="34" />
+        <mark key="^" line="312" column="41" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
@@ -3436,17 +3436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="182" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
-      <jump line="89" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="15" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action.py" />
-      <jump line="59" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
-      <jump line="292" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="0" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="116" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="122" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3536,6 +3525,17 @@
       <jump line="247" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="297" column="66" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="330" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="227" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="277" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="350" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="348" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="273" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="69" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="70" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="90" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="221" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="107" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="231" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3556,7 +3556,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>position_from_angles</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11090,13 +11090,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>position_from_angles</text>
       </register>
       <register name="/" type="4">
-        <text>6</text>
+        <text>position_from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXdhcmRfd2VpZ2h0cz1bMSwgMSwgMSwgMSwgMC4wMSwgMC4wMV0sCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbnMgPSBwb3NpdGlvbl9mcm9tX2FuZ2xlcyhvYnNlcnZhdGlvbnMpCiAgICAgICAgZ29hbF9wb3NpdGlvbnMgPSBwb3NpdGlvbl9mcm9tX2FuZ2xlcyhnb2FsX3N0YXRlcykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
@@ -12607,9 +12607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>6</last-search>
+      <last-search>position_from</last-search>
       <last-offset />
-      <last-pattern>6</last-pattern>
+      <last-pattern>position_from</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12617,8 +12617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qf_loss</entry>
-        <entry>self.discount</entry>
         <entry>ipd</entry>
         <entry>goal</entry>
         <entry>asdf</entry>
@@ -12637,6 +12635,8 @@
         <entry>torch.cat</entry>
         <entry>torch</entry>
         <entry>6</entry>
+        <entry>set_goal</entry>
+        <entry>position_from</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
