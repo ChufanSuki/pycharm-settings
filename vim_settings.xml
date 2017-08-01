@@ -1452,12 +1452,11 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/ddpg_cheetah.py" timestamp="1498090171096">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1501612251090">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1501613542174">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="86" column="26" />
-        <mark key="]" line="86" column="26" />
-        <mark key="^" line="85" column="17" />
-        <mark key="." line="86" column="35" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1486701468147">
         <mark key="'" line="175" column="14" />
@@ -3640,8 +3639,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>next_obs_pred</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRlbHRhID0gbmV4dF9vYnMgLSBvYnMKICAgICAgICAjIGRlbHRhX3ByZWQgPSBzZWxmLm1vZGVsKG9icywgYWN0aW9ucykKICAgICAgICAjIGVycm9ycyA9IChkZWx0YSAtIGRlbHRhX3ByZWQpKioyCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11184,16 +11183,16 @@
         <text encoding="base64">ICAgICAgICAjIG5leHRfb2JzX3ByZWQgPSBzZWxmLm1vZGVsKG9icywgYWN0aW9ucykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzWydMb3NzIFZhbGlkYXRpb24gLSBUcmFpbiBHYXAnXSA9ICgKICAgICAgICAgICAgc3RhdGlzdGljc1snVmFsaWRhdGlvbiBMb3NzIE1lYW4nXQogICAgICAgICAgICAtIHN0YXRpc3RpY3NbJ1RyYWluIExvc3MgTWVhbiddCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRlbHRhID0gbmV4dF9vYnMgLSBvYnMKICAgICAgICAjIGRlbHRhX3ByZWQgPSBzZWxmLm1vZGVsKG9icywgYWN0aW9ucykKICAgICAgICAjIGVycm9ycyA9IChkZWx0YSAtIGRlbHRhX3ByZWQpKioyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaW1lbnNpb25fZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWx0YSA9IG5leHRfb2JzIC0gb2JzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpbWVuc2lvbl9kYXRhID0gZGF0YVs6LCBkaW1faV0K</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzWydMb3NzIFZhbGlkYXRpb24gLSBUcmFpbiBHYXAnXSA9ICgKICAgICAgICAgICAgc3RhdGlzdGljc1snVmFsaWRhdGlvbiBMb3NzIE1lYW4nXQogICAgICAgICAgICAtIHN0YXRpc3RpY3NbJ1RyYWluIExvc3MgTWVhbiddCiAgICAgICAgKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11228,19 +11227,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaW1lbnNpb25fZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpbWVuc2lvbl9kYXRhID0gZGF0YVs6LCBkaW1faV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9iYXRjaF9pdGVyYXRvcihudW1fdW5pcXVlX2JhdGNoZXMsIGJhdGNoX2RpY3QpOgogICAgd2hpbGUgVHJ1ZToKICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fdW5pcXVlX2JhdGNoZXMpOgogICAgICAgICAgICB5aWVsZCBiYXRjaF9kaWN0W2ldCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJEb25lIGNyZWF0aW5nIGRhdGFzZXQuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12682,10 +12681,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV3YXJkX3dlaWdodHM9WzEsIDEsIDEsIDEsIDAsIDBdLAo=</text>
+        <text encoding="base64">ZGVmIGNyZWF0ZV9iYXRjaF9pdGVyYXRvcihudW1fdW5pcXVlX2JhdGNoZXMsIGJhdGNoX2RpY3QpOgogICAgd2hpbGUgVHJ1ZToKICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fdW5pcXVlX2JhdGNoZXMpOgogICAgICAgICAgICB5aWVsZCBiYXRjaF9kaWN0W2ldCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcG9jaF9kaXNjb3VudF9zY2hlZHVsZV9jbGFzcz1SYW1wVXBTY2hlZHVsZSwKICAgICAgICBlcG9jaF9kaXNjb3VudF9zY2hlZHVsZV9wYXJhbXM9ZGljdCgKICAgICAgICAgICAgbWluX3ZhbHVlPTAuLAogICAgICAgICAgICBtYXhfdmFsdWU9MC4sCiAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MTAwLAogICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJEb25lIGNyZWF0aW5nIGRhdGFzZXQuIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
