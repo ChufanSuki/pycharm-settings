@@ -1452,12 +1452,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/pytorch/ddpg_cheetah.py" timestamp="1498090171096">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1501608266919">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1501612251090">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="119" column="20" />
-        <mark key="]" line="119" column="25" />
-        <mark key="^" line="119" column="25" />
-        <mark key="." line="119" column="25" />
+        <mark key="[" line="86" column="26" />
+        <mark key="]" line="86" column="26" />
+        <mark key="^" line="85" column="17" />
+        <mark key="." line="86" column="35" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1486701468147">
         <mark key="'" line="175" column="14" />
@@ -3641,7 +3641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Loss</text>
+        <text>next_obs_pred</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11175,13 +11175,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Loss</text>
+        <text>next_obs_pred</text>
       </register>
       <register name="/" type="4">
         <text>next_state_np</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkX25vb3BfYWN0aW9uPUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIG5leHRfb2JzX3ByZWQgPSBzZWxmLm1vZGVsKG9icywgYWN0aW9ucykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzWydMb3NzIFZhbGlkYXRpb24gLSBUcmFpbiBHYXAnXSA9ICgKICAgICAgICAgICAgc3RhdGlzdGljc1snVmFsaWRhdGlvbiBMb3NzIE1lYW4nXQogICAgICAgICAgICAtIHN0YXRpc3RpY3NbJ1RyYWluIExvc3MgTWVhbiddCiAgICAgICAgKQo=</text>
