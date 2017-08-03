@@ -1473,12 +1473,12 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1486701468147">
         <mark key="'" line="175" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" timestamp="1501697863270">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="36" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" timestamp="1501722923801">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="53" column="43" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1495152023656">
         <mark key="'" line="6" column="20" />
@@ -3565,8 +3565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="17" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="26" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="125" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="71" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3665,6 +3663,8 @@
       <jump line="39" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/pusher.xml" />
       <jump line="60" column="75" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/pusher/greedy_action_partial_state.py" />
+      <jump line="37" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
+      <jump line="38" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3685,7 +3685,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>goal</text>
+        <text>-</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11219,13 +11219,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>goal</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nZXRfYm9keV9jb20oImdvYWwiKSwgICMgdHJ5IHRvIG1vdmUgdGhlIGFybSB0byB0aGUgZ29hbAo=</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGVyX2VzX3BhcmFtcz1kaWN0KAogICAgICAgICAgICBtYXhfc2lnbWE9MC41LAogICAgICAgICAgICBtaW5fc2lnbWE9MC41LAogICAgICAgICksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnb2Fsc1s6LCA6N10gPSBucC5yYW5kb20udW5pZm9ybSgKICAgICAgICAgICAgLW5wLnBpLAogICAgICAgICAgICBucC5waSwKICAgICAgICAgICAgc2l6ZT0oc2VsZi5udW1fc2FtcGxlcywgNyksCiAgICAgICAgKQo=</text>
@@ -12742,7 +12742,7 @@
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
