@@ -187,6 +187,11 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/run_dqn_ram.py" timestamp="1488816710729">
         <mark key="'" line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda/envs/rail-dev/lib/python3.5/site-packages/gym/envs/mujoco/reacher.py" timestamp="1502240548129">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="41" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/core/neuralnet.py" timestamp="1487291449706">
         <mark key="'" line="14" column="6" />
         <mark key="[" line="298" column="0" />
@@ -828,6 +833,13 @@
         <mark key="]" line="391" column="34" />
         <mark key="." line="391" column="34" />
         <mark key="^" line="391" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1502240670458">
+        <mark key="'" line="317" column="8" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="47" />
+        <mark key="." line="317" column="0" />
+        <mark key="^" line="434" column="39" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/3-6-atari-fixed-rbs-1e6.csv" timestamp="1488850182903">
         <mark key="'" line="23" column="35" />
@@ -2184,12 +2196,12 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_testing_utils.py" timestamp="1493058003332">
         <mark key="'" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" timestamp="1502178241002">
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" timestamp="1502240751410">
         <mark key="'" line="132" column="12" />
-        <mark key="[" line="87" column="14" />
-        <mark key="]" line="87" column="15" />
-        <mark key="." line="87" column="15" />
-        <mark key="^" line="89" column="54" />
+        <mark key="[" line="144" column="44" />
+        <mark key="]" line="144" column="43" />
+        <mark key="." line="144" column="43" />
+        <mark key="^" line="144" column="43" />
       </file>
       <file name="$USER_HOME$/git/icnn/RL/src/naf.py" timestamp="1480646505749">
         <mark key="'" line="80" column="8" />
@@ -2917,18 +2929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="48" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="47" column="50" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="49" column="44" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="51" column="10" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="38" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="54" column="10" filename="$USER_HOME$/git/rllab-rail-private/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
-      <jump line="35" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="104" column="37" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="166" column="42" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
       <jump line="109" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
       <jump line="92" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/modules.py" />
@@ -3017,6 +3017,18 @@
       <jump line="38" column="30" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="17" column="6" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
       <jump line="61" column="35" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/ddpg.py" />
+      <jump line="69" column="29" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="4" column="6" filename="$USER_HOME$/anaconda/envs/rail-dev/lib/python3.5/site-packages/gym/envs/mujoco/reacher.py" />
+      <jump line="222" column="46" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="433" column="39" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="220" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="311" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="434" column="40" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="225" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="317" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3034,7 +3046,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>discount0p99-full-with-xy&quot;</text>
+        <text>1000</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11680,25 +11692,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>discount0p99-full-with-xy&quot;</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>Adam</text>
+        <text>def compute_rewa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmMxX3NpemUsCiAgICAgICAgICAgIGZjMl9zaXplLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRfY3RybCA9IC0gbnAuc3F1YXJlKGFjdGlvbikuc3VtKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA0MDAsCiAgICAgICAgMzAwLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRfY3RybCA9IC0gbnAuc3F1YXJlKGFjdGlvbikuc3VtKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRfY3RybCA9IC0gbnAuc3F1YXJlKGFjdGlvbikuc3VtKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRfY3RybCA9IC0gbnAuc3F1YXJlKGFjdGlvbikuc3VtKCkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11733,19 +11745,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRfY3RybCA9IC0gbnAuc3F1YXJlKGFjdGlvbikuc3VtKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICA0MDAsCiAgICAgICAgMzAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13190,16 +13202,16 @@
         <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZ29hbF9zdGF0ZXMuc2hhcGUgPSBwYXRoX2xlbmd0aCB4IGdvYWxfZGltCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Adam</last-search>
+      <last-search>def compute_rewa</last-search>
       <last-offset />
-      <last-pattern>Adam</last-pattern>
+      <last-pattern>def compute_rewa</last-pattern>
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
@@ -13207,8 +13219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Smooth</entry>
-        <entry>modles</entry>
         <entry>Huber</entry>
         <entry>modules</entry>
         <entry>28</entry>
@@ -13227,6 +13237,8 @@
         <entry>tau</entry>
         <entry>learnin</entry>
         <entry>Adam</entry>
+        <entry>reward</entry>
+        <entry>def compute_rewa</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
