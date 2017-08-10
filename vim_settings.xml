@@ -13,8 +13,8 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1502178186235">
-        <mark key="'" line="38" column="30" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1502326420341">
+        <mark key="'" line="89" column="12" />
         <mark key="[" line="306" column="24" />
         <mark key="]" line="306" column="24" />
         <mark key="." line="306" column="24" />
@@ -834,8 +834,8 @@
         <mark key="." line="391" column="34" />
         <mark key="^" line="391" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1502240670458">
-        <mark key="'" line="317" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1502326058477">
+        <mark key="'" line="425" column="8" />
         <mark key="[" line="317" column="0" />
         <mark key="]" line="317" column="47" />
         <mark key="." line="317" column="0" />
@@ -2196,8 +2196,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_testing_utils.py" timestamp="1493058003332">
         <mark key="'" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" timestamp="1502240751410">
-        <mark key="'" line="132" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" timestamp="1502325493319">
+        <mark key="'" line="136" column="23" />
         <mark key="[" line="144" column="44" />
         <mark key="]" line="144" column="43" />
         <mark key="." line="144" column="43" />
@@ -2929,14 +2929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="92" column="18" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/modules.py" />
-      <jump line="59" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_pytorch_util.py" />
-      <jump line="177" column="14" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_pytorch_util.py" />
-      <jump line="7" column="25" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_pytorch_util.py" />
       <jump line="167" column="9" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_pytorch_util.py" />
       <jump line="9" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_pytorch_util.py" />
       <jump line="165" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_pytorch_util.py" />
@@ -2985,7 +2977,6 @@
       <jump line="308" column="19" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="310" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="26" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="103" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="108" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="110" column="31" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="115" column="15" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3029,6 +3020,15 @@
       <jump line="84" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="225" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="317" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="136" column="23" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
+      <jump line="154" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="228" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="320" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="436" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="425" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="103" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="89" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11695,7 +11695,7 @@
         <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>def compute_rewa</text>
+        <text>discount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXdhcmRfY3RybCA9IC0gbnAuc3F1YXJlKGFjdGlvbikuc3VtKCkK</text>
@@ -13205,13 +13205,13 @@
         <text encoding="base64">ICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGdvYWxzLnJlcGVhdChsZW4ocGF0aFsnb2JzZXJ2YXRpb25zJ10pLCAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>def compute_rewa</last-search>
+      <last-search>discount</last-search>
       <last-offset />
-      <last-pattern>def compute_rewa</last-pattern>
+      <last-pattern>discount</last-pattern>
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
@@ -13219,8 +13219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Huber</entry>
-        <entry>modules</entry>
         <entry>28</entry>
         <entry>self.fc</entry>
         <entry>ip</entry>
@@ -13237,8 +13235,10 @@
         <entry>tau</entry>
         <entry>learnin</entry>
         <entry>Adam</entry>
-        <entry>reward</entry>
         <entry>def compute_rewa</entry>
+        <entry>def log</entry>
+        <entry>reward</entry>
+        <entry>discount</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
@@ -13259,8 +13259,8 @@
         <entry>33</entry>
         <entry>28</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
