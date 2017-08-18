@@ -200,6 +200,9 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="28" column="45" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/naf.py" timestamp="1503025852606">
+        <mark key="'" line="204" column="13" />
+      </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
         <mark key="[" line="56" column="0" />
@@ -2907,11 +2910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="436" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="425" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/envs/multitask/reacher_env.py" />
-      <jump line="103" column="34" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="89" column="12" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="4" column="4" filename="$USER_HOME$/git/rllab-rail-private/rllab/sampler/utils.py" />
       <jump line="111" column="8" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/state_distance/train_q.py" />
@@ -3007,6 +3005,11 @@
       <jump line="118" column="10" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/distributional/distributional_ddpg.py" />
       <jump line="185" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/distributional/distributional_ddpg.py" />
       <jump line="74" column="9" filename="$USER_HOME$/git/rllab-rail-private/railrl/experiments/one_offs/distributional_ddpg.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/naf.py" />
+      <jump line="202" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/naf.py" />
+      <jump line="203" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/naf.py" />
+      <jump line="227" column="21" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/naf.py" />
+      <jump line="204" column="13" filename="$USER_HOME$/git/rllab-rail-private/railrl/railrl/torch/naf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11673,7 +11676,7 @@
         <text>min</text>
       </register>
       <register name="/" type="4">
-        <text>rewar</text>
+        <text>bn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9qZWN0ZWRfcmV0dXJucyA9IHRvcmNoLm1pbihwcm9qZWN0ZWRfcmV0dXJucywgc2VsZi5yZXR1cm5zX21heCkK</text>
@@ -13187,9 +13190,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rewar</last-search>
+      <last-search>bn</last-search>
       <last-offset />
-      <last-pattern>rewar</last-pattern>
+      <last-pattern>bn</last-pattern>
       <last-replace>mean_bellman_error</last-replace>
       <last-substitute>ms_bellman_error</last-substitute>
       <last-dir>1</last-dir>
@@ -13197,7 +13200,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.atom</entry>
         <entry>Variable</entry>
         <entry>getit</entry>
         <entry>tile</entry>
@@ -13217,6 +13219,7 @@
         <entry>floor</entry>
         <entry>reward</entry>
         <entry>rewar</entry>
+        <entry>bn</entry>
       </history-search>
       <history-cmd>
         <entry>699</entry>
