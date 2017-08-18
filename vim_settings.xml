@@ -86,8 +86,8 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1503079967638">
-        <mark key="'" line="427" column="53" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1503086645468">
+        <mark key="'" line="235" column="4" />
         <mark key="[" line="406" column="0" />
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
@@ -3554,9 +3554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
-      <jump line="38" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
-      <jump line="40" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="109" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="107" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="67" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
@@ -3654,6 +3651,9 @@
       <jump line="148" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="183" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="185" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="402" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="149" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="235" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11211,7 +11211,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>position_from</text>
+        <text>log_diag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9R29hbFN0YXRlWFlSZXdhcmRSZWFjaGVyRW52LAo=</text>
@@ -12725,9 +12725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>position_from</last-search>
+      <last-search>log_diag</last-search>
       <last-offset />
-      <last-pattern>position_from</last-pattern>
+      <last-pattern>log_diag</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12735,7 +12735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>observation</entry>
         <entry>goal</entry>
         <entry>obs</entry>
         <entry>scale</entry>
@@ -12755,6 +12754,7 @@
         <entry>batch</entry>
         <entry>angle</entry>
         <entry>position_from</entry>
+        <entry>log_diag</entry>
       </history-search>
       <history-cmd>
         <entry>164</entry>
