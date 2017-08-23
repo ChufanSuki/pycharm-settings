@@ -65,12 +65,12 @@
         <mark key="^" line="272" column="2" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_goal_model.py" timestamp="1503454927600">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_goal_model.py" timestamp="1503457932008">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="48" column="52" />
+        <mark key="^" line="48" column="52" />
+        <mark key="." line="48" column="52" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/dqicnn.py" timestamp="1480628318277">
         <mark key="'" line="53" column="54" />
@@ -2629,12 +2629,12 @@
       <file name="$USER_HOME$/git/rllab-rail/scripts/sync_s3.py" timestamp="1500584483448">
         <mark key="'" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/goal_model_based_reacher.py" timestamp="1503455256770">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/goal_model_based_reacher.py" timestamp="1503457857052">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="4" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
         <mark key="^" line="9" column="42" />
-        <mark key="." line="3" column="4" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/sampler/base.py" timestamp="1493942098463">
         <mark key="'" line="67" column="24" />
@@ -2777,12 +2777,11 @@
         <mark key="^" line="65" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/model_based_reacher.py" timestamp="1503456343927">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/model_based_reacher.py" timestamp="1503457507392">
         <mark key="'" line="59" column="31" />
-        <mark key="[" line="66" column="61" />
-        <mark key="]" line="67" column="36" />
-        <mark key="^" line="67" column="36" />
-        <mark key="." line="67" column="36" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_cheetah.py" timestamp="1498520733621">
         <mark key="'" line="0" column="0" />
@@ -3602,7 +3601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="159" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="142" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="148" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3702,6 +3700,7 @@
       <jump line="58" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/goal_model_based_reacher.py" />
       <jump line="15" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/tensorboard_logger.py" />
       <jump line="121" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_goal_model.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3721,8 +3720,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50Yl9sb2dnZXIuc2NhbGFyX3N1bW1hcnkoIm5fc3RlcHNfdG90YWwiLCBucC5yYW5kb20ucmFuZCgxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbl9zdGVwc190b3RhbCkK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11256,25 +11255,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>goal</text>
+        <text>env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfYmF0Y2goc2VsZiwgdHJhaW5pbmc9VHJ1ZSk6CiAgICAgICAgcmVwbGF5X2J1ZmZlciA9IHNlbGYucmVwbGF5X2J1ZmZlci5nZXRfcmVwbGF5X2J1ZmZlcih0cmFpbmluZykKICAgICAgICBiYXRjaF9zaXplID0gbWluKAogICAgICAgICAgICByZXBsYXlfYnVmZmVyLm51bV9zdGVwc19jYW5fc2FtcGxlKCksCiAgICAgICAgICAgIHNlbGYuYmF0Y2hfc2l6ZQogICAgICAgICkKICAgICAgICBiYXRjaCA9IHJlcGxheV9idWZmZXIucmFuZG9tX2JhdGNoKGJhdGNoX3NpemUpCiAgICAgICAgcmV0dXJuIG5wX3RvX3B5dG9yY2hfYmF0Y2goYmF0Y2gpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50Yl9sb2dnZXIuc2NhbGFyX3N1bW1hcnkoIm5fc3RlcHNfdG90YWwiLCBucC5yYW5kb20ucmFuZCgxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbl9zdGVwc190b3RhbCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNhbXBsZV9zaXplPTEwMDAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZW52ID0gZGF0YVsnZW52J10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlucz10bXAsCg==</text>
+        <text encoding="base64">ICAgICMgZW52ID0gR29hbFN0YXRlU2ltcGxlU3RhdGVSZWFjaGVyRW52KCkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11309,19 +11308,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0bXAgPSBoaXN0ZWRnZXNfZXF1YWxOKHZhbHVlcy5mbGF0dGVuKCksIGJpbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnRlbnNvcmJvYXJkLnRlbnNvcmJvYXJkIGltcG9ydCBtYWluCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGVmIF9kb190cmFpbmluZyhzZWxmKToKICAgICMgICAgIGJhdGNoID0gc2VsZi5nZXRfYmF0Y2goKQogICAgIyAgICAgdHJhaW5fZGljdCA9IHNlbGYuZ2V0X3RyYWluX2RpY3QoYmF0Y2gpCiAgICAjCiAgICAjICAgICBzZWxmLm9wdGltaXplci56ZXJvX2dyYWQoKQogICAgIyAgICAgbG9zcyA9IHRyYWluX2RpY3RbJ0xvc3MnXQogICAgIyAgICAgbG9zcy5iYWNrd2FyZCgpCiAgICAjICAgICBzZWxmLm9wdGltaXplci5zdGVwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50Yl9sb2dnZXIuc2NhbGFyX3N1bW1hcnkoIm5fc3RlcHNfdG90YWwiLCBucC5yYW5kb20ucmFuZCgxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbl9zdGVwc190b3RhbCkK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12763,19 +12762,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlucz10bXAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG4sIGJpbnMsIHBhdGNoZXMgPSBwbHQuaGlzdCh4LCBoaXN0ZWRnZXNfZXF1YWxOKHgsIDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICB0bXAgPSBoaXN0ZWRnZXNfZXF1YWxOKHZhbHVlcy5mbGF0dGVuKCksIGJpbnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>goal</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>goal</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12788,7 +12787,6 @@
         <entry>reward</entry>
         <entry>position</entry>
         <entry>snapshot</entry>
-        <entry>env</entry>
         <entry>next_obs</entry>
         <entry>convert</entry>
         <entry encoding="base64">XDxjb252ZXJ0X29ic190b19nb2FsX3N0YXRlc1w+</entry>
@@ -12803,6 +12801,7 @@
         <entry>ist</entry>
         <entry>ogram</entry>
         <entry>goal</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
