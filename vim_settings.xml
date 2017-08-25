@@ -168,6 +168,11 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/policies/gaussian_mlp_policy.py" timestamp="1489966429901">
         <mark key="'" line="77" column="30" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" timestamp="1503524429365">
+        <mark key="'" line="306" column="8" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="223" column="53" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/viskit/frontend.py" timestamp="1485193395721">
         <mark key="'" line="532" column="4" />
         <mark key="[" line="210" column="0" />
@@ -709,6 +714,11 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/split_buffer.py" timestamp="1501616653428">
         <mark key="'" line="30" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1503547627215">
+        <mark key="'" line="32" column="24" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="45" column="52" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/ddpg.py" timestamp="1496985793030">
         <mark key="'" line="0" column="2" />
@@ -2510,8 +2520,10 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="693" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/pusher.py" timestamp="1503684498654">
-        <mark key="'" line="53" column="12" />
+      <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/pusher.py" timestamp="1503696385172">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="57" column="9" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/trpo_memory_ocm.py" timestamp="1493621026997">
         <mark key="'" line="81" column="24" />
@@ -3475,11 +3487,11 @@
         <mark key="^" line="91" column="7" />
         <mark key="." line="91" column="7" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7_dof.py" timestamp="1503693083184">
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="47" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7_dof.py" timestamp="1503696390247">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="63" column="10" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="97" column="25" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/rnn_launchers.py" timestamp="1497505802270">
         <mark key="'" line="22" column="17" />
@@ -3618,7 +3630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="12" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="280" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="374" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3718,6 +3729,7 @@
       <jump line="87" column="38" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/pusher.xml" />
       <jump line="81" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/pusher.xml" />
       <jump line="85" column="42" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/pusher.xml" />
+      <jump line="8" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/pusher.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3737,8 +3749,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>self.multitask_goal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICB1dGlscy5FelBpY2tsZS5fX2luaXRfXyhzZWxmKQogICAgICAgIG11am9jb19lbnYuTXVqb2NvRW52Ll9faW5pdF9fKHNlbGYsICdwdXNoZXIueG1sJywgNSkKCiAgICBkZWYgX3N0ZXAoc2VsZiwgYSk6CiAgICAgICAgdmVjXzEgPSBzZWxmLmdldF9ib2R5X2NvbSgib2JqZWN0IikgLSBzZWxmLmdldF9ib2R5X2NvbSgidGlwc19hcm0iKQogICAgICAgIHZlY18yID0gc2VsZi5nZXRfYm9keV9jb20oIm9iamVjdCIpIC0gc2VsZi5nZXRfYm9keV9jb20oImdvYWwiKQoKICAgICAgICByZXdhcmRfbmVhciA9IC0gbnAubGluYWxnLm5vcm0odmVjXzEpCiAgICAgICAgcmV3YXJkX2Rpc3QgPSAtIG5wLmxpbmFsZy5ub3JtKHZlY18yKQogICAgICAgIHJld2FyZF9jdHJsID0gLSBucC5zcXVhcmUoYSkuc3VtKCkKICAgICAgICByZXdhcmQgPSByZXdhcmRfZGlzdCArIDAuMSAqIHJld2FyZF9jdHJsICsgMC41ICogcmV3YXJkX25lYXIKCiAgICAgICAgc2VsZi5kb19zaW11bGF0aW9uKGEsIHNlbGYuZnJhbWVfc2tpcCkKICAgICAgICBvYiA9IHNlbGYuX2dldF9vYnMoKQogICAgICAgIGRvbmUgPSBGYWxzZQogICAgICAgIHJldHVybiBvYiwgcmV3YXJkLCBkb25lLCBkaWN0KHJld2FyZF9kaXN0PXJld2FyZF9kaXN0LAogICAgICAgICAgICAgICAgcmV3YXJkX2N0cmw9cmV3YXJkX2N0cmwpCgogICAgZGVmIHZpZXdlcl9zZXR1cChzZWxmKToKICAgICAgICBzZWxmLnZpZXdlci5jYW0udHJhY2tib2R5aWQgPSAtMQogICAgICAgIHNlbGYudmlld2VyLmNhbS5kaXN0YW5jZSA9IDQuMAoKICAgIGRlZiByZXNldF9tb2RlbChzZWxmKToKICAgICAgICBxcG9zID0gc2VsZi5pbml0X3Fwb3MKCiAgICAgICAgc2VsZi5nb2FsX3BvcyA9IG5wLmFzYXJyYXkoWzAsIDBdKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHNlbGYuY3lsaW5kZXJfcG9zID0gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgICAgICAgICAgICAgIHNlbGYubnBfcmFuZG9tLnVuaWZvcm0obG93PS0wLjMsIGhpZ2g9MCwgc2l6ZT0xKSwKICAgICAgICAgICAgICAgICAgICBzZWxmLm5wX3JhbmRvbS51bmlmb3JtKGxvdz0tMC4yLCBoaWdoPTAuMiwgc2l6ZT0xKV0pCiAgICAgICAgICAgIGlmIG5wLmxpbmFsZy5ub3JtKHNlbGYuY3lsaW5kZXJfcG9zIC0gc2VsZi5nb2FsX3BvcykgPiAwLjE3OgogICAgICAgICAgICAgICAgYnJlYWsKCiAgICAgICAgcXBvc1stNDotMl0gPSBzZWxmLmN5bGluZGVyX3BvcwogICAgICAgIHFwb3NbLTI6XSA9IHNlbGYuZ29hbF9wb3MKICAgICAgICBxdmVsID0gc2VsZi5pbml0X3F2ZWwgKyBzZWxmLm5wX3JhbmRvbS51bmlmb3JtKGxvdz0tMC4wMDUsCiAgICAgICAgICAgICAgICBoaWdoPTAuMDA1LCBzaXplPXNlbGYubW9kZWwubnYpCiAgICAgICAgcXZlbFstNDpdID0gMAogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCiAgICAgICAgcmV0dXJuIHNlbGYuX2dldF9vYnMoKQoKICAgIGRlZiBfZ2V0X29icyhzZWxmKToKICAgICAgICByZXR1cm4gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgICAgICBzZWxmLm1vZGVsLmRhdGEucXBvcy5mbGF0Wzo3XSwKICAgICAgICAgICAgc2VsZi5tb2RlbC5kYXRhLnF2ZWwuZmxhdFs6N10sCiAgICAgICAgICAgIHNlbGYuZ2V0X2JvZHlfY29tKCJ0aXBzX2FybSIpLAogICAgICAgICAgICBzZWxmLmdldF9ib2R5X2NvbSgib2JqZWN0IiksCiAgICAgICAgICAgIHNlbGYuZ2V0X2JvZHlfY29tKCJnb2FsIiksCiAgICAgICAgXSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11278,7 +11290,7 @@
         <text>limit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxcG9zID0gc2VsZi5tb2RlbC5kYXRhLnFwb3MuZmxhdHRlbigpCiAgICAgICAgcXZlbCA9IHNlbGYubW9kZWwuZGF0YS5xdmVsLmZsYXR0ZW4oKQogICAgICAgIHFwb3NbLTc6LTRdID0gc2VsZi5tdWx0aXRhc2tfZ29hbAogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICB1dGlscy5FelBpY2tsZS5fX2luaXRfXyhzZWxmKQogICAgICAgIG11am9jb19lbnYuTXVqb2NvRW52Ll9faW5pdF9fKHNlbGYsICdwdXNoZXIueG1sJywgNSkKCiAgICBkZWYgX3N0ZXAoc2VsZiwgYSk6CiAgICAgICAgdmVjXzEgPSBzZWxmLmdldF9ib2R5X2NvbSgib2JqZWN0IikgLSBzZWxmLmdldF9ib2R5X2NvbSgidGlwc19hcm0iKQogICAgICAgIHZlY18yID0gc2VsZi5nZXRfYm9keV9jb20oIm9iamVjdCIpIC0gc2VsZi5nZXRfYm9keV9jb20oImdvYWwiKQoKICAgICAgICByZXdhcmRfbmVhciA9IC0gbnAubGluYWxnLm5vcm0odmVjXzEpCiAgICAgICAgcmV3YXJkX2Rpc3QgPSAtIG5wLmxpbmFsZy5ub3JtKHZlY18yKQogICAgICAgIHJld2FyZF9jdHJsID0gLSBucC5zcXVhcmUoYSkuc3VtKCkKICAgICAgICByZXdhcmQgPSByZXdhcmRfZGlzdCArIDAuMSAqIHJld2FyZF9jdHJsICsgMC41ICogcmV3YXJkX25lYXIKCiAgICAgICAgc2VsZi5kb19zaW11bGF0aW9uKGEsIHNlbGYuZnJhbWVfc2tpcCkKICAgICAgICBvYiA9IHNlbGYuX2dldF9vYnMoKQogICAgICAgIGRvbmUgPSBGYWxzZQogICAgICAgIHJldHVybiBvYiwgcmV3YXJkLCBkb25lLCBkaWN0KHJld2FyZF9kaXN0PXJld2FyZF9kaXN0LAogICAgICAgICAgICAgICAgcmV3YXJkX2N0cmw9cmV3YXJkX2N0cmwpCgogICAgZGVmIHZpZXdlcl9zZXR1cChzZWxmKToKICAgICAgICBzZWxmLnZpZXdlci5jYW0udHJhY2tib2R5aWQgPSAtMQogICAgICAgIHNlbGYudmlld2VyLmNhbS5kaXN0YW5jZSA9IDQuMAoKICAgIGRlZiByZXNldF9tb2RlbChzZWxmKToKICAgICAgICBxcG9zID0gc2VsZi5pbml0X3Fwb3MKCiAgICAgICAgc2VsZi5nb2FsX3BvcyA9IG5wLmFzYXJyYXkoWzAsIDBdKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHNlbGYuY3lsaW5kZXJfcG9zID0gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgICAgICAgICAgICAgIHNlbGYubnBfcmFuZG9tLnVuaWZvcm0obG93PS0wLjMsIGhpZ2g9MCwgc2l6ZT0xKSwKICAgICAgICAgICAgICAgICAgICBzZWxmLm5wX3JhbmRvbS51bmlmb3JtKGxvdz0tMC4yLCBoaWdoPTAuMiwgc2l6ZT0xKV0pCiAgICAgICAgICAgIGlmIG5wLmxpbmFsZy5ub3JtKHNlbGYuY3lsaW5kZXJfcG9zIC0gc2VsZi5nb2FsX3BvcykgPiAwLjE3OgogICAgICAgICAgICAgICAgYnJlYWsKCiAgICAgICAgcXBvc1stNDotMl0gPSBzZWxmLmN5bGluZGVyX3BvcwogICAgICAgIHFwb3NbLTI6XSA9IHNlbGYuZ29hbF9wb3MKICAgICAgICBxdmVsID0gc2VsZi5pbml0X3F2ZWwgKyBzZWxmLm5wX3JhbmRvbS51bmlmb3JtKGxvdz0tMC4wMDUsCiAgICAgICAgICAgICAgICBoaWdoPTAuMDA1LCBzaXplPXNlbGYubW9kZWwubnYpCiAgICAgICAgcXZlbFstNDpdID0gMAogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCiAgICAgICAgcmV0dXJuIHNlbGYuX2dldF9vYnMoKQoKICAgIGRlZiBfZ2V0X29icyhzZWxmKToKICAgICAgICByZXR1cm4gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgICAgICBzZWxmLm1vZGVsLmRhdGEucXBvcy5mbGF0Wzo3XSwKICAgICAgICAgICAgc2VsZi5tb2RlbC5kYXRhLnF2ZWwuZmxhdFs6N10sCiAgICAgICAgICAgIHNlbGYuZ2V0X2JvZHlfY29tKCJ0aXBzX2FybSIpLAogICAgICAgICAgICBzZWxmLmdldF9ib2R5X2NvbSgib2JqZWN0IiksCiAgICAgICAgICAgIHNlbGYuZ2V0X2JvZHlfY29tKCJnb2FsIiksCiAgICAgICAgXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBxcG9zID0gc2VsZi5tb2RlbC5kYXRhLnFwb3MuZmxhdHRlbigpCiAgICAgICAgcXZlbCA9IHNlbGYubW9kZWwuZGF0YS5xdmVsLmZsYXR0ZW4oKQogICAgICAgIHFwb3NbLTc6LTRdID0gc2VsZi5tdWx0aXRhc2tfZ29hbAogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCg==</text>
