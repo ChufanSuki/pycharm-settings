@@ -93,11 +93,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1503549829650">
-        <mark key="'" line="392" column="4" />
-        <mark key="[" line="350" column="45" />
-        <mark key="]" line="350" column="45" />
-        <mark key="." line="350" column="45" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1503619397145">
+        <mark key="'" line="358" column="8" />
+        <mark key="[" line="419" column="13" />
+        <mark key="]" line="419" column="13" />
+        <mark key="." line="419" column="13" />
         <mark key="^" line="350" column="45" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
@@ -3015,12 +3015,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="36" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action_partial_state.py" timestamp="1503523649906">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action_partial_state.py" timestamp="1503619044516">
         <mark key="'" line="92" column="27" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="57" />
-        <mark key="^" line="65" column="60" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="21" />
+        <mark key="^" line="83" column="21" />
+        <mark key="." line="83" column="21" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/ddpg_cheetah_here.py" timestamp="1500327452452">
         <mark key="'" line="15" column="10" />
@@ -3627,7 +3627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" />
       <jump line="306" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="310" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="324" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3727,6 +3726,7 @@
       <jump line="165" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="392" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="124" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="358" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3746,8 +3746,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiaHAtc3dlZXAtZml4ZWQtc2FtcGxpbmctZ29hbC1zdGF0ZSIK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11281,10 +11281,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ramp</text>
+        <text>partial</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2FsZ29fcGFyYW1zLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IFsxLCAxMF0sCg==</text>
@@ -12798,9 +12798,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ramp</last-search>
+      <last-search>partial</last-search>
       <last-offset />
-      <last-pattern>ramp</last-pattern>
+      <last-pattern>partial</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12808,7 +12808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exploration_path</entry>
         <entry>def _step</entry>
         <entry>def eval</entry>
         <entry>exploratio</entry>
@@ -12828,6 +12827,7 @@
         <entry>env</entry>
         <entry>asdf</entry>
         <entry>ramp</entry>
+        <entry>partial</entry>
       </history-search>
       <history-cmd>
         <entry>bp|bd #</entry>
