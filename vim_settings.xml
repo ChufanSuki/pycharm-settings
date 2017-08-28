@@ -96,11 +96,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1503891498777">
-        <mark key="[" line="230" column="28" />
-        <mark key="]" line="230" column="28" />
-        <mark key="^" line="230" column="31" />
-        <mark key="." line="230" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1503892263167">
+        <mark key="[" line="230" column="21" />
+        <mark key="]" line="230" column="22" />
+        <mark key="^" line="230" column="22" />
+        <mark key="." line="230" column="22" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
@@ -3289,6 +3289,13 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1503892169938">
+        <mark key="'" line="99" column="4" />
+        <mark key="[" line="195" column="32" />
+        <mark key="]" line="195" column="33" />
+        <mark key="." line="195" column="33" />
+        <mark key="^" line="195" column="33" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="5" column="0" />
@@ -3578,7 +3585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="85" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/reacher_7dof.xml" />
       <jump line="23" column="90" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/reacher_7dof.xml" />
       <jump line="27" column="95" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/reacher_7dof.xml" />
       <jump line="34" column="99" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/reacher_7dof.xml" />
@@ -3678,6 +3684,7 @@
       <jump line="111" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="215" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="208" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="99" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3698,7 +3705,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>, **kwargs):</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11232,10 +11239,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>, **kwargs):</text>
       </register>
       <register name="/" type="4">
-        <text>paths</text>
+        <text>gamma</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnByZXZpb3VzX3Bvc2l0aW9ucyA9IG5wLmFycmF5KFsKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICAgICAgbnAub25lcygzKSwKICAgICAgICBdKQo=</text>
@@ -12749,9 +12756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>paths</last-search>
+      <last-search>gamma</last-search>
       <last-offset />
-      <last-pattern>paths</last-pattern>
+      <last-pattern>gamma</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12759,7 +12766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sampler</entry>
         <entry>num_steps</entry>
         <entry>parti</entry>
         <entry>sample_</entry>
@@ -12779,6 +12785,7 @@
         <entry>init_w</entry>
         <entry>HEAD</entry>
         <entry>paths</entry>
+        <entry>gamma</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+248</entry>
