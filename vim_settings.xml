@@ -586,6 +586,9 @@
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/training/optimizer.py" timestamp="1490671967187">
         <mark key="'" line="230" column="6" />
       </file>
+      <file name="$USER_HOME$/git/doodad/examples/ec2_launch/ec2_launch_test.py" timestamp="1504204579403">
+        <mark key="'" line="34" column="18" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/exploration_strategies/test_product_strategy.py" timestamp="1487136302772">
         <mark key="'" line="20" column="53" />
         <mark key="[" line="20" column="53" />
@@ -2459,8 +2462,8 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" timestamp="1501626490070">
-        <mark key="'" line="231" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" timestamp="1504204649036">
+        <mark key="'" line="208" column="8" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1503978338326">
         <mark key="'" line="124" column="36" />
@@ -2658,7 +2661,6 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/flat_episode_replay_pool.py" timestamp="1488913344368">
         <mark key="'" line="96" column="8" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/scripts/setup_linux.sh" timestamp="1504200905286" />
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/data_management/replay_buffer.py" timestamp="1487697101832">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="35" column="21" />
@@ -2873,11 +2875,11 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" timestamp="1500582555654">
+      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" timestamp="1504204637498">
         <mark key="'" line="815" column="73" />
-        <mark key="[" line="926" column="105" />
-        <mark key="]" line="926" column="49" />
-        <mark key="." line="926" column="49" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
         <mark key="^" line="926" column="49" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_math_ops.py" timestamp="1488775469959">
@@ -3166,7 +3168,7 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/affine_softmax_policy.py" timestamp="1488341793334">
         <mark key="'" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mount.py" timestamp="1498257205193">
+      <file name="$USER_HOME$/git/doodad/doodad/mount.py" timestamp="1504204604952">
         <mark key="'" line="94" column="32" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_one_char_memory.py" timestamp="1493228045310">
@@ -3599,16 +3601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="46" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/pusher.py" />
-      <jump line="22" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="39" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="21" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="30" column="68" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
-      <jump line="154" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="70" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
       <jump line="71" column="67" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
       <jump line="43" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
@@ -3699,6 +3691,16 @@
       <jump line="22" column="62" filename="$USER_HOME$/git/rllab-rail/scripts/sync_s3.py" />
       <jump line="60" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/residual_gradient_ddpg_comparison.py" />
       <jump line="23" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
+      <jump line="34" column="18" filename="$USER_HOME$/git/doodad/examples/ec2_launch/ec2_launch_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="37" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="142" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="159" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="163" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="174" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="181" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="182" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="208" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11256,7 +11258,7 @@
         <text>ec2</text>
       </register>
       <register name="/" type="4">
-        <text>gym</text>
+        <text>run_exp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vZGUgPSAnZWMyJwo=</text>
@@ -12770,9 +12772,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gym</last-search>
+      <last-search>run_exp</last-search>
       <last-offset />
-      <last-pattern>gym</last-pattern>
+      <last-pattern>run_exp</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12780,7 +12782,6 @@
     </search>
     <history>
       <history-search>
-        <entry>next_</entry>
         <entry>compute</entry>
         <entry>set_title</entry>
         <entry>hist</entry>
@@ -12800,6 +12801,7 @@
         <entry>snap</entry>
         <entry>snapshot</entry>
         <entry>gym</entry>
+        <entry>run_exp</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
