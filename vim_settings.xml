@@ -1575,12 +1575,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/backends/thnn.py" timestamp="1497922066975">
         <mark key="'" line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1504220131405">
-        <mark key="'" line="380" column="56" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="0" />
-        <mark key="." line="363" column="0" />
-        <mark key="^" line="380" column="59" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1504239689559">
+        <mark key="'" line="66" column="51" />
+        <mark key="[" line="297" column="62" />
+        <mark key="]" line="298" column="26" />
+        <mark key="." line="298" column="26" />
+        <mark key="^" line="298" column="26" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/sum_qfunction.py" timestamp="1480361037137">
         <mark key="'" line="6" column="16" />
@@ -3651,8 +3651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="38" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
       <jump line="40" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
       <jump line="37" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
       <jump line="86" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
@@ -3751,6 +3749,8 @@
       <jump line="39" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
       <jump line="40" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
       <jump line="41" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
+      <jump line="266" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="66" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3770,8 +3770,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmVlZC1ob3Jpem9uLXJlYWNoZXItcmFtcC11cC10ZXN0cyIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11305,7 +11305,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -11314,16 +11314,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3FmX2NsYXNzJzogW1VuaXZlcnNhbFFmdW5jdGlvbl0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXBsYXlfYnVmZmVyJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGF5X2J1ZmZlcj1zZWxmLnJlcGxheV9idWZmZXIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3FmX2NsYXNzJzogW1VuaXZlcnNhbFFmdW5jdGlvbl0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXBsYXlfYnVmZmVyJ10sCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11358,19 +11358,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZGljdCgKICAgICAgICAgICAgICAgICAgICBtaW5fdmFsdWU9MSwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZGljdCgKICAgICAgICAgICAgICAgICAgICBtaW5fdmFsdWU9MSwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MTAsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZGljdCgKICAgICAgICAgICAgICAgICAgICBtaW5fdmFsdWU9MSwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTUwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMDAsCiAgICAgICAgICAgICAgICAgICAgcmFtcF9kdXJhdGlvbj01MCwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgICAgIG1pbl92YWx1ZT0xLAogICAgICAgICAgICAgICAgICAgIG1heF92YWx1ZT0xMDAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MTAwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEwMCwKICAgICAgICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3FmX2NsYXNzJzogW1VuaXZlcnNhbFFmdW5jdGlvbl0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgICAgIG1pbl92YWx1ZT0xMDAwLAogICAgICAgICAgICAgICAgICAgIG1heF92YWx1ZT0xMDAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MSwKICAgICAgICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTUwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMDAsCiAgICAgICAgICAgICAgICAgICAgcmFtcF9kdXJhdGlvbj01MCwKICAgICAgICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZGljdCgKICAgICAgICAgICAgICAgICAgICBtaW5fdmFsdWU9MSwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZGljdCgKICAgICAgICAgICAgICAgICAgICBtaW5fdmFsdWU9MSwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MTAsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZGljdCgKICAgICAgICAgICAgICAgICAgICBtaW5fdmFsdWU9MSwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTUwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMDAsCiAgICAgICAgICAgICAgICAgICAgcmFtcF9kdXJhdGlvbj01MCwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgICAgIG1pbl92YWx1ZT0xLAogICAgICAgICAgICAgICAgICAgIG1heF92YWx1ZT0xMDAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MTAwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTEwMCwKICAgICAgICAgICAgICAgICksCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGdvX2NsYXNzPUhvcml6b25GZWRTdGF0ZURpc3RhbmNlUUxlYXJuaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICBtYXhfdmFsdWU9MTAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgICAgIG1pbl92YWx1ZT0xMDAwLAogICAgICAgICAgICAgICAgICAgIG1heF92YWx1ZT0xMDAwLAogICAgICAgICAgICAgICAgICAgIHJhbXBfZHVyYXRpb249MSwKICAgICAgICAgICAgICAgICksCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12812,10 +12812,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGdvX2NsYXNzPU11bHRpdGFza1B1c2hlckVudiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMCwKICAgICAgICAgICAgICAgICAgICByYW1wX2R1cmF0aW9uPTUwLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgbWluX3ZhbHVlPTEsCiAgICAgICAgICAgICAgICAgICAgbWF4X3ZhbHVlPTEwMDAsCiAgICAgICAgICAgICAgICAgICAgcmFtcF9kdXJhdGlvbj01MCwKICAgICAgICAgICAgICAgICksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYW1wbGVfZ29hbF9zdGF0ZV9mb3Jfcm9sbG91dChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5zYW1wbGVfZ29hbF9zdGF0ZXMoMSlbMF0KCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGdvX2NsYXNzPUhvcml6b25GZWRTdGF0ZURpc3RhbmNlUUxlYXJuaW5nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
