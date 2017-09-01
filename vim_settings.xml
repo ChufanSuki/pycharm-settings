@@ -3291,6 +3291,13 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" timestamp="1504238371843">
+        <mark key="'" line="41" column="31" />
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+      </file>
       <file name="$USER_HOME$/git/gym/gym/envs/__init__.py" timestamp="1479949355026">
         <mark key="'" line="467" column="0" />
         <mark key="[" line="465" column="0" />
@@ -3644,10 +3651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="6" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="91" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="38" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
       <jump line="40" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
@@ -3744,6 +3747,10 @@
       <jump line="216" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
       <jump line="217" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
       <jump line="109" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="42" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
+      <jump line="40" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
+      <jump line="41" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/hopper_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11301,7 +11308,7 @@
         <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>replay_buffer</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3FmX2NsYXNzJzogW1VuaXZlcnNhbFFmdW5jdGlvbl0sCg==</text>
@@ -12815,9 +12822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>replay_buffer</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>replay_buffer</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12825,7 +12832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def step</entry>
         <entry>s3</entry>
         <entry>remote</entry>
         <entry>snap</entry>
@@ -12845,6 +12851,7 @@
         <entry>snapshot_</entry>
         <entry>snapshot</entry>
         <entry>replay_buffer</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
@@ -12955,6 +12962,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
