@@ -3317,9 +3317,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1504244508013">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1504297717804">
+        <mark key="'" line="166" column="43" />
         <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="62" />
+        <mark key="]" line="105" column="49" />
+        <mark key="." line="104" column="3" />
+        <mark key="^" line="104" column="3" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3610,7 +3613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="188" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="267" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="181" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
@@ -3710,6 +3712,7 @@
       <jump line="102" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
       <jump line="132" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
       <jump line="4" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
+      <jump line="166" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3730,7 +3733,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmVlZC1ob3Jpem9uLXB1c2hlci1nb2FsLXN0YXRlLWlzLWZ1bGwtc3RhdGUiCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmVlZC1ob3Jpem9uLXJlYWNoZXItcmFtcC10ZXN0cyIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11264,25 +11267,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 'environment'],</text>
+        <text>45</text>
       </register>
       <register name="/" type="4">
-        <text>def convert</text>
+        <text>501</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICIiIgogICAgTXVsdGl0YXNrRW52IEZ1bmN0aW9ucwogICAgIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmVlZC1ob3Jpem9uLXJlYWNoZXItcmFtcC10ZXN0cyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X29icyhzZWxmKToKICAgICAgICByZXR1cm4gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgICAgICBzZWxmLm1vZGVsLmRhdGEucXBvcy5mbGF0Wzo3XSwKICAgICAgICAgICAgc2VsZi5tb2RlbC5kYXRhLnF2ZWwuZmxhdFs6N10sCiAgICAgICAgICAgIHNlbGYuZ2V0X2JvZHlfY29tKCJ0aXBzX2FybSIpLAogICAgICAgICAgICBzZWxmLmdldF9ib2R5X2NvbSgib2JqZWN0IiksCiAgICAgICAgXSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2dldF9vYnMoc2VsZik6CiAgICAgICAgcmV0dXJuIG5wLmNvbmNhdGVuYXRlKFsKICAgICAgICAgICAgc2VsZi5tb2RlbC5kYXRhLnFwb3MuZmxhdFs6N10sCiAgICAgICAgICAgIHNlbGYubW9kZWwuZGF0YS5xdmVsLmZsYXRbOjddLAogICAgICAgICAgICBzZWxmLmdldF9ib2R5X2NvbSgidGlwc19hcm0iKSwKICAgICAgICAgICAgc2VsZi5nZXRfYm9keV9jb20oIm9iamVjdCIpLAogICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X29icyhzZWxmKToKICAgICAgICByZXR1cm4gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgICAgICBzZWxmLm1vZGVsLmRhdGEucXBvcy5mbGF0Wzo3XSwKICAgICAgICAgICAgc2VsZi5tb2RlbC5kYXRhLnF2ZWwuZmxhdFs6N10sCiAgICAgICAgICAgIHNlbGYuZ2V0X2JvZHlfY29tKCJ0aXBzX2FybSIpLAogICAgICAgICAgICBzZWxmLmdldF9ib2R5X2NvbSgib2JqZWN0IiksCiAgICAgICAgXSkKCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11317,19 +11320,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBnb2FsX3N0YXRlX3RvX2N5bGluZGVyX3h5KHNlbGYsIGdvYWxfc3RhdGUpOgogICAgICAgIHBhc3MKCiAgICBAcHJvcGVydHkKICAgIGRlZiBnb2FsX2N5bGluZGVyX3h5KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmdvYWxfc3RhdGVfdG9fY3lsaW5kZXJfeHkoc2VsZi5tdWx0aXRhc2tfZ29hbCkKCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX2dldF9vYnMoc2VsZik6CiAgICAgICAgcmV0dXJuIG5wLmNvbmNhdGVuYXRlKFsKICAgICAgICAgICAgc2VsZi5tb2RlbC5kYXRhLnFwb3MuZmxhdFs6N10sCiAgICAgICAgICAgIHNlbGYubW9kZWwuZGF0YS5xdmVsLmZsYXRbOjddLAogICAgICAgICAgICBzZWxmLmdldF9ib2R5X2NvbSgidGlwc19hcm0iKSwKICAgICAgICAgICAgc2VsZi5nZXRfYm9keV9jb20oIm9iamVjdCIpLAogICAgICAgIF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBnb2FsX3N0YXRlX3RvX2N5bGluZGVyX3h5KHNlbGYsIGdvYWxfc3RhdGUpOgogICAgICAgIHBhc3MKCiAgICBAcHJvcGVydHkKICAgIGRlZiBnb2FsX2N5bGluZGVyX3h5KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmdvYWxfc3RhdGVfdG9fY3lsaW5kZXJfeHkoc2VsZi5tdWx0aXRhc2tfZ29hbCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGdvYWxfY3lsaW5kZXJfeHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuZ29hbF9zdGF0ZV90b19jeWxpbmRlcl94eShzZWxmLm11bHRpdGFza19nb2FsKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfZ29hbChzZWxmLCBnb2FsKToKICAgICAgICBzZWxmLm11bHRpdGFza19nb2FsID0gZ29hbAoK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGdvYWxfY3lsaW5kZXJfeHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuZ29hbF9zdGF0ZV90b19jeWxpbmRlcl94eShzZWxmLm11bHRpdGFza19nb2FsKQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12771,19 +12774,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfZ29hbChzZWxmLCBnb2FsKToKICAgICAgICBzZWxmLm11bHRpdGFza19nb2FsID0gZ29hbAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYW1wbGVfZ29hbF9zdGF0ZXMoc2VsZiwgYmF0Y2hfc2l6ZSk6CiAgICAgICAgcmV0dXJuIHNlbGYuc2FtcGxlX3N0YXRlcyhiYXRjaF9zaXplKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def convert</last-search>
+      <last-search>501</last-search>
       <last-offset />
-      <last-pattern>def convert</last-pattern>
+      <last-pattern>501</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12791,7 +12794,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ipdb</entry>
         <entry>multitask_goal</entry>
         <entry>super</entry>
         <entry>Multi</entry>
@@ -12811,6 +12813,7 @@
         <entry>def sample_goal_states_from_rollouts</entry>
         <entry>def sample_goal_states</entry>
         <entry>def convert</entry>
+        <entry>501</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
@@ -12818,7 +12821,6 @@
         <entry>134</entry>
         <entry>63</entry>
         <entry>93</entry>
-        <entry>bp|bd #</entry>
         <entry>vsp</entry>
         <entry>252</entry>
         <entry>33</entry>
@@ -12833,6 +12835,7 @@
         <entry>127</entry>
         <entry>396</entry>
         <entry>w</entry>
+        <entry>bp|bd #</entry>
       </history-cmd>
       <history-expr />
       <history-input />
