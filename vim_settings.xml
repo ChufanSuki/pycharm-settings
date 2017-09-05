@@ -2841,10 +2841,10 @@
         <mark key="^" line="89" column="59" />
         <mark key="." line="89" column="59" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1504587700711">
-        <mark key="'" line="232" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="40" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1504632152530">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="47" />
         <mark key="." line="232" column="0" />
         <mark key="^" line="214" column="32" />
       </file>
@@ -3095,7 +3095,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
       <jump line="166" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="44" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
@@ -3195,6 +3194,7 @@
       <jump line="232" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="108" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="8" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3215,7 +3215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicmVhY2hlci0yZC14eS1nb2FsLWxlYXJuLW1vZGVsLXN3ZWVwLW5ldC1udW1kYXRhIgo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmVlZC1ob3Jpem9uLXJlYWNoZXItbmV0LXNpemUiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10752,7 +10752,7 @@
         <text>and-</text>
       </register>
       <register name="/" type="4">
-        <text>gyp</text>
+        <text>net</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgaGlkZGVuX3NpemVzPVs0MDAsIDMwMF0sCiAgICAgICAgICAgICAgICApLAo=</text>
@@ -12266,9 +12266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gyp</last-search>
+      <last-search>net</last-search>
       <last-offset />
-      <last-pattern>gyp</last-pattern>
+      <last-pattern>net</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12276,7 +12276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def step</entry>
         <entry>observations</entry>
         <entry>actions</entry>
         <entry>print</entry>
@@ -12296,6 +12295,7 @@
         <entry>exp_id</entry>
         <entry>hup</entry>
         <entry>gyp</entry>
+        <entry>net</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
