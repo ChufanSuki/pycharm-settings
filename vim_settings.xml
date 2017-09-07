@@ -150,6 +150,11 @@
         <mark key="." line="178" column="0" />
         <mark key="^" line="175" column="54" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" timestamp="1504762414752">
+        <mark key="'" line="216" column="20" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="67" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/viskit/frontend.py" timestamp="1485193395721">
         <mark key="'" line="532" column="4" />
         <mark key="[" line="210" column="0" />
@@ -3095,7 +3100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="15" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/greedy_action_partial_state.py" />
       <jump line="209" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
@@ -3195,6 +3199,7 @@
       <jump line="8" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="8" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="13" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
+      <jump line="216" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3215,7 +3220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmVlZC1ob3Jpem9uLXJlYWNoZXItbmV0LXNpemUiCg==</text>
+        <text encoding="base64">ICAgIF9hZGRfb3V0cHV0KGZpbGVfbmFtZSwgX3RhYnVsYXJfb3V0cHV0cywgX3RhYnVsYXJfZmRzLCBtb2RlPSd3JykK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10752,7 +10757,7 @@
         <text>and-</text>
       </register>
       <register name="/" type="4">
-        <text>net</text>
+        <text>add_tabular</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3QoCiAgICAgICAgICAgICAgICAgICAgaGlkZGVuX3NpemVzPVs0MDAsIDMwMF0sCiAgICAgICAgICAgICAgICApLAo=</text>
@@ -12266,9 +12271,9 @@
       </register>
     </registers>
     <search>
-      <last-search>net</last-search>
+      <last-search>add_tabular</last-search>
       <last-offset />
-      <last-pattern>net</last-pattern>
+      <last-pattern>add_tabular</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12276,7 +12281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>observations</entry>
         <entry>actions</entry>
         <entry>print</entry>
         <entry>sample_states</entry>
@@ -12296,6 +12300,7 @@
         <entry>hup</entry>
         <entry>gyp</entry>
         <entry>net</entry>
+        <entry>add_tabular</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
