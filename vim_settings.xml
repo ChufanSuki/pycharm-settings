@@ -2607,12 +2607,12 @@
         <mark key="^" line="55" column="36" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" timestamp="1504846030186">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" timestamp="1504849213799">
         <mark key="'" line="32" column="34" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="44" />
-        <mark key="." line="27" column="44" />
-        <mark key="^" line="27" column="44" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/envs/gym_env.py" timestamp="1478490864707">
         <mark key="'" line="5" column="0" />
@@ -3141,12 +3141,12 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/base.py" timestamp="1488151281048">
         <mark key="'" line="80" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" timestamp="1504845360089">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="61" column="31" />
-        <mark key="]" line="61" column="31" />
-        <mark key="." line="61" column="31" />
-        <mark key="^" line="61" column="31" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" timestamp="1504849314590">
+        <mark key="'" line="37" column="18" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="72" column="20" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/layernorm_ddpg.py" timestamp="1489720884616">
         <mark key="'" line="14" column="21" />
@@ -3603,11 +3603,12 @@
         <mark key="^" line="189" column="10" />
         <mark key="." line="189" column="10" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/rollout_env.py" timestamp="1504845836157">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="74" column="40" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/rollout_env.py" timestamp="1504849531162">
+        <mark key="'" line="24" column="10" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="84" column="31" />
+        <mark key="^" line="84" column="31" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/3-8-atari-fixed-2.csv" timestamp="1489445036866">
         <mark key="'" line="31" column="36" />
@@ -3679,7 +3680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="362" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="450" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="197" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
@@ -3767,7 +3767,6 @@
       <jump line="45" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
       <jump line="17" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="73" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="37" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
       <jump line="71" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/rollout_env.py" />
       <jump line="40" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/rollout_env.py" />
       <jump line="2" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
@@ -3779,6 +3778,8 @@
       <jump line="13" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" />
       <jump line="18" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" />
       <jump line="14" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/rollout_env.py" />
+      <jump line="37" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3798,8 +3799,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>get_numpy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcm9sbG91dF9wcm9taXNlID0gc2VsZi5fcmF5X2Vudl9pZC5yb2xsb3V0LnJlbW90ZSgKICAgICAgICAgICAgICAgIHBvbGljeV9wYXJhbXMKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11333,25 +11334,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>get_numpy</text>
+        <text>param_values</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBucF9kaWN0ID0gT3JkZXJlZERpY3QoKQogICAgICAgIGZvciBrZXksIHRlbnNvciBpbiBzdGF0ZV9kaWN0Lml0ZW1zKCk6CiAgICAgICAgICAgIG5wX2RpY3Rba2V5XSA9IHB0dS5nZXRfbnVtcHkodGVuc29yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcm9sbG91dF9wcm9taXNlID0gc2VsZi5fcmF5X2Vudl9pZC5yb2xsb3V0LnJlbW90ZSgKICAgICAgICAgICAgICAgIHBvbGljeV9wYXJhbXMKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9wb2xpY3kuZ2V0X3BhcmFtX3ZhbHVlcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHBhcmFtX3ZhbHVlcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9wb2xpY3kuZ2V0X3BhcmFtX3ZhbHVlcygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeS5nZXRfcGFyYW1fdmFsdWVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHBhcmFtX3ZhbHVlcykK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11386,19 +11387,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRlZD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeS5nZXRfcGFyYW1fdmFsdWVzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgYWN0aW9uX3NwYWNlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbnYuYWN0aW9uX3NwYWNlCgogICAgZGVmIG9ic2VydmF0aW9uX3NwYWNlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbnYub2JzZXJ2YXRpb25fc3BhY2UKCiAgICBkZWYgc3BlYyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5fZW52LnNwZWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRlZD1GYWxzZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBudW0K</text>
+        <text encoding="base64">CiAgICBkZWYgYWN0aW9uX3NwYWNlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbnYuYWN0aW9uX3NwYWNlCgogICAgZGVmIG9ic2VydmF0aW9uX3NwYWNlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbnYub2JzZXJ2YXRpb25fc3BhY2UKCiAgICBkZWYgc3BlYyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5fZW52LnNwZWMK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfcAo=</text>
+        <text encoding="base64">ICAgICAgICBudW0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12840,19 +12841,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXhfcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12860,7 +12861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hup</entry>
         <entry>gyp</entry>
         <entry>net</entry>
         <entry>add_tabular</entry>
@@ -12880,6 +12880,7 @@
         <entry>action_space</entry>
         <entry>env</entry>
         <entry>print</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
