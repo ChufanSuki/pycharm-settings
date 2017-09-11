@@ -1025,8 +1025,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/parallel_ddpg.py" timestamp="1504931339450">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="72" column="35" />
+        <mark key="]" line="90" column="4" />
+        <mark key="^" line="73" column="35" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/policies/memory/affine_softmax_policy.py" timestamp="1487291576229">
         <mark key="'" line="0" column="0" />
@@ -1566,6 +1566,13 @@
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/backends/thnn.py" timestamp="1497922066975">
         <mark key="'" line="31" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1505097546854">
+        <mark key="'" line="115" column="24" />
+        <mark key="[" line="350" column="19" />
+        <mark key="]" line="350" column="30" />
+        <mark key="^" line="350" column="30" />
+        <mark key="." line="350" column="30" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/sum_qfunction.py" timestamp="1480361037137">
         <mark key="'" line="6" column="16" />
@@ -3137,13 +3144,6 @@
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/base.py" timestamp="1488151281048">
         <mark key="'" line="80" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" timestamp="1504979402863">
-        <mark key="'" line="47" column="18" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="87" column="23" />
-        <mark key="^" line="91" column="37" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/layernorm_ddpg.py" timestamp="1489720884616">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="12" column="26" />
@@ -3380,12 +3380,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/tensor.py" timestamp="1498514112355">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1504915973539">
-        <mark key="'" line="232" column="28" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="88" column="18" />
-        <mark key="." line="87" column="25" />
-        <mark key="^" line="214" column="32" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1505097631034">
+        <mark key="'" line="76" column="32" />
+        <mark key="[" line="105" column="18" />
+        <mark key="]" line="105" column="34" />
+        <mark key="." line="105" column="34" />
+        <mark key="^" line="105" column="34" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3682,8 +3682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="39" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/inverted_double_pendulum_env.py" />
-      <jump line="35" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/mujoco_env.py" />
       <jump line="95" column="22" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/mujoco_env.py" />
       <jump line="7" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/spaces/box.py" />
       <jump line="3" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/spaces/base.py" />
@@ -3782,6 +3780,8 @@
       <jump line="17" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="45" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
       <jump line="47" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="115" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="76" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3801,8 +3801,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0idGVzdC1lYzItcmF5IiwK</text>
+      <register name="&quot;" type="4">
+        <text>feed-horizon-reacher-net-size&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11336,10 +11336,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>feed-horizon-reacher-net-size&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>tau</text>
+        <text>exploration_policy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0icGFyYWxsZWwtZGRwZy1oYWxmLWNoZWV0YWgiLAo=</text>
@@ -12853,9 +12853,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tau</last-search>
+      <last-search>exploration_policy</last-search>
       <last-offset />
-      <last-pattern>tau</last-pattern>
+      <last-pattern>exploration_policy</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12881,8 +12881,8 @@
         <entry>script_name</entry>
         <entry>HEAD</entry>
         <entry>exploration_paths</entry>
-        <entry>exploration_policy</entry>
         <entry>tau</entry>
+        <entry>exploration_policy</entry>
       </history-search>
       <history-cmd>
         <entry>265</entry>
