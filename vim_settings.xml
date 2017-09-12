@@ -1558,8 +1558,8 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/backends/thnn.py" timestamp="1497922066975">
         <mark key="'" line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1505182875065">
-        <mark key="'" line="377" column="4" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1505188588077">
+        <mark key="'" line="135" column="8" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/sum_qfunction.py" timestamp="1480361037137">
         <mark key="'" line="6" column="16" />
@@ -3658,7 +3658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/base.py" />
       <jump line="333" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="27" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="50" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3704,7 +3703,6 @@
       <jump line="423" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="464" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="132" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="135" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="12" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/state_distance/exploration.py" />
       <jump line="12" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
@@ -3758,6 +3756,8 @@
       <jump line="40" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="403" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="377" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="135" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11315,7 +11315,7 @@
         <text>d31d20e</text>
       </register>
       <register name="/" type="4">
-        <text>self.goal</text>
+        <text>get_action_and_info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB5X3RhcmdldCA9IHRlcm1pbmFscyAqIHJld2FyZHMgKyAoMS4gLSB0ZXJtaW5hbHMpICogdGFyZ2V0X3FfdmFsdWVzCg==</text>
@@ -12829,9 +12829,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.goal</last-search>
+      <last-search>get_action_and_info</last-search>
       <last-offset />
-      <last-pattern>self.goal</last-pattern>
+      <last-pattern>get_action_and_info</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12839,7 +12839,6 @@
     </search>
     <history>
       <history-search>
-        <entry>combine</entry>
         <entry>combine_</entry>
         <entry>UniversalPolicy</entry>
         <entry>goal_Statse</entry>
@@ -12859,6 +12858,7 @@
         <entry>copy</entry>
         <entry>Multigoal</entry>
         <entry>self.goal</entry>
+        <entry>get_action_and_info</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
