@@ -1280,6 +1280,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="255" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" timestamp="1505357243500">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/sim_policy.py" timestamp="1478225006778">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="41" column="87" />
@@ -3689,7 +3692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="54" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" />
       <jump line="61" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" />
       <jump line="67" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/train_separate_policies.py" />
@@ -3789,6 +3791,7 @@
       <jump line="126" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher3dof.py" />
       <jump line="183" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher3dof.py" />
       <jump line="64" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_policies.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11363,7 +11366,7 @@
         <text>middle</text>
       </register>
       <register name="/" type="4">
-        <text>Universal</text>
+        <text>np_to</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlcnRpY2FsX3BvcyA9ICdtaWRkbGUnCiAgICBob3Jpem9udGFsX3BvcyA9ICdib3R0b20nCiAgICBkZHBnMV9zbmFwc2hvdF9wYXRoLCBkZHBnMl9zbmFwc2hvdF9wYXRoLCB4X2dvYWwsIHlfZ29hbCA9ICgKICAgICAgICBnZXRfc25hcHNob3RzX2FuZF9nb2FsKAogICAgICAgICAgICB2ZXJ0aWNhbF9wb3M9dmVydGljYWxfcG9zLAogICAgICAgICAgICBob3Jpem9udGFsX3Bvcz1ob3Jpem9udGFsX3BvcywKICAgICAgICApCiAgICApCg==</text>
@@ -12877,9 +12880,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Universal</last-search>
+      <last-search>np_to</last-search>
       <last-offset />
-      <last-pattern>Universal</last-pattern>
+      <last-pattern>np_to</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12887,7 +12890,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sample_eval</entry>
         <entry>ptu</entry>
         <entry>_statistics_from_path</entry>
         <entry>test_paths</entry>
@@ -12907,6 +12909,7 @@
         <entry>env</entry>
         <entry>universal</entry>
         <entry>Universal</entry>
+        <entry>np_to</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
