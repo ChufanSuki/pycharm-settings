@@ -2888,12 +2888,12 @@
         <mark key="^" line="140" column="7" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" timestamp="1505437522691">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="46" column="78" />
-        <mark key="]" line="47" column="8" />
-        <mark key="^" line="47" column="8" />
-        <mark key="." line="47" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" timestamp="1505442278210">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/json_to_yaml.py" timestamp="1486583488726">
         <mark key="'" line="9" column="0" />
@@ -3169,14 +3169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher_avoider_3dof.py" />
-      <jump line="32" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/train_separate_policies.py" />
-      <jump line="160" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="214" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="254" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/train_separate_policies.py" />
-      <jump line="34" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_policies.py" />
-      <jump line="68" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_policies.py" />
       <jump line="128" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher3dof.py" />
       <jump line="59" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="317" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3257,7 +3249,6 @@
       <jump line="21" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_policies.py" />
       <jump line="5" column="75" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_policies.py" />
       <jump line="68" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
-      <jump line="84" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
       <jump line="11" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
       <jump line="86" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
       <jump line="71" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
@@ -3269,6 +3260,15 @@
       <jump line="55" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
       <jump line="45" column="114" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
       <jump line="46" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="43" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="84" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/object_final_positions_extractor.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3305,8 +3305,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>bottom_points</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBzZXNzID0gdGZfdXRpbHMuY3JlYXRlX3Nlc3Npb24oKQoKIyB3aXRoIHNlc3MuYXNfZGVmYXVsdCgpOgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10840,25 +10840,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>bottom_points</text>
+        <text>=(</text>
       </register>
       <register name="/" type="4">
-        <text>\/</text>
+        <text>mypath</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmVydGljYWxfcGF0aCA9IGRpY3QoCiAgICBtaWRkbGU9KAogICAgICAgICcvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9kYXRhL3BhcGVycy9pY3JhMjAxNy8nCiAgICAgICAgJzA5LTExX3B1c2hlci0zZG9mLXZlcnRpY2FsLTJfMjAxN18wOV8xMV8yM18yNF8wOF8wMDE3LycKICAgICAgICAnaXRyXzUwLnBrbCcKICAgICksCiAgICBsZWZ0PSgKICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9zMy8nCiAgICAgICAgJzA5LTEyLXB1c2hlci0zZG9mLXZlcnRpY2FsLWwyLWxlZnQvJwogICAgICAgICcwOS0xMl9wdXNoZXItM2RvZi12ZXJ0aWNhbC1sMi1sZWZ0XzIwMTdfMDlfMTJfMTVfNTZfNDNfMDAwMS8nCiAgICAgICAgJ2l0cl80MC5wa2wnCiAgICApLAogICAgcmlnaHQ9KAogICAgICAgICcvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9kYXRhL3MzLycKICAgICAgICAnMDktMTItcHVzaGVyLTNkb2YtdmVydGljYWwtbDItcmlnaHQvJwogICAgICAgICcwOS0xMl9wdXNoZXItM2RvZi12ZXJ0aWNhbC1sMi1yaWdodF8yMDE3XzA5XzEyXzE1XzU3XzE2XzAwMDEvJwogICAgICAgICdpdHJfNDAucGtsJwogICAgKSwKKQo=</text>
+        <text encoding="base64">ICAgICgKICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9zMy8nCiAgICAgICAgJzA5LTE0LXB1c2hlci0zZG9mLXJlYWNoZXItYm90dG9tLXJpZ2h0LycKICAgICAgICAnMDktMTRfcHVzaGVyLTNkb2YtcmVhY2hlci1ib3R0b20tcmlnaHRfMjAxN18wOV8xNF8xN18xM18yMl8wMDAxLycKICAgICAgICAncGFyYW1zLnBrbCcsCiAgICAgICAgJ3JlYWNoLWJvdHRvbS1yaWdodCcKICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9zMy8nCiAgICAgICAgJzA5LTEyLXB1c2hlci0zZG9mLXZlcnRpY2FsLWwyLXJpZ2h0LycKICAgICAgICAnMDktMTJfcHVzaGVyLTNkb2YtdmVydGljYWwtbDItcmlnaHRfMjAxN18wOV8xMl8xNV81N18xNl8wMDAxLycKICAgICAgICAnaXRyXzQwLnBrbCcK</text>
+        <text encoding="base64">IyBzZXNzID0gdGZfdXRpbHMuY3JlYXRlX3Nlc3Npb24oKQoKIyB3aXRoIHNlc3MuYXNfZGVmYXVsdCgpOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9zMy8nCiAgICAgICAgJzA5LTEyLXB1c2hlci0zZG9mLXZlcnRpY2FsLWwyLWxlZnQvJwogICAgICAgICcwOS0xMl9wdXNoZXItM2RvZi12ZXJ0aWNhbC1sMi1sZWZ0XzIwMTdfMDlfMTJfMTVfNTZfNDNfMDAwMS8nCiAgICAgICAgJ2l0cl80MC5wa2wnCg==</text>
+        <text encoding="base64">bXlwYXRoID0gb3MuZ2V0Y3dkKCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNyYTIwMTcvJwogICAgICAgICcwOS0xMV9wdXNoZXItM2RvZi12ZXJ0aWNhbC0yXzIwMTdfMDlfMTFfMjNfMjRfMDhfMDAxNy8nCiAgICAgICAgJ2l0cl81MC5wa2wnCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -10893,19 +10893,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgnZXhwLTAxMC9wdXNoZXIzZG9mLWV4cC0wMTAtMDEvaXRyXzM5LnBrbCcsICdyZWFjaC1taWRkbGUnKSwKICAgICgnZXhwLTAxMC9wdXNoZXIzZG9mLWV4cC0wMTAtMDIvaXRyXzM5LnBrbCcsICdyZWFjaC1yaWdodCcpLAogICAgKCdleHAtMDEwL3B1c2hlcjNkb2YtZXhwLTAxMC0wMy9pdHJfMzkucGtsJywgJ3JlYWNoLWJvdHRvbScpLAo=</text>
+        <text encoding="base64">Ym90dG9tX3BhdGggPSAoCiAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNyYTIwMTcvJwogICAgJzA5LTExX3B1c2hlci0zZG9mLWhvcml6b250YWwtMl8yMDE3XzA5XzExXzIzXzIzXzUwXzAwMzkvJwogICAgJ2l0cl81MC5wa2wnCikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICh2ZXJ0aWNhbF9wYXRoWydyaWdodCddLCAncmVhY2gtcmlnaHQnKSwK</text>
+        <text encoding="base64">KQptZXJnZV9wYXRoID0gZGljdCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAncGFyYW1zLnBrbCcK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pZGRsZT0oCiAgICAgICAgJy9ob21lL3ZpdGNoeXIvZ2l0L3JsbGFiLXJhaWwvcmFpbHJsL2RhdGEvczMvJwogICAgICAgICcwOS0xMi1wdXNoZXItM2RvZi1ob3Jpem9udGFsLWwyLW1pZGRsZS8nCiAgICAgICAgJzA5LTEyX3B1c2hlci0zZG9mLWhvcml6b250YWwtbDItbWlkZGxlXzIwMTdfMDlfMTJfMTVfNTdfMzZfMDAwMS8nCiAgICAgICAgJ2l0cl80MC5wa2wnCiAgICApLAogICAgdG9wPSgKICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9zMy8nCiAgICAgICAgJzA5LTEyLXB1c2hlci0zZG9mLWhvcml6b250YWwtbDItdG9wLycKICAgICAgICAnMDktMTJfcHVzaGVyLTNkb2YtaG9yaXpvbnRhbC1sMi10b3BfMjAxN18wOV8xMl8xNV81N181Ml8wMDAxLycKICAgICAgICAnaXRyXzQwLnBrbCcKICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAnMDktMTQtcHVzaGVyLTNkb2YtcmVhY2hlci1ib3R0b20tcmlnaHQvJwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12347,19 +12347,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzb2Z0cWxlYXJuaW5nLm1pc2MgaW1wb3J0IHRmX3V0aWxzCgpmcm9tIHNvZnRxbGVhcm5pbmcubWlzYy5zYW1wbGVyIGltcG9ydCByb2xsb3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAnMDktMTRfcHVzaGVyLTNkb2YtcmVhY2hlci1ib3R0b20tbWlkZGxlXzIwMTdfMDlfMTRfMTdfMTNfMDdfMDAwMS8nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2ZpbGUnLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0ncGF0aCB0byB0aGUgc25hcHNob3QgZmlsZScpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLW1heF9wYXRoX2xlbmd0aCcsIHR5cGU9aW50LCBkZWZhdWx0PTEwMDAsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J01heCBsZW5ndGggb2Ygcm9sbG91dCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAnMDktMTQtcHVzaGVyLTNkb2YtcmVhY2hlci1ib3R0b20tbWlkZGxlLycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\/</last-search>
+      <last-search>mypath</last-search>
       <last-offset />
-      <last-pattern>\/</last-pattern>
+      <last-pattern>mypath</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12367,9 +12367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>versin</entry>
-        <entry>tril_mask</entry>
-        <entry>get_bat h</entry>
         <entry>get_batch</entry>
         <entry>paths_to_np_batch</entry>
         <entry>get_train_dict</entry>
@@ -12386,7 +12383,10 @@
         <entry>setup</entry>
         <entry>Variant:</entry>
         <entry>name</entry>
+        <entry>pwd</entry>
+        <entry>asdf</entry>
         <entry>\/</entry>
+        <entry>mypath</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
