@@ -1014,12 +1014,12 @@
         <mark key="^" line="41" column="44" />
         <mark key="." line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/naf_object_final_positions_extractor.py" timestamp="1505445567492">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="71" />
-        <mark key="^" line="36" column="185" />
-        <mark key="." line="36" column="185" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/naf_object_final_positions_extractor.py" timestamp="1505450964743">
+        <mark key="'" line="62" column="11" />
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/spaces/product.py" timestamp="1487914454247">
         <mark key="'" line="81" column="0" />
@@ -2919,11 +2919,11 @@
         <mark key="^" line="89" column="59" />
         <mark key="." line="89" column="59" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_naf_policies.py" timestamp="1505446877208">
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="65" column="24" />
-        <mark key="." line="65" column="24" />
-        <mark key="^" line="65" column="24" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_naf_policies.py" timestamp="1505450391721">
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="51" column="40" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3185,8 +3185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="69" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/naf.py" />
       <jump line="44" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="70" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3285,6 +3283,8 @@
       <jump line="74" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_naf_policies.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/composition.py" />
       <jump line="23" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/composition.py" />
+      <jump line="62" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/naf_object_final_positions_extractor.py" />
+      <jump line="1062" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/numpy/lib/npyio.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3322,7 +3322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dfZGlhZ29uc3RpY3Moc2VsZiwgcGF0aHMpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBkYXRhWydwb2xpY3knXQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10856,13 +10856,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>-bottom&quot;</text>
       </register>
       <register name="/" type="4">
         <text>action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dfZGlhZ25vc3RpY3Moc2VsZiwgcGF0aHMpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBkYXRhWydwb2xpY3knXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBsb2dfZGlhZ29uc3RpY3Moc2VsZiwgcGF0aHMpOgo=</text>
@@ -12369,7 +12369,7 @@
         <text encoding="base64">ICAgICAgICBQID0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -12423,8 +12423,8 @@
         <entry>31</entry>
         <entry>350</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
