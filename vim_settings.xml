@@ -27,11 +27,6 @@
         <mark key="^" line="92" column="45" />
         <mark key="." line="92" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1505446774498">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -95,7 +90,8 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" timestamp="1505455507735">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" timestamp="1505522317672">
+        <mark key="'" line="15" column="4" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
@@ -2281,11 +2277,6 @@
       <file name="$USER_HOME$/anaconda2/envs/rllab-vitchyr/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" timestamp="1486713577763">
         <mark key="'" line="1128" column="4" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" timestamp="1504931495579">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/qddpg_cart.py" timestamp="1484454651950">
         <mark key="'" line="39" column="4" />
         <mark key="[" line="58" column="10" />
@@ -2641,7 +2632,7 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/ddpg_object_final_positions_extractor.py" timestamp="1505454063312">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/ddpg_object_final_positions_extractor.py" timestamp="1505522331721">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="175" />
         <mark key="." line="33" column="165" />
@@ -3229,7 +3220,6 @@
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/bayesNets2/bayesAgents.py" timestamp="1491601357529">
         <mark key="'" line="265" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/run_water_maze.py" timestamp="1505496962403" />
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1495087834697">
         <mark key="'" line="306" column="18" />
         <mark key="[" line="24" column="0" />
@@ -3796,7 +3786,6 @@
       <jump line="62" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/naf_object_final_positions_extractor.py" />
       <jump line="1062" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/numpy/lib/npyio.py" />
       <jump line="57" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" />
-      <jump line="15" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" />
       <jump line="62" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" />
       <jump line="293" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" />
       <jump line="26" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_policies.py" />
@@ -3858,6 +3847,7 @@
       <jump line="293" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="18" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/parallel_ddpg.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/combine_ddpg_qfs.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3895,7 +3885,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicHVzaGVyLWF2b2lkLW1vZGlmaWVkLW5hZi1iaWdnZXItbG9uZ2VyLW5vaXNpZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAnL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9sb2NhbC8wOS0xNC1jb21iaW5lLXBvbGljaWVzLS1taWRkbGUtYm90dG9tLzA5LTE0X2NvbWJpbmUtcG9saWNpZXMtLW1pZGRsZS1ib3R0b21fMjAxN18wOV8xNF8xNF8zOV8wMV8wMDAwLS1zLTI4OTMvcGFyYW1zLnBrbCcK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11429,7 +11419,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>push</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
@@ -12952,7 +12942,7 @@
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
