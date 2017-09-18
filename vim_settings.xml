@@ -3338,6 +3338,9 @@
         <mark key="^" line="197" column="21" />
         <mark key="." line="198" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/scripts/sim_policy.py" timestamp="1505774631485">
+        <mark key="'" line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/hw1_util.py" timestamp="1486609621346">
         <mark key="'" line="3" column="24" />
         <mark key="[" line="29" column="11" />
@@ -3719,8 +3722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/combine_naf_policies.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/composition.py" />
       <jump line="23" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/composition.py" />
       <jump line="62" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/naf_object_final_positions_extractor.py" />
       <jump line="1062" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/numpy/lib/npyio.py" />
@@ -3819,6 +3820,8 @@
       <jump line="30" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/core.py" />
       <jump line="73" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/core.py" />
       <jump line="322" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/core.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/scripts/sim_policy.py" />
+      <jump line="6" column="32" filename="$USER_HOME$/git/rllab-rail/scripts/sim_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11393,7 +11396,7 @@
         <text>policy</text>
       </register>
       <register name="/" type="4">
-        <text>_render</text>
+        <text>roll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeS5zdGFydF92aWV3ZXIoKQo=</text>
@@ -12907,9 +12910,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_render</last-search>
+      <last-search>roll</last-search>
       <last-offset />
-      <last-pattern>_render</last-pattern>
+      <last-pattern>roll</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12917,7 +12920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pos</entry>
         <entry>def re</entry>
         <entry>size</entry>
         <entry>30</entry>
@@ -12937,6 +12939,7 @@
         <entry>minotor</entry>
         <entry>monitor</entry>
         <entry>_render</entry>
+        <entry>roll</entry>
       </history-search>
       <history-cmd>
         <entry>lw</entry>
