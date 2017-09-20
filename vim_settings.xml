@@ -1327,11 +1327,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1505874648902">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1505877154007">
         <mark key="'" line="66" column="25" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+        <mark key="[" line="120" column="7" />
+        <mark key="]" line="120" column="9" />
+        <mark key="." line="120" column="9" />
+        <mark key="^" line="120" column="9" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/collect_data.py" timestamp="1503637817192">
         <mark key="'" line="20" column="29" />
@@ -1465,6 +1466,12 @@
         <mark key="]" line="21" column="36" />
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" timestamp="1505877171403">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="81" column="12" />
+        <mark key="^" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/tensorflow/tensorboard/tensorboard.py" timestamp="1503454990472">
         <mark key="'" line="33" column="47" />
@@ -3443,8 +3450,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzWydOdW0gc3RlcHMgY29sbGVjdGVkJ10gPSBzZWxmLnJlcGxheV9idWZmZXIubnVtX3N0ZXBzX3NhdmVkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10978,7 +10985,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>return self.num_steps_can_sample()</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>self._top</text>
