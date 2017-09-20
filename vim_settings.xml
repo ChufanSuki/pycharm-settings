@@ -101,12 +101,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1505884161939">
-        <mark key="'" line="190" column="8" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="191" column="30" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1505933721091">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="191" column="61" />
+        <mark key="]" line="191" column="64" />
+        <mark key="^" line="191" column="64" />
+        <mark key="." line="191" column="64" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
@@ -985,6 +985,9 @@
         <mark key="^" line="20" column="103" />
         <mark key="." line="20" column="103" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1505933726518">
+        <mark key="'" line="60" column="8" />
+      </file>
       <file name="$USER_HOME$/git/rllab-private/rllab/envs/mujoco/mujoco_env.py" timestamp="1479766527812">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="6" column="11" />
@@ -1753,12 +1756,12 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" timestamp="1505932380371">
-        <mark key="'" line="37" column="15" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="109" column="40" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" timestamp="1505934134090">
+        <mark key="'" line="102" column="19" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="62" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="69" column="61" />
       </file>
       <file name="$USER_HOME$/git/icnn/RL/src/main.py" timestamp="1480647513388">
         <mark key="'" line="94" column="0" />
@@ -2483,12 +2486,12 @@
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" timestamp="1505932456779">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
-        <mark key="^" line="41" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" timestamp="1505934085610">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="31" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/qfunctions/state_distance/state_distance_qf.py" timestamp="1501299234757">
         <mark key="'" line="29" column="15" />
@@ -3290,9 +3293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/references/naf_many_envs.py" />
-      <jump line="18" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/references/naf_many_envs.py" />
-      <jump line="13" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/references/naf_many_envs.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" />
       <jump line="6" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" />
       <jump line="21" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" />
@@ -3372,7 +3372,6 @@
       <jump line="190" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="51" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/split_buffer.py" />
       <jump line="94" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
-      <jump line="273" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
       <jump line="109" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="8" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/ou_strategy.py" />
       <jump line="40" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
@@ -3390,6 +3389,10 @@
       <jump line="37" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
       <jump line="38" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
       <jump line="62" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="98" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/learn_model.py" />
+      <jump line="273" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_env.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3427,7 +3430,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicmVhY2hlci1tb2RlbC1sZWFybmluZy1ncmlkLXNlYXJjaC1jb3JyZWN0ZWQiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -10961,25 +10964,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>p_to_var</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>replay</text>
+        <text>compute_rewa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHR1cGxlKDAuIGlmIGl0IGlzIE5vbmUgZWxzZSBpdCBmb3IgaXQgaW4geCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFswLjcsIDAuNywgMC43LCAwLjYsIDQ3LCAxNV0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0dS5nZXRfbnVtcHkoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFs0MDAsIDMwMF0sCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11014,19 +11017,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGF5X2J1ZmZlcl9zaXplPTEwMDAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGVyX3BhcmFtcyA9IHZhcmlhbnRbJ3NhbXBsZXJfcGFyYW1zJ10K</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGVfc2l6ZT0xMDAwMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlcl9wYXJhbXNbJ21pbl9udW1fc3RlcHNfdG9fY29sbGVjdCddCiAgICAgICAgICAgICsgc2FtcGxlcl9wYXJhbXNbJ21heF9wYXRoX2xlbmd0aCddCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2FtcGxlcl9wYXJhbXNbJ21pbl9udW1fJ10K</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12468,19 +12471,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdvYWxTdGF0ZVNpbXBsZVN0YXRlUmVhY2hlckVudiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0dS5nZXRfbnVtcHkoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>replay</last-search>
+      <last-search>compute_rewa</last-search>
       <last-offset />
-      <last-pattern>replay</last-pattern>
+      <last-pattern>compute_rewa</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12488,9 +12491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>min</entry>
-        <entry>obs</entry>
-        <entry>num_fea</entry>
         <entry>action_dim</entry>
         <entry>num_features</entry>
         <entry>obs =</entry>
@@ -12508,6 +12508,9 @@
         <entry>sample_action</entry>
         <entry>weight_decay</entry>
         <entry>replay</entry>
+        <entry>beta</entry>
+        <entry>rewad</entry>
+        <entry>compute_rewa</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>
@@ -12527,8 +12530,8 @@
         <entry>64</entry>
         <entry>23</entry>
         <entry>bp|bd #</entry>
-        <entry>q</entry>
         <entry>186</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
