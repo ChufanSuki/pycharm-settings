@@ -80,4 +80,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="ptu" value="import railrl.torch.pytorch_util as ptu" description="import pytorch util" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
