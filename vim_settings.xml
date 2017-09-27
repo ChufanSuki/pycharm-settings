@@ -2944,8 +2944,8 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" timestamp="1505455863481">
-        <mark key="'" line="626" column="48" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" timestamp="1506555475884">
+        <mark key="'" line="137" column="12" />
         <mark key="[" line="626" column="59" />
         <mark key="]" line="626" column="58" />
         <mark key="^" line="626" column="58" />
@@ -3386,11 +3386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="38" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="258" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="259" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="7" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/point2d.py" />
-      <jump line="77" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/point2d.py" />
       <jump line="58" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="181" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/water_maze.py" />
@@ -3486,6 +3481,11 @@
       <jump line="65" column="12" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
       <jump line="83" column="29" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
       <jump line="12" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" />
+      <jump line="210" column="50" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" />
+      <jump line="214" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" />
+      <jump line="215" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" />
+      <jump line="137" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/sawyer_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11060,7 +11060,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>flat</text>
+        <text>action_mode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlX3NpemU9YXJncy5uc2FtcGxlcywK</text>
@@ -12574,9 +12574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>flat</last-search>
+      <last-search>action_mode</last-search>
       <last-offset />
-      <last-pattern>flat</last-pattern>
+      <last-pattern>action_mode</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12584,8 +12584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tau</entry>
-        <entry>reset</entry>
         <entry>opt</entry>
         <entry>Variable</entry>
         <entry>weight_decay</entry>
@@ -12604,6 +12602,8 @@
         <entry>start_Time</entry>
         <entry>log_d</entry>
         <entry>flat</entry>
+        <entry>set_mode</entry>
+        <entry>action_mode</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
