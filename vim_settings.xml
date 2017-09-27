@@ -24,11 +24,6 @@
         <mark key="^" line="92" column="45" />
         <mark key="." line="92" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1506383256391">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -77,11 +72,6 @@
         <mark key="]" line="48" column="52" />
         <mark key="^" line="48" column="52" />
         <mark key="." line="48" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/policies/uniform_control_policy.py" timestamp="1506208835075">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/dqicnn.py" timestamp="1480628318277">
         <mark key="'" line="53" column="54" />
@@ -1494,6 +1484,9 @@
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" timestamp="1506554774144">
+        <mark key="'" line="83" column="29" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" timestamp="1505879504684">
         <mark key="'" line="13" column="11" />
         <mark key="[" line="46" column="0" />
@@ -1740,12 +1733,6 @@
         <mark key="]" line="52" column="31" />
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/core/serializable.py" timestamp="1506384465830">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/exploration_strategies/base.py" timestamp="1505857858226">
         <mark key="'" line="42" column="24" />
@@ -2391,10 +2378,10 @@
         <mark key="^" line="55" column="36" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" timestamp="1505869223008">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="24" column="47" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" timestamp="1506554818799">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="28" column="39" />
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
@@ -3399,13 +3386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/wrappers.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/wrappers.py" />
-      <jump line="198" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
-      <jump line="84" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
-      <jump line="243" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="256" column="13" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="257" column="38" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="258" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="259" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/nn/modules/module.py" />
@@ -3499,6 +3479,13 @@
       <jump line="52" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
       <jump line="4" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
+      <jump line="60" column="15" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
+      <jump line="62" column="31" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
+      <jump line="64" column="25" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
+      <jump line="65" column="12" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
+      <jump line="83" column="29" filename="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/core/parameterized.py" />
+      <jump line="12" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/core.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3535,8 +3522,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfcGFyYW1fdmFsdWVzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnN0YXRlX2RpY3QoKQoKICAgIGRlZiBzZXRfcGFyYW1fdmFsdWVzKHNlbGYsIHBhcmFtX3ZhbHVlcyk6CiAgICAgICAgc2VsZi5sb2FkX3N0YXRlX2RpY3QocGFyYW1fdmFsdWVzKQoKICAgIGRlZiBnZXRfcGFyYW1fdmFsdWVzX25wKHNlbGYpOgogICAgICAgIHN0YXRlX2RpY3QgPSBzZWxmLnN0YXRlX2RpY3QoKQogICAgICAgIG5wX2RpY3QgPSBPcmRlcmVkRGljdCgpCiAgICAgICAgZm9yIGtleSwgdGVuc29yIGluIHN0YXRlX2RpY3QuaXRlbXMoKToKICAgICAgICAgICAgbnBfZGljdFtrZXldID0gcHR1LmdldF9udW1weSh0ZW5zb3IpCiAgICAgICAgcmV0dXJuIG5wX2RpY3QKCiAgICBkZWYgc2V0X3BhcmFtX3ZhbHVlc19ucChzZWxmLCBwYXJhbV92YWx1ZXMpOgogICAgICAgIHRvcmNoX2RpY3QgPSBPcmRlcmVkRGljdCgpCiAgICAgICAgZm9yIGtleSwgdGVuc29yIGluIHBhcmFtX3ZhbHVlcy5pdGVtcygpOgogICAgICAgICAgICB0b3JjaF9kaWN0W2tleV0gPSBwdHUuZnJvbV9udW1weSh0ZW5zb3IpCiAgICAgICAgc2VsZi5sb2FkX3N0YXRlX2RpY3QodG9yY2hfZGljdCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11073,7 +11060,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>log_d</text>
+        <text>flat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlX3NpemU9YXJncy5uc2FtcGxlcywK</text>
@@ -12587,9 +12574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log_d</last-search>
+      <last-search>flat</last-search>
       <last-offset />
-      <last-pattern>log_d</last-pattern>
+      <last-pattern>flat</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12597,7 +12584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_target</entry>
         <entry>tau</entry>
         <entry>reset</entry>
         <entry>opt</entry>
@@ -12617,6 +12603,7 @@
         <entry>time</entry>
         <entry>start_Time</entry>
         <entry>log_d</entry>
+        <entry>flat</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
