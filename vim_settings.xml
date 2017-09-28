@@ -2304,8 +2304,8 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1506570273991">
-        <mark key="'" line="55" column="18" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1506621986863">
+        <mark key="'" line="68" column="38" />
         <mark key="[" line="59" column="31" />
         <mark key="]" line="59" column="40" />
         <mark key="." line="59" column="40" />
@@ -2794,12 +2794,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="247" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1506398426609">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1506622374970">
         <mark key="'" line="124" column="32" />
-        <mark key="[" line="305" column="13" />
-        <mark key="]" line="305" column="13" />
-        <mark key="^" line="300" column="19" />
-        <mark key="." line="305" column="13" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab3/lib/python3.5/site-packages/gym/envs/mujoco/__init__.py" timestamp="1480446693971">
         <mark key="'" line="10" column="45" />
@@ -3403,7 +3402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="77" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="247" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="254" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
@@ -3503,6 +3501,7 @@
       <jump line="0" column="32" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/parallel_sampler.py" />
       <jump line="93" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/parallel_sampler.py" />
       <jump line="5" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/sampler/utils.py" />
+      <jump line="68" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3539,8 +3538,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJmaW5hbCBsb3NzIG1lYW4iLCBsb3NzZXMubWVhbigpKQogICAgICAgIHByaW50KCJGaW5hbCBsb3NzIiwgbG9zc2VzX25wW2Jlc3RfYWN0aW9uX2ldKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11074,25 +11073,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>mean</text>
       </register>
       <register name="/" type="4">
         <text>max_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mZl9wb2xpY3lfbnVtX3N0ZXBzIC8gMTAwMCwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW5pdCBsb3NzIG1lYW4iLCBsb3NzZXMubWVhbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX3VuaXF1ZV9iYXRjaGVzPTEwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJmaW5hbCBsb3NzIG1lYW4iLCBsb3NzZXMubWVhbigpKQogICAgICAgIHByaW50KCJGaW5hbCBsb3NzIiwgbG9zc2VzX25wW2Jlc3RfYWN0aW9uX2ldKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bV91bmlxdWVfYmF0Y2hlcyA9IG51bV91bmlxdWVfYmF0Y2hlcwo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHByaW50KCJpbml0IGxvc3MgbWVhbiIsIGxvc3Nlcy5tZWFuKCkpCiAgICAgICAgcHJpbnQoImluaXQgbG9zcyBtYXgiLCBsb3NzZXMubWF4KCkpCiAgICAgICAgcHJpbnQoImluaXQgbG9zcyBtaW4iLCBsb3NzZXMubWluKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX3VuaXF1ZV9iYXRjaGVzPTEwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11127,19 +11126,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFRydWUsIDApLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRmluYWwgbG9zcyIsIGxvc3Nlc19ucFtiZXN0X2FjdGlvbl9pXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFRydWUsIDUpLAogICAgICAgICAgICAoVHJ1ZSwgMCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX3VuaXF1ZV9iYXRjaGVzPTEwMDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm51bV91bmlxdWVfYmF0Y2hlcyA9IG51bV91bmlxdWVfYmF0Y2hlcwo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9udW1fb25fcG9saWN5X3N0ZXBzX3RvX2FkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX3VuaXF1ZV9iYXRjaGVzPTEwMDAsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12581,13 +12580,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyaWFudFsnaHAxJ10gPSBocDEKICAgICAgICAgICAgdmFyaWFudFsnaHAyJ10gPSBocDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFRydWUsIDApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFRydWUsIDUpLAogICAgICAgICAgICAoVHJ1ZSwgMCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -12641,8 +12640,8 @@
         <entry>122</entry>
         <entry>58</entry>
         <entry>53</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
