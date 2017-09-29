@@ -131,6 +131,9 @@
         <mark key="." line="186" column="28" />
         <mark key="^" line="186" column="28" />
       </file>
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1506715123994">
+        <mark key="'" line="104" column="18" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" timestamp="1499910666648">
         <mark key="'" line="67" column="40" />
         <mark key="[" line="15" column="1" />
@@ -3427,10 +3430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
-      <jump line="79" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
-      <jump line="54" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
-      <jump line="43" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
       <jump line="157" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" />
       <jump line="81" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="113" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3527,6 +3526,10 @@
       <jump line="182" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="231" column="68" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="149" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="74" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="99" column="11" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="104" column="18" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11101,7 +11104,7 @@
         <text>custom_grid</text>
       </register>
       <register name="/" type="4">
-        <text>nupo</text>
+        <text>checkpoint.restore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyaWFudFsnYWxnb19wYXJhbXMnXVsnbnVtX3VwZGF0ZXNfcGVyX2Vudl9zdGVwJ10gPSBudXBvCg==</text>
@@ -12615,9 +12618,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nupo</last-search>
+      <last-search>checkpoint.restore</last-search>
       <last-offset />
-      <last-pattern>nupo</last-pattern>
+      <last-pattern>checkpoint.restore</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12625,9 +12628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>fmin</entry>
-        <entry>bg</entry>
         <entry>bfg</entry>
         <entry>next_States</entry>
         <entry>next_states</entry>
@@ -12645,6 +12645,9 @@
         <entry>model</entry>
         <entry>max</entry>
         <entry>nupo</entry>
+        <entry>checpoint</entry>
+        <entry>checkpoint</entry>
+        <entry>checkpoint.restore</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
