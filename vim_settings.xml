@@ -2322,12 +2322,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1506639208909">
-        <mark key="'" line="70" column="17" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="38" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="48" column="63" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1506643028023">
+        <mark key="'" line="84" column="43" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="47" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="69" column="45" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/predictors/state_action_network.py" timestamp="1480545356982">
         <mark key="'" line="104" column="30" />
@@ -2812,12 +2812,12 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="247" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1506639830511">
-        <mark key="'" line="11" column="25" />
-        <mark key="[" line="370" column="39" />
-        <mark key="]" line="370" column="40" />
-        <mark key="." line="370" column="40" />
-        <mark key="^" line="370" column="40" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1506642931186">
+        <mark key="'" line="371" column="32" />
+        <mark key="[" line="380" column="28" />
+        <mark key="]" line="380" column="28" />
+        <mark key="." line="380" column="39" />
+        <mark key="^" line="365" column="50" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab3/lib/python3.5/site-packages/gym/envs/mujoco/__init__.py" timestamp="1480446693971">
         <mark key="'" line="10" column="45" />
@@ -3420,12 +3420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="134" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="285" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="84" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="166" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
-      <jump line="250" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="143" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="49" column="47" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" />
@@ -3506,7 +3500,6 @@
       <jump line="74" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="54" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="358" column="76" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
-      <jump line="356" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="344" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="355" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="56" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
@@ -3514,12 +3507,19 @@
       <jump line="30" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="345" column="42" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="20" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
-      <jump line="370" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="70" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
       <jump line="384" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="372" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="382" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="11" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="370" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="383" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="82" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
+      <jump line="72" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
+      <jump line="339" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="356" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="371" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="84" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3556,8 +3556,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11091,25 +11091,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>[0, :]</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>fmin</text>
+        <text>goal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zc19ucCA9IHB0dS5nZXRfbnVtcHkobG9zcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dF9zdGF0ZXMgPSBbXQogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc3RhdGVzKSk6CiAgICAgICAgICAgICAgICBzdGF0ZSA9IHN0YXRlc1tpOmkrMSwgOl0KICAgICAgICAgICAgICAgIGFjdGlvbiA9IGFjdGlvbnNbaTppKzEsIDpdCiAgICAgICAgICAgICAgICBsb3NzX2YgPSBzZWxmLmNyZWF0ZV9sb3NzKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgICAgICAgICByZXN1bHRzID0gb3B0aW1pemUuZm1pbl9sX2JmZ3NfYigKICAgICAgICAgICAgICAgICAgICBsb3NzX2YsCiAgICAgICAgICAgICAgICAgICAgbnAuemVyb3MoKDEsIDYpKSwKICAgICAgICAgICAgICAgICAgICBtYXhpdGVyPTEwMCwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSByZXN1bHRzWzBdCiAgICAgICAgICAgICAgICBuZXh0X3N0YXRlcy5hcHBlbmQobmV4dF9zdGF0ZSkKICAgICAgICAgICAgbmV4dF9zdGF0ZXMgPSBucC5hcnJheShuZXh0X3N0YXRlcykKICAgICAgICAgICAgcmV0dXJuIG5leHRfc3RhdGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmV0dXJuX2dyYWRpZW50Ogo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGRpc3RhbmNlcyA9IHRvcmNoLnN1bSgKICAgICAgICAjICAgICAobmV4dF9zdGF0ZXMgLSBzZWxmLl9nb2FsX2V4cGFuZGVkX3RvcmNoKSAqKiAyLAogICAgICAgICMgICAgIGRpbT0xCiAgICAgICAgIyApCiAgICAgICAgIyBiZXN0X2FjdGlvbiA9IG5wLmFyZ21pbihwdHUuZ2V0X251bXB5KGRpc3RhbmNlcykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X3N0YXRlcyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHN0YXRlcykpOgogICAgICAgICAgICBzdGF0ZSA9IHN0YXRlc1tpOmkrMSwgOl0KICAgICAgICAgICAgYWN0aW9uID0gYWN0aW9uc1tpOmkrMSwgOl0KICAgICAgICAgICAgbG9zc19mID0gc2VsZi5jcmVhdGVfbG9zcyhzdGF0ZSwgYWN0aW9uKQogICAgICAgICAgICByZXN1bHRzID0gb3B0aW1pemUuZm1pbl9sX2JmZ3NfYigKICAgICAgICAgICAgICAgIGxvc3NfZiwKICAgICAgICAgICAgICAgIG5wLnplcm9zKCgxLCA2KSksCiAgICAgICAgICAgICAgICBtYXhpdGVyPTEwMCwKICAgICAgICAgICAgKQogICAgICAgICAgICBuZXh0X3N0YXRlID0gcmVzdWx0c1swXQogICAgICAgICAgICBuZXh0X3N0YXRlcy5hcHBlbmQobmV4dF9zdGF0ZSkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11144,19 +11144,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIG5leHRfc3RhdGVzID0gbnAuYXJyYXkobmV4dF9zdGF0ZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBuZXh0X3N0YXRlcyA9IHNlbGYuZ2V0X25leHRfc3RhdGVfdG9yY2goc3RhdGVzLCBhY3Rpb25zKQogICAgICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X3N0YXRlcyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHN0YXRlcykpOgogICAgICAgICAgICBzdGF0ZSA9IHN0YXRlc1tpOmkrMSwgOl0KICAgICAgICAgICAgYWN0aW9uID0gYWN0aW9uc1tpOmkrMSwgOl0KICAgICAgICAgICAgbG9zc19mID0gc2VsZi5jcmVhdGVfbG9zcyhzdGF0ZSwgYWN0aW9uKQogICAgICAgICAgICByZXN1bHRzID0gb3B0aW1pemUuZm1pbl9sX2JmZ3NfYigKICAgICAgICAgICAgICAgIGxvc3NfZiwKICAgICAgICAgICAgICAgIG5wLnplcm9zKCgxLCA2KSksCiAgICAgICAgICAgICAgICBtYXhpdGVyPTEwMCwKICAgICAgICAgICAgKQogICAgICAgICAgICBuZXh0X3N0YXRlID0gcmVzdWx0c1swXQogICAgICAgICAgICBuZXh0X3N0YXRlcy5hcHBlbmQobmV4dF9zdGF0ZSkKICAgICAgICAjIG5leHRfc3RhdGVzID0gc2VsZi5nZXRfbmV4dF9zdGF0ZV90b3JjaChzdGF0ZXMsIGFjdGlvbnMpCiAgICAgICAgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIG5leHRfc3RhdGVzID0gbnAuYXJyYXkobmV4dF9zdGF0ZXMpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiZXN0X2FjdGlvbiA9IG5wLmFyZ21pbihwdHUuZ2V0X251bXB5KGRpc3RhbmNlcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5leHRfc3RhdGVzX25wID0gc2VsZi5zYW1wbGVfc3RhdGVzKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12598,19 +12598,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIG5leHRfc3RhdGUgPSBwdHUubnBfdG9fdmFyKHNlbGYuZW52LnNhbXBsZV9zdGF0ZXMoc2VsZi5zYW1wbGVfc2l6ZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIG5leHRfc3RhdGUgPSBwdHUubnBfdG9fdmFyKHNlbGYuc2FtcGxlX3N0YXRlcygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fmin</last-search>
+      <last-search>goal</last-search>
       <last-offset />
-      <last-pattern>fmin</last-pattern>
+      <last-pattern>goal</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12618,13 +12618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>num_unique</entry>
-        <entry>ddpg</entry>
-        <entry>num_steps</entry>
-        <entry encoding="base64">XDxudW1fc3RlcHNfcGVyX2V2YWxcPg==</entry>
-        <entry>rollout</entry>
-        <entry>max_path</entry>
-        <entry>target_pos</entry>
         <entry>heatmap</entry>
         <entry>set_State</entry>
         <entry encoding="base64">cWYg</entry>
@@ -12638,9 +12631,15 @@
         <entry>Ps</entry>
         <entry>print</entry>
         <entry>fmin</entry>
+        <entry>bg</entry>
+        <entry>bfg</entry>
+        <entry>next_States</entry>
+        <entry>next_states</entry>
+        <entry>get_next_State</entry>
+        <entry>optimize_mode</entry>
+        <entry>goal</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
         <entry>29</entry>
         <entry>45</entry>
         <entry encoding="base64">JzwsJz5x</entry>
@@ -12658,6 +12657,7 @@
         <entry>58</entry>
         <entry>53</entry>
         <entry>w'</entry>
+        <entry>321</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
