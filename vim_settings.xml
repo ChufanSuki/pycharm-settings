@@ -1683,12 +1683,12 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" timestamp="1506988498428">
-        <mark key="'" line="39" column="14" />
-        <mark key="[" line="45" column="10" />
-        <mark key="]" line="45" column="11" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="45" column="11" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" timestamp="1506989572401">
+        <mark key="'" line="100" column="16" />
+        <mark key="[" line="47" column="10" />
+        <mark key="]" line="47" column="11" />
+        <mark key="." line="47" column="11" />
+        <mark key="^" line="53" column="35" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/memory/high_low.py" timestamp="1498191998302">
         <mark key="'" line="180" column="8" />
@@ -2836,12 +2836,12 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="247" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1506987833897">
-        <mark key="'" line="313" column="30" />
-        <mark key="[" line="339" column="44" />
-        <mark key="]" line="339" column="60" />
-        <mark key="." line="339" column="56" />
-        <mark key="^" line="339" column="60" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1506989547192">
+        <mark key="'" line="378" column="33" />
+        <mark key="[" line="378" column="33" />
+        <mark key="]" line="378" column="33" />
+        <mark key="." line="378" column="43" />
+        <mark key="^" line="363" column="52" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab3/lib/python3.5/site-packages/gym/envs/mujoco/__init__.py" timestamp="1480446693971">
         <mark key="'" line="10" column="45" />
@@ -3437,10 +3437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="375" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="275" column="40" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="376" column="21" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="470" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="417" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="84" column="41" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
@@ -3537,6 +3533,10 @@
       <jump line="15" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" />
       <jump line="41" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" />
       <jump line="39" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" />
+      <jump line="55" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" />
+      <jump line="89" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/point2d_hardcoded_qf.py" />
+      <jump line="363" column="52" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
+      <jump line="378" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3574,7 +3574,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>6</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11108,25 +11108,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>100</text>
+        <text>6</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoCiAgICAgICAgICAgIEFyZ21heFFGUG9saWN5LAogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgc2FtcGxlX3NpemU9MSwKICAgICAgICAgICAgICAgIG51bV9ncmFkaWVudF9zdGVwcz0xMDAsCiAgICAgICAgICAgICkKICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGV4cF9pZCBpbiByYW5nZShuX3NlZWRzKToKICAgICAgICAgICAgICAgIHNlZWQgPSByYW5kb20ucmFuZGludCgwLCA5OTk5OTkpCiAgICAgICAgICAgICAgICBydW5fZXhwZXJpbWVudCgKICAgICAgICAgICAgICAgICAgICBleHBlcmltZW50LAogICAgICAgICAgICAgICAgICAgIGV4cF9wcmVmaXg9ZXhwX3ByZWZpeCwKICAgICAgICAgICAgICAgICAgICBzZWVkPXNlZWQsCiAgICAgICAgICAgICAgICAgICAgbW9kZT1tb2RlLAogICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9dmFyaWFudCwKICAgICAgICAgICAgICAgICAgICBleHBfaWQ9ZXhwX2lkLAogICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bl9tb2RlID0gIm5vbmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gPSAiRGV2Igo=</text>
+        <text encoding="base64">ICAgIHJ1bl9tb2RlID0gIm5vbmUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJpYW50ID0gZGljdCgKICAgICAgICAgICAgbnVtX3JvbGxvdXRzPTEwLAogICAgICAgICAgICBIPTMwMCwKICAgICAgICAgICAgcmVuZGVyPVRydWUsCiAgICAgICAgICAgIHBvbGljeV9jbGFzcz1Qc2V1ZG9Nb2RlbEJhc2VkUG9saWN5LAogICAgICAgICAgICBwb2xpY3lfcGFyYW1zPWRpY3QoCiAgICAgICAgICAgICAgICBzYW1wbGVfc2l6ZT0xLAogICAgICAgICAgICAgICAgbnVtX2dyYWRpZW50X3N0ZXBzPTEwMCwKICAgICAgICAgICAgKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAiRGV2Igo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11161,19 +11161,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJpYW50ID0gZGljdCgKICAgICAgICAgICAgbnVtX3JvbGxvdXRzPTEwLAogICAgICAgICAgICBIPTMwMCwKICAgICAgICAgICAgcmVuZGVyPVRydWUsCiAgICAgICAgICAgIHBvbGljeV9jbGFzcz1Qc2V1ZG9Nb2RlbEJhc2VkUG9saWN5LAogICAgICAgICAgICBwb2xpY3lfcGFyYW1zPWRpY3QoCiAgICAgICAgICAgICAgICBzYW1wbGVfc2l6ZT0xLAogICAgICAgICAgICAgICAgbnVtX2dyYWRpZW50X3N0ZXBzPTEwMCwKICAgICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlX2FjdGlvbnNfZnJvbV9ncmlkPUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXN0YW5jZV90b190YXJnZXQpCiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlX2FjdGlvbnNfZnJvbV9ncmlkPUZhbHNlLAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXN0YW5jZV90b190YXJnZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXN0YW5jZV90b190YXJnZXQpCiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12615,19 +12615,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXN0YW5jZV90b190YXJnZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>100</last-search>
+      <last-search>6</last-search>
       <last-offset />
-      <last-pattern>100</last-pattern>
+      <last-pattern>6</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12635,7 +12635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cm0g</entry>
         <entry>local_dir</entry>
         <entry>mount_point</entry>
         <entry>Local</entry>
@@ -12655,6 +12654,7 @@
         <entry>version</entry>
         <entry>run_mod</entry>
         <entry>100</entry>
+        <entry>6</entry>
       </history-search>
       <history-cmd>
         <entry>186</entry>
