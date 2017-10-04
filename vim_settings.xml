@@ -623,10 +623,10 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/fanova_util.py" timestamp="1507153913049">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="68" column="46" />
-        <mark key="]" line="68" column="47" />
-        <mark key="^" line="68" column="47" />
-        <mark key="." line="68" column="47" />
+        <mark key="[" line="79" column="46" />
+        <mark key="]" line="79" column="47" />
+        <mark key="^" line="79" column="47" />
+        <mark key="." line="79" column="47" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/spaces/onehot.py" timestamp="1486101096931">
         <mark key="'" line="34" column="41" />
@@ -2069,12 +2069,12 @@
         <mark key="^" line="30" column="154" />
         <mark key="." line="30" column="154" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" timestamp="1507159205001">
-        <mark key="'" line="26" column="18" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="66" column="37" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" timestamp="1507160063412">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/tf_mem_ddpg.py" timestamp="1497388655753">
         <mark key="'" line="43" column="26" />
@@ -2265,13 +2265,6 @@
         <mark key="]" line="99" column="56" />
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" timestamp="1507158995916">
-        <mark key="'" line="155" column="15" />
-        <mark key="[" line="157" column="39" />
-        <mark key="]" line="157" column="44" />
-        <mark key="^" line="157" column="44" />
-        <mark key="." line="157" column="44" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_qf_as_implicit_model.py" timestamp="1505878571803">
         <mark key="'" line="38" column="23" />
@@ -3415,7 +3408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
       <jump line="71" column="49" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
       <jump line="29" column="8" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
       <jump line="53" column="8" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
@@ -3514,7 +3506,8 @@
       <jump line="155" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/residual_gradient_ddpg_comparison.py" />
       <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
-      <jump line="26" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
+      <jump line="151" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="26" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3552,7 +3545,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkaWN0KAogICAgICAgICAgICAjICAgICBvYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZT0xMDAwLAogICAgICAgICAgICAjICAgICBlbWJlZGRlZF9oaWRkZW5fc2l6ZT0xMDAwLAogICAgICAgICAgICAjICksCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9SW52ZXJ0ZWREb3VibGVQZW5kdWx1bUVudiwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11089,22 +11082,22 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Cartpole</text>
+        <text>HEAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5fc2VlZHMgPSA0CiAgICBleHBfcHJlZml4ID0gImNhcnRwb2xlLXBsYXlncm91bmQiCiAgICBtb2RlID0gJ2VjMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkaWN0KAogICAgICAgICAgICAjICAgICBvYnNlcnZhdGlvbl9oaWRkZW5fc2l6ZT0xMDAwLAogICAgICAgICAgICAjICAgICBlbWJlZGRlZF9oaWRkZW5fc2l6ZT0xMDAwLAogICAgICAgICAgICAjICksCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9SW52ZXJ0ZWREb3VibGVQZW5kdWx1bUVudiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMudGF1JzogWwogICAgICAgICAgICAxLCAxZS0xLCAxZS0yLCAxZS0zLAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLm11am9jby4gaW1wb3J0IEFudEVudgo=</text>
+        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLmJveDJkLmNhcnRwb2xlX2VudiBpbXBvcnQgQ2FydHBvbGVFbnYK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11139,19 +11132,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzaWR1YWxfeV9wcmVkID0gc2VsZi5xZihvYnMsIGFjdGlvbnMpCg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzcGVlZCB1cCBjb21wdXRhdGlvbiBieSB0ZWxsaW5nIHB5dG9yY2ggdG8gbm90IGJhY2twcm9wIHRoZXNlCiAgICAgICAgICAgICMgZ3JhZGllbnRzCg==</text>
+        <text encoding="base64">CiIiIgpSdW4gUHlUb3JjaCBERFBHIG9uIEhhbGZDaGVldGFoLgoiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X2FjdGlvbnMuZGV0YWNoKCkK</text>
+        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLm11am9jby5ob3BwZXJfZW52IGltcG9ydCBIb3BwZXJFbnYKZnJvbSBybGxhYi5lbnZzLm11am9jby5zd2ltbWVyX2VudiBpbXBvcnQgU3dpbW1lckVudgpmcm9tIHJsbGFiLmVudnMubXVqb2NvLmhhbGZfY2hlZXRhaF9lbnYgaW1wb3J0IEhhbGZDaGVldGFoRW52CmZyb20gcmxsYWIuZW52cy5tdWpvY28uaW52ZXJ0ZWRfZG91YmxlX3BlbmR1bHVtX2VudiBpbXBvcnQgSW52ZXJ0ZWREb3VibGVQZW5kdWx1bUVudgoK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52IGltcG9ydCBub3JtYWxpemUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12593,19 +12586,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UgbnAuYXJyYXkoW2V4cFt5bGFiZWxdXSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAnZW52X2NsYXNzJzogW0NhcnRwb2xlRW52LCBIYWxmQ2hlZXRhaEVudiwgSG9wcGVyRW52XSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cartpole</last-search>
+      <last-search>HEAD</last-search>
       <last-offset />
-      <last-pattern>Cartpole</last-pattern>
+      <last-pattern>HEAD</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12613,7 +12606,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fun</entry>
         <entry>last_solution</entry>
         <entry>x0</entry>
         <entry>next_state</entry>
@@ -12633,6 +12625,7 @@
         <entry>bellman_errors</entry>
         <entry>y_pred</entry>
         <entry>Cartpole</entry>
+        <entry>HEAD</entry>
       </history-search>
       <history-cmd>
         <entry>321</entry>
