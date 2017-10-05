@@ -2069,12 +2069,12 @@
         <mark key="^" line="30" column="154" />
         <mark key="." line="30" column="154" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" timestamp="1507160063412">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" timestamp="1507161624263">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="71" />
+        <mark key="^" line="56" column="51" />
+        <mark key="." line="56" column="51" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/tf_mem_ddpg.py" timestamp="1497388655753">
         <mark key="'" line="43" column="26" />
@@ -2265,6 +2265,13 @@
         <mark key="]" line="99" column="56" />
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" timestamp="1507161390137">
+        <mark key="'" line="196" column="16" />
+        <mark key="[" line="227" column="13" />
+        <mark key="]" line="229" column="47" />
+        <mark key="." line="229" column="47" />
+        <mark key="^" line="229" column="47" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_qf_as_implicit_model.py" timestamp="1505878571803">
         <mark key="'" line="38" column="23" />
@@ -3161,6 +3168,11 @@
         <mark key="." line="64" column="44" />
         <mark key="^" line="64" column="44" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1507161204395">
+        <mark key="'" line="184" column="24" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="102" column="4" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="5" column="0" />
@@ -3408,31 +3420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="49" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
-      <jump line="487" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
-      <jump line="88" column="3" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="150" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="45" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="75" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="4" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="2" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="123" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="124" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="125" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="128" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="129" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="133" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="162" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="1" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="40" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/slsqp_oc.py" />
-      <jump line="91" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="86" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
       <jump line="69" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
       <jump line="14" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
       <jump line="83" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
@@ -3508,6 +3495,31 @@
       <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
       <jump line="151" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="26" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
+      <jump line="56" column="65" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="82" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="121" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="224" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="102" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="63" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="79" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="88" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="89" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="99" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="100" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="104" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="148" column="45" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="228" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="184" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="194" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="237" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="238" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="327" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="328" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="196" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3544,8 +3556,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9SW52ZXJ0ZWREb3VibGVQZW5kdWx1bUVudiwK</text>
+      <register name="&quot;" type="4">
+        <text>optimize-target-policy-quick-test-cartpole-playground&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11079,25 +11091,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;DDPG&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>versino</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5fc2VlZHMgPSA0CiAgICBleHBfcHJlZml4ID0gImNhcnRwb2xlLXBsYXlncm91bmQiCiAgICBtb2RlID0gJ2VjMicK</text>
+        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMucmVzaWR1YWxfZ3JhZGllbnRfd2VpZ2h0JzogWwogICAgICAgICAgICAwLAogICAgICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9SW52ZXJ0ZWREb3VibGVQZW5kdWx1bUVudiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAncWZfcGFyYW1zJzogWwogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25faGlkZGVuX3NpemU9NDAwLAogICAgICAgICAgICAgICAgZW1iZWRkZWRfaGlkZGVuX3NpemU9MzAwLAogICAgICAgICAgICApLAogICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLmJveDJkLmNhcnRwb2xlX2VudiBpbXBvcnQgQ2FydHBvbGVFbnYK</text>
+        <text encoding="base64">ICAgICAgICBleHBsb3JhdGlvbl9zdHJhdGVneT1lcywK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11132,19 +11144,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICBxZj1xZiwKICAgICAgICBwb2xpY3k9cG9saWN5LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiIiIgpSdW4gUHlUb3JjaCBERFBHIG9uIEhhbGZDaGVldGFoLgoiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5vcHRpbWl6ZV90YXJnZXRfcG9saWN5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLm11am9jby5ob3BwZXJfZW52IGltcG9ydCBIb3BwZXJFbnYKZnJvbSBybGxhYi5lbnZzLm11am9jby5zd2ltbWVyX2VudiBpbXBvcnQgU3dpbW1lckVudgpmcm9tIHJsbGFiLmVudnMubXVqb2NvLmhhbGZfY2hlZXRhaF9lbnYgaW1wb3J0IEhhbGZDaGVldGFoRW52CmZyb20gcmxsYWIuZW52cy5tdWpvY28uaW52ZXJ0ZWRfZG91YmxlX3BlbmR1bHVtX2VudiBpbXBvcnQgSW52ZXJ0ZWREb3VibGVQZW5kdWx1bUVudgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YXJnZXRfcG9saWN5X29wdGltaXplciA9IE5vbmUK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52IGltcG9ydCBub3JtYWxpemUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YXJnZXRfcG9saWN5X29wdGltaXplciA9IG9wdGltLkFkYW0oCiAgICAgICAgICAgICAgICBzZWxmLnBvbGljeS5wYXJhbWV0ZXJzKCksCiAgICAgICAgICAgICAgICBscj1zZWxmLnBvbGljeV9sZWFybmluZ19yYXRlLAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12586,19 +12598,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YXJnZXRfcG9saWN5X29wdGltaXplciA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZW52X2NsYXNzJzogW0NhcnRwb2xlRW52LCBIYWxmQ2hlZXRhaEVudiwgSG9wcGVyRW52XSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiBxZl9jcml0ZXJpb24gaXMgTm9uZToKICAgICAgICAgICAgcWZfY3JpdGVyaW9uID0gbm4uTVNFTG9zcygpCiAgICAgICAgaWYgdGFyZ2V0X3BvbGljeV9sZWFybmluZ19yYXRlIGlzIE5vbmU6CiAgICAgICAgICAgIHRhcmdldF9wb2xpY3lfbGVhcm5pbmdfcmF0ZSA9IHBvbGljeV9sZWFybmluZ19yYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>versino</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>versino</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12606,13 +12618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last_solution</entry>
-        <entry>x0</entry>
-        <entry>next_state</entry>
-        <entry>state_predicted</entry>
-        <entry>split</entry>
-        <entry>bounds</entry>
-        <entry>good_indices</entry>
         <entry>indices</entry>
         <entry>Y</entry>
         <entry>data</entry>
@@ -12626,6 +12631,13 @@
         <entry>y_pred</entry>
         <entry>Cartpole</entry>
         <entry>HEAD</entry>
+        <entry>number</entry>
+        <entry>TargetPolicy</entry>
+        <entry>QF Loss</entry>
+        <entry>,</entry>
+        <entry>retun 0</entry>
+        <entry>target_policy</entry>
+        <entry>versino</entry>
       </history-search>
       <history-cmd>
         <entry>321</entry>
