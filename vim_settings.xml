@@ -1144,6 +1144,10 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_many_envs.py" timestamp="1507168821552">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="17" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/example_local_docker_ddpg_cartpole.py" timestamp="1484612968607">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="17" />
@@ -2069,10 +2073,10 @@
         <mark key="^" line="30" column="154" />
         <mark key="." line="30" column="154" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" timestamp="1507161624263">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="56" column="71" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" timestamp="1507168964418">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="101" column="12" />
         <mark key="^" line="56" column="51" />
         <mark key="." line="56" column="51" />
       </file>
@@ -2922,6 +2926,13 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" timestamp="1507169021113">
+        <mark key="'" line="16" column="43" />
+        <mark key="[" line="60" column="55" />
+        <mark key="]" line="60" column="60" />
+        <mark key="^" line="60" column="60" />
+        <mark key="." line="60" column="60" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/layernorm_ddpg.py" timestamp="1489720884616">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="12" column="26" />
@@ -3320,6 +3331,9 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/cartpole_env.py" timestamp="1507168966130">
+        <mark key="'" line="45" column="16" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" timestamp="1501125583804">
         <mark key="'" line="96" column="15" />
         <mark key="[" line="47" column="8" />
@@ -3420,17 +3434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="14" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="83" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="148" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="166" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
-      <jump line="61" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="62" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="63" column="51" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="87" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/use_learned_model.py" />
-      <jump line="159" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" />
       <jump line="35" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/_minimize.py" />
       <jump line="328" column="0" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/_minimize.py" />
       <jump line="333" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/_minimize.py" />
@@ -3520,6 +3523,17 @@
       <jump line="328" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="196" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="51" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
+      <jump line="56" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
+      <jump line="37" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="2" column="2" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="104" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="83" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="9" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/cartpole_env.py" />
+      <jump line="16" column="43" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_playground.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/cartpole_playground.py" />
+      <jump line="45" column="16" filename="$USER_HOME$/git/rllab-rail/rllab/envs/box2d/cartpole_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3557,7 +3571,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>optimize-target-policy-quick-test-cartpole-playground&quot;</text>
+        <text>quick-test-cartpole-playground&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11091,25 +11105,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;DDPG&quot;,</text>
+        <text>quick-test-cartpole-playground&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>versino</text>
+        <text>reward</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMucmVzaWR1YWxfZ3JhZGllbnRfd2VpZ2h0JzogWwogICAgICAgICAgICAwLAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBTd2ltbWVyRW52LAogICAgICAgIEhhbGZDaGVldGFoRW52LAogICAgICAgIEFudEVudiwKICAgICAgICBIb3BwZXJFbnYsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FydHBvbGVFbnYsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAncWZfcGFyYW1zJzogWwogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25faGlkZGVuX3NpemU9NDAwLAogICAgICAgICAgICAgICAgZW1iZWRkZWRfaGlkZGVuX3NpemU9MzAwLAogICAgICAgICAgICApLAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVudl9jbGFzcz1DYXJ0cG9sZUVudiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBsb3JhdGlvbl9zdHJhdGVneT1lcywK</text>
+        <text encoding="base64">ICAgIGVudl9wYXJhbXMgPSB7fQogICAgIyBPbmx5IGNyZWF0ZSBhbiBlbnYgZm9yIHRoZSBvYnMvYWN0aW9uIHNwYWNlcwogICAgZW52ID0gZW52X2NsYXNzKCoqZW52X3BhcmFtcykKICAgIGVudiA9IENhcnRwb2xlRW52KCkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11144,19 +11158,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxZj1xZiwKICAgICAgICBwb2xpY3k9cG9saWN5LAo=</text>
+        <text encoding="base64">IiIiClJ1biBERFBHIG9uIHRoaW5ncy4KIiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5vcHRpbWl6ZV90YXJnZXRfcG9saWN5Ogo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwuZW52cy5yZW1vdGUgaW1wb3J0IFJlbW90ZVJvbGxvdXRFbnYKZnJvbSByYWlscmwuZW52cy53cmFwcGVycyBpbXBvcnQgY29udmVydF9neW1fc3BhY2UKZnJvbSByYWlscmwuZXhwbG9yYXRpb25fc3RyYXRlZ2llcy5vdV9zdHJhdGVneSBpbXBvcnQgT1VTdHJhdGVneQpmcm9tIHJhaWxybC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgcnVuX2V4cGVyaW1lbnQKZnJvbSByYWlscmwucG9saWNpZXMudG9yY2ggaW1wb3J0IEZlZWRGb3J3YXJkUG9saWN5CmZyb20gcmFpbHJsLnFmdW5jdGlvbnMudG9yY2ggaW1wb3J0IEZlZWRGb3J3YXJkUUZ1bmN0aW9uCmZyb20gcmFpbHJsLnRvcmNoLmFsZ29zLnBhcmFsbGVsX2RkcGcgaW1wb3J0IFBhcmFsbGVsRERQRwppbXBvcnQgcmFpbHJsLnRvcmNoLnB5dG9yY2hfdXRpbCBhcyBwdHUKZnJvbSBybGxhYi5lbnZzLm11am9jby5oYWxmX2NoZWV0YWhfZW52IGltcG9ydCBIYWxmQ2hlZXRhaEVudgpmcm9tIHJsbGFiLmVudnMubXVqb2NvLmludmVydGVkX2RvdWJsZV9wZW5kdWx1bV9lbnYgaW1wb3J0IFwKICAgIEludmVydGVkRG91YmxlUGVuZHVsdW1FbnYKZnJvbSBybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52IGltcG9ydCBub3JtYWxpemUKCgpkZWYgZXhhbXBsZSh2YXJpYW50KToKICAgIGVudl9jbGFzcyA9IHZhcmlhbnRbJ2Vudl9jbGFzcyddCiAgICBlbnZfcGFyYW1zID0ge30KICAgICMgT25seSBjcmVhdGUgYW4gZW52IGZvciB0aGUgb2JzL2FjdGlvbiBzcGFjZXMKICAgIGVudiA9IGVudl9jbGFzcygqKmVudl9wYXJhbXMpCiAgICBpZiB2YXJpYW50Wydub3JtYWxpemVfZW52J106CiAgICAgICAgZW52ID0gbm9ybWFsaXplKGVudikKICAgIG9ic19zcGFjZSA9IGNvbnZlcnRfZ3ltX3NwYWNlKGVudi5vYnNlcnZhdGlvbl9zcGFjZSkKICAgIGFjdGlvbl9zcGFjZSA9IGNvbnZlcnRfZ3ltX3NwYWNlKGVudi5hY3Rpb25fc3BhY2UpCiAgICBxZiA9IEZlZWRGb3J3YXJkUUZ1bmN0aW9uKAogICAgICAgIGludChvYnNfc3BhY2UuZmxhdF9kaW0pLAogICAgICAgIGludChhY3Rpb25fc3BhY2UuZmxhdF9kaW0pLAogICAgICAgIDQwMCwKICAgICAgICAzMDAsCiAgICApCiAgICBlc19jbGFzcyA9IE9VU3RyYXRlZ3kKICAgIGVzX3BhcmFtcyA9IGRpY3QoCiAgICAgICAgYWN0aW9uX3NwYWNlPWFjdGlvbl9zcGFjZSwKICAgICkKICAgIHBvbGljeV9jbGFzcyA9IEZlZWRGb3J3YXJkUG9saWN5CiAgICBwb2xpY3lfcGFyYW1zID0gZGljdCgKICAgICAgICBvYnNfZGltPWludChvYnNfc3BhY2UuZmxhdF9kaW0pLAogICAgICAgIGFjdGlvbl9kaW09aW50KGFjdGlvbl9zcGFjZS5mbGF0X2RpbSksCiAgICAgICAgZmMxX3NpemU9NDAwLAogICAgICAgIGZjMl9zaXplPTMwMCwKICAgICkKICAgIGVzID0gZXNfY2xhc3MoKiplc19wYXJhbXMpCiAgICBwb2xpY3kgPSBwb2xpY3lfY2xhc3MoKipwb2xpY3lfcGFyYW1zKQogICAgcmVtb3RlX2VudiA9IFJlbW90ZVJvbGxvdXRFbnYoCiAgICAgICAgZW52X2NsYXNzLAogICAgICAgIGVudl9wYXJhbXMsCiAgICAgICAgcG9saWN5X2NsYXNzLAogICAgICAgIHBvbGljeV9wYXJhbXMsCiAgICAgICAgZXNfY2xhc3MsCiAgICAgICAgZXNfcGFyYW1zLAogICAgICAgIHZhcmlhbnRbJ21heF9wYXRoX2xlbmd0aCddLAogICAgICAgIHZhcmlhbnRbJ25vcm1hbGl6ZV9lbnYnXSwKICAgICkKICAgIGFsZ29yaXRobSA9IFBhcmFsbGVsRERQRygKICAgICAgICByZW1vdGVfZW52LAogICAgICAgIGV4cGxvcmF0aW9uX3N0cmF0ZWd5PWVzLAogICAgICAgIHFmPXFmLAogICAgICAgIHBvbGljeT1wb2xpY3ksCiAgICAgICAgKip2YXJpYW50WydhbGdvX3BhcmFtcyddCiAgICApCiAgICBpZiBwdHUuZ3B1X2VuYWJsZWQoKToKICAgICAgICBhbGdvcml0aG0uY3VkYSgpCiAgICBhbGdvcml0aG0udHJhaW4oKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYXhfcGF0aF9sZW5ndGggPSAxMDAwCiAgICB2YXJpYW50ID0gZGljdCgKICAgICAgICBhbGdvX3BhcmFtcz1kaWN0KAogICAgICAgICAgICBudW1fZXBvY2hzPTIwLAogICAgICAgICAgICBudW1fc3RlcHNfcGVyX2Vwb2NoPTEwMDAwLAogICAgICAgICAgICBudW1fc3RlcHNfcGVyX2V2YWw9MTAwMCwKICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPW1heF9wYXRoX2xlbmd0aCwKICAgICAgICAgICAgdXNlX3NvZnRfdXBkYXRlPVRydWUsCiAgICAgICAgICAgIHRhdT0xZS0yLAogICAgICAgICAgICBiYXRjaF9zaXplPTEyOCwKICAgICAgICAgICAgZGlzY291bnQ9MC45OSwKICAgICAgICAgICAgcWZfbGVhcm5pbmdfcmF0ZT0xZS0zLAogICAgICAgICAgICBwb2xpY3lfbGVhcm5pbmdfcmF0ZT0xZS00LAogICAgICAgICksCiAgICAgICAgbWF4X3BhdGhfbGVuZ3RoPW1heF9wYXRoX2xlbmd0aCwKICAgICAgICBlbnZfY2xhc3M9SGFsZkNoZWV0YWhFbnYsCiAgICAgICAgcGFyYWxsZWw9VHJ1ZSwKICAgICAgICBub3JtYWxpemVfZW52PVRydWUsCiAgICApCiAgICBmb3Igc2VlZCBpbiByYW5nZSgxKToKICAgICAgICBydW5fZXhwZXJpbWVudCgKICAgICAgICAgICAgZXhhbXBsZSwKICAgICAgICAgICAgIyBleHBfcHJlZml4PSJwYXJhbGxlbC1kZHBnLWhhbGYtY2hlZXRhaCIsCiAgICAgICAgICAgIGV4cF9wcmVmaXg9InRlc3QtZWMyLXJheSIsCiAgICAgICAgICAgIHNlZWQ9c2VlZCwKICAgICAgICAgICAgbW9kZT0nZWMyJywKICAgICAgICAgICAgdmFyaWFudD12YXJpYW50LAogICAgICAgICAgICB1c2VfZ3B1PUZhbHNlLAogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YXJnZXRfcG9saWN5X29wdGltaXplciA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YXJnZXRfcG9saWN5X29wdGltaXplciA9IG9wdGltLkFkYW0oCiAgICAgICAgICAgICAgICBzZWxmLnBvbGljeS5wYXJhbWV0ZXJzKCksCiAgICAgICAgICAgICAgICBscj1zZWxmLnBvbGljeV9sZWFybmluZ19yYXRlLAogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAncWZfcGFyYW1zJzogWwogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25faGlkZGVuX3NpemU9NDAwLAogICAgICAgICAgICAgICAgZW1iZWRkZWRfaGlkZGVuX3NpemU9MzAwLAogICAgICAgICAgICApLAogICAgICAgIF0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12598,19 +12612,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YXJnZXRfcG9saWN5X29wdGltaXplciA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBleHBsb3JhdGlvbl9zdHJhdGVneT1lcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBxZl9jcml0ZXJpb24gaXMgTm9uZToKICAgICAgICAgICAgcWZfY3JpdGVyaW9uID0gbm4uTVNFTG9zcygpCiAgICAgICAgaWYgdGFyZ2V0X3BvbGljeV9sZWFybmluZ19yYXRlIGlzIE5vbmU6CiAgICAgICAgICAgIHRhcmdldF9wb2xpY3lfbGVhcm5pbmdfcmF0ZSA9IHBvbGljeV9sZWFybmluZ19yYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBxZj1xZiwKICAgICAgICBwb2xpY3k9cG9saWN5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>versino</last-search>
+      <last-search>reward</last-search>
       <last-offset />
-      <last-pattern>versino</last-pattern>
+      <last-pattern>reward</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>pool</last-substitute>
       <last-dir>1</last-dir>
@@ -12618,9 +12632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indices</entry>
-        <entry>Y</entry>
-        <entry>data</entry>
         <entry>fA</entry>
         <entry>float</entry>
         <entry>ipd</entry>
@@ -12638,6 +12649,9 @@
         <entry>retun 0</entry>
         <entry>target_policy</entry>
         <entry>versino</entry>
+        <entry>max_path</entry>
+        <entry>cartpole</entry>
+        <entry>reward</entry>
       </history-search>
       <history-cmd>
         <entry>321</entry>
