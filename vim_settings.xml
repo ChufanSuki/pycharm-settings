@@ -499,7 +499,7 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/run_experiment_from_doodad.py" timestamp="1507874034860">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/run_experiment_from_doodad.py" timestamp="1507875731841">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -3246,11 +3246,10 @@
         <mark key="." line="64" column="44" />
         <mark key="^" line="64" column="44" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1507872052538">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="182" column="32" />
-        <mark key="." line="180" column="35" />
-        <mark key="^" line="180" column="35" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1507875776846">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3505,9 +3504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
       <jump line="252" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="137" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="127" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
@@ -3605,6 +3601,9 @@
       <jump line="171" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="150" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="167" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="141" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="192" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3642,7 +3641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAgICAgIyAnYWxnb19wYXJhbXMuc2FtcGxlX2Rpc2NvdW50JzogW1RydWUsIEZhbHNlXSwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11179,22 +11178,22 @@
         <text>base_log_dir_for_script</text>
       </register>
       <register name="/" type="4">
-        <text>run_experiment</text>
+        <text>HEAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrLAogICAgICAgIGV4cF9wcmVmaXg9J2RlZmF1bHQnLAogICAgICAgIHNlZWQ9Tm9uZSwKICAgICAgICB2YXJpYW50PU5vbmUsCiAgICAgICAgdGltZV9pdD1UcnVlLAogICAgICAgIHNhdmVfcHJvZmlsZT1GYWxzZSwKICAgICAgICBwcm9maWxlX2ZpbGU9J3RpbWVfbG9nLnByb2YnLAogICAgICAgIG1vZGU9J2hlcmUnLAogICAgICAgIGV4cF9pZD0wLAogICAgICAgIHVuaXF1ZV9pZD1Ob25lLAogICAgICAgIHByZXBlbmRfZGF0ZV90b19leHBfcHJlZml4PVRydWUsCiAgICAgICAgdXNlX2dwdT1GYWxzZSwKICAgICAgICBzbmFwc2hvdF9tb2RlPSdsYXN0JywKICAgICAgICBzbmFwc2hvdF9nYXA9MSwKICAgICAgICBuX3BhcmFsbGVsPTAsCiAgICAgICAgYmFzZV9sb2dfZGlyPU5vbmUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAgICAgIyAnYWxnb19wYXJhbXMuc2FtcGxlX2Rpc2NvdW50JzogW1RydWUsIEZhbHNlXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9wcm9maWxlPUZhbHNlLAogICAgICAgICAgICBwcm9maWxlX2ZpbGU9J3RpbWVfbG9nLnByb2YnLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBzdGF0ZS1kaXN0YW5jZS1yZXdhcmQtNy01Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGRvbwo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICB2YWx1ZT01LAo+Pj4+Pj4+IHN0YXRlLWRpc3RhbmNlLXJld2FyZC03LTUK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11229,19 +11228,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRvb2RhZAppbXBvcnQgZG9vZGFkLm1vZGUKaW1wb3J0IGRvb2RhZC5tb3VudCBhcyBtb3VudApmcm9tIGRvb2RhZC51dGlscyBpbXBvcnQgUkVQT19ESVIKCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpZiBzbmFwc2hvdF9kaXIgaXMgbm90IE5vbmU6CiAgICAgICAgbG9nX2RpciA9IHNuYXBzaG90X2Rpcgo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBudW1fc3RlcHNfcGVyX2Vwb2NoPTMwMCwKICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTMwMDAsCj4+Pj4+Pj4gc3RhdGUtZGlzdGFuY2UtcmV3YXJkLTctNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmb3IgaywgdiBpbiBydW5fZXhwZXJpbWVudF9rd2FyZ3MuaXRlbXMoKToKICAgICMgcHJpbnQoaywgdikK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzbmFwc2hvdF9kaXI9c25hcHNob3RfZGlyLAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12683,19 +12682,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzbmFwc2hvdF9kaXI9Tm9uZSwK</text>
+        <text encoding="base64">PT09PT09PQogICAgIyBuX3NlZWRzID0gMwogICAgIyBtb2RlID0gImVjMiIKICAgIGV4cF9wcmVmaXggPSAic2RxbC1yZWFjaGVyMmQtdGFuaC1zb2Z0cGx1cy1xZiIKICAgICMgcnVuX21vZGUgPSAnZ3JpZCcKCiAgICB2ZXJzaW9uID0gIm5hIgo+Pj4+Pj4+IHN0YXRlLWRpc3RhbmNlLXJld2FyZC03LTUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzbmFwc2hvdF9kaXI9Tm9uZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>run_experiment</last-search>
+      <last-search>HEAD</last-search>
       <last-offset />
-      <last-pattern>run_experiment</last-pattern>
+      <last-pattern>HEAD</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>constraint</last-substitute>
       <last-dir>1</last-dir>
@@ -12719,13 +12718,12 @@
         <entry>first_time</entry>
         <entry>snapshot_dir</entry>
         <entry>exists</entry>
-        <entry>HEAD</entry>
         <entry>snapshot_dir=</entry>
         <entry>exp_name</entry>
         <entry>run_experiment</entry>
+        <entry>HEAD</entry>
       </history-search>
       <history-cmd>
-        <entry>224</entry>
         <entry>175</entry>
         <entry>50</entry>
         <entry>46</entry>
@@ -12744,6 +12742,7 @@
         <entry>vsp</entry>
         <entry>253</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
