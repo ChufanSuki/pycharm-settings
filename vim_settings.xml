@@ -417,11 +417,11 @@
         <mark key="." line="26" column="54" />
         <mark key="^" line="26" column="54" />
       </file>
-      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q5.tex" timestamp="1508222270063">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="16" />
+      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q5.tex" timestamp="1508256362652">
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="35" column="71" />
+        <mark key="." line="35" column="71" />
+        <mark key="^" line="35" column="71" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" timestamp="1499914032718">
         <mark key="'" line="34" column="23" />
@@ -3672,8 +3672,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICY9IFxmcmFjezF9ewogICAgMSArIFxpbnRfXE9tZWdhIFxMYW1iZGFfMSAoXHRoZXRhKSBlXnt4XHRoZXRhIC0gXHRoZXRhXjIvMn0gZFx0aGV0YQogICAgfVxcCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11207,25 +11207,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>$$</text>
       </register>
       <register name="/" type="4">
         <text>theta_0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICY9IFAoVChYKSBcbGVxIEZfe1x0aGV0YV8wfV57LTF9KHopKVxcCg==</text>
+        <text encoding="base64">ICAgICY9IFxmcmFjezF9ewogICAgMSArIFxpbnRfXE9tZWdhIFxMYW1iZGFfMSAoXHRoZXRhKSBlXnt4XHRoZXRhIC0gXHRoZXRhXjIvMn0gZFx0aGV0YQogICAgfVxcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEYoVCkgJj0gUFtVIFxsZXEgRihUKV0KICAgICY9IFBbRl57LTF9KFUpIFxsZXEgVF1cXAo=</text>
+        <text encoding="base64">XHBpX1x0ZXh0e3Bvc3R9KHg7IFxMYW1iZGFfMSwgMC41KQo9IFxmcmFjezF9ewoxICsgXGludF9cT21lZ2EgXExhbWJkYV8xIChcdGhldGEpIGVee3hcdGhldGEgLSBcdGhldGFeMi8yfSBkXHRoZXRhCn1cXAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11260,19 +11260,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2luY2UK</text>
+        <text encoding="base64">VGhpcyB3b3VsZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICZcTGVmdHJpZ2h0YXJyb3cgMSAtIEYoYyhcYWxwaGEpKT0gXGFscGhhXFwK</text>
+        <text encoding="base64">XHBpXzAgCmVeey14XjIvMn0KWlxcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICZcTGVmdHJpZ2h0YXJyb3cgMSAtIFBfe1x0aGV0YV8wfShUKFgpIFxsZXEgYyhcYWxwaGEpKSA9IFxhbHBoYVxcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JSAgICAmXExlZnRyaWdodGFycm93IFBfe1x0aGV0YV8wfShUKHgpID4gYyhcYWxwaGEpKSA9IFxhbHBoYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12717,7 +12717,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCRGKGMoXGFscGhhKSkgPSAxIC0gXGFscGhhIFxMZWZ0cmlnaHRhcnJvdyBQX3tcdGhldGFfMH0oVChYKSBcbGVxIGMoXGFscGhhKSkKPSAxIC0gXGFscGhhIFxMZWZ0cmlnaHRhcnJvdyAxLSBGKGMoXGFscGhhKSlQX3tcdGhldGFfMH0oVCh4KSBcZ2VxIGMoXGFscGhhKSkgPSAKXGFscGhhJCQuCg==</text>
+        <text encoding="base64">ICAgIEYoVCkgJj0gUFtVIFxsZXEgRihUKV0KICAgICY9IFBbRl57LTF9KFUpIFxsZXEgVF1cXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
