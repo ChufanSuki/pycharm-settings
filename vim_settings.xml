@@ -1837,10 +1837,12 @@
         <mark key="." line="391" column="34" />
         <mark key="^" line="391" column="34" />
       </file>
-      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q1.tex" timestamp="1508265475009">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q1.tex" timestamp="1508267222414">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/predictors/state_function.py" timestamp="1479762788279">
         <mark key="'" line="37" column="12" />
@@ -3538,8 +3540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/fine_tune.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/misc/logger.py" />
       <jump line="101" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/murtaza/ros/Baxter/baxter_sdql.py" />
       <jump line="102" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/murtaza/ros/Baxter/baxter_sdql.py" />
       <jump line="364" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3638,6 +3638,8 @@
       <jump line="23" column="24" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q4.tex" />
       <jump line="0" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q4.tex" />
       <jump line="12" column="20" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q4.tex" />
+      <jump line="35" column="10" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q1.tex" />
+      <jump line="48" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q1.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11215,19 +11217,19 @@
         <text>0.5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoXGZyYWN7eF97KG4pfX17XHRoZXRhXzJ9KV5uIFxtYXRoYmZ7MX1beF97KG4pfV0K</text>
+        <text encoding="base64">JCQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHQK</text>
+        <text encoding="base64">UF97XHRoZXRhXzB9KEwoWCkgPiBjKSBcbGVxIGFscGhhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0KdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0KRmlyc3Qgd2Ugc2hvdyB0aGF0Cgpcc3Vic2VjdGlvbip7KGIpfQoKXHN1YnNlY3Rpb24qeyhjKX0KVGhlIGxpa2VsaWhvb2QgcmF0aW8gaXMgZ2l2ZW4gYnkKJCQKTCh4KSA9IFxmcmFjezEgKyAoeC1cdGhldGFfMSleMn17MSsoeC1cdGhldGFfMSleMn0KJCQKYW5kIHRoZSBMUlQgcmVqZWN0cyB3aGVuIHRoaXMgdmFsdWUgaXMgbGFyZ2VyIHRoYW4gc29tZSBjb25zdGFudCAkYyQKVGhpcyBoYXBwZW5zIHdoZW4KJCQxICsgKHgtXHRoZXRhXzEpXjIgPiBjKDErKHgtXHRoZXRhXzEpXjIpJCQKb3IKXGJlZ2lue2VxdWF0aW9ufVxsYWJlbHtxMWN9CiAgICAoMS1jKXheMiArIDIoY1x0aGV0YV8xIC0gXHRoZXRhXzApeCArIFx0aGV0YV8wXjIgLSBjIFx0aGV0YV8xXjIgPiAwClxlbmR7ZXF1YXRpb259Ck5vdGUgdGhhdCBhcyAkXGFscGhhJCBpbmNyZWFzZXMsIHRoZSBjb3JyZXNwb25kaW5nICRjJCBkZWNyZWFzZXMuClNvLCBsZXQgJFxhbHBoYV4qJCBiZSB0aGUgJFxhbHBoYSQgdmFsdWUgc28gdGhhdCAkYyA9IDEkLgpGb3IgYW55ICRcYWxwaGEgPCBcYWxwaGFeKiQsIHdlIGhhdmUgdGhhdCAkYyA+IDEkLCBhbmQgc28gKDEtYykgPCAwLgpUaGlzIG1lYW5zIHRoYXQgdGhlIHNldCBvZiAkeCQgZm9yIHdoaWNoIH5cZXFyZWZ7cTFjfSBpcyB0cnVlIHdpbGwgYmUgYQpib3VuZGVkIGludGVydmFsLgpDb252ZXJzZWx5LCBmb3IgJFxhbHBoYSA+IFxhbHBoYV4qJCwgd2UgaGF2ZSB0aGF0ICRjIDwgMSQsIGFuZCBzbyB0aGUKcmVqZWN0aW9uIHJlZ2lvbiB3aWxsIGJlIHR3byBoYWxmLWludGVydmFscywgd2hlcmUgdGhlIGJvdW5kcyBhcmUgZ2l2ZW4gYnkKdGhlIHJvb3RzIG9mIFxlcXJlZntxMWN9LgoKXHN1YnNlY3Rpb24qeyhkKX0KTGV0ICRcdGhldGFfMiA+IFx0aGV0YV8xID4gXHRoZXRhXzAkLgpDb25zaWRlciAkXGFscGhhIDwgXGFscGhhKihcdGhldGFfMCwgXHRoZXRhXzEpJC4KVGhlbiB3ZSBrbm93IHRoZSBNUCB0ZXN0ICRccGhpXipfMSQgZm9yICRcdGhldGE9XHRoZXRhXzAkIHZlcnN1cyAkXHRoZXRhID0KXHRoZXRhXzEkCmhhcwphIHJlamVjdGlvbiByZWdpb24gdGhhdCBpcyBhIGJvdW5kZWQgaW50ZXJ2YWwuCkhvd2V2ZXIsIHRoZSBNUCB0ZXN0IGZvciAkXHRoZXRhID0gXHRoZXRhXzAkIHZlcnN1cyAkXHRoZXRhID0gXHRoZXRhXzIkIChmb3IKc29tZSBsYXJnZSBlbm91Z2ggJFx0aGV0YV8yJCkgaXMgdGhlIHVuaW9uIG9mIHR3byBoYWxmIGludGVydmFscy4KU28sIGl0IGNhbm5vdCBiZSB0aGUgY2FzZSB0aGF0ICRccGhpXipfMSQgaXMgYWxzbyBtb3N0IHBvd2VyZnVsIGZvcgokXHRoZXRhPVx0aGV0YV8wJCB2ZXJzdXMgJFx0aGV0YSA9IFx0aGV0YV8yJC4KSGVuY2UsIG5vIHRlc3QgY2FuIGJlIFVNUC4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11262,19 +11264,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JCQK</text>
+        <text encoding="base64">Rmlyc3Qgd2Ugc2hvdyB0aGF0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gXHRoZXRhXzAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KDEtYyl4XjIgKyAyKGNcdGhldGFfMSAtIFx0aGV0YV8wKXggKyBcdGhldGFfMF4yIC0gYyBcdGhldGFfMV4yID4gMAo=</text>
+        <text encoding="base64">ICAgICY9IFxmcmFjezF9e1xwaX0gKCAxIC0gKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aXMgCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12716,10 +12718,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XGludF9cT21lZ2EgXGZyYWN7MX17XHNxcnR7MiBccGkgXHRhdV4yfX0gZV57LVx0aGV0YV4yLygyXHRhdV4yKX0KZV57eFx0aGV0YSAtIFx0aGV0YV4yLzJ9IGRcdGhldGEK</text>
+        <text encoding="base64">JCQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -12758,8 +12760,6 @@
         <entry>0.5</entry>
       </history-search>
       <history-cmd>
-        <entry>699</entry>
-        <entry>635</entry>
         <entry>652</entry>
         <entry>ipdb</entry>
         <entry>264</entry>
@@ -12777,6 +12777,8 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>4</entry>
+        <entry>6</entry>
+        <entry>18</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
