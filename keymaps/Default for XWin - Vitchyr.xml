@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
@@ -15,4 +18,14 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="VimWindowNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="latex.align_center" />
+  <action id="latex.align_left" />
+  <action id="latex.align_right" />
+  <action id="latex.bold" />
+  <action id="latex.italic" />
+  <action id="latex.underline" />
 </keymap>
