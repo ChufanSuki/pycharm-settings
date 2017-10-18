@@ -2494,8 +2494,8 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_subtraj_replay_buffer.py" timestamp="1507225166202">
         <mark key="'" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1507913488503">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" timestamp="1508285252652">
+        <mark key="'" line="62" column="27" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="73" />
         <mark key="." line="88" column="29" />
@@ -3590,7 +3590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="230" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="190" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
       <jump line="343" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3690,6 +3689,7 @@
       <jump line="319" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="211" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" />
       <jump line="131" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="62" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control_with_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12774,7 +12774,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICJoYW5kbGVfdGVybWluYWwob2JzLCAuLi4pIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -12828,8 +12828,8 @@
         <entry>438</entry>
         <entry>155</entry>
         <entry>432</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
