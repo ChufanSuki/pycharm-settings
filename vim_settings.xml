@@ -1087,12 +1087,12 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="224" column="30" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1506732001819">
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1508437519054">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="20" column="77" />
+        <mark key="]" line="20" column="77" />
+        <mark key="^" line="20" column="79" />
+        <mark key="." line="20" column="77" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" timestamp="1491177773564">
         <mark key="'" line="154" column="43" />
@@ -3406,10 +3406,10 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1508398056060">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="53" />
-        <mark key="^" line="131" column="53" />
-        <mark key="." line="131" column="53" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="53" />
+        <mark key="^" line="129" column="53" />
+        <mark key="." line="129" column="53" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
@@ -3799,8 +3799,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAic2RxbC1yZWFjaGVyMmQtZHVlbGluZy1hcmNoaXRlY3R1cmUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11334,10 +11334,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>etre&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>max_path_length=</text>
+        <text>snapshot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5xZi5zZXRfYXJnbWF4X3BvbGljeShzZWxmLnBvbGljeSkK</text>
@@ -12851,9 +12851,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max_path_length=</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>max_path_length=</last-pattern>
+      <last-pattern>snapshot</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>constraint</last-substitute>
       <last-dir>1</last-dir>
@@ -12861,8 +12861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
-        <entry>print</entry>
         <entry encoding="base64">XDxzYW1wbGVfZ29hbF9zdGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfYmF0Y2hcPg==</entry>
         <entry>can_e</entry>
@@ -12881,6 +12879,8 @@
         <entry encoding="base64">XDxHb2FsU3RydWN0dXJlZFVuaXZlcnNhbFFmdW5jdGlvblw+</entry>
         <entry>process_input</entry>
         <entry>max_path_length=</entry>
+        <entry>gap</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
