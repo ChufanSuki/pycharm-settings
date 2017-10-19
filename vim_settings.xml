@@ -1087,12 +1087,12 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="224" column="30" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1508437519054">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="77" />
-        <mark key="]" line="20" column="77" />
-        <mark key="^" line="20" column="79" />
-        <mark key="." line="20" column="77" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" timestamp="1508448826552">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="97" column="20" />
+        <mark key="]" line="97" column="1" />
+        <mark key="^" line="97" column="1" />
+        <mark key="." line="97" column="1" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/oracle_bptt_ddpg_ocm.py" timestamp="1491177773564">
         <mark key="'" line="154" column="43" />
@@ -1574,8 +1574,8 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="75" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1508397923484">
-        <mark key="'" line="668" column="8" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1508449786050">
+        <mark key="'" line="637" column="4" />
         <mark key="[" line="637" column="42" />
         <mark key="]" line="637" column="45" />
         <mark key="." line="637" column="45" />
@@ -3663,8 +3663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="19" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="98" column="34" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
       <jump line="30" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="67" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="387" column="72" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3763,6 +3761,8 @@
       <jump line="629" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="645" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="668" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
+      <jump line="637" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11337,7 +11337,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>snapshot</text>
+        <text>compute_reward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5xZi5zZXRfYXJnbWF4X3BvbGljeShzZWxmLnBvbGljeSkK</text>
@@ -12851,9 +12851,9 @@
       </register>
     </registers>
     <search>
-      <last-search>snapshot</last-search>
+      <last-search>compute_reward</last-search>
       <last-offset />
-      <last-pattern>snapshot</last-pattern>
+      <last-pattern>compute_reward</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>constraint</last-substitute>
       <last-dir>1</last-dir>
@@ -12861,7 +12861,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYW1wbGVfZ29hbF9zdGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfYmF0Y2hcPg==</entry>
         <entry>can_e</entry>
         <entry>can_train</entry>
@@ -12881,6 +12880,7 @@
         <entry>max_path_length=</entry>
         <entry>gap</entry>
         <entry>snapshot</entry>
+        <entry>compute_reward</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
