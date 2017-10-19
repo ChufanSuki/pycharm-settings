@@ -2798,8 +2798,12 @@
         <mark key="^" line="64" column="26" />
         <mark key="." line="64" column="26" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" timestamp="1507867277832">
-        <mark key="'" line="21" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" timestamp="1508453106763">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/plot_gen.py" timestamp="1486624694573">
         <mark key="'" line="14" column="0" />
@@ -3670,8 +3674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="72" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="669" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="116" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="435" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="170" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3770,6 +3772,8 @@
       <jump line="637" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="68" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/residual_gradient_ddpg_comparison.py" />
       <jump line="240" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
+      <jump line="21" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
+      <jump line="376" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3806,8 +3810,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAic2RxbC1yZWFjaGVyM2QiCg==</text>
+      <register name="&quot;" type="4">
+        <text>, discount=5)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11341,10 +11345,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>pusher2d</text>
+        <text>, discount=5)</text>
       </register>
       <register name="/" type="4">
-        <text>max_path_length</text>
+        <text>discount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
@@ -12858,9 +12862,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max_path_length</last-search>
+      <last-search>discount</last-search>
       <last-offset />
-      <last-pattern>max_path_length</last-pattern>
+      <last-pattern>discount</last-pattern>
       <last-replace>replay_buffer</last-replace>
       <last-substitute>constraint</last-substitute>
       <last-dir>1</last-dir>
@@ -12868,7 +12872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can_e</entry>
         <entry>can_train</entry>
         <entry>valid_transition_indices</entry>
         <entry>num_steps</entry>
@@ -12888,6 +12891,7 @@
         <entry>snapshot</entry>
         <entry>compute_reward</entry>
         <entry>max_path_length</entry>
+        <entry>discount</entry>
       </history-search>
       <history-cmd>
         <entry>231</entry>
