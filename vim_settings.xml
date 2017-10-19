@@ -2394,10 +2394,10 @@
         <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1508371463756">
-        <mark key="'" line="316" column="17" />
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
+        <mark key="'" line="317" column="17" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_comparison.py" timestamp="1484173480189">
         <mark key="'" line="27" column="26" />
@@ -2880,6 +2880,13 @@
         <mark key="]" line="53" column="16" />
         <mark key="^" line="53" column="16" />
         <mark key="." line="53" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/residual_gradient_ddpg_comparison.py" timestamp="1508450722641">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="47" />
+        <mark key="^" line="66" column="46" />
+        <mark key="." line="66" column="46" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/misc/launcher_util.py" timestamp="1485126303284">
         <mark key="'" line="0" column="35" />
@@ -3663,7 +3670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="67" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="387" column="72" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="669" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3763,6 +3769,7 @@
       <jump line="668" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="47" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config_personal.py" />
       <jump line="637" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/residual_gradient_ddpg_comparison.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3799,8 +3806,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZGRwZy1yZy13ZWlnaHQtZW52LWhwLXN3ZWVwLTIiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11334,13 +11341,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>compute_reward</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5xZi5zZXRfYXJnbWF4X3BvbGljeShzZWxmLnBvbGljeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -12883,7 +12890,6 @@
         <entry>compute_reward</entry>
       </history-search>
       <history-cmd>
-        <entry>32</entry>
         <entry>231</entry>
         <entry>351</entry>
         <entry>210</entry>
@@ -12902,6 +12908,7 @@
         <entry>vsp</entry>
         <entry>225</entry>
         <entry>q</entry>
+        <entry>72</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
