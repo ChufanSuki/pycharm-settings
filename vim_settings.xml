@@ -127,12 +127,12 @@
         <mark key="." line="64" column="53" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" timestamp="1508470145786">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" timestamp="1508524015694">
         <mark key="'" line="378" column="0" />
-        <mark key="[" line="385" column="47" />
-        <mark key="]" line="385" column="65" />
-        <mark key="^" line="385" column="65" />
-        <mark key="." line="385" column="65" />
+        <mark key="[" line="463" column="30" />
+        <mark key="]" line="463" column="71" />
+        <mark key="." line="463" column="71" />
+        <mark key="^" line="463" column="71" />
       </file>
       <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1507830331449">
         <mark key="'" line="0" column="0" />
@@ -2852,8 +2852,8 @@
         <mark key="^" line="64" column="26" />
         <mark key="." line="64" column="26" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" timestamp="1508453106763">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" timestamp="1508523751847">
+        <mark key="'" line="21" column="18" />
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="34" />
         <mark key="^" line="21" column="34" />
@@ -3740,7 +3740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="218" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="219" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="326" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/ddpg.py" />
@@ -3840,6 +3839,7 @@
       <jump line="246" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="172" column="38" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="91" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/slsqp_oc.py" />
+      <jump line="21" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3876,8 +3876,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAic2RxbC1jb21wYXJlLXZlY3Rvcml6ZWQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>StructuredUniversalQfunction</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11411,25 +11411,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>StructuredUniversalQfunction</text>
       </register>
       <register name="/" type="4">
         <text>search_space</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnZXBvY2hfZGlzY291bnRfc2NoZWR1bGVfcGFyYW1zLnZhbHVlJzogWzUsIDEwLCA1MF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNpbnN0YW5jZShxZiwgU3RydWN0dXJlZFVuaXZlcnNhbFFmdW5jdGlvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgTXVsdGl0YXNrUG9pbnQyREVudiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlYWNoZXI3RG9mRnVsbEdvYWxTdGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgTXVsdGl0YXNrUG9pbnQyREVudiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsZ29fY2xhc3M9VmVjdG9yaXplZFRhdVNkcWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlYWNoZXI3RG9mRnVsbEdvYWxTdGF0ZSwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11464,19 +11464,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsZ29fY2xhc3M9VmVjdG9yaXplZFNkcWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFsZ29fY2xhc3M9VmVjdG9yaXplZFRhdVNkcWwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9lcG9jaD0xMDAsCiAgICAgICAgICAgIG51bV9zdGVwc19wZXJfZXZhbD0xMDAwLAogICAgICAgICAgICBudW1fdXBkYXRlc19wZXJfZW52X3N0ZXA9MSwK</text>
+        <text encoding="base64">ICAgICAgICAjIGFsZ29fY2xhc3M9VmVjdG9yaXplZFNkcWwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRlY3JlbWVudF90YXVfZm9yX3JvbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9lcG9jaD0xMDAsCiAgICAgICAgICAgIG51bV9zdGVwc19wZXJfZXZhbD0xMDAwLAogICAgICAgICAgICBudW1fdXBkYXRlc19wZXJfZW52X3N0ZXA9MSwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5jeWNsZV90YXVzX2Zvcl9yb2xsb3V0OgogICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoID0gZGlzY291bnQgKyAxCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtYXhfcGF0aF9sZW5ndGggPSBzZWxmLm1heF9wYXRoX2xlbmd0aAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlY3JlbWVudF90YXVfZm9yX3JvbGwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12918,10 +12918,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5jeWNsZV90YXVzX2Zvcl9yb2xsb3V0OgogICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoID0gZGlzY291bnQgKyAxCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtYXhfcGF0aF9sZW5ndGggPSBzZWxmLm1heF9wYXRoX2xlbmd0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG9idGFpbl9zYW1wbGVzKHNlbGYpOgogICAgICAgIHBhdGhzID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm1heF9zYW1wbGVzIC8vIHNlbGYubWF4X3BhdGhfbGVuZ3RoKToKICAgICAgICAgICAgZGlzY291bnQgPSBzZWxmLmRpc2NvdW50X3NhbXBsaW5nX2Z1bmN0aW9uKCkKICAgICAgICAgICAgZ29hbCA9IHNlbGYuZ29hbF9zYW1wbGluZ19mdW5jdGlvbigpCiAgICAgICAgICAgIGlmIHNlbGYuY3ljbGVfdGF1c19mb3Jfcm9sbG91dDoKICAgICAgICAgICAgICAgIG1heF9wYXRoX2xlbmd0aCA9IGRpc2NvdW50ICsgMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbWF4X3BhdGhfbGVuZ3RoID0gc2VsZi5tYXhfcGF0aF9sZW5ndGgKICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcGF0aCA9IG11bHRpdGFza19yb2xsb3V0KAogICAgICAgICAgICAgICAgc2VsZi5lbnYsCiAgICAgICAgICAgICAgICBzZWxmLnBvbGljeSwKICAgICAgICAgICAgICAgIGdvYWwsCiAgICAgICAgICAgICAgICBkaXNjb3VudCwKICAgICAgICAgICAgICAgIG1heF9wYXRoX2xlbmd0aD1tYXhfcGF0aF9sZW5ndGgsCiAgICAgICAgICAgICAgICBkZWNyZW1lbnRfZGlzY291bnQ9c2VsZi5jeWNsZV90YXVzX2Zvcl9yb2xsb3V0LAogICAgICAgICAgICAgICAgY3ljbGVfdGF1PXNlbGYuY3ljbGVfdGF1c19mb3Jfcm9sbG91dCwKICAgICAgICAgICAgKQogICAgICAgICAgICBwYXRoX2xlbmd0aCA9IGxlbihwYXRoWydvYnNlcnZhdGlvbnMnXSkKICAgICAgICAgICAgcGF0aFsnZ29hbF9zdGF0ZXMnXSA9IGV4cGFuZF9nb2FsKGdvYWwsIHBhdGhfbGVuZ3RoKQogICAgICAgICAgICBwYXRocy5hcHBlbmQocGF0aCkKICAgICAgICByZXR1cm4gcGF0aHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
