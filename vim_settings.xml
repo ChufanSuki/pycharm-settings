@@ -1166,12 +1166,12 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1508635109001">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1508639971454">
         <mark key="'" line="131" column="7" />
-        <mark key="[" line="206" column="34" />
-        <mark key="]" line="206" column="39" />
-        <mark key="^" line="206" column="39" />
-        <mark key="." line="206" column="39" />
+        <mark key="[" line="191" column="31" />
+        <mark key="]" line="191" column="33" />
+        <mark key="^" line="191" column="33" />
+        <mark key="." line="191" column="33" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/vpg_generate_baseline_data.py" timestamp="1484173663633">
         <mark key="'" line="17" column="0" />
@@ -1623,12 +1623,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="75" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1508635260912">
-        <mark key="'" line="175" column="12" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="65" column="30" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" timestamp="1508640018848">
+        <mark key="'" line="181" column="28" />
+        <mark key="[" line="86" column="76" />
+        <mark key="]" line="86" column="74" />
+        <mark key="." line="86" column="74" />
+        <mark key="^" line="86" column="74" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/qfunctions/sum_qfunction.py" timestamp="1480361037137">
         <mark key="'" line="6" column="16" />
@@ -3728,9 +3728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
-      <jump line="4" column="5" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her.py" />
       <jump line="172" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her.py" />
       <jump line="182" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" />
@@ -3828,6 +3825,9 @@
       <jump line="34" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="45" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="164" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="186" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="196" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
+      <jump line="181" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12912,7 +12912,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZ29hbFs6XSA9IDAKICAgICAgICAgICAgZ29hbFs3XSA9IC0xCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>197</text>
       </register>
     </registers>
     <search>
@@ -12948,8 +12948,6 @@
         <entry>sample_goal_states</entry>
       </history-search>
       <history-cmd>
-        <entry>543</entry>
-        <entry>92</entry>
         <entry>273</entry>
         <entry>657</entry>
         <entry>207</entry>
@@ -12968,6 +12966,8 @@
         <entry>64</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>193</entry>
+        <entry>197</entry>
       </history-cmd>
       <history-expr />
       <history-input />
