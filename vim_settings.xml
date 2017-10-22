@@ -1150,12 +1150,12 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1508659972285">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1508661429821">
         <mark key="'" line="236" column="26" />
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="62" />
+        <mark key="^" line="167" column="41" />
+        <mark key="." line="167" column="41" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/vpg_generate_baseline_data.py" timestamp="1484173663633">
         <mark key="'" line="17" column="0" />
@@ -3781,8 +3781,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAic2RxbC12ZWN0b3JpemVkLW5vLWRlbHRhLXB1c2hlcjJkLWVudnMtc3dlZXAiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11316,13 +11316,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delta</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9Q3lsaW5kZXJYWVB1c2hlcjJERW52LAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGVudl9jbGFzcz1IYW5kQ3lsaW5kZXJYWVB1c2hlcjJERW52LAogICAgICAgICMgZW52X2NsYXNzPUN5bGluZGVyWFlQdXNoZXIyREVudiwKICAgICAgICBlbnZfY2xhc3M9RnVsbFN0YXRlUHVzaGVyMkRFbnYsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBzYW1wbGVfZ29hbF9zdGF0ZXMoc2VsZiwgYmF0Y2hfc2l6ZSk6CiAgICAgICAgcmV0dXJuIG5wLnJhbmRvbS51bmlmb3JtKAogICAgICAgICAgICBucC5hcnJheShbLTEsIC0xLCAtMS4sIC0xXSksCiAgICAgICAgICAgIG5wLmFycmF5KFswLCAxLCAwLCAxXSksCiAgICAgICAgICAgIChiYXRjaF9zaXplLCA0KQogICAgICAgICkKCg==</text>
