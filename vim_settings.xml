@@ -2077,10 +2077,10 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1508874180500">
-        <mark key="'" line="110" column="8" />
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1508876700611">
+        <mark key="'" line="157" column="26" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="58" column="9" />
         <mark key="." line="303" column="0" />
         <mark key="^" line="225" column="16" />
       </file>
@@ -3645,8 +3645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="635" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
-      <jump line="101" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" />
       <jump line="101" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="351" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="257" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7dof.py" />
@@ -3745,6 +3743,8 @@
       <jump line="101" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="388" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
       <jump line="503" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="157" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/reacher_7dof.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3782,7 +3782,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAibG9jYWwtc2RxbC1yZWFjaGVyN2RvZi1ub2RlbHRhLWdvYWwteHl6Igo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAuaHN0YWNrKCgKICAgICAgICAgICAgIyBGcm9tIHRoZSB4bWwKICAgICAgICAgICAgc2VsZi5ucF9yYW5kb20udW5pZm9ybShsb3c9LTIuMjgsIGhpZ2g9MS43MSwgc2l6ZT0oYmF0Y2hfc2l6ZSwgMSkpLAogICAgICAgICAgICBzZWxmLm5wX3JhbmRvbS51bmlmb3JtKGxvdz0tMC41MiwgaGlnaD0xLjM5LCBzaXplPShiYXRjaF9zaXplLCAxKSksCiAgICAgICAgICAgIHNlbGYubnBfcmFuZG9tLnVuaWZvcm0obG93PS0xLjQsIGhpZ2g9MS43LCBzaXplPShiYXRjaF9zaXplLCAxKSksCiAgICAgICAgICAgIHNlbGYubnBfcmFuZG9tLnVuaWZvcm0obG93PS0yLjMyLCBoaWdoPTAsIHNpemU9KGJhdGNoX3NpemUsIDEpKSwKICAgICAgICAgICAgc2VsZi5ucF9yYW5kb20udW5pZm9ybShsb3c9LTEuNSwgaGlnaD0xLjUsIHNpemU9KGJhdGNoX3NpemUsIDEpKSwKICAgICAgICAgICAgc2VsZi5ucF9yYW5kb20udW5pZm9ybShsb3c9LTEuMDk0LCBoaWdoPTAsIHNpemU9KGJhdGNoX3NpemUsIDEpKSwKICAgICAgICAgICAgc2VsZi5ucF9yYW5kb20udW5pZm9ybShsb3c9LTEuNSwgaGlnaD0xLjUsIHNpemU9KGJhdGNoX3NpemUsIDEpKSwKICAgICAgICAgICAgIyB2ZWxvY2l0aWVzCiAgICAgICAgICAgIHNlbGYubnBfcmFuZG9tLnVuaWZvcm0obG93PS0xLCBoaWdoPTEsIHNpemU9KGJhdGNoX3NpemUsIDcpKSwKICAgICAgICApKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
