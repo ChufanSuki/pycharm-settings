@@ -1660,12 +1660,11 @@
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1508950400159">
-        <mark key="'" line="177" column="19" />
-        <mark key="[" line="211" column="14" />
-        <mark key="]" line="211" column="35" />
-        <mark key="." line="211" column="35" />
-        <mark key="^" line="211" column="35" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1508952407461">
+        <mark key="'" line="176" column="19" />
+        <mark key="[" line="99" column="48" />
+        <mark key="]" line="99" column="48" />
+        <mark key="." line="99" column="48" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" timestamp="1505879504684">
         <mark key="'" line="13" column="11" />
@@ -2959,11 +2958,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/unconstrained_oc.py" timestamp="1508911299720">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/unconstrained_oc.py" timestamp="1508952217481">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="58" column="54" />
+        <mark key="]" line="58" column="55" />
+        <mark key="." line="58" column="55" />
+        <mark key="^" line="58" column="55" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/tests/test_nnqf.py" timestamp="1484277288578">
         <mark key="'" line="13" column="0" />
@@ -3807,7 +3807,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>current_cylinder_pos</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11341,25 +11341,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>current_cylinder_pos</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>def compute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBjdXJyZW50X2N5bGluZGVyX3Bvcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRfY3lsaW5kZXJfcG9zLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnVuaWZvcm0oLTEsIDEsIChiYXRjaF9zaXplLCAyKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuemVyb3MoKGJhdGNoX3NpemUsIDMpKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2N5bGluZGVyX3Bvcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2lyZWRfY3lsaW5kZXJfcG9zLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZ29hbCA9IG5wLmhzdGFjaygoCiAgICAgICAgICAgIG5wLnJhbmRvbS51bmlmb3JtKC0xLCAxLCAoYmF0Y2hfc2l6ZSwgMikpLAogICAgICAgICAgICBkZXNpcmVkX2N5bGluZGVyX3BvcywKICAgICAgICApKQoK</text>
+        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2N5bGluZGVyX3Bvc19leHBhbmRlZCA9IG5wLnJlcGVhdCgKICAgICAgICAgICAgbnAuZXhwYW5kX2RpbXMobmV3X2dvYWxbMjo0XSwgMCksCiAgICAgICAgICAgIGJhdGNoX3NpemUsCiAgICAgICAgICAgIGF4aXM9MAogICAgICAgICkKICAgICAgICByZXR1cm4gbnAuaHN0YWNrKCgKICAgICAgICAgICAgbnAucmFuZG9tLnVuaWZvcm0oLTEsIDEsIChiYXRjaF9zaXplLCAyKSksCiAgICAgICAgICAgIGRlc2lyZWRfY3lsaW5kZXJfcG9zX2V4cGFuZGVkLAogICAgICAgICkpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11394,19 +11394,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgxLCAxLCAxLCAxKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBwcmVkaWN0ZWRfY3lsaW5kZXJfcG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2N5bGluZGVyX3BvcyA9IGdvYWxbMjo0XQogICAgICAgIGN1cnJlbnRfY3lsaW5kZXJfcG9zID0gb2JzWzg6MTBdCiAgICAgICAgbmV3X2dvYWwgPSBucC5oc3RhY2soKAogICAgICAgICAgICBjdXJyZW50X2N5bGluZGVyX3BvcywKICAgICAgICAgICAgZGVzaXJlZF9jeWxpbmRlcl9wb3MsCiAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzaXJlZF9jeWxpbmRlcl9wb3NfZXhwYW5kZWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2lyZWRfY3lsaW5kZXJfcG9zLAogICAgICAgICAgICAgICAgZGVzaXJlZF9jeWxpbmRlcl9wb3MsCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgxLCAxLCAwLCAwKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2lyZWRfY3lsaW5kZXJfcG9zLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12848,10 +12848,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnVuaWZvcm0oLTEsIDEsIChiYXRjaF9zaXplLCAyKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGdvYWxfZGltX3dlaWdodHMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2dvYWxfZGltX3dlaWdodHMK</text>
+        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2N5bGluZGVyX3Bvcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
