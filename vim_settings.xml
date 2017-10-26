@@ -1163,12 +1163,11 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1508997432615">
-        <mark key="'" line="316" column="15" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1509039929776">
+        <mark key="'" line="141" column="16" />
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="55" />
         <mark key="^" line="199" column="54" />
-        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/vpg_generate_baseline_data.py" timestamp="1484173663633">
         <mark key="'" line="17" column="0" />
@@ -1701,13 +1700,7 @@
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1508995998213">
-        <mark key="'" line="56" column="8" />
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="39" column="50" />
-        <mark key="^" line="39" column="58" />
-        <mark key="." line="39" column="50" />
-      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1508995998213" />
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ddpg_pytorch_many_envs.py" timestamp="1505879504684">
         <mark key="'" line="13" column="11" />
         <mark key="[" line="46" column="0" />
@@ -3730,13 +3723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
-      <jump line="45" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
-      <jump line="85" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/abhishek_mb.py" />
-      <jump line="34" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/unconstrained_oc.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="9" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" />
       <jump line="56" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
@@ -3830,6 +3816,13 @@
       <jump line="316" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="78" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
       <jump line="176" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
+      <jump line="282" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="144" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="153" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="236" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="265" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="141" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11404,7 +11397,7 @@
         <text>full</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>eval</text>
       </register>
       <register name="0" type="4">
         <text>fraction_goal_states_are_rollout_goal_states</text>
@@ -12914,13 +12907,13 @@
         <text encoding="base64">ICAgICMgcnVuX21vZGUgPSAnZ3JpZCcK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>eval</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>eval</last-pattern>
       <last-replace>hand</last-replace>
       <last-substitute>arm</last-substitute>
       <last-dir>1</last-dir>
@@ -12928,7 +12921,6 @@
     </search>
     <history>
       <history-search>
-        <entry>goal</entry>
         <entry>get_resul</entry>
         <entry>distal_j_1</entry>
         <entry>num_updates</entry>
@@ -12948,6 +12940,7 @@
         <entry>explor</entry>
         <entry>raw_explore</entry>
         <entry>ipdb</entry>
+        <entry>eval</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
@@ -12968,8 +12961,8 @@
         <entry>82</entry>
         <entry>683</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
