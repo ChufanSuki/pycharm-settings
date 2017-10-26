@@ -761,10 +761,10 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1508804908687">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1509000896727">
         <mark key="'" line="75" column="17" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="56" />
         <mark key="." line="167" column="0" />
         <mark key="^" line="188" column="46" />
       </file>
@@ -3707,8 +3707,8 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="35" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" timestamp="1508988365207">
-        <mark key="'" line="53" column="19" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" timestamp="1509000925869">
+        <mark key="'" line="176" column="15" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -3730,8 +3730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$USER_HOME$/git/hw4_fall2017/main_solution.py" />
-      <jump line="305" column="20" filename="$USER_HOME$/git/hw4_fall2017/main_solution.py" />
       <jump line="7" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
       <jump line="17" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
       <jump line="31" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" />
@@ -3830,6 +3828,8 @@
       <jump line="119" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="271" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="316" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
+      <jump line="176" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/check_replay_buffer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3866,8 +3866,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAic2RxbC1leHBsb3JlLWRkcGctZXZhbC1vYy1wdXNoZXIteHl4eSIK</text>
+      <register name="&quot;" type="4">
+        <text>fraction_goal_states_are_rollout_goal_states=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11404,10 +11404,10 @@
         <text>full</text>
       </register>
       <register name="/" type="4">
-        <text>raw_explore</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="4">
-        <text>num_updates_per_env_step</text>
+        <text>fraction_goal_states_are_rollout_goal_states</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgZW52X2NsYXNzID0gSGFuZEN5bGluZGVyWFlQdXNoZXIyREVudgo=</text>
@@ -12918,9 +12918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>raw_explore</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>raw_explore</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>hand</last-replace>
       <last-substitute>arm</last-substitute>
       <last-dir>1</last-dir>
@@ -12928,7 +12928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ipdb</entry>
         <entry>goal</entry>
         <entry>get_resul</entry>
         <entry>distal_j_1</entry>
@@ -12948,6 +12947,7 @@
         <entry>oc</entry>
         <entry>explor</entry>
         <entry>raw_explore</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
