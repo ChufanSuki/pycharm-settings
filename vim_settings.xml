@@ -2161,12 +2161,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1509109775427">
-        <mark key="'" line="4" column="68" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="33" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1509113336053">
+        <mark key="'" line="70" column="22" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="47" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/oned_point.py" timestamp="1503698029671">
         <mark key="'" line="2" column="47" />
@@ -3641,12 +3641,12 @@
         <mark key="^" line="58" column="40" />
         <mark key="." line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1509109734909">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1509111676473">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="63" />
-        <mark key="^" line="71" column="47" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="44" />
       </file>
       <file name="$USER_HOME$/git/gym/gym/core.py" timestamp="1484166993439">
         <mark key="'" line="89" column="4" />
@@ -3790,10 +3790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/tau_sweep.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
-      <jump line="47" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/tau_sweep.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/tau_sweep.py" />
       <jump line="40" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
@@ -3890,6 +3886,10 @@
       <jump line="28" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
       <jump line="52" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
       <jump line="51" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
+      <jump line="21" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" />
+      <jump line="50" column="56" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" />
+      <jump line="70" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3926,8 +3926,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Based</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgZWxzZToKICAgICMgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11461,25 +11461,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Based</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>ddpg_dense</text>
+        <text>smooth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChtYl90cmlhbHMsICdNb2RlbCBCYXNlZCcsICdGaW5hbF94dmVsX2Vycm9yc19NZWFuJyksCg==</text>
+        <text encoding="base64">ICAgICMgICAgIGNvc3RzID0gc21vb3RoKGNvc3RzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChvdXJfdHJpYWxzLCAnVERNJywgJ3Rlc3RfTXVsdGl0YXNrX2Rpc3RhbmNlX3RvX2dvYWxfTWVhbicpLAo=</text>
+        <text encoding="base64">ICAgICMgZWxzZToKICAgICMgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCg==</text>
+        <text encoding="base64">ICAgICMgY29zdHMgPSBzbW9vdGgoY29zdHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11514,19 +11514,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2V5ID0gJ0ZpbmFsX0V1Y2xpZGVhbl9kaXN0YW5jZV90b19nb2FsX01lYW4nCnBsdC5maWd1cmUoKQpmb3IgdHJpYWxzLCBuYW1lIGluIFsKICAgIChkZHBnX3RyaWFscywgJ0REUEcnKSwKICAgIChtYl90cmlhbHMsICdNb2RlbCBCYXNlZCcpLAogICAgKG91cl90cmlhbHMsICdURE0nKSwKXToK</text>
+        <text encoding="base64">ICAgICMgJ2Vwb2NoX2Rpc2NvdW50X3NjaGVkdWxlX3BhcmFtcy52YWx1ZSc6IDEwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRkcGdfdHJpYWxzKSkKcHJpbnQobGVuKG1iX3RyaWFscykpCnByaW50KGxlbihvdXJfdHJpYWxzKSkKCg==</text>
+        <text encoding="base64">ICAgIChvdXJfdHJpYWxzLCAnVERNJywgJ3Rlc3RfTXVsdGl0YXNrX2Rpc3RhbmNlX3RvX2dvYWxfTWVhbicpLAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">aGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12968,19 +12968,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRkcGdfdHJpYWxzKSkKcHJpbnQobGVuKG1iX3RyaWFscykpCnByaW50KGxlbihvdXJfdHJpYWxzKSkK</text>
+        <text encoding="base64">aGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdhbGdvX3BhcmFtcy50YXUnOiAwLjAwMSwK</text>
+        <text encoding="base64">aGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ddpg_dense</last-search>
+      <last-search>smooth</last-search>
       <last-offset />
-      <last-pattern>ddpg_dense</last-pattern>
+      <last-pattern>smooth</last-pattern>
       <last-replace>her_dense</last-replace>
       <last-substitute>ddpg_dense</last-substitute>
       <last-dir>1</last-dir>
@@ -12988,7 +12988,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_handle</entry>
         <entry>_handle_rol</entry>
         <entry>start</entry>
         <entry>self.env.compute</entry>
@@ -13008,9 +13007,9 @@
         <entry>push</entry>
         <entry>qf_class</entry>
         <entry>ddpg_dense</entry>
+        <entry>smooth</entry>
       </history-search>
       <history-cmd>
-        <entry>153</entry>
         <entry>3</entry>
         <entry>2</entry>
         <entry>82</entry>
@@ -13029,6 +13028,7 @@
         <entry>vsp</entry>
         <entry>%s/ddpg_dense/her_dense/g</entry>
         <entry>q</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
