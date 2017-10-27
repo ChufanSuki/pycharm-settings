@@ -805,11 +805,12 @@
         <mark key="^" line="56" column="56" />
         <mark key="." line="56" column="56" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" timestamp="1509096027979">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" timestamp="1509108729092">
+        <mark key="'" line="51" column="33" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1508991429479">
         <mark key="'" line="39" column="39" />
@@ -3239,10 +3240,10 @@
         <mark key="." line="336" column="10" />
         <mark key="^" line="336" column="10" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1509087679009">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1509108476846">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="137" column="9" />
+        <mark key="[" line="120" column="14" />
+        <mark key="]" line="120" column="36" />
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
@@ -3640,12 +3641,12 @@
         <mark key="^" line="58" column="40" />
         <mark key="." line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1509096008783">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1509108731137">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="25" />
-        <mark key="^" line="60" column="25" />
-        <mark key="." line="60" column="25" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="28" column="1" />
+        <mark key="^" line="67" column="25" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/gym/gym/core.py" timestamp="1484166993439">
         <mark key="'" line="89" column="4" />
@@ -3789,9 +3790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" />
-      <jump line="19" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
-      <jump line="74" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/tau_sweep.py" />
       <jump line="45" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
       <jump line="47" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
@@ -3889,6 +3887,9 @@
       <jump line="165" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her.py" />
       <jump line="38" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her.py" />
+      <jump line="28" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
+      <jump line="52" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
+      <jump line="51" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3926,7 +3927,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiaGVyLWJhc2VsaW5lLXNoYXBlZC1yZXdhcmRzLW5vLWNsaXBwaW5nLTMwMC0zMDAtcmlnaHQiIFwKICAgICAgICAgICAgICAgICAiLWRpc2NvdW50LWFuZC10YXUiCg==</text>
+        <text encoding="base64">aGVyX2RlbnNlX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9kb29kYWRzMy8xMC0yNy1oZXItYmFzZWxpbmUtc2hhcGVkLXJld2FyZHMtbm8tY2xpcHBpbmctMzAwLTMwMC1yaWdodC1kaXNjb3VudC1hbmQtdGF1LyIKaGVyX2RlbnNlX2NyaXRlcmlhID0gewogICAgJ2FsZ29fcGFyYW1zLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IDEsCiAgICAnYWxnb19wYXJhbXMuc2NhbGVfcmV3YXJkJzogMSwKICAgICdlbnZfY2xhc3MuJGNsYXNzJzoKICAgICAgICAicmFpbHJsLmVudnMubXVsdGl0YXNrLnJlYWNoZXJfN2RvZi5SZWFjaGVyN0RvZlh5ekdvYWxTdGF0ZSIKfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11460,25 +11461,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>qf_class</text>
+        <text>ddpg_dense</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuc2V0X2tleV9wcmVmaXgoJ3Rlc3QgJykKICAgICAgICBzZWxmLmxvZ19kaWFnbm9zdGljcyh0ZXN0X3BhdGhzKQogICAgICAgIGxvZ2dlci5zZXRfa2V5X3ByZWZpeCgnZXhwbCAnKQogICAgICAgIHNlbGYubG9nX2RpYWdub3N0aWNzKGV4cGxvcmF0aW9uX3BhdGhzKQogICAgICAgIGxvZ2dlci5zZXRfa2V5X3ByZWZpeCgnJykK</text>
+        <text encoding="base64">aGVyX2RlbnNlX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9kb29kYWRzMy8xMC0yNy1oZXItYmFzZWxpbmUtc2hhcGVkLXJld2FyZHMtbm8tY2xpcHBpbmctMzAwLTMwMC1yaWdodC1kaXNjb3VudC1hbmQtdGF1LyIKaGVyX2RlbnNlX2NyaXRlcmlhID0gewogICAgJ2FsZ29fcGFyYW1zLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IDEsCiAgICAnYWxnb19wYXJhbXMuc2NhbGVfcmV3YXJkJzogMSwKICAgICdlbnZfY2xhc3MuJGNsYXNzJzoKICAgICAgICAicmFpbHJsLmVudnMubXVsdGl0YXNrLnJlYWNoZXJfN2RvZi5SZWFjaGVyN0RvZlh5ekdvYWxTdGF0ZSIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9nX2RpYWdub3N0aWNzKHRlc3RfcGF0aHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxMCwK</text>
+        <text encoding="base64">cHJpbnQobGVuKGRkcGdfdHJpYWxzKSkKcHJpbnQobGVuKG1iX3RyaWFscykpCnByaW50KGxlbihvdXJfdHJpYWxzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRkcGdfdFZqCnByaW50KGxlbihtYl90cmlhbHMpKQpwcmludChsZW4ob3VyX3RyaWFscykpCg==</text>
+        <text encoding="base64">ICAgICdhbGdvX3BhcmFtcy50YXUnOiAwLjAwMSwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11513,19 +11514,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1pbl9sZW4gPSBucC5pbmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiLWRkcGciIFwKICAgICAgICAgICAgIi1yZWFjaGVyLXB1c2hlci1iYXNlbGluZS8i</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9nX2RpYWdub3N0aWNzKHRlc3RfcGF0aHMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12967,27 +12968,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5hbWUgPT0gJ1RETSc6CiAgICAgICAgZXBvY2hzID0gZXBvY2hzIC8gMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcwo=</text>
+        <text encoding="base64">cHJpbnQobGVuKGRkcGdfdFZqCnByaW50KGxlbihtYl90cmlhbHMpKQpwcmludChsZW4ob3VyX3RyaWFscykpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>qf_class</last-search>
+      <last-search>ddpg_dense</last-search>
       <last-offset />
-      <last-pattern>qf_class</last-pattern>
-      <last-replace>algo_to</last-replace>
-      <last-substitute>tau_to</last-substitute>
+      <last-pattern>ddpg_dense</last-pattern>
+      <last-replace>her_dense</last-replace>
+      <last-substitute>ddpg_dense</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reward</entry>
         <entry>_handle</entry>
         <entry>_handle_rol</entry>
         <entry>start</entry>
@@ -13007,9 +13007,9 @@
         <entry>compute_her</entry>
         <entry>push</entry>
         <entry>qf_class</entry>
+        <entry>ddpg_dense</entry>
       </history-search>
       <history-cmd>
-        <entry>61</entry>
         <entry>153</entry>
         <entry>3</entry>
         <entry>2</entry>
@@ -13027,8 +13027,9 @@
         <entry>41</entry>
         <entry>93</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
+        <entry>%s/ddpg_dense/her_dense/g</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
