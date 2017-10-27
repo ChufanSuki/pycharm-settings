@@ -735,12 +735,12 @@
         <mark key="." line="62" column="64" />
         <mark key="^" line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" timestamp="1509063506139">
-        <mark key="'" line="42" column="35" />
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="42" column="35" />
-        <mark key="^" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" timestamp="1509081185298">
+        <mark key="'" line="19" column="35" />
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/samplers/util.py" timestamp="1508980805077">
         <mark key="'" line="45" column="27" />
@@ -803,11 +803,11 @@
         <mark key="^" line="56" column="56" />
         <mark key="." line="56" column="56" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" timestamp="1509077207276">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/reacher_results.py" timestamp="1509081144339">
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="26" />
+        <mark key="." line="68" column="26" />
+        <mark key="^" line="68" column="26" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/rllab_util.py" timestamp="1508991429479">
         <mark key="'" line="39" column="39" />
@@ -3613,12 +3613,12 @@
         <mark key="^" line="58" column="40" />
         <mark key="." line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1509077203539">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1509081139290">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="66" column="37" />
-        <mark key="^" line="66" column="23" />
-        <mark key="." line="5" column="106" />
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="60" column="12" />
+        <mark key="^" line="60" column="12" />
+        <mark key="." line="60" column="12" />
       </file>
       <file name="$USER_HOME$/git/gym/gym/core.py" timestamp="1484166993439">
         <mark key="'" line="89" column="4" />
@@ -3816,7 +3816,6 @@
       <jump line="182" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
       <jump line="184" column="64" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
       <jump line="180" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/data_processing.py" />
-      <jump line="19" column="1" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
       <jump line="42" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
       <jump line="27" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/half_cheetah.py" />
@@ -3854,6 +3853,7 @@
       <jump line="71" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="57" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" />
+      <jump line="19" column="35" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3891,7 +3891,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aGVyX21lYW4gPSBucC5tZWFuKGhlcl9kYXRhLCBheGlzPTApCmhlcl9zdGQgPSBucC5tZWFuKGhlcl9kYXRhLCBheGlzPTApCmVwb2NocyA9IDIgKiBucC5hcmFuZ2UoMCwgbGVuKGhlcl9tZWFuKSkKIyBwbHQuZmlsbF9iZXR3ZWVuKGVwb2NocywgaGVyX21lYW4gLSBoZXJfc3RkLCBoZXJfbWVhbiArIGhlcl9zdGQsIGFscGhhPTAuMSkKIyBwbHQucGxvdChlcG9jaHMsIGhlcl9tZWFuLCBsYWJlbD0iSEVSIikKZm9yIHJ1biBpbiBoZXJfZGF0YToKICAgIHBsdC5wbG90KGVwb2NocywgcnVuLCBsYWJlbD0iSEVSIikK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11425,25 +11425,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text>env_class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aGVyX21lYW4gPSBucC5tZWFuKGhlcl9kYXRhLCBheGlzPTApCmhlcl9zdGQgPSBucC5tZWFuKGhlcl9kYXRhLCBheGlzPTApCmVwb2NocyA9IDIgKiBucC5hcmFuZ2UoMCwgbGVuKGhlcl9tZWFuKSkKIyBwbHQuZmlsbF9iZXR3ZWVuKGVwb2NocywgaGVyX21lYW4gLSBoZXJfc3RkLCBoZXJfbWVhbiArIGhlcl9zdGQsIGFscGhhPTAuMSkKIyBwbHQucGxvdChlcG9jaHMsIGhlcl9tZWFuLCBsYWJlbD0iSEVSIikKZm9yIHJ1biBpbiBoZXJfZGF0YToKICAgIHBsdC5wbG90KGVwb2NocywgcnVuLCBsYWJlbD0iSEVSIikK</text>
+        <text encoding="base64">IyBTdG9wIGF0IDFrIGVwb2Nocwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcGx0LnBsb3QoZXBvY2hzLCBoZXJfbWVhbiwgbGFiZWw9IkhFUiIpCg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgICMgcGx0LnBsb3QoZXBvY2hzLCBoZXJfbWVhbiwgbGFiZWw9IkhFUiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11478,19 +11478,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5IgpoZXJfZGF0YSA9IHBpY2tsZS5sb2FkKGhlcl9wYXRoKQppbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQoK</text>
+        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5IgpoZXJfZGF0YSA9IHBpY2tsZS5sb2FkKGhlcl9wYXRoKQo=</text>
+        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5IgpoZXJfZGF0YSA9IHBpY2tsZS5sb2FkKGhlcl9wYXRoKQppbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQoK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5Igo=</text>
+        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5IgpoZXJfZGF0YSA9IHBpY2tsZS5sb2FkKGhlcl9wYXRoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12932,10 +12932,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGVyX2RhdGEgPSAK</text>
+        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGVyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9kb29kYWRzMy8uLi9wYXBlcnMvaWNscjIwMTgvcHVzaGVyMmQvaGVyLXB1c2hlci9wdXNoZXJfY3VydmUubnB5Igo=</text>
+        <text encoding="base64">aGVyX2RhdGEgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
