@@ -818,6 +818,9 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="55" column="8" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" timestamp="1509559447352">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/torch.py" timestamp="1508973007162">
         <mark key="'" line="292" column="35" />
         <mark key="[" line="297" column="0" />
@@ -3792,7 +3795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="14" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher2d.py" />
       <jump line="40" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
       <jump line="5" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
       <jump line="11" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
@@ -3892,6 +3894,7 @@
       <jump line="120" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="136" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="19" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11466,7 +11469,7 @@
         <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
-        <text>ppp</text>
+        <text>git</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGRpY3RfdG9fc2FmZV9qc29uKGQpOgogICAgIiIiCiAgICBDb252ZXJ0IGVhY2ggdmFsdWUgaW4gdGhlIGRpY3Rpb25hcnkgaW50byBhIEpTT04nYWJsZSBwcmltaXRpdmUuCiAgICA6cGFyYW0gZDoKICAgIDpyZXR1cm46CiAgICAiIiIKICAgIG5ld19kID0ge30KICAgIGZvciBrZXksIGl0ZW0gaW4gZC5pdGVtcygpOgogICAgICAgIGlmIHNhZmVfanNvbihpdGVtKToKICAgICAgICAgICAgbmV3X2Rba2V5XSA9IGl0ZW0KICAgICAgICBlbHNlOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0sIGRpY3QpOgogICAgICAgICAgICAgICAgbmV3X2Rba2V5XSA9IGRpY3RfdG9fc2FmZV9qc29uKGl0ZW0pCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBuZXdfZFtrZXldID0gc3RyKGl0ZW0pCiAgICByZXR1cm4gbmV3X2QKCgpkZWYgcmVjdXJzaXZlX2l0ZW1zKGRpY3Rpb25hcnkpOgogICAgIiIiCiAgICBHZXQgYWxsIChrZXksIGl0ZW0pIHJlY3Vyc2l2ZWx5IGluIGEgcG90ZW50aWFsbHkgcmVjdXJzaXZlIGRpY3Rpb25hcnkuCiAgICBVc2FnZToKCiAgICBgYGAKICAgIHggPSB7CiAgICAgICAgJ2ZvbycgOiB7CiAgICAgICAgICAgICdiYXInIDogNQogICAgICAgIH0KICAgIH0KICAgIHJlY3Vyc2l2ZV9pdGVtcyh4KQogICAgIyBvdXRwdXQ6CiAgICAjICgnZm9vJywgeydiYXInIDogNX0pCiAgICAjICgnYmFyJywgNSkKICAgIGBgYAogICAgOnBhcmFtIGRpY3Rpb25hcnk6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkaWN0aW9uYXJ5Lml0ZW1zKCk6CiAgICAgICAgeWllbGQga2V5LCB2YWx1ZQogICAgICAgIGlmIHR5cGUodmFsdWUpIGlzIGRpY3Q6CiAgICAgICAgICAgIHlpZWxkIGZyb20gcmVjdXJzaXZlX2l0ZW1zKHZhbHVlKQo=</text>
@@ -12976,13 +12979,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDAuMSwKICAgICAgICAgICAgICAgIDAuMDEsCiAgICAgICAgICAgICAgICAwLjAwMSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ppp</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern>ppp</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>her_dense</last-replace>
       <last-substitute>ddpg_dense</last-substitute>
       <last-dir>1</last-dir>
@@ -12990,7 +12993,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ddpg_dense</entry>
         <entry>smooth</entry>
         <entry>her</entry>
         <entry>MAX</entry>
@@ -13010,6 +13012,7 @@
         <entry>loca_input_dir</entry>
         <entry>local_input</entry>
         <entry>ppp</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
@@ -13030,8 +13033,8 @@
         <entry>w'</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
