@@ -2171,12 +2171,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1509648070114">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1509652887508">
         <mark key="'" line="45" column="17" />
         <mark key="[" line="100" column="37" />
-        <mark key="]" line="100" column="41" />
-        <mark key="." line="100" column="41" />
-        <mark key="^" line="100" column="41" />
+        <mark key="]" line="100" column="37" />
+        <mark key="." line="100" column="37" />
+        <mark key="^" line="48" column="24" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/oned_point.py" timestamp="1503698029671">
         <mark key="'" line="2" column="47" />
@@ -3974,8 +3974,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLXN3ZWVwLWZvci1jaGVldGFoIgo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11509,7 +11509,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>soft</text>
