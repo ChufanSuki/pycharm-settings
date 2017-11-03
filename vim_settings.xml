@@ -128,12 +128,11 @@
         <mark key="." line="388" column="0" />
         <mark key="^" line="540" column="40" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1509682993057">
-        <mark key="'" line="257" column="48" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1509687066720">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
         <mark key="^" line="285" column="51" />
-        <mark key="." line="286" column="0" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" timestamp="1499910666648">
         <mark key="'" line="67" column="40" />
@@ -3847,7 +3846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="104" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="106" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="134" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
@@ -3899,7 +3897,6 @@
       <jump line="69" column="18" filename="$USER_HOME$/git/doodad/doodad/launch_tools.py" />
       <jump line="555" column="25" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="279" column="30" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="285" column="49" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="282" column="42" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="761" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/misc/instrument.py" />
       <jump line="41" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/config.py" />
@@ -3947,6 +3944,8 @@
       <jump line="222" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="236" column="22" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="257" column="48" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="285" column="51" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="291" column="21" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3984,7 +3983,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWdpb25dXSwK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11521,22 +11520,22 @@
         <text>AUTOCONFIG.aws_security_group_ids()[</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VjdXJpdHlfZ3JvdXBfaWRzPVtBVVRPQ09ORklHLmF3c19zZWN1cml0eV9ncm91cF9pZHMoKVsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWdpb25dXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWdpb25dXSwK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkb29kYWQgaW1wb3J0IEFVVE9DT05GSUcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWdpb25dXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZnJvbSBkb29kYWQgaW1wb3J0IEFVVE9DT05GSUcK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11571,19 +11570,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkb29kYWQgaW1wb3J0IEFVVE9DT05GSUcKCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBkb29kYWQgaW1wb3J0IEFVVE9DT05GSUcKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13025,19 +13024,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICArCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICsKCg==</text>
+        <text encoding="base64">ICAgICAgICArCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>region</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>branch_name</last-replace>
       <last-substitute>commit_branch</last-substitute>
       <last-dir>1</last-dir>
@@ -13045,7 +13044,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.pem</entry>
         <entry>aws_sec</entry>
         <entry>security_group</entry>
         <entry>decurity</entry>
@@ -13065,6 +13063,7 @@
         <entry>['</entry>
         <entry>']</entry>
         <entry>region</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
