@@ -218,9 +218,6 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="0" column="70" />
       </file>
-      <file name="/" timestamp="1509675747388">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/core/neuralnet.py" timestamp="1479787037950">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="44" column="6" />
@@ -772,11 +769,11 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1509087153666">
-        <mark key="'" line="75" column="17" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1509755345390">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="136" column="9" />
+        <mark key="." line="135" column="47" />
+        <mark key="^" line="135" column="47" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_tensorflow.py" timestamp="1486103918148">
         <mark key="'" line="54" column="10" />
@@ -3067,11 +3064,11 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1508706627094">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1509755350238">
         <mark key="'" line="5" column="6" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_hyperparameters.py" timestamp="1484709959622">
         <mark key="'" line="53" column="33" />
@@ -3847,7 +3844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="218" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="261" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="239" column="53" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
@@ -3947,6 +3943,7 @@
       <jump line="19" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ec2_example.py" />
       <jump line="37" column="23" filename="$USER_HOME$/git/doodad/aws_config/config.ini" />
       <jump line="41" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" />
+      <jump line="133" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3984,7 +3981,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjZHJ5PVRydWUgI0RSWQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLmNob2ljZSgKICAgICAgICAgICAgc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzLAogICAgICAgICAgICBiYXRjaF9zaXplLAogICAgICAgICAgICByZXBsYWNlPUZhbHNlCiAgICAgICAgKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11518,25 +11515,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>epoch</text>
+        <text>indices</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdlcG9jaF9kaXNjb3VudF9zY2hlZHVsZV9wYXJhbXMudmFsdWUnOiAxMCwK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoaXMgaXMgKm11Y2gqIGZhc3RlciB0aGFuIG5wLnJhbmRvbS5jaG9pY2UsIGJlY2F1c2UgbnAucmFuZG9tLmNob2ljZQogICAgICAgICMgY29udmVydHMgdGhlIGlucHV0dGVkIGFycmF5IGludG8gYSBucC5hcnJheSBpbnRlcm5hbGx5LiBCdXQKICAgICAgICAjIHNlbGYuX3ZhbGlkX3RyYW5zaXRpb25faW5kaWNlcyBtYXkgYmUgaHVnZSEKICAgICAgICBsZW5ndGggPSBsZW4oc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzKQogICAgICAgIGluZGljZXMgPSBucC5hcnJheShbCiAgICAgICAgICAgIHNlbGYuX3ZhbGlkX3RyYW5zaXRpb25faW5kaWNlc1tpXQogICAgICAgICAgICBmb3IgaSBpbiBucC5yYW5kb20ucmFuZGludCgwLCBsZW5ndGgsIGJhdGNoX3NpemUpCiAgICAgICAgXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjZHJ5PVRydWUgI0RSWQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLmNob2ljZSgKICAgICAgICAgICAgc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzLAogICAgICAgICAgICBiYXRjaF9zaXplLAogICAgICAgICAgICByZXBsYWNlPUZhbHNlCiAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN1cml0eV9ncm91cHM9W10sICNjb25maWcuQVdTX1NFQ1VSSVRZX0dST1VQUywKICAgICAgICAgICAgIyBzZWN1cml0eV9ncm91cF9pZHM9W10sICNjb25maWcuQVdTX1NFQ1VSSVRZX0dST1VQX0lEUywKICAgICAgICAgICAgIyBuZXR3b3JrX2ludGVyZmFjZXM9W10sICNjb25maWcuQVdTX05FVFdPUktfSU5URVJGQUNFUywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSwKICAgICAgICAgICAgcmVwbGFjZT1GYWxzZQogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdhbGdvX3BhcmFtcy5kaXNjb3VudCc6IDUsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZW5ndGggPSBsZW4oKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11571,19 +11568,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdlbnZfY2xhc3MuJGNsYXNzJzoKICAgICAgICAicmFpbHJsLmVudnMubXVsdGl0YXNrLnB1c2hlcjJkLkhhbmRDeWxpbmRlclhZUHVzaGVyMkRFbnYiCg==</text>
+        <text encoding="base64">ICAgICAgICAjZHJ5PVRydWUgI0RSWQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdhbGdvX3BhcmFtcy5nb2FsX2RpbV93ZWlnaHRzJzogWzEsIDEsIDEsIDFdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN1cml0eV9ncm91cHM9W10sICNjb25maWcuQVdTX1NFQ1VSSVRZX0dST1VQUywKICAgICAgICAgICAgIyBzZWN1cml0eV9ncm91cF9pZHM9W10sICNjb25maWcuQVdTX1NFQ1VSSVRZX0dST1VQX0lEUywKICAgICAgICAgICAgIyBuZXR3b3JrX2ludGVyZmFjZXM9W10sICNjb25maWcuQVdTX05FVFdPUktfSU5URVJGQUNFUywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgJ2Vudl9jbGFzcy4kY2xhc3MnOgogICAgIyAgICAgInJhaWxybC5lbnZzLm11bHRpdGFzay5wdXNoZXIyZC5IYW5kQ3lsaW5kZXJYWVB1c2hlcjJERW52IiwK</text>
+        <text encoding="base64">ICAgICdhbGdvX3BhcmFtcy5kaXNjb3VudCc6IDUsCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxhdW5jaF90aW1lID0gc3RyKGRhdGUuc3RyZnRpbWUoZGF0ZV9mb3JtYXQpKQo=</text>
+        <text encoding="base64">ICAgICdlbnZfY2xhc3MuJGNsYXNzJzoKICAgICAgICAicmFpbHJsLmVudnMubXVsdGl0YXNrLnB1c2hlcjJkLkhhbmRDeWxpbmRlclhZUHVzaGVyMkRFbnYiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13025,19 +13022,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdhbGdvX3BhcmFtcy5nb2FsX2RpbV93ZWlnaHRzJzogWzEsIDEsIDEsIDFdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCiAgICBmcm9tIHB5dHogaW1wb3J0IHRpbWV6b25lCiAgICBpbXBvcnQgcHl0ego=</text>
+        <text encoding="base64">ICAgICMgJ2Vudl9jbGFzcy4kY2xhc3MnOgogICAgIyAgICAgInJhaWxybC5lbnZzLm11bHRpdGFzay5wdXNoZXIyZC5IYW5kQ3lsaW5kZXJYWVB1c2hlcjJERW52IiwK</text>
       </register>
       <register name=":" type="4">
-        <text>129</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>epoch</last-search>
+      <last-search>indices</last-search>
       <last-offset />
-      <last-pattern>epoch</last-pattern>
+      <last-pattern>indices</last-pattern>
       <last-replace>branch_name</last-replace>
       <last-substitute>commit_branch</last-substitute>
       <last-dir>1</last-dir>
@@ -13045,7 +13042,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secur</entry>
         <entry>NETWORK_IN</entry>
         <entry>SERCUR</entry>
         <entry>SECUR</entry>
@@ -13065,6 +13061,7 @@
         <entry>date</entry>
         <entry>ami</entry>
         <entry>epoch</entry>
+        <entry>indices</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
@@ -13083,10 +13080,10 @@
         <entry>491</entry>
         <entry>295</entry>
         <entry>hsplit</entry>
-        <entry>vsp</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>129</entry>
+        <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
