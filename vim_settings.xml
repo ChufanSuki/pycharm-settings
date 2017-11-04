@@ -1746,6 +1746,13 @@
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/local_vectorized_train_q.py" timestamp="1509825870823">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="283" column="32" />
+        <mark key="]" line="283" column="35" />
+        <mark key="." line="283" column="35" />
+        <mark key="^" line="283" column="35" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ec2_example.py" timestamp="1509690789480">
         <mark key="'" line="18" column="11" />
         <mark key="[" line="38" column="37" />
@@ -3844,7 +3851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="261" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="239" column="53" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/launcher_util.py" />
       <jump line="18" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/launchers/config.py" />
@@ -3944,6 +3950,7 @@
       <jump line="37" column="23" filename="$USER_HOME$/git/doodad/aws_config/config.ini" />
       <jump line="41" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/iclr2018/pusher_results.py" />
       <jump line="133" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/local_vectorized_train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3980,8 +3987,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLmNob2ljZSgKICAgICAgICAgICAgc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzLAogICAgICAgICAgICBiYXRjaF9zaXplLAogICAgICAgICAgICByZXBsYWNlPUZhbHNlCiAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>softplus</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11515,7 +11522,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>softplus</text>
       </register>
       <register name="/" type="4">
         <text>indices</text>
