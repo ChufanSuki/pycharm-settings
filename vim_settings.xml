@@ -1187,12 +1187,12 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1510021735981">
-        <mark key="'" line="50" column="12" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="31" />
-        <mark key="." line="379" column="17" />
-        <mark key="^" line="379" column="17" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1510026331426">
+        <mark key="'" line="381" column="31" />
+        <mark key="[" line="291" column="32" />
+        <mark key="]" line="291" column="35" />
+        <mark key="." line="291" column="35" />
+        <mark key="^" line="291" column="35" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/vpg_generate_baseline_data.py" timestamp="1484173663633">
         <mark key="'" line="17" column="0" />
@@ -3913,10 +3913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="27" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="500" column="29" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="501" column="30" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="503" column="21" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="517" column="22" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="494" column="20" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="290" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
@@ -4013,6 +4009,10 @@
       <jump line="88" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="120" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="698" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/state_distance.py" />
+      <jump line="241" column="39" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="242" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="291" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="381" column="31" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4049,8 +4049,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWFudC1zd2VlcCIK</text>
+      <register name="&quot;" type="4">
+        <text>softplus</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11584,10 +11584,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>softplus</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>soft</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDEwLAo=</text>
@@ -13101,9 +13101,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>soft</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>soft</last-pattern>
       <last-replace>\\frac{Y_i W_i}{e(X_i)}</last-replace>
       <last-substitute>Y_i W_i \/ e(X_i)</last-substitute>
       <last-dir>1</last-dir>
@@ -13111,7 +13111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>['</entry>
         <entry>']</entry>
         <entry>region</entry>
         <entry>docker</entry>
@@ -13131,6 +13130,7 @@
         <entry>xvel</entry>
         <entry>asdf</entry>
         <entry>ipdb</entry>
+        <entry>soft</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ddpg_dense/her_dense/g</entry>
