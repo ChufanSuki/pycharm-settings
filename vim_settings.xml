@@ -2941,12 +2941,12 @@
         <mark key="." line="61" column="28" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" timestamp="1510084532794">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="108" column="6" />
-        <mark key="]" line="108" column="27" />
-        <mark key="^" line="108" column="22" />
-        <mark key="." line="108" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" timestamp="1510084642666">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="152" column="38" />
+        <mark key="]" line="154" column="21" />
+        <mark key="^" line="154" column="21" />
+        <mark key="." line="154" column="21" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/get_results.py" timestamp="1510018675181">
         <mark key="'" line="170" column="0" />
@@ -3935,8 +3935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/mujoco_env.py" />
-      <jump line="15" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/ant.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/ant.xml" />
       <jump line="0" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/low_gear_ant.xml" />
       <jump line="71" column="76" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/assets/low_gear_ant.xml" />
@@ -4035,6 +4033,8 @@
       <jump line="101" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="64" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="89" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="111" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/pusher.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4071,8 +4071,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFybUVFSW5TdGF0ZVB1c2hlckVudiwK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11606,10 +11606,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>modify_goal</text>
+        <text>sample_goal_states</text>
       </register>
       <register name="0" type="4">
         <text>HandPuckXYZPusher3DEnv</text>
@@ -13123,9 +13123,9 @@
       </register>
     </registers>
     <search>
-      <last-search>modify_goal</last-search>
+      <last-search>sample_goal_states</last-search>
       <last-offset />
-      <last-pattern>modify_goal</last-pattern>
+      <last-pattern>sample_goal_states</last-pattern>
       <last-replace>\\frac{Y_i W_i}{e(X_i)}</last-replace>
       <last-substitute>Y_i W_i \/ e(X_i)</last-substitute>
       <last-dir>1</last-dir>
@@ -13133,7 +13133,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_val</entry>
         <entry>discount</entry>
         <entry>self.discount</entry>
         <entry>less</entry>
@@ -13153,6 +13152,7 @@
         <entry>modify_goal_stat</entry>
         <entry>modify_Goal</entry>
         <entry>modify_goal</entry>
+        <entry>sample_goal_states</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ddpg_dense/her_dense/g</entry>
