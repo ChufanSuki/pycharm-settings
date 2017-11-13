@@ -765,18 +765,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1509755345390">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="136" column="9" />
-        <mark key="." line="135" column="47" />
-        <mark key="^" line="135" column="47" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/abhishek_mb.py" timestamp="1510095505903">
-        <mark key="[" line="98" column="22" />
-        <mark key="]" line="98" column="23" />
-        <mark key="." line="98" column="23" />
-        <mark key="^" line="98" column="23" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_tensorflow.py" timestamp="1486103918148">
         <mark key="'" line="54" column="10" />
         <mark key="[" line="4" column="5" />
@@ -1808,12 +1796,6 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/her_final.py" timestamp="1510094746986">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="44" />
-        <mark key="^" line="215" column="44" />
-        <mark key="." line="215" column="43" />
-      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/tensorflow/tensorboard/tensorboard.py" timestamp="1503454990472">
         <mark key="'" line="33" column="47" />
         <mark key="[" line="33" column="49" />
@@ -2266,8 +2248,8 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/git/doodad/scripts/setup_ec2.py" timestamp="1509680381537">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/git/doodad/scripts/setup_ec2.py" timestamp="1510547520776">
+        <mark key="'" line="340" column="53" />
         <mark key="[" line="27" column="33" />
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="33" />
@@ -2789,12 +2771,6 @@
         <mark key="]" line="134" column="32" />
         <mark key="." line="134" column="32" />
         <mark key="^" line="134" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/hw4_fall2017/dynamics_solution.py" timestamp="1510096049031">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/predictors/mlp.py" timestamp="1486095470493">
         <mark key="'" line="46" column="17" />
@@ -3880,8 +3856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="59" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="252" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="286" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="229" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="251" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3980,6 +3954,8 @@
       <jump line="225" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="291" column="27" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="283" column="27" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/git/doodad/scripts/setup_ec2.py" />
+      <jump line="340" column="53" filename="$USER_HOME$/git/doodad/scripts/setup_ec2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11554,7 +11530,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text>config.ini</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY3VyaXR5X2dyb3Vwcz1zZWN1cml0eV9ncm91cHMsCg==</text>
@@ -13068,9 +13044,9 @@
       </register>
     </registers>
     <search>
-      <last-search>region</last-search>
+      <last-search>config.ini</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern>config.ini</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -13078,7 +13054,6 @@
     </search>
     <history>
       <history-search>
-        <entry>epoch_disc</entry>
         <entry>rllab_ut</entry>
         <entry>start_epoch</entry>
         <entry>epoch_start_Time</entry>
@@ -13098,6 +13073,7 @@
         <entry>self._epoch_start</entry>
         <entry>_start</entry>
         <entry>region</entry>
+        <entry>config.ini</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
