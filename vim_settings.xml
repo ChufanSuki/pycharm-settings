@@ -379,6 +379,13 @@
         <mark key="." line="117" column="51" />
         <mark key="^" line="117" column="51" />
       </file>
+      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw11/q3.tex" timestamp="1510855010789">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/mujoco/pusher3dof.py" timestamp="1508304047666">
         <mark key="'" line="41" column="34" />
         <mark key="[" line="110" column="0" />
@@ -2514,11 +2521,11 @@
         <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/online_algorithm.py" timestamp="1510365067005">
-        <mark key="'" line="74" column="13" />
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="257" column="28" />
-        <mark key="." line="11" column="33" />
+        <mark key="'" line="75" column="13" />
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="258" column="28" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/ddpg_comparison.py" timestamp="1484173480189">
         <mark key="'" line="27" column="26" />
@@ -2890,13 +2897,6 @@
         <mark key="]" line="117" column="26" />
         <mark key="." line="117" column="26" />
         <mark key="^" line="116" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/get_results.py" timestamp="1510018675181">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="48" />
-        <mark key="." line="189" column="37" />
-        <mark key="^" line="189" column="37" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/envs/mujoco/mujoco_env.py" timestamp="1484014604394">
         <mark key="'" line="193" column="26" />
@@ -3856,7 +3856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="229" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="251" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="253" column="60" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -3956,6 +3955,7 @@
       <jump line="283" column="27" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="221" column="0" filename="$USER_HOME$/git/doodad/scripts/setup_ec2.py" />
       <jump line="340" column="53" filename="$USER_HOME$/git/doodad/scripts/setup_ec2.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw11/q3.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3993,7 +3993,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>$</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11527,7 +11527,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>config.ini</text>
@@ -13040,7 +13040,7 @@
         <text encoding="base64">ICAgIGVzID0gT1VTdHJhdGVneShhY3Rpb25fc3BhY2U9ZW52LmFjdGlvbl9zcGFjZSkKICAgIHFmID0gRmVlZEZvcndhcmRRRnVuY3Rpb24oCiAgICAgICAgaW50KGVudi5vYnNlcnZhdGlvbl9zcGFjZS5mbGF0X2RpbSksCiAgICAgICAgaW50KGVudi5hY3Rpb25fc3BhY2UuZmxhdF9kaW0pLAogICAgICAgIDQwMCwKICAgICAgICAzMDAsCiAgICApCiAgICBwb2xpY3kgPSBGZWVkRm9yd2FyZFBvbGljeSgKICAgICAgICBpbnQoZW52Lm9ic2VydmF0aW9uX3NwYWNlLmZsYXRfZGltKSwKICAgICAgICBpbnQoZW52LmFjdGlvbl9zcGFjZS5mbGF0X2RpbSksCiAgICAgICAgNDAwLAogICAgICAgIDMwMCwKICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -13093,9 +13093,9 @@
         <entry>36</entry>
         <entry>%s/tildet/ttheta/g</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>563</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
