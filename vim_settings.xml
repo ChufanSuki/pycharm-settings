@@ -1022,12 +1022,12 @@
         <mark key="^" line="368" column="29" />
         <mark key="." line="368" column="40" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" timestamp="1511052464356">
-        <mark key="'" line="41" column="26" />
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="38" column="24" />
-        <mark key="^" line="72" column="68" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" timestamp="1511060397268">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="72" column="64" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="72" column="69" />
+        <mark key="^" line="72" column="69" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/path.py" timestamp="1509042386755">
         <mark key="'" line="35" column="23" />
@@ -1181,10 +1181,12 @@
         <mark key="." line="43" column="22" />
         <mark key="^" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" timestamp="1511059679869">
-        <mark key="]" line="31" column="54" />
-        <mark key="." line="31" column="54" />
-        <mark key="^" line="31" column="54" />
+      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" timestamp="1511060950175">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="16" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_pythonplusplus.py" timestamp="1507225815138">
         <mark key="'" line="7" column="23" />
@@ -4190,10 +4192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/discrete_swimmer.py" />
-      <jump line="137" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
-      <jump line="29" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="38" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="42" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="79" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
@@ -4290,6 +4288,10 @@
       <jump line="41" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
       <jump line="26" column="56" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
       <jump line="27" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
+      <jump line="47" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4326,8 +4328,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>if people move because they dislike their currr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11861,25 +11863,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>if people move because they dislike their currr</text>
+        <text encoding="base64">LCB3aWxsIGFmZmVjdCB0aGUgb3V0Y29tZSBhbmQg</text>
       </register>
       <register name="/" type="4">
-        <text>use_ha</text>
+        <text>exp_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QKaW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgdG9yY2gKaW1wb3J0IHRvcmNoLm9wdGltIGFzIG9wdGltCmZyb20gdG9yY2ggaW1wb3J0IG5uIGFzIG5uCgppbXBvcnQgcmFpbHJsLnRvcmNoLnB5dG9yY2hfdXRpbCBhcyBwdHUKZnJvbSByYWlscmwubWlzYy5kYXRhX3Byb2Nlc3NpbmcgaW1wb3J0IGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QKZnJvbSByYWlscmwudG9yY2guYWxnb3MgaW1wb3J0IGV2YWwKZnJvbSByYWlscmwuZXhwbG9yYXRpb25fc3RyYXRlZ2llcy5iYXNlIGltcG9ydCAoCiAgICBQb2xpY3lXcmFwcGVkV2l0aEV4cGxvcmF0aW9uU3RyYXRlZ3kKKQpmcm9tIHJhaWxybC5leHBsb3JhdGlvbl9zdHJhdGVnaWVzLmVwc2lsb25fZ3JlZWR5IGltcG9ydCBFcHNpbG9uR3JlZWR5CmZyb20gcmFpbHJsLnBvbGljaWVzLmFyZ21heCBpbXBvcnQgQXJnbWF4RGlzY3JldGVQb2xpY3kKZnJvbSByYWlscmwudG9yY2gudG9yY2hfcmxfYWxnb3JpdGhtIGltcG9ydCBUb3JjaFJMQWxnb3JpdGhtCmZyb20gcmxsYWIubWlzYyBpbXBvcnQgbG9nZ2VyCg==</text>
+        <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGhhdCAK</text>
+        <text encoding="base64">VGhpcyBtYWtlcyBpdCBkaWZmaWN1bHQgdG8gZXN0aW1hdGUgdGhlIGF2ZXJhZ2UgdHJlYXRtZW50IGVmZmVjdCwgZS5nLiBieQppbmNyZWFzaW5nIHRoZSB2YXJpYW5jZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CklmIGFsbCB0aGUgY292YXJpYXRlcyBhcmUgc21vb3RoIGFuZCB0aGVyZSBpcyBub3Qgc29ydGluZyBhdCB0aGUgY3V0cG9pbnQsCnRoZW4gdGhpcyBzZWVtcyBsaWtlIGEgcmVhc29uYWJsZSBSRCBkZXNpZ24uCg==</text>
+        <text encoding="base64">dGhhdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGhlcmUgaXMKbm8gc29ydGluZy4K</text>
+        <text encoding="base64">CklmIGFsbCB0aGUgY292YXJpYXRlcyBhcmUgc21vb3RoIGFuZCB0aGVyZSBpcyBub3Qgc29ydGluZyBhdCB0aGUgY3V0cG9pbnQsCnRoZW4gdGhpcyBzZWVtcyBsaWtlIGEgcmVhc29uYWJsZSBSRCBkZXNpZ24uCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11914,19 +11916,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RmlndXJlIDIgc2hvd3MgdGhhdCB0aGVyZSBzZWVtcyB0byBiZSBubyBzb3J0aW5nIGF0IHRoZSBjdXRwb2ludC4K</text>
+        <text encoding="base64">dGhlcmUgaXMKbm8gc29ydGluZy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cG9zaXRpdmUgCg==</text>
+        <text encoding="base64">RmlndXJlIDIgc2hvd3MgdGhhdCB0aGVyZSBzZWVtcyB0byBiZSBubyBzb3J0aW5nIGF0IHRoZSBjdXRwb2ludC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdGUgCg==</text>
+        <text encoding="base64">cG9zaXRpdmUgCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2VyZSAKZGVtb2NyYWN0aWMuCg==</text>
+        <text encoding="base64">c3RhdGUgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12996,19 +12998,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbl90cmFpbl9zdGVwc190b3RhbCAlIHNlbGYuaGFyZF91cGRhdGVfcGVyaW9kID09IDA6Cg==</text>
+        <text encoding="base64">d2VyZSAKZGVtb2NyYWN0aWMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NhcnRQb2xlLXYwJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbl90cmFpbl9zdGVwc190b3RhbCAlIHNlbGYuaGFyZF91cGRhdGVfcGVyaW9kID09IDA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>use_ha</last-search>
+      <last-search>exp_id</last-search>
       <last-offset />
-      <last-pattern>use_ha</last-pattern>
+      <last-pattern>exp_id</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -13016,7 +13018,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default_par</entry>
         <entry>ipdb</entry>
         <entry>ec2</entry>
         <entry>handle_ter</entry>
@@ -13036,6 +13037,7 @@
         <entry>def training</entry>
         <entry>flip</entry>
         <entry>use_ha</entry>
+        <entry>exp_id</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
