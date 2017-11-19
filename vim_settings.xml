@@ -3896,8 +3896,8 @@
         <mark key="^" line="64" column="44" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1511048083204" />
-      <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" timestamp="1511065418713">
-        <mark key="'" line="250" column="0" />
+      <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" timestamp="1511067407845">
+        <mark key="'" line="243" column="28" />
         <mark key="[" line="235" column="0" />
         <mark key="]" line="280" column="60" />
       </file>
@@ -4190,7 +4190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/discrete_swimmer.py" />
       <jump line="12" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
       <jump line="41" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
       <jump line="45" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
@@ -4290,6 +4289,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/rdprog_cols1_se2.do" />
       <jump line="4" column="21" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/rdprog_cols1_se2.do" />
       <jump line="5" column="8" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/rdprog_cols1_se2.do" />
+      <jump line="243" column="28" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11864,7 +11864,7 @@
         <text encoding="base64">LCB3aWxsIGFmZmVjdCB0aGUgb3V0Y29tZSBhbmQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZGludGdyYXBodGxpbVw+</text>
+        <text>range1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0K</text>
@@ -13006,9 +13006,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZGludGdyYXBodGxpbVw+</last-search>
+      <last-search>range1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZGludGdyYXBodGxpbVw+</last-pattern>
+      <last-pattern>range1</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -13016,7 +13016,6 @@
     </search>
     <history>
       <history-search>
-        <entry>term</entry>
         <entry>env.log</entry>
         <entry>render</entry>
         <entry>hyp</entry>
@@ -13036,6 +13035,7 @@
         <entry>iwm94</entry>
         <entry>FIGURE</entry>
         <entry encoding="base64">XDxyZGludGdyYXBodGxpbVw+</entry>
+        <entry>range1</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
