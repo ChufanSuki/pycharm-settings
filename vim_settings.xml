@@ -899,6 +899,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/networks/her.py" timestamp="1510902020347">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="65" column="39" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" timestamp="1509559447352">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1298,6 +1303,11 @@
         <mark key="]" line="148" column="39" />
         <mark key="^" line="148" column="39" />
         <mark key="." line="148" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg_sweep.py" timestamp="1510093111097">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="155" column="12" />
       </file>
       <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/hw4/q1.tex" timestamp="1509866386317">
         <mark key="'" line="280" column="0" />
@@ -3713,6 +3723,11 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/swimmer_env.py" timestamp="1510960902639">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="61" column="62" />
+      </file>
       <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw9/main.tex" timestamp="1509588844236">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="16" column="25" />
@@ -3898,6 +3913,11 @@
         <mark key="^" line="64" column="44" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" timestamp="1511048083204" />
+      <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" timestamp="1511062543846">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="121" column="116" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/sim_policy.py" timestamp="1484198061336">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="5" column="0" />
@@ -4192,8 +4212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
-      <jump line="42" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="79" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="102" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/examples/run_modes.py" />
       <jump line="71" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/discrete_swimmer.py" />
@@ -4292,6 +4310,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
       <jump line="37" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
       <jump line="0" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" />
+      <jump line="44" column="18" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4329,7 +4349,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0K</text>
+        <text encoding="base64">dXNlIHJlZ2RhdGEwLmR0YSwgY2xlYXIKCnNvcnQgaXdtOTQKCmhpc3QgaXdtOTQsIC8vLwoJYmluKDk5KSAgZ3JhcGhyZWdpb24oY29sb3Iod2hpdGUpIGxjb2xvcih3aGl0ZSkgbHdpZHRoKHZ0aGljaykpIHlsYWJlbCgsIG5vZ3JpZCkgLy8vCgkJeGxpbmUoMCwgbHBhdHRlcm4oc2hvcnRkYXNoKSBsY29sb3IoZ3M2KSkgcGVyY2VudCBmY29sb3IoZ3MxMCkgbGNvbG9yKGdzMikgeHRpdGxlKCJJc2xhbWljIHdpbiBtYXJnaW4iKSAvLy8KCQkJCXhzY2FsZShsY29sb3Iobm9uZSkpIHlzY2FsZShsY29sb3Iobm9uZSkpIHBsb3RyZWdpb24obHBhdHRlcm4oc29saWQpIGxjb2xvcihibGFjaykpCgoqZ3JhcGggZXhwb3J0IC9Vc2Vycy9lZ21leWVyYS9Eb2N1bWVudHMvUmVzZWFyY2gvVFVSS0VMRUMvU1RBVEEvZ3JhcGhvdXQvRmlndXJlMy5lbWYsIHJlcGxhY2UKZ3JhcGggZXhwb3J0ICRyb290L291dHB1dC9GaWd1cmUyYS5lcHMsIHJlcGxhY2UgZm9udCgkZ3Jmb250KQoKKioqKiBCIE1DQ1JBUlkgREVOU0lUWSBURVNUIAoKdXNlIHJlZ2RhdGEwLmR0YSwgY2xlYXIKCnJlZyBoaXNjaHNocjE1MjBmIGl3bTk0CmtlZXAgaWYgZShzYW1wbGUpPT0xCgprZWVwIGlmIGFicyhpd205NCk8LjYKCgpnZW4gWj1pd205NApzb3J0IFoKCkRDZGVuc2l0eSBaICwgYnJlYWtwb2ludCgwKSBnZW5lcmF0ZShYaiBZaiByMCBmaGF0IHNlX2ZoYXQpICBub2dyYXBoCgoKa2VlcCBaIFlqIFhqIHIwIGZoYXQgc2VfZmhhdAoKCmdlbiBmdT1maGF0KzEuOTYqc2VfZmhhdApnZW4gZmw9ZmhhdC0xLjk2KnNlX2ZoYXQKCmdsb2JhbCBydlggIlhqPi0uNSAmIFhqPC41IgpnbG9iYWwgcnZSICJyMD4tLjUgJiByMDwuNSIKZ2xvYmFsIGdyICJncmF5IgoKCmxvY2FsIHRoZXRhMjogZGlzcGxheSAlNS4zZiByKHRoZXRhKQpsb2NhbCB0c2U6IGRpc3BsYXkgJTUuM2YgcihzZSkKCnR3b3dheSBzY2F0dGVyIFlqIFhqIGlmICRydlgsIG1zeW1ib2woKSAgIGNvbG9yKCRncikgLy8vCgl8fCBsaW5lIGZoYXQgcjAgaWYgcjA+MCAmICRydlIsIGxjb2xvcihibGFjaykgbHdpZHRoKG1lZHRoaWNrKSAvLy8KCQl8fCBsaW5lIGZoYXQgcjAgaWYgcjA8MCAmICRydlIsIGxjb2xvcihibGFjaykgbHdpZHRoKG1lZHRoaWNrKSAvLy8KCQkJfHwgbGluZSBmdSByMCBpZiByMDwwICYgJHJ2UiwgbHdpZHRoKHZ0aGluKSBscGF0dGVybihsb25nZGFzaCkgbGNvbG9yKCRncikgLy8vCgkJCQl8fCBsaW5lIGZ1IHIwIGlmIHIwPjAgJiAkcnZSLCBsd2lkdGgodnRoaW4pIGxwYXR0ZXJuKGxvbmdkYXNoKSBsY29sb3IoJGdyKSAvLy8KCQkJCQl8fCBsaW5lIGZsIHIwIGlmIHIwPDAgJiAkcnZSLCBsd2lkdGgodnRoaW4pIGxwYXR0ZXJuKGxvbmdkYXNoKSBsY29sb3IoJGdyKSAvLy8KCQkJCQkJfHwgbGluZSBmbCByMCBpZiByMD4wICYgJHJ2UiwgbHdpZHRoKHZ0aGluKSBscGF0dGVybihsb25nZGFzaCkgbGNvbG9yKCRncikgLy8vCgkJCQkJCQkgbGVnZW5kKG9mZikgeWxhYmVsKDAoMS4yNSkyLjUsIG5vZ3JpZCkgeGxpbmUoMCwgbHdpZHRoKHZ0aGluKSBscGF0dGVybihzaG9ydGRhc2gpIGxjb2xvcihnczgpKSAvLy8KCQkJCQkJCQlwbG90cmVnaW9uKGxwYXR0ZXJuKHNvbGlkKSBsY29sb3IoZ3M0KSkgLy8vCgkJCQkJCQkJCXhzY2FsZShsY29sb3Iobm9uZSkpIHlzY2FsZShsY29sb3Iobm9uZSkpIC8vLwoJCQkJCQkJCQkJZ3JhcGhyZWdpb24oY29sb3Iod2hpdGUpIGxjb2xvcih3aGl0ZSkgbHdpZHRoKHRoaWNrKSkgc2F2aW5nKGdyRENhbGwuZ3BoLCByZXBsYWNlKSAvLy8KCQkJCQkJCQkJCQkJbm90ZSgiRGlzY29udGludWl0eSBlc3QuID0gYHRoZXRhMicsIHMuZS4gPSAgYHRzZSciKSAvLy8KCQkJCQkJCQkJCQkJCXh0aXRsZSgiSXNsYW1pYyB3aW4gbWFyZ2luIDE5OTQiKSB5dGl0bGUoIkRlbnNpdHkiKQoJCQkJCQkJCQkJCQkJCWdyYXBoIGV4cG9ydCAkcm9vdC9vdXRwdXQvRmlndXJlMmIuZXBzLCByZXBsYWNlIGZvbnQoJGdyZm9udCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11866,7 +11886,7 @@
         <text encoding="base64">LCB3aWxsIGFmZmVjdCB0aGUgb3V0Y29tZSBhbmQg</text>
       </register>
       <register name="/" type="4">
-        <text>exp_id</text>
+        <text>iwm94</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0K</text>
@@ -13008,9 +13028,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exp_id</last-search>
+      <last-search>iwm94</last-search>
       <last-offset />
-      <last-pattern>exp_id</last-pattern>
+      <last-pattern>iwm94</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -13018,8 +13038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ipdb</entry>
-        <entry>ec2</entry>
         <entry>handle_ter</entry>
         <entry>term</entry>
         <entry>env.log</entry>
@@ -13038,6 +13056,8 @@
         <entry>flip</entry>
         <entry>use_ha</entry>
         <entry>exp_id</entry>
+        <entry>FIGURE</entry>
+        <entry>iwm94</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
