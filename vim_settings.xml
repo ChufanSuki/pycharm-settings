@@ -835,6 +835,18 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1509755345390">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="136" column="9" />
+        <mark key="." line="135" column="47" />
+        <mark key="^" line="135" column="47" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/abhishek_mb.py" timestamp="1510095505903">
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="23" />
+        <mark key="." line="98" column="23" />
+        <mark key="^" line="98" column="23" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_tensorflow.py" timestamp="1486103918148">
         <mark key="'" line="54" column="10" />
         <mark key="[" line="4" column="5" />
@@ -1551,6 +1563,12 @@
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q2.tex" timestamp="1511130170332">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/multi_step_ql.py" timestamp="1501125518090">
         <mark key="'" line="2" column="7" />
@@ -3015,6 +3033,12 @@
         <mark key="." line="134" column="32" />
         <mark key="^" line="134" column="32" />
       </file>
+      <file name="$USER_HOME$/git/hw4_fall2017/dynamics_solution.py" timestamp="1510096049031">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="86" column="30" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/predictors/mlp.py" timestamp="1486095470493">
         <mark key="'" line="46" column="17" />
         <mark key="[" line="6" column="0" />
@@ -4190,7 +4214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
       <jump line="41" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/scripts/sim_policy.py" />
       <jump line="45" column="9" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
       <jump line="16" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
@@ -4290,6 +4313,7 @@
       <jump line="4" column="21" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/rdprog_cols1_se2.do" />
       <jump line="5" column="8" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/rdprog_cols1_se2.do" />
       <jump line="243" column="28" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" />
+      <jump line="2" column="15" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q2.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4327,7 +4351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z2xvYmFsIHJhbmdlMSAiaXdtOTQ8LjMgJiBpd205ND4tLjMiCmdsb2JhbCB4bGFiZWwgIi0uMjUoLjI1KS4yNSwiCmdsb2JhbCBnYncgIi4wNiIKCmdsb2JhbCBiaW4gIjI1IgoKY2FwIHByb2cgZHJvcCBfYWxsCiAKcnVuICRyb290L2RvL3JkcHJvZ19jb2xzMV9zZTIKCnNldCAgbW9yZSBvZmYKCnJkaW50Z3JhcGh0bGltIGFnZXNocjE5IGl3bTk0ICRiaW4gIiRyYW5nZTEiICJBZ2UgMTktLCBzaXplKDMpIGNvbG9yKGJsYWNrKSIgIklzbGFtaWMgd2luIG1hcmdpbiIgIi4zNSguMSkuNTUsIiAiJHhsYWJlbCIgIiIgIiIgIm9mZiIgIiRnYnciICAKZ3JhcGggc2F2ZSBjb250cl9hZ2VzaHIxOS5ncGgsIHJlcGxhY2UKCnJkaW50Z3JhcGh0bGltIGFnZXNocjYwIGl3bTk0ICRiaW4gIiRyYW5nZTEiICJBZ2UgNjArLCBzaXplKDMpIGNvbG9yKGJsYWNrKSIgIklzbGFtaWMgd2luIG1hcmdpbiIgIi4wNSguMDIpLjExLCIgIiR4bGFiZWwiICJhbHQiICIiICJvZmYiICIkZ2J3IiAgCmdyYXBoIHNhdmUgY29udHJfYWdlc2hyNjAuZ3BoLCByZXBsYWNlCgpyZGludGdyYXBodGxpbSBscG9wMTk5NCBpd205NCAkYmluICIkcmFuZ2UxIiAiTG9nIFBvcHVsYXRpb24sIHNpemUoMykgY29sb3IoYmxhY2spIiAiSXNsYW1pYyB3aW4gbWFyZ2luIiAiNigyKTEwLCIgIiR4bGFiZWwiICJhbHQiICIiICJvZmYiICIkZ2J3IiAgIApncmFwaCBzYXZlIGNvbnRyX2xwb3AxOTk0LmdwaCwgcmVwbGFjZQoKcmRpbnRncmFwaHRsaW0gc2V4ciBpd205NCAkYmluICIkcmFuZ2UxIiAgIkdlbmRlciwgc2l6ZSgzKSBjb2xvcihibGFjaykiICJJc2xhbWljIHdpbiBtYXJnaW4iICIuOSguMSkxLjIsIiAiJHhsYWJlbCIgIiIgIiIgIm9mZiIgIiRnYnciICAKZ3JhcGggc2F2ZSBjb250cl9zZXhyLmdwaCwgcmVwbGFjZQoKcmRpbnRncmFwaHRsaW0gYW55YyBpd205NCAkYmluICIkcmFuZ2UxIiAiQW55IGNlbnRlciBtdW5pY2lwYWxpdHksIHNpemUoMykgY29sb3IoYmxhY2spIiAiSXNsYW1pYyB3aW4gbWFyZ2luIiAiMCguMikuOCwiICIkeGxhYmVsIiAiYWx0IiAiIiAib2ZmIiAiJGdidyIgIApncmFwaCBzYXZlIGNvbnRyX2FueWMuZ3BoLCByZXBsYWNlCiAKCnJkaW50Z3JhcGh0bGltIHZzaHJfaXNsYW0xOTk0IGl3bTk0ICRiaW4gIiRyYW5nZTEiICAiSXNsYW1pYyB2b3RlIHNoYXJlLCBzaXplKDMpIGNvbG9yKGJsYWNrKSIgIklzbGFtaWMgd2luIG1hcmdpbiIgIiwiICIkeGxhYmVsIiAiIiAiIiAib2ZmIiAiJGdidyIgIApncmFwaCBzYXZlIGNvbnRyX3ZzaHJfaXNsYW0xOTk0LmdwaCwgcmVwbGFjZQoKCnJkaW50Z3JhcGh0bGltIHBhcnR5Y291bnQgaXdtOTQgJGJpbiAiJHJhbmdlMSIgIk51bWJlciBvZiBwYXJ0aWVzLCBzaXplKDMpIGNvbG9yKGJsYWNrKSIgIklzbGFtaWMgd2luIG1hcmdpbiIgIjIoMik4LCIgIiR4bGFiZWwiICIiICIiICIiICIkZ2J3IiAgCmdyYXBoIHNhdmUgY29udHJfcGFydHljb3VudC5ncGgsIHJlcGxhY2UKCnJkaW50Z3JhcGh0bGltIHNoaHMgaXdtOTQgJGJpbiAiJHJhbmdlMSAiICJIb3VzZWhvbGQgc2l6ZSwgc2l6ZSgzKSBjb2xvcihibGFjaykiICJJc2xhbWljIHdpbiBtYXJnaW4iICI0KDIpMTAsIiAiJHhsYWJlbCIgImFsdCIgIiIgIiIgIiRnYnciICAKZ3JhcGggc2F2ZSBjb250cl9zaGhzLmdwaCwgcmVwbGFjZQoKCgoKZ3JhcGggY29tYmluZSBjb250cl92c2hyX2lzbGFtMTk5NC5ncGggIGNvbnRyX2FnZXNocjYwLmdwaCBjb250cl9hZ2VzaHIxOS5ncGggIGNvbnRyX2xwb3AxOTk0LmdwaCBjb250cl9zZXhyLmdwaCBjb250cl9hbnljLmdwaCBjb250cl9wYXJ0eWNvdW50LmdwaCBjb250cl9zaGhzLmdwaCAsIGNvbHMoMikgLy8vCgl5c2l6ZSg0LjUpIHhzaXplKDQpIGltYXJnaW4oc21hbGwpIGdyYXBocmVnaW9uKGNvbG9yKHdoaXRlKSBsY29sb3Iod2hpdGUpIGx3aWR0aCh0aGljaykpCgoKIGdyYXBoIGV4cG9ydCAkcm9vdC9vdXRwdXQvRmlndXJlMy5lcHMsIHJlcGxhY2UgZm9udCgkZ3Jmb250KQo=</text>
+        <text encoding="base64">ICAgICY9IFxmcmFjezE2fXszfVxFW1lXXSAtIFxmcmFjezR9ezN9IFxFW1ldXFwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11861,25 +11885,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCB3aWxsIGFmZmVjdCB0aGUgb3V0Y29tZSBhbmQg</text>
+        <text encoding="base64">IFxmcmFje1cgLSBcZnJhY3sxfXs0fX17XGZyYWN7M317MTZ9fV1cXA==</text>
       </register>
       <register name="/" type="4">
-        <text>range1</text>
+        <text encoding="base64">XDwmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">XHN1YnNlY3Rpb24qeyhhKX0K</text>
+        <text encoding="base64">ICAgICY9IFxmcmFjezE2fXszfVxFW1lXXSAtIFxmcmFjezR9ezN9IFxFW1ldXFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhpcyBtYWtlcyBpdCBkaWZmaWN1bHQgdG8gZXN0aW1hdGUgdGhlIGF2ZXJhZ2UgdHJlYXRtZW50IGVmZmVjdCwgZS5nLiBieQppbmNyZWFzaW5nIHRoZSB2YXJpYW5jZS4K</text>
+        <text encoding="base64">JAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhhdCAK</text>
+        <text encoding="base64">ICAgIC0gXGZyYWN7MX17bl8wfSBcc3VtX3tpOiBXX2kgPSAwfSBcRVtZKDApXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CklmIGFsbCB0aGUgY292YXJpYXRlcyBhcmUgc21vb3RoIGFuZCB0aGVyZSBpcyBub3Qgc29ydGluZyBhdCB0aGUgY3V0cG9pbnQsCnRoZW4gdGhpcyBzZWVtcyBsaWtlIGEgcmVhc29uYWJsZSBSRCBkZXNpZ24uCg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">XGZyYWN7MX17bl8xfSBcc3VtX3tpOiBXX2kgPSAxfSA=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11914,19 +11938,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGhlcmUgaXMKbm8gc29ydGluZy4K</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RmlndXJlIDIgc2hvd3MgdGhhdCB0aGVyZSBzZWVtcyB0byBiZSBubyBzb3J0aW5nIGF0IHRoZSBjdXRwb2ludC4K</text>
+        <text encoding="base64">ICAgIFxFWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cG9zaXRpdmUgCg==</text>
+        <text encoding="base64">ICAgIFxmcmFjezF9e259IFxzdW1faSBcRVtcZnJhY3tZX2kgV19pfXtlKFhfaSl9XQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhdGUgCg==</text>
+        <text encoding="base64">Q29uc2lkZXIganVzdCB0aGUgZmlyc3QgdGVybS4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12996,19 +13020,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2VyZSAKZGVtb2NyYWN0aWMuCg==</text>
+        <text encoding="base64">VGhpcyBtYWtlcyBpdCBkaWZmaWN1bHQgdG8gZXN0aW1hdGUgdGhlIGF2ZXJhZ2UgdHJlYXRtZW50IGVmZmVjdCwgZS5nLiBieQppbmNyZWFzaW5nIHRoZSB2YXJpYW5jZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbl90cmFpbl9zdGVwc190b3RhbCAlIHNlbGYuaGFyZF91cGRhdGVfcGVyaW9kID09IDA6Cg==</text>
+        <text encoding="base64">dGhhdCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>range1</last-search>
+      <last-search encoding="base64">XDwmXD4=</last-search>
       <last-offset />
-      <last-pattern>range1</last-pattern>
+      <last-pattern encoding="base64">XDwmXD4=</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -13016,7 +13040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env.log</entry>
         <entry>render</entry>
         <entry>hyp</entry>
         <entry>log</entry>
@@ -13036,6 +13059,7 @@
         <entry>FIGURE</entry>
         <entry encoding="base64">XDxyZGludGdyYXBodGxpbVw+</entry>
         <entry>range1</entry>
+        <entry encoding="base64">XDwmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
