@@ -3224,8 +3224,8 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/rl_algorithm.py" timestamp="1511160406629">
-        <mark key="'" line="32" column="12" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/rl_algorithm.py" timestamp="1511201193971">
+        <mark key="'" line="169" column="40" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/envs/gym_env.py" timestamp="1486884959429">
         <mark key="'" line="27" column="33" />
@@ -4162,7 +4162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/dqn/classic_envs.py" />
       <jump line="103" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
       <jump line="26" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
       <jump line="37" column="32" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
@@ -4262,6 +4261,7 @@
       <jump line="9" column="27" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q2.tex" />
       <jump line="179" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q2.tex" />
       <jump line="171" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q2.tex" />
+      <jump line="169" column="40" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/rl_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11810,7 +11810,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>eval_sampler</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFxcJj0K</text>
@@ -12952,9 +12952,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eval_sampler</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>eval_sampler</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12962,7 +12962,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text_log_file</entry>
         <entry>def train</entry>
         <entry>asdf</entry>
         <entry>def cuda</entry>
@@ -12982,6 +12981,7 @@
         <entry>pickle</entry>
         <entry>eval</entry>
         <entry>eval_sampler</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
