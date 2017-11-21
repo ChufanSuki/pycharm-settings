@@ -343,12 +343,12 @@
         <mark key="." line="55" column="28" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" timestamp="1511293660079">
-        <mark key="'" line="136" column="13" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="129" column="25" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" timestamp="1511294480421">
+        <mark key="'" line="96" column="22" />
+        <mark key="[" line="99" column="43" />
+        <mark key="]" line="99" column="61" />
+        <mark key="." line="99" column="61" />
+        <mark key="^" line="99" column="61" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_comp/comp.py" timestamp="1496694529748">
         <mark key="'" line="60" column="10" />
@@ -737,8 +737,8 @@
         <mark key="^" line="34" column="41" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" timestamp="1511293599265">
-        <mark key="'" line="109" column="33" />
+      <file name="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" timestamp="1511294461318">
+        <mark key="'" line="138" column="23" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/core/tf_util.py" timestamp="1479782947616">
         <mark key="'" line="150" column="13" />
@@ -4199,12 +4199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
-      <jump line="72" column="20" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q1.tex" />
-      <jump line="19" column="25" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q4.tex" />
-      <jump line="25" column="25" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/main.tex" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q4.tex" />
-      <jump line="47" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q4.tex" />
       <jump line="55" column="16" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q4.tex" />
       <jump line="62" column="6" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q2.tex" />
       <jump line="32" column="23" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/main.tex" />
@@ -4299,13 +4293,19 @@
       <jump line="58" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="137" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="7" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/pytorch_util.py" />
+      <jump line="96" column="22" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
+      <jump line="136" column="33" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
+      <jump line="134" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
+      <jump line="138" column="23" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>correction</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11839,13 +11839,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>vf</text>
+        <text>correction</text>
       </register>
       <register name="/" type="4">
-        <text>vf_next_target_t</text>
+        <text>log_pi_t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi52ZiwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBRRiBMb3NzCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -12960,9 +12960,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vf_next_target_t</last-search>
+      <last-search>log_pi_t</last-search>
       <last-offset />
-      <last-pattern>vf_next_target_t</last-pattern>
+      <last-pattern>log_pi_t</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12970,9 +12970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>T</entry>
-        <entry>TABLE 1</entry>
-        <entry>bs</entry>
         <entry>Estimate</entry>
         <entry>save_init</entry>
         <entry>epoch</entry>
@@ -12990,6 +12987,9 @@
         <entry encoding="base64">XDxfdmZfdGFyZ2V0X3BhcmFtc1w+</entry>
         <entry>self._vf_t</entry>
         <entry>vf_next_target_t</entry>
+        <entry>corr</entry>
+        <entry>log_target_t</entry>
+        <entry>log_pi_t</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commit_branch/branch_name/g</entry>
