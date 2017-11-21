@@ -10,6 +10,9 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="/start_script.py" timestamp="1511292769820">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/scripts/setup_mujoco.sh" timestamp="1499568945055">
         <mark key="'" line="35" column="44" />
         <mark key="[" line="36" column="18" />
@@ -23,6 +26,9 @@
         <mark key="]" line="92" column="45" />
         <mark key="^" line="92" column="45" />
         <mark key="." line="92" column="45" />
+      </file>
+      <file name="/a.dummy" timestamp="1510964280452">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -228,6 +234,9 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="0" column="70" />
+      </file>
+      <file name="/" timestamp="1510902764282">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/core/neuralnet.py" timestamp="1479787037950">
         <mark key="'" line="7" column="6" />
@@ -727,6 +736,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="34" column="41" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" timestamp="1511292679191">
+        <mark key="'" line="70" column="17" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/core/tf_util.py" timestamp="1479782947616">
         <mark key="'" line="150" column="13" />
@@ -3724,6 +3736,9 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/git/softqlearning-private/softqlearning/algos/softqlearning.py" timestamp="1511292666583">
+        <mark key="'" line="82" column="46" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/predictors/mlp_state_action_network.py" timestamp="1480490527742">
         <mark key="'" line="41" column="17" />
         <mark key="[" line="22" column="0" />
@@ -4184,11 +4199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1279" column="99" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
-      <jump line="1283" column="105" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
-      <jump line="1287" column="93" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
-      <jump line="1293" column="99" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
-      <jump line="1320" column="13" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
       <jump line="1327" column="73" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
       <jump line="64" column="0" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" />
       <jump line="145" column="15" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/graphs_R4_final.do" />
@@ -4284,6 +4294,11 @@
       <jump line="88" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/train_q.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="11" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/torch_rl_algorithm.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/git/softqlearning-private/softqlearning/algos/softqlearning.py" />
+      <jump line="31" column="12" filename="$USER_HOME$/git/softqlearning-private/softqlearning/algos/softqlearning.py" />
+      <jump line="58" column="15" filename="$USER_HOME$/git/softqlearning-private/softqlearning/algos/softqlearning.py" />
+      <jump line="82" column="46" filename="$USER_HOME$/git/softqlearning-private/softqlearning/algos/softqlearning.py" />
+      <jump line="70" column="17" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11827,7 +11842,7 @@
         <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>algo_class</text>
+        <text>base_kwargs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wb2xpY3ksCg==</text>
@@ -12941,13 +12956,13 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmRpc2NvdW50ID0gc2VsZi5lcG9jaF9kaXNjb3VudF9zY2hlZHVsZS5nZXRfdmFsdWUoZXBvY2gpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>algo_class</last-search>
+      <last-search>base_kwargs</last-search>
       <last-offset />
-      <last-pattern>algo_class</last-pattern>
+      <last-pattern>base_kwargs</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12955,7 +12970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FIGURE 4</entry>
         <entry>gbw</entry>
         <entry>FIGURE 5</entry>
         <entry>Completed</entry>
@@ -12975,6 +12989,7 @@
         <entry>epoch</entry>
         <entry>algo_class =</entry>
         <entry>algo_class</entry>
+        <entry>base_kwargs</entry>
       </history-search>
       <history-cmd>
         <entry>245</entry>
@@ -12995,8 +13010,8 @@
         <entry>vsp</entry>
         <entry>bp|bd #</entry>
         <entry>epoch_tau</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
