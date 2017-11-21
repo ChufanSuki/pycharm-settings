@@ -343,12 +343,12 @@
         <mark key="." line="55" column="28" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" timestamp="1511295349431">
-        <mark key="'" line="92" column="36" />
-        <mark key="[" line="109" column="31" />
-        <mark key="]" line="109" column="68" />
-        <mark key="." line="109" column="68" />
-        <mark key="^" line="109" column="68" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" timestamp="1511302536636">
+        <mark key="'" line="102" column="36" />
+        <mark key="[" line="148" column="26" />
+        <mark key="]" line="148" column="31" />
+        <mark key="^" line="148" column="31" />
+        <mark key="." line="148" column="31" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ddpg_comp/comp.py" timestamp="1496694529748">
         <mark key="'" line="60" column="10" />
@@ -604,6 +604,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/policies.py" timestamp="1511302790641">
+        <mark key="'" line="0" column="34" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487214463080">
         <mark key="'" line="99" column="22" />
@@ -3497,6 +3504,10 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="247" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/state_distance.py" timestamp="1511302715703">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/rllab3/lib/python3.5/site-packages/gym/envs/mujoco/__init__.py" timestamp="1480446693971">
         <mark key="'" line="10" column="45" />
         <mark key="[" line="14" column="54" />
@@ -4199,9 +4210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
-      <jump line="29" column="11" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
-      <jump line="36" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
       <jump line="13" column="1" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
       <jump line="1" column="50" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
       <jump line="2" column="37" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
@@ -4295,17 +4303,20 @@
       <jump line="138" column="23" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="103" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="87" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="89" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="90" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="91" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
+      <jump line="102" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
+      <jump line="0" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/policies.py" />
+      <jump line="3" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2guY29yZSBpbXBvcnQgUHlUb3JjaE1vZHVsZQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11839,16 +11850,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>PyTorchModule</text>
       </register>
       <register name="/" type="4">
-        <text>y_</text>
+        <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZmX2NyaXRlcmlvbiA9IG5uLk1TRUxvc3MoKQo=</text>
+      <register name="0" type="4">
+        <text>Policy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YW5oX2NvcnJlY3Rpb24gPQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2guY29yZSBpbXBvcnQgUHlUb3JjaE1vZHVsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -11868,19 +11879,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjdGlvbnMgaXMgYSBvbmUtaG90IHZlY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dfcGkgPSBzZWxmLnBvbGljeShvYnMsIHJldHVybl9sb2dfcHJvYj1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXRfcV92YWx1ZXMgPSBzZWxmLnRhcmdldF9xZihuZXh0X29icykuZGV0YWNoKCkubWF4KAogICAgICAgICAgICAxLCBrZWVwZGltPVRydWUKICAgICAgICApWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBxX3ByZWQgPSBzZWxmLnFmKG9icywgYWN0aW9ucykKICAgICAgICB2X3ByZWQgPSBzZWxmLnZmKG9icykK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29mdF90YXJnZXRfdGF1PTFlLTIsCg==</text>
+        <text encoding="base64">ICAgICAgICB2X3ByZWQgPSBzZWxmLnZmKG9icykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12950,19 +12961,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9saWN5X2xyPTFlLTMsCg==</text>
+        <text encoding="base64">ICAgICAgICB0YW5oX2NvcnJlY3Rpb24gPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCmltcG9ydCB0b3JjaC5vcHRpbSBhcyBvcHRpbQpmcm9tIHRvcmNoIGltcG9ydCBubiBhcyBubgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>y_</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>y_</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12970,7 +12981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save_init</entry>
         <entry>epoch</entry>
         <entry>algo_class =</entry>
         <entry>algo_class</entry>
@@ -12990,6 +13000,7 @@
         <entry>log_target_t</entry>
         <entry>log_pi_t</entry>
         <entry>y_</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commit_branch/branch_name/g</entry>
