@@ -270,12 +270,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" timestamp="1511244467440">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="106" column="41" />
-        <mark key="]" line="106" column="41" />
-        <mark key="." line="106" column="41" />
-        <mark key="^" line="106" column="41" />
+      <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" timestamp="1511244927912">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="99" column="73" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/vpg_benchmark/main.py" timestamp="1477676106265">
         <mark key="'" line="96" column="0" />
@@ -4188,10 +4187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" />
-      <jump line="1954" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/ray/worker.py" />
-      <jump line="95" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" />
-      <jump line="11" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/remote.py" />
       <jump line="2209" column="30" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/ray/worker.py" />
       <jump line="247" column="13" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/ray/worker.py" />
       <jump line="265" column="61" filename="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/ray/worker.py" />
@@ -4288,6 +4283,10 @@
       <jump line="19" column="9" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
       <jump line="46" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
       <jump line="1311" column="16" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
+      <jump line="10" column="17" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/midterm/q1/tables_R4_final.do" />
+      <jump line="105" column="1" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
+      <jump line="64" column="68" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
+      <jump line="100" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q3.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4298,8 +4297,8 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CkkgYWxzbyB3YXNuJ3Qgc3VyZSB3aGF0IGBgcmF3IGRpZmZlcmVuY2UnJyBtZWFudC4KQXNzdW1pbmcgdGhhdCBpdCBtZWFudCB0byBzaW1wbHkgdXNlCiQkClxFW1lfaSgxKSBcbWlkIERfaSA9IDFdIC0gXEVbWV9pKDApIFxtaWQgRF9pID0gMF0KJCQKYXMgdGhlIEFURSwgdGhlbiBJIGdvdCB2ZXJ5IGRpZmZlcmVudCBudW1iZXJzLgoKICAgICBFc3RpbWF0b3IgICAgICAgIENQUyAgICAgICAgICAgICAgICAgQ1BTIHNlICAgICAgICAgICAgIE5TVwpbMSxdICJSYXcgZGlmZmVyZW5jZSIgIi02MzUuMDI2MjUwNDA2OTExIiAiNjU3LjEzNzQyMzY5ODQ5NCIgIjE3OTQuMzQyMzgxODUwMSIKWzIsXSAiT0xTIiAgICAgICAgICAgICIxMzY4Ljk4MTY1NTg2Njk5IiAgIjgwOC45NTQ3NDY3NzE2ODkiICIxNjc1Ljg2MjM1ODYzMjE2IgpbMyxdICJMUiIgICAgICAgICAgICAgIjE1NDUuODI1MTg1MDYzNzQiICAiMTM4MS4wNjA5OTE4MDg2OCIgIjE3ODUuNzc1MDIzMjM1MjkiCls0LF0gIk9CIiAgICAgICAgICAgICAiMTcwMS4xNzIzNjAwNzU0NCIgICI4MjUuNzA3MzczNzA1NjUyIiAiMTc4NC43ODQ1MDA0NzM0OSIKICAgICBOU1cgc2UKWzEsXSAiNjMyLjg1MzM5MjQxNDM2NiIKWzIsXSAiNjM5LjM0NDA4NTc0OTkxMiIKWzMsXSAiOTczLjc1NDQwMTIzODQ2NiIKWzQsXSAiNzU2LjIwMDA5OTMxOTIxNyIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11833,7 +11832,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>808</text>
       </register>
       <register name="/" type="4">
         <text>TABLE 1</text>
@@ -11842,16 +11841,16 @@
         <text encoding="base64">JCQKWV9pXmQgPSBYX2knIFxiZXRhXmQgKyBcZXBzaWxvbl9pXmQsIFxxdWFkIGQgPSAwLCAxCiQkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QW5vdGhlciBjYXNlIHdoZW4gb25lIG1heSBub3Qgd2FudCB0byB1c2UgdGhpcyBlc3RpbWF0b3IgaXMgaWYgdGhleSBiZWxpZXZlCg==</text>
+        <text encoding="base64">CkkgYWxzbyB3YXNuJ3Qgc3VyZSB3aGF0IGBgcmF3IGRpZmZlcmVuY2UnJyBtZWFudC4KQXNzdW1pbmcgdGhhdCBpdCBtZWFudCB0byBzaW1wbHkgdXNlCiQkClxFW1lfaSgxKSBcbWlkIERfaSA9IDFdIC0gXEVbWV9pKDApIFxtaWQgRF9pID0gMF0KJCQKYXMgdGhlIEFURSwgdGhlbiBJIGdvdCB2ZXJ5IGRpZmZlcmVudCBudW1iZXJzLgoKICAgICBFc3RpbWF0b3IgICAgICAgIENQUyAgICAgICAgICAgICAgICAgQ1BTIHNlICAgICAgICAgICAgIE5TVwpbMSxdICJSYXcgZGlmZmVyZW5jZSIgIi02MzUuMDI2MjUwNDA2OTExIiAiNjU3LjEzNzQyMzY5ODQ5NCIgIjE3OTQuMzQyMzgxODUwMSIKWzIsXSAiT0xTIiAgICAgICAgICAgICIxMzY4Ljk4MTY1NTg2Njk5IiAgIjgwOC45NTQ3NDY3NzE2ODkiICIxNjc1Ljg2MjM1ODYzMjE2IgpbMyxdICJMUiIgICAgICAgICAgICAgIjE1NDUuODI1MTg1MDYzNzQiICAiMTM4MS4wNjA5OTE4MDg2OCIgIjE3ODUuNzc1MDIzMjM1MjkiCls0LF0gIk9CIiAgICAgICAgICAgICAiMTcwMS4xNzIzNjAwNzU0NCIgICI4MjUuNzA3MzczNzA1NjUyIiAiMTc4NC43ODQ1MDA0NzM0OSIKICAgICBOU1cgc2UKWzEsXSAiNjMyLjg1MzM5MjQxNDM2NiIKWzIsXSAiNjM5LjM0NDA4NTc0OTkxMiIKWzMsXSAiOTczLjc1NDQwMTIzODQ2NiIKWzQsXSAiNzU2LjIwMDA5OTMxOTIxNyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U3BlY2lmaWNhbGx5LCB1bmRlciBjZXJ0YWluIGFzc3VtcHRpb25zLCBhIHZhbGlkIGVzdGltYXRvciBqamsK</text>
+        <text encoding="base64">QW5vdGhlciBjYXNlIHdoZW4gb25lIG1heSBub3Qgd2FudCB0byB1c2UgdGhpcyBlc3RpbWF0b3IgaXMgaWYgdGhleSBiZWxpZXZlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SG93ZXZlciwgCkFub3RoZXIgcmVhc29uIHlvdSBtYXkgd2FudCB0byB1c2UgdGhpcyBlc3RpbWF0b3IgaXMgdGhhdCBpZiB0aGVyZSBhcmUgbWFueQpjb3ZhcmlhdGVzCg==</text>
+        <text encoding="base64">U3BlY2lmaWNhbGx5LCB1bmRlciBjZXJ0YWluIGFzc3VtcHRpb25zLCBhIHZhbGlkIGVzdGltYXRvciBqamsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11886,19 +11885,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SG93ZXZlciwgCkFub3RoZXIgcmVhc29uIHlvdSBtYXkgd2FudCB0byB1c2UgdGhpcyBlc3RpbWF0b3IgaXMgdGhhdCBpZiB0aGVyZSBhcmUgbWFueQpjb3ZhcmlhdGVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGVzdGltYXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClxzdWJzZWN0aW9uKnsoYil9Cg==</text>
+        <text encoding="base64">VGhlIGVzdGltYXRvcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12968,13 +12967,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClxzdWJzZWN0aW9uKnsoYil9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XGJlZ2lue2ZpZ3VyZX0KICAgIFxjZW50ZXJpbmcKICAgIFxpbmNsdWRlZ3JhcGhpY3NbaGVpZ2h0PTVpbl17cTItZmlnMS5wbmd9CiAgICBcY2FwdGlvbnNldHVwe2xhYmVsZm9ybWF0PWVtcHR5fQogICAgXGNhcHRpb257RmlndXJlIDEgZnJvbSB0aGUgcGFwZXJ9ClxlbmR7ZmlndXJlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -13028,8 +13027,8 @@
         <entry>91</entry>
         <entry>bp|bd #</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
