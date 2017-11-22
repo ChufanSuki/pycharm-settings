@@ -1917,6 +1917,13 @@
         <mark key="." line="251" column="35" />
         <mark key="^" line="251" column="35" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/torch_rl_algorithm.py" timestamp="1511380376572">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="59" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/ec2_example.py" timestamp="1509690789480">
         <mark key="'" line="18" column="11" />
         <mark key="[" line="38" column="37" />
@@ -1924,7 +1931,7 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" timestamp="1511316950643">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" timestamp="1511317276106">
         <mark key="'" line="286" column="17" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/tensorflow/tensorboard/tensorboard.py" timestamp="1503454990472">
@@ -4058,7 +4065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
       <jump line="64" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
       <jump line="29" column="12" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="13" column="0" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
@@ -4158,13 +4164,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" />
       <jump line="284" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" />
       <jump line="286" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" />
+      <jump line="11" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/torch_rl_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>self.policy(obs))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCphcmdzLCByZXBsYXlfYnVmZmVyPXJlcGxheV9idWZmZXIsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11707,16 +11714,16 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X3NpemUgPSBpbnB1dF9zaXplCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBhY3Rpb24uc3F1ZWV6ZSgwKQogICAgICAgIGFjdGlvbl9ucCA9IHB0dS5nZXRfbnVtcHkoYWN0aW9uKSwge30K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5ub3JtYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBhY3Rpb24uc3F1ZWV6ZSgwKQogICAgICAgIGFjdGlvbl9ucCA9IHB0dS5nZXRfbnVtcHkoYWN0aW9uKSwge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2X3RhcmdldCA9IHZfdGFyZ2V0LmRldGFjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5ub3JtYWwoKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11727,19 +11734,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxX3RhcmdldCA9IHFfdGFyZ2V0LmRldGFjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2X3RhcmdldCA9IHZfdGFyZ2V0LmRldGFjaCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBxX3RhcmdldCA9IHFfdGFyZ2V0LmRldGFjaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvbyA9IE5vbmUKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12809,10 +12816,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmVnaXN0ZXJfZ3JpZF9lbnZzKCkKICAgICMgZW52ID0gZ3ltLm1ha2UoIkdyaWRNYXplMS12MCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZvbyA9IE5vbmUKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKZnJvbSByYWlscmwuZXhwbG9yYXRpb25fc3RyYXRlZ2llcy5iYXNlIGltcG9ydCBcCiAgICBQb2xpY3lXcmFwcGVkV2l0aEV4cGxvcmF0aW9uU3RyYXRlZ3kKZnJvbSByYWlscmwuZXhwbG9yYXRpb25fc3RyYXRlZ2llcy5vdV9zdHJhdGVneSBpbXBvcnQgT1VTdHJhdGVneQpmcm9tIHJhaWxybC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgcnVuX2V4cGVyaW1lbnQKZnJvbSByYWlscmwucG9saWNpZXMudG9yY2ggaW1wb3J0IEZlZWRGb3J3YXJkUG9saWN5CmZyb20gcmFpbHJsLnFmdW5jdGlvbnMudG9yY2ggaW1wb3J0IEZlZWRGb3J3YXJkUUZ1bmN0aW9uCmZyb20gcmFpbHJsLnRvcmNoLmRkcGcgaW1wb3J0IEREUEcKaW1wb3J0IHJhaWxybC50b3JjaC5weXRvcmNoX3V0aWwgYXMgcHR1Cgpmcm9tIHJsbGFiLmVudnMubXVqb2NvLmhhbGZfY2hlZXRhaF9lbnYgaW1wb3J0IEhhbGZDaGVldGFoRW52CmZyb20gcmxsYWIuZW52cy5ub3JtYWxpemVkX2VudiBpbXBvcnQgbm9ybWFsaXplCgoKZGVmIGV4YW1wbGUodmFyaWFudCk6CiAgICBlbnYgPSBIYWxmQ2hlZXRhaEVudigpCiAgICBlbnYgPSBub3JtYWxpemUoZW52KQogICAgZXMgPSBPVVN0cmF0ZWd5KGFjdGlvbl9zcGFjZT1lbnYuYWN0aW9uX3NwYWNlKQogICAgcWYgPSBGZWVkRm9yd2FyZFFGdW5jdGlvbigKICAgICAgICBpbnQoZW52Lm9ic2VydmF0aW9uX3NwYWNlLmZsYXRfZGltKSwKICAgICAgICBpbnQoZW52LmFjdGlvbl9zcGFjZS5mbGF0X2RpbSksCiAgICAgICAgNDAwLAogICAgICAgIDMwMCwKICAgICkKICAgIHBvbGljeSA9IEZlZWRGb3J3YXJkUG9saWN5KAogICAgICAgIGludChlbnYub2JzZXJ2YXRpb25fc3BhY2UuZmxhdF9kaW0pLAogICAgICAgIGludChlbnYuYWN0aW9uX3NwYWNlLmZsYXRfZGltKSwKICAgICAgICA0MDAsCiAgICAgICAgMzAwLAogICAgKQogICAgZXhwbG9yYXRpb25fcG9saWN5ID0gUG9saWN5V3JhcHBlZFdpdGhFeHBsb3JhdGlvblN0cmF0ZWd5KAogICAgICAgIGV4cGxvcmF0aW9uX3N0cmF0ZWd5PWVzLAogICAgICAgIHBvbGljeT1wb2xpY3ksCiAgICApCiAgICBhbGdvcml0aG0gPSBERFBHKAogICAgICAgIGVudiwKICAgICAgICBxZj1xZiwKICAgICAgICBwb2xpY3k9cG9saWN5LAogICAgICAgIGV4cGxvcmF0aW9uX3BvbGljeT1leHBsb3JhdGlvbl9wb2xpY3ksCiAgICAgICAgKip2YXJpYW50WydhbGdvX3BhcmFtcyddCiAgICApCiAgICBpZiBwdHUuZ3B1X2VuYWJsZWQoKToKICAgICAgICBhbGdvcml0aG0uY3VkYSgpCiAgICBhbGdvcml0aG0udHJhaW4oKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICAjIG5vaW5zcGVjdGlvbiBQeVR5cGVDaGVja2VyCiAgICB2YXJpYW50ID0gZGljdCgKICAgICAgICBhbGdvX3BhcmFtcz1kaWN0KAogICAgICAgICAgICBudW1fZXBvY2hzPTEwMCwKICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9lcG9jaD0xMDAwMCwKICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMDAsCiAgICAgICAgICAgIHVzZV9zb2Z0X3VwZGF0ZT1UcnVlLAogICAgICAgICAgICB0YXU9MWUtMiwKICAgICAgICAgICAgYmF0Y2hfc2l6ZT0xMjgsCiAgICAgICAgICAgIG1heF9wYXRoX2xlbmd0aD0xMDAwLAogICAgICAgICAgICBkaXNjb3VudD0wLjk5LAogICAgICAgICAgICBxZl9sZWFybmluZ19yYXRlPTFlLTMsCiAgICAgICAgICAgIHBvbGljeV9sZWFybmluZ19yYXRlPTFlLTQsCiAgICAgICAgKSwKICAgICAgICB2ZXJzaW9uPSJQeVRvcmNoIC0gYmlnZ2VyIG5ldHdvcmtzIiwKICAgICkKICAgIHNlZWQgPSByYW5kb20ucmFuZGludCgwLCA5OTk5OTkpCiAgICBydW5fZXhwZXJpbWVudCgKICAgICAgICBleGFtcGxlLAogICAgICAgIGV4cF9wcmVmaXg9ImRkcGctaGFsZi1jaGVldGFoLXB5dG9yY2giLAogICAgICAgIHNlZWQ9c2VlZCwKICAgICAgICBtb2RlPSdsb2NhbCcsCiAgICAgICAgdmFyaWFudD12YXJpYW50LAogICAgICAgIHVzZV9ncHU9VHJ1ZSwKICAgICkK</text>
+        <text encoding="base64">ICAgICMgcmVnaXN0ZXJfZ3JpZF9lbnZzKCkKICAgICMgZW52ID0gZ3ltLm1ha2UoIkdyaWRNYXplMS12MCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -12825,7 +12832,7 @@
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
