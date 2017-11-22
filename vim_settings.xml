@@ -1924,6 +1924,9 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" timestamp="1511316950643">
+        <mark key="'" line="286" column="17" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/tensorflow/tensorboard/tensorboard.py" timestamp="1503454990472">
         <mark key="'" line="33" column="47" />
         <mark key="[" line="33" column="49" />
@@ -3513,13 +3516,6 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/networks.py" timestamp="1511309712777">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="27" />
-        <mark key="^" line="31" column="23" />
-        <mark key="." line="31" column="37" />
-      </file>
       <file name="$USER_HOME$/git/rllab-private/rllab/viskit/frontend.py" timestamp="1480274255667">
         <mark key="'" line="225" column="15" />
         <mark key="[" line="541" column="56" />
@@ -4062,9 +4058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
-      <jump line="106" column="68" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/sac.py" />
       <jump line="8" column="36" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
       <jump line="64" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/dqn.py" />
       <jump line="29" column="12" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
@@ -4162,6 +4155,9 @@
       <jump line="42" column="20" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="87" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
       <jump line="131" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" />
+      <jump line="284" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" />
+      <jump line="286" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -11705,7 +11701,7 @@
         <text>self.policy(obs))</text>
       </register>
       <register name="/" type="4">
-        <text>log_pi_t</text>
+        <text>def log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X3NpemUgPSBpbnB1dF9zaXplCg==</text>
@@ -12823,9 +12819,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log_pi_t</last-search>
+      <last-search>def log</last-search>
       <last-offset />
-      <last-pattern>log_pi_t</last-pattern>
+      <last-pattern>def log</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12833,8 +12829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>criterion</entry>
-        <entry>mus</entry>
         <entry>feeds</entry>
         <entry>plicy</entry>
         <entry>step</entry>
@@ -12853,6 +12847,8 @@
         <entry>log</entry>
         <entry>new_actions</entry>
         <entry>log_pi_t</entry>
+        <entry>log_diag</entry>
+        <entry>def log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commit_branch/branch_name/g</entry>
