@@ -575,7 +575,7 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/policies.py" timestamp="1511400233923">
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/policies.py" timestamp="1511403857633">
         <mark key="'" line="47" column="15" />
         <mark key="[" line="77" column="13" />
         <mark key="]" line="78" column="62" />
@@ -1208,8 +1208,8 @@
         <mark key="." line="70" column="15" />
         <mark key="^" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" timestamp="1511400241284">
-        <mark key="'" line="105" column="36" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" timestamp="1511403576532">
+        <mark key="'" line="103" column="18" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="116" column="29" />
         <mark key="." line="105" column="0" />
@@ -1479,6 +1479,13 @@
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
         <mark key="^" line="67" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/softqlearning-private/examples/multigoal-sac.py" timestamp="1511404168562">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/atari/__init__.py" timestamp="1510963840691">
         <mark key="'" line="0" column="43" />
@@ -3147,6 +3154,13 @@
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="50" />
       </file>
+      <file name="$USER_HOME$/git/softqlearning-private/sac/envs/multigoal.py" timestamp="1511404183181">
+        <mark key="'" line="54" column="22" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/model_based.py" timestamp="1508961282424">
         <mark key="'" line="64" column="16" />
         <mark key="[" line="61" column="47" />
@@ -3227,8 +3241,8 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/git/softqlearning-private/sac/distributions/gmm.py" timestamp="1511396476986">
-        <mark key="'" line="92" column="54" />
+      <file name="$USER_HOME$/git/softqlearning-private/sac/distributions/gmm.py" timestamp="1511403646598">
+        <mark key="'" line="75" column="42" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/batch_polopt.py" timestamp="1499625098694">
         <mark key="'" line="82" column="32" />
@@ -4097,13 +4111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" />
-      <jump line="8" column="27" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/distributions.py" />
-      <jump line="39" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/distributions.py" />
-      <jump line="136" column="0" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
-      <jump line="56" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" />
-      <jump line="27" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/distributions.py" />
-      <jump line="14" column="54" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/distributions.py" />
       <jump line="25" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/examples/ec2_example.py" />
       <jump line="5" column="46" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/distributions.py" />
       <jump line="6" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/distributions.py" />
@@ -4171,7 +4178,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
       <jump line="22" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
       <jump line="106" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
-      <jump line="103" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
       <jump line="149" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
       <jump line="68" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/pendulum.py" />
       <jump line="21" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/base.py" />
@@ -4197,13 +4203,21 @@
       <jump line="46" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/policies.py" />
       <jump line="47" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/policies.py" />
       <jump line="32" column="23" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/pendulum.py" />
+      <jump line="103" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
+      <jump line="105" column="12" filename="$USER_HOME$/git/softqlearning-private/sac/distributions/gmm.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/git/softqlearning-private/sac/distributions/gmm.py" />
+      <jump line="75" column="42" filename="$USER_HOME$/git/softqlearning-private/sac/distributions/gmm.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/git/softqlearning-private/examples/multigoal-sac.py" />
+      <jump line="15" column="25" filename="$USER_HOME$/git/softqlearning-private/examples/multigoal-sac.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/git/softqlearning-private/sac/envs/multigoal.py" />
+      <jump line="54" column="22" filename="$USER_HOME$/git/softqlearning-private/sac/envs/multigoal.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0ic2FjLXBlbmR1bHVtLXdpdGgtYWN0aW9uLWhhY2siLAo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11737,25 +11751,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>rennder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0iZGV2LXNhYy1wZW5kdWx1bSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0iZGV2LXNhYy1wZW5kdWx1bSIsCg==</text>
+        <text encoding="base64">ICAgIGV2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCdsb2cgcGknKQogICAgICAgICMgcHJpbnQobG9nX3BpLm1heCgpKQogICAgICAgICMgcHJpbnQobG9nX3BpLm1pbigpKQogICAgICAgICMgcHJpbnQoJ25ldyBhY3Rpb25zJykKICAgICAgICAjIHByaW50KG5ld19hY3Rpb25zLm1heCgpKQogICAgICAgICMgcHJpbnQobmV3X2FjdGlvbnMubWluKCkpCiAgICAgICAgIyBwcmludCgncSBwcmVkJykKICAgICAgICAjIHByaW50KHFfcHJlZC5tYXgoKSkKICAgICAgICAjIHByaW50KHFfcHJlZC5taW4oKSkKICAgICAgICAjIHByaW50KCd2IHByZWQnKQogICAgICAgICMgcHJpbnQodl9wcmVkLm1heCgpKQogICAgICAgICMgcHJpbnQodl9wcmVkLm1pbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0iZGV2LXNhYy1wZW5kdWx1bSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCdsb2cgcGknKQogICAgICAgICMgcHJpbnQobG9nX3BpLm1heCgpKQogICAgICAgICMgcHJpbnQobG9nX3BpLm1pbigpKQogICAgICAgICMgcHJpbnQoJ25ldyBhY3Rpb25zJykKICAgICAgICAjIHByaW50KG5ld19hY3Rpb25zLm1heCgpKQogICAgICAgICMgcHJpbnQobmV3X2FjdGlvbnMubWluKCkpCiAgICAgICAgIyBwcmludCgncSBwcmVkJykKICAgICAgICAjIHByaW50KHFfcHJlZC5tYXgoKSkKICAgICAgICAjIHByaW50KHFfcHJlZC5taW4oKSkKICAgICAgICAjIHByaW50KCd2IHByZWQnKQogICAgICAgICMgcHJpbnQodl9wcmVkLm1heCgpKQogICAgICAgICMgcHJpbnQodl9wcmVkLm1pbigpKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11778,7 +11792,7 @@
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12848,19 +12862,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdGQgaXMgTm9uZToKICAgICAgICAgICAgbGFzdF9oaWRkZW5fc2l6ZSA9IG9ic19kaW0KICAgICAgICAgICAgaWYgbGVuKGhpZGRlbl9zaXplcykgPiAwOgogICAgICAgICAgICAgICAgbGFzdF9oaWRkZW5fc2l6ZSA9IGhpZGRlbl9zaXplc1stMV0KICAgICAgICAgICAgc2VsZi5sYXN0X2ZjX3N0ZCA9IG5uLkxpbmVhcihsYXN0X2hpZGRlbl9zaXplLCBhY3Rpb25fZGltKQogICAgICAgICAgICBzZWxmLmxhc3RfZmNfc3RkLndlaWdodC5kYXRhLnVuaWZvcm1fKC1pbml0X3csIGluaXRfdykKICAgICAgICAgICAgc2VsZi5sYXN0X2ZjX3N0ZC5iaWFzLmRhdGEudW5pZm9ybV8oLWluaXRfdywgaW5pdF93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcmVzID0gdG9yY2guc3BsaXQoc2VsZi5sYXN0X2ZjKGgpLCAyLCAxKQogICAgICAgICAgICBtZWFuLCBzdGQgPSByZXMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdGQgaXMgTm9uZToKICAgICAgICAgICAgbGFzdF9oaWRkZW5fc2l6ZSA9IG9ic19kaW0KICAgICAgICAgICAgaWYgbGVuKGhpZGRlbl9zaXplcykgPiAwOgogICAgICAgICAgICAgICAgbGFzdF9oaWRkZW5fc2l6ZSA9IGhpZGRlbl9zaXplc1stMV0KICAgICAgICAgICAgc2VsZi5sYXN0X2ZjX3N0ZCA9IG5uLkxpbmVhcihsYXN0X2hpZGRlbl9zaXplLCBhY3Rpb25fZGltKQogICAgICAgICAgICBzZWxmLmxhc3RfZmNfc3RkLndlaWdodC5kYXRhLnVuaWZvcm1fKC1pbml0X3csIGluaXRfdykKICAgICAgICAgICAgc2VsZi5sYXN0X2ZjX3N0ZC5iaWFzLmRhdGEudW5pZm9ybV8oLWluaXRfdywgaW5pdF93KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>rennder</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>rennder</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12868,15 +12882,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_log_</entry>
-        <entry>xz_log_sigs_t</entry>
-        <entry>noraml</entry>
-        <entry>norm</entry>
-        <entry>epsilon</entry>
-        <entry>normal</entry>
-        <entry>ec2</entry>
-        <entry>eval</entry>
-        <entry>eval.</entry>
         <entry>eval\.</entry>
         <entry>policy_cri</entry>
         <entry>tau</entry>
@@ -12888,6 +12893,15 @@
         <entry>exp</entry>
         <entry>std</entry>
         <entry>action</entry>
+        <entry>self._reg_loss</entry>
+        <entry>clip</entry>
+        <entry>max</entry>
+        <entry encoding="base64">XDxMT0dfU0lHX0NBUF9NQVhcPg==</entry>
+        <entry>init</entry>
+        <entry>reset</entry>
+        <entry>init_sigma</entry>
+        <entry>redner</entry>
+        <entry>rennder</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
@@ -12901,15 +12915,15 @@
         <entry>163</entry>
         <entry>e</entry>
         <entry>486</entry>
-        <entry>vsp</entry>
         <entry>93</entry>
         <entry>78</entry>
         <entry>w'</entry>
         <entry>44</entry>
         <entry>113</entry>
         <entry>85</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
