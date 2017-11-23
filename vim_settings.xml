@@ -668,12 +668,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" timestamp="1511478570640">
-        <mark key="'" line="61" column="62" />
-        <mark key="[" line="152" column="16" />
-        <mark key="]" line="152" column="16" />
-        <mark key="^" line="152" column="16" />
-        <mark key="." line="152" column="16" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" timestamp="1511480968555">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="157" column="47" />
+        <mark key="]" line="157" column="50" />
+        <mark key="." line="157" column="50" />
+        <mark key="^" line="157" column="50" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/her_envs.py" timestamp="1508969890455">
         <mark key="'" line="37" column="8" />
@@ -4114,7 +4114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/multigoal_ddpg.py" />
       <jump line="53" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/multigoal_ddpg.py" />
       <jump line="170" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
       <jump line="194" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
@@ -4184,21 +4183,18 @@
       <jump line="49" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/networks.py" />
       <jump line="24" column="7" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="37" column="41" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="74" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="94" column="28" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="71" column="3" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="122" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="124" column="8" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="123" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
-      <jump line="116" column="10" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="117" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="109" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="80" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="73" column="19" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="15" column="6" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/networks.py" />
       <jump line="57" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
-      <jump line="64" column="33" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="55" column="48" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="58" column="25" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="36" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
@@ -4214,13 +4210,17 @@
       <jump line="160" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="77" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="61" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
+      <jump line="64" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
+      <jump line="48" column="24" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
+      <jump line="116" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11754,25 +11754,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvcl9zdGF0aXN0aWNzXD4=</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">ICAgIG5hbWVfdG9fZXJyb3JzID0gZGVmYXVsdGRpY3QobGlzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdGFuaF9uZXQgPSBUYW5oTmV0d29yaygqKnBhcmFtcykKICAgICMgdHJhaW4odGFuaF9uZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdGFuaF9uZXQgPSBUYW5oTmV0d29yaygqKnBhcmFtcykK</text>
+        <text encoding="base64">ICAgIG5hbWVfdG9fZXJyb3JzID0gZGVmYXVsdGRpY3QobGlzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhbmhfbmV0ID0gT25lTGF5ZXJUYW5oTmV0d29yaygqKnBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJOYWl2ZSIsIGVzdGltYXRlX21lYW5fbmFpdmUpLAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -11783,19 +11783,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IGRpY3QoCiAgICAgICAgaGlkZGVuX3NpemVzPVsxXSwKICAgICAgICBpbnB1dF9zaXplPTEsCiAgICAgICAgb3V0cHV0X3NpemU9MSwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmxhc3RfZmMoaCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmxhc3RfZmMoaCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12865,19 +12865,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdGFuaF9uZXQgPSBUYW5oTmV0d29yaygqKnBhcmFtcykKICAgICMgdHJhaW4odGFuaF9uZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgT25lTGF5ZXJUYW5oTmV0d29yayhQeVRvcmNoTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBoaWRkZW5fc2l6ZXMsIGlucHV0X3NpemUsIG91dHB1dF9zaXplKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBoaWRkZW5fc2l6ZSA9IGhpZGRlbl9zaXplc1swXQogICAgICAgIHNlbGYuZmMgPSBubi5MaW5lYXIoaW5wdXRfc2l6ZSwgaGlkZGVuX3NpemUpCiAgICAgICAgc2VsZi5sYXN0X2ZjID0gbm4uTGluZWFyKGhpZGRlbl9zaXplLCBvdXRwdXRfc2l6ZSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCwgY29udm9sdmU9RmFsc2UpOgogICAgICAgIGggPSBpbnB1dAogICAgICAgIGlmIGNvbnZvbHZlOgogICAgICAgICAgICBjb252X2ZhY3Rvcl9pbnYgPSB0b3JjaC5zcXJ0KDEgKyBucC5waSAvIDIgKiBzZWxmLmZjLndlaWdodCAqKiAyKQogICAgICAgICAgICBoID0gdG9yY2gudGFuaChzZWxmLmZjKGgpIC8gY29udl9mYWN0b3JfaW52KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGggPSB0b3JjaC50YW5oKHNlbGYuZmMoaCkpCiAgICAgICAgIyByZXR1cm4gaAogICAgICAgIHJldHVybiBzZWxmLmxhc3RfZmMoaCkKCg==</text>
+        <text encoding="base64">ICAgICMgdGFuaF9uZXQgPSBUYW5oTmV0d29yaygqKnBhcmFtcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvcl9zdGF0aXN0aWNzXD4=</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvcl9zdGF0aXN0aWNzXD4=</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>ttheta</last-replace>
       <last-substitute>tildet</last-substitute>
       <last-dir>1</last-dir>
@@ -12885,8 +12885,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start_Time</entry>
-        <entry>Total</entry>
         <entry>nr</entry>
         <entry>get_actions</entry>
         <entry>tau</entry>
@@ -12905,6 +12903,8 @@
         <entry>network</entry>
         <entry>train</entry>
         <entry encoding="base64">XDxlcnJvcl9zdGF0aXN0aWNzXD4=</entry>
+        <entry>default</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tildet/ttheta/g</entry>
