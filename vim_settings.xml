@@ -668,12 +668,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" timestamp="1511476418447">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="149" column="23" />
-        <mark key="]" line="149" column="23" />
-        <mark key="^" line="149" column="23" />
-        <mark key="." line="149" column="23" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" timestamp="1511478570640">
+        <mark key="'" line="61" column="62" />
+        <mark key="[" line="152" column="16" />
+        <mark key="]" line="152" column="16" />
+        <mark key="^" line="152" column="16" />
+        <mark key="." line="152" column="16" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/her_envs.py" timestamp="1508969890455">
         <mark key="'" line="37" column="8" />
@@ -4114,7 +4114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="17" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal.py" />
       <jump line="45" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/multigoal_ddpg.py" />
       <jump line="53" column="16" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/torch/multigoal_ddpg.py" />
       <jump line="170" column="21" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
@@ -4214,13 +4213,14 @@
       <jump line="119" column="4" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="160" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
       <jump line="77" column="0" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
+      <jump line="61" column="62" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/push_gaussian_through_nn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11754,7 +11754,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>create_network</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcl9zdGF0aXN0aWNzXD4=</text>
