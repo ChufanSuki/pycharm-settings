@@ -1623,9 +1623,6 @@
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/cheetah.py" timestamp="1511493246585">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="31" column="0" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="66" column="30" />
-        <mark key="^" line="66" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/argmax.py" timestamp="1510904373072">
         <mark key="'" line="21" column="0" />
@@ -1646,10 +1643,10 @@
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/expected_sac.py" timestamp="1511493329458">
         <mark key="'" line="58" column="50" />
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="40" />
-        <mark key="." line="64" column="40" />
-        <mark key="^" line="64" column="40" />
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="63" column="40" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_path.py" timestamp="1508279791816">
         <mark key="'" line="8" column="0" />
@@ -1917,12 +1914,12 @@
         <mark key="^" line="34" column="76" />
         <mark key="." line="34" column="74" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal.py" timestamp="1511490171085">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal.py" timestamp="1511550311130">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="24" />
         <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+        <mark key="." line="72" column="24" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/ddpg.py" timestamp="1511468562821">
         <mark key="'" line="363" column="8" />
@@ -2353,13 +2350,6 @@
         <mark key="]" line="95" column="54" />
         <mark key="." line="126" column="24" />
         <mark key="^" line="126" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal_expected.py" timestamp="1511493254802">
-        <mark key="'" line="30" column="18" />
-        <mark key="[" line="85" column="30" />
-        <mark key="]" line="85" column="33" />
-        <mark key="^" line="85" column="33" />
-        <mark key="." line="85" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/scripts/memory/memory_trpo_ocm.py" timestamp="1488077350689">
         <mark key="'" line="54" column="31" />
@@ -4135,7 +4125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="17" filename="$USER_HOME$/git/softqlearning-private/examples/half-cheetah-sac.py" />
       <jump line="13" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="74" column="12" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="210" column="13" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" />
@@ -4235,13 +4224,14 @@
       <jump line="31" column="37" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/expected_sac.py" />
       <jump line="58" column="50" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/expected_sac.py" />
       <jump line="30" column="18" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal_expected.py" />
+      <jump line="30" column="15" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHFmID0gRmxhdHRlbk1scCgKICAgICAgICBoaWRkZW5fc2l6ZXM9WzEwMCwgMTAwXSwKICAgICAgICBpbnB1dF9zaXplPW9ic19kaW0gKyBhY3Rpb25fZGltLAogICAgICAgIG91dHB1dF9zaXplPTEsCiAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11775,7 +11765,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>log_prob</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
