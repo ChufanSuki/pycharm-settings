@@ -24,9 +24,6 @@
         <mark key="^" line="92" column="45" />
         <mark key="." line="92" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1511567005348">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -208,9 +205,6 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="0" column="70" />
-      </file>
-      <file name="/" timestamp="1511410425395">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/algos/core/neuralnet.py" timestamp="1479787037950">
         <mark key="'" line="7" column="6" />
@@ -464,12 +458,12 @@
         <mark key="." line="59" column="30" />
         <mark key="^" line="55" column="9" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1508556501938">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="97" column="11" />
-        <mark key="." line="93" column="43" />
-        <mark key="^" line="93" column="43" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/replay_buffer.py" timestamp="1511579608635">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/launch_benchmarks.py" timestamp="1499914032718">
         <mark key="'" line="34" column="23" />
@@ -2070,9 +2064,6 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/False" timestamp="1511410425400">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/unbiased_ddpg.py" timestamp="1498105584245">
         <mark key="'" line="187" column="11" />
         <mark key="[" line="208" column="38" />
@@ -2206,8 +2197,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/railrl/railrl-env.yml" timestamp="1511555552088">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/docker/railrl/railrl-env.yml" timestamp="1511579716173">
+        <mark key="'" line="24" column="12" />
         <mark key="[" line="66" column="11" />
         <mark key="]" line="66" column="12" />
         <mark key="^" line="66" column="15" />
@@ -3256,8 +3247,8 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511577620295">
-        <mark key="'" line="22" column="44" />
+      <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511579517925">
+        <mark key="'" line="5" column="34" />
         <mark key="[" line="29" column="22" />
         <mark key="]" line="30" column="19" />
         <mark key="." line="30" column="19" />
@@ -4073,8 +4064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="82" column="30" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="96" column="20" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="97" column="11" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="101" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/rl_algorithm.py" />
@@ -4173,13 +4162,15 @@
       <jump line="66" column="26" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/cheetah.py" />
       <jump line="67" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/cheetah.py" />
       <jump line="22" column="44" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" />
+      <jump line="5" column="34" filename="$USER_HOME$/git/rllab-rail/railrl/railrl/data_management/simple_replay_buffer.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/git/rllab-rail/railrl/docker/railrl/railrl-env.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">b2JzZXJ2YWl0b25zIA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11713,10 +11704,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JzZXJ2YWl0b25zIA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>_final_state</text>
+        <text>clou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9vYnNlcnZhdGlvbnMgPSBucC56ZXJvcygobWF4X3JlcGxheV9idWZmZXJfc2l6ZSwgb2JzZXJ2YXRpb25fZGltKSkK</text>
@@ -12834,9 +12825,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_final_state</last-search>
+      <last-search>clou</last-search>
       <last-offset />
-      <last-pattern>_final_state</last-pattern>
+      <last-pattern>clou</last-pattern>
       <last-replace>naive_expectation</last-replace>
       <last-substitute>naive_estimation</last-substitute>
       <last-dir>1</last-dir>
@@ -12844,7 +12835,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gt\.</entry>
         <entry>RLAl</entry>
         <entry>total_time</entry>
         <entry>use_gpu</entry>
@@ -12864,6 +12854,7 @@
         <entry>64</entry>
         <entry>100</entry>
         <entry>_final_state</entry>
+        <entry>clou</entry>
       </history-search>
       <history-cmd>
         <entry>163</entry>
