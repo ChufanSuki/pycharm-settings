@@ -789,11 +789,11 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/railrl-env.yml" timestamp="1511597946836">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="5" />
+      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/railrl-env.yml" timestamp="1511599987946">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="6" />
         <mark key="^" line="28" column="5" />
-        <mark key="." line="28" column="5" />
+        <mark key="." line="28" column="6" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/dqn.py" timestamp="1511582316839">
         <mark key="'" line="1" column="0" />
@@ -920,7 +920,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" timestamp="1511599028082">
+      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" timestamp="1511599939458">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -4095,7 +4096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="29" filename="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/multigoal.py" />
       <jump line="23" column="31" filename="$USER_HOME$/git/railrl/examples/ec2_example.py" />
       <jump line="16" column="0" filename="$USER_HOME$/git/rllab-rail/docker/gpu_Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/docker/gpu_Dockerfile" />
@@ -4195,13 +4195,14 @@
       <jump line="77" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="141" column="36" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="418" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11735,7 +11736,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ec2</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>use_gpu</text>
