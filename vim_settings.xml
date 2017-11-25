@@ -126,11 +126,12 @@
         <mark key="." line="64" column="53" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1511599200136">
-        <mark key="'" line="418" column="0" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1511639840090">
+        <mark key="'" line="316" column="12" />
+        <mark key="[" line="445" column="36" />
+        <mark key="]" line="445" column="36" />
+        <mark key="." line="445" column="36" />
+        <mark key="^" line="445" column="36" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/misc/hypopt.py" timestamp="1499910666648">
         <mark key="'" line="67" column="40" />
@@ -649,6 +650,12 @@
         <mark key="]" line="73" column="29" />
         <mark key="^" line="42" column="14" />
         <mark key="." line="42" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/examples/ec2_example.py" timestamp="1511639904894">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/her_envs.py" timestamp="1508969890455">
         <mark key="'" line="37" column="8" />
@@ -4088,8 +4095,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="31" filename="$USER_HOME$/git/railrl/examples/ec2_example.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/git/rllab-rail/docker/gpu_Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/docker/gpu_Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" />
       <jump line="54" column="0" filename="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" />
@@ -4188,13 +4193,15 @@
       <jump line="141" column="36" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="418" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="54" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
+      <jump line="400" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="316" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHggPSB0b3JjaC5yYW5kbigzKQogICAgbG9nZ2VyLmxvZyhzdHIoeC5jdWRhKCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>check-time-to-start&quot;,</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11728,13 +11735,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>check-time-to-start&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>use_gpu</text>
+        <text>docker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3JhaWxybC1lbnYvYmluOiRQQVRICg==</text>
+        <text encoding="base64">ICAgICAgICBzaW8ud3JpdGUoZG9ja2VyX2NtZCsnXG4nKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHggPSB0b3JjaC5yYW5kbigzKQogICAgbG9nZ2VyLmxvZyhzdHIoeC5jdWRhKCkpKQo=</text>
@@ -12849,9 +12856,9 @@
       </register>
     </registers>
     <search>
-      <last-search>use_gpu</last-search>
+      <last-search>docker</last-search>
       <last-offset />
-      <last-pattern>use_gpu</last-pattern>
+      <last-pattern>docker</last-pattern>
       <last-replace>naive_expectation</last-replace>
       <last-substitute>naive_estimation</last-substitute>
       <last-dir>1</last-dir>
@@ -12859,7 +12866,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try_to_tra</entry>
         <entry>num_updates</entry>
         <entry>optimize</entry>
         <entry>target_policy_learn</entry>
@@ -12879,6 +12885,7 @@
         <entry>nvidia</entry>
         <entry>local</entry>
         <entry>use_gpu</entry>
+        <entry>docker</entry>
       </history-search>
       <history-cmd>
         <entry>105</entry>
