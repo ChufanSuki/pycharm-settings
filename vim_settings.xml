@@ -3678,7 +3678,13 @@
         <mark key="." line="55" column="17" />
         <mark key="^" line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/torch_ddpg_cheetah.py" timestamp="1511640708619" />
+      <file name="$USER_HOME$/git/railrl/examples/torch_ddpg_cheetah.py" timestamp="1511641774445">
+        <mark key="'" line="67" column="21" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="68" />
+        <mark key="^" line="66" column="21" />
+        <mark key="." line="75" column="8" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-tf1/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py" timestamp="1491878030358">
         <mark key="'" line="175" column="36" />
         <mark key="[" line="28" column="45" />
@@ -4217,7 +4223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" />
       <jump line="54" column="0" filename="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" />
       <jump line="18" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
       <jump line="312" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
@@ -4317,13 +4322,14 @@
       <jump line="400" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="316" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="5" column="26" filename="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" />
+      <jump line="67" column="21" filename="$USER_HOME$/git/railrl/examples/torch_ddpg_cheetah.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9vYnNlcnZhdGlvbnMgPSBucC56ZXJvcygobWF4X3Bvb2xfc2l6ZSwgc2VsZi5fb2JzZXJ2YXRpb25fZGltKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0iZGRwZy1oYWxmLWNoZWV0YWgtcHl0b3JjaC1jbGVhbi1jaGVjay1hZ2FpbiIsCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11857,7 +11863,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>check-time-to-start&quot;,</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
