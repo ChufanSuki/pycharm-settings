@@ -31,12 +31,6 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/util.py" timestamp="1511657423726">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="27" column="9" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/memory/trpo_ocm_recurrent.py" timestamp="1488330158333">
         <mark key="'" line="51" column="28" />
         <mark key="[" line="93" column="27" />
@@ -830,12 +824,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/railrl-env.yml" timestamp="1511599987946">
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="28" column="6" />
-        <mark key="^" line="28" column="5" />
-        <mark key="." line="28" column="6" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/torch/algos/dqn.py" timestamp="1511582316839">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="108" column="0" />
@@ -1220,6 +1208,13 @@
         <mark key="]" line="207" column="24" />
         <mark key="." line="207" column="24" />
         <mark key="^" line="207" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1511719268752">
+        <mark key="'" line="169" column="22" />
+        <mark key="[" line="61" column="69" />
+        <mark key="]" line="61" column="70" />
+        <mark key="." line="61" column="69" />
+        <mark key="^" line="61" column="76" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/launchers/trpo_cartpole_recurrent.py" timestamp="1488329772171">
         <mark key="'" line="15" column="21" />
@@ -1729,6 +1724,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="45" />
       </file>
+      <file name="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" timestamp="1511718067895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="24" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/expected_sac.py" timestamp="1511552363506">
         <mark key="'" line="111" column="10" />
         <mark key="[" line="25" column="0" />
@@ -1757,7 +1757,8 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/env_replay_buffer.py" timestamp="1511662904841">
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/env_replay_buffer.py" timestamp="1511717737904">
+        <mark key="'" line="6" column="25" />
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
@@ -3645,10 +3646,10 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511657551676">
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511718086226">
         <mark key="'" line="5" column="26" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="61" />
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="48" />
       </file>
@@ -4335,43 +4336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/discrete/mountain_car.py" />
-      <jump line="5" column="2" filename="$USER_HOME$/git/railrl/experiments/state_distance/discrete/mountain_car.py" />
-      <jump line="7" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/discrete/mountain_car.py" />
-      <jump line="14" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/mountain_car_env.py" />
-      <jump line="21" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/discrete/mountain_car.py" />
-      <jump line="6" column="19" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="44" column="41" filename="$USER_HOME$/git/railrl/railrl/torch/algos/dqn.py" />
-      <jump line="8" column="21" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/epsilon_greedy.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/epsilon_greedy.py" />
-      <jump line="30" column="38" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/epsilon_greedy.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/spaces/discrete.py" />
-      <jump line="29" column="38" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/epsilon_greedy.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/base.py" />
-      <jump line="2" column="33" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/base.py" />
-      <jump line="53" column="21" filename="$USER_HOME$/git/railrl/railrl/torch/algos/dqn.py" />
-      <jump line="6" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/mountain_car_env.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/classic_control/mountain_car.py" />
-      <jump line="14" column="11" filename="$USER_HOME$/git/railrl/experiments/state_distance/discrete/mountain_car.py" />
-      <jump line="32" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/discrete/mountain_car.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/epsilon_greedy.py" />
-      <jump line="8" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="33" column="35" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="40" column="20" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="99" column="13" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="91" column="51" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="65" column="36" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="79" column="38" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="529" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="107" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="63" column="10" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="110" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
-      <jump line="480" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="510" column="24" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
       <jump line="94" column="11" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
       <jump line="77" column="32" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="148" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
@@ -4435,13 +4399,50 @@
       <jump line="4" column="0" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="15" column="12" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
       <jump line="37" column="36" filename="$USER_HOME$/git/softqlearning-private/sac/algos/sac.py" />
+      <jump line="21" column="40" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="195" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="47" column="48" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="6" column="25" filename="$USER_HOME$/git/railrl/railrl/data_management/env_replay_buffer.py" />
+      <jump line="90" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="162" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="92" column="28" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="140" column="19" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="156" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="107" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="78" column="46" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/softqlearning-private/sac/misc/replay_pool.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="160" column="49" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="136" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="150" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="90" column="47" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="103" column="43" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="132" column="17" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="137" column="36" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="162" column="13" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="177" column="17" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="179" column="36" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="181" column="29" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="190" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="64" column="20" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="59" column="20" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="63" column="41" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="65" column="36" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="7" column="13" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="188" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="167" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>g</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11975,25 +11976,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>base_kwargs</text>
+        <text>goals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHFuX2t3YXJncywK</text>
+        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLnJhbmRpbnQoCiAgICAgICAgICAgIHNlbGYuX21pbl92YWxpZF9pZHgsIHNlbGYuX21heF92YWxpZF9pZHgsIGJhdGNoX3NpemUKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLmNob2ljZSgKICAgICAgICAgICAgc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzLAogICAgICAgICAgICBiYXRjaF9zaXplLAogICAgICAgICAgICByZXBsYWNlPUZhbHNlCiAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX2Vwb2Nocz01MDAsCiAgICAgICAgICAgIG51bV9zdGVwc19wZXJfZXBvY2g9MTAwMCwKICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMDAsCiAgICAgICAgICAgIGJhdGNoX3NpemU9MTI4LAogICAgICAgICAgICBtYXhfcGF0aF9sZW5ndGg9MTAwMCwKICAgICAgICAgICAgZGlzY291bnQ9MC45OSwK</text>
+        <text encoding="base64">ICAgICAgICBnb2FscyA9IHNlbGYuX2Vudi5jb252ZXJ0X29ic190b19nb2FscygKICAgICAgICAgICAgb2JzX2FmdGVyX3RhdV9zdGVwcwogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8odml0Y2h5dQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHNlbGYuX2N1cnJlbnRfZXBpc29kZV9zdGFydF9pbmRleCA+IDAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12004,19 +12005,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXVzID0gbnAuYXJyYXkoZ29hbF9zdGF0ZV9pbmRpY2VzKSAtIG5wLmFycmF5KGluZGljZXMpCiAgICAgICAgdGF1cyA9IHRhdXMuYXN0eXBlKGZsb2F0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXBzaWxvbj0wLjIsCiAgICAgICAgICAgIHRhdT0wLjAwMSwKICAgICAgICAgICAgaGFyZF91cGRhdGVfcGVyaW9kPTEwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGF1c1s6bnVtX2dvYWxfc3RhdGVzX2FyZV9mcm9tX3JvbGxvdXRdID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgX3N0YXJ0X2Vwb2NoKHNlbGYsIGVwb2NoKToKICAgICAgICBzZWxmLm1heF90YXUgPSBzZWxmLmVwb2NoX21heF90YXVfc2NoZWR1bGUuZ2V0X3ZhbHVlKGVwb2NoKQogICAgICAgIHN1cGVyKCkuX3N0YXJ0X2Vwb2NoKGVwb2NoKQoKICAgIGRlZiBnZXRfYmF0Y2goc2VsZiwgdHJhaW5pbmc9VHJ1ZSk6CiAgICAgICAgaWYgc2VsZi5yZXBsYXlfYnVmZmVyX2lzX3NwbGl0OgogICAgICAgICAgICByZXBsYXlfYnVmZmVyID0gc2VsZi5yZXBsYXlfYnVmZmVyLmdldF9yZXBsYXlfYnVmZmVyKHRyYWluaW5nKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlcGxheV9idWZmZXIgPSBzZWxmLnJlcGxheV9idWZmZXIKICAgICAgICBiYXRjaCA9IHJlcGxheV9idWZmZXIucmFuZG9tX2JhdGNoKHNlbGYuYmF0Y2hfc2l6ZSkKCiAgICAgICAgIiIiCiAgICAgICAgVXBkYXRlIHRoZSBnb2FsIHN0YXRlcy9yZXdhcmRzCiAgICAgICAgIiIiCiAgICAgICAgb2JzID0gYmF0Y2hbJ29ic2VydmF0aW9ucyddCiAgICAgICAgYWN0aW9ucyA9IGJhdGNoWydhY3Rpb25zJ10KICAgICAgICBuZXh0X29icyA9IGJhdGNoWyduZXh0X29ic2VydmF0aW9ucyddCiAgICAgICAgZ29hbHMgPSBzZWxmLnNhbXBsZV9nb2Fsc19mb3JfdHJhaW5pbmcoKQogICAgICAgIHJld2FyZHMgPSBzZWxmLmNvbXB1dGVfcmV3YXJkc19ucCgKICAgICAgICAgICAgb2JzLAogICAgICAgICAgICBhY3Rpb25zLAogICAgICAgICAgICBuZXh0X29icywKICAgICAgICAgICAgZ29hbHMsCiAgICAgICAgKQogICAgICAgIGJhdGNoWydyZXdhcmRzJ10gPSByZXdhcmRzCgogICAgICAgICIiIgogICAgICAgIFVwZGF0ZSB0aGUgdGF1CiAgICAgICAgIiIiCiAgICAgICAgbnVtX3N0ZXBzX2xlZnQgPSBucC5yYW5kb20ucmFuZGludCgKICAgICAgICAgICAgMCwgc2VsZi5tYXhfdGF1ICsgMSwgKHNlbGYuYmF0Y2hfc2l6ZSwgMSkKICAgICAgICApCiAgICAgICAgYmF0Y2hbJ251bV9zdGVwc19sZWZ0J10gPSBudW1fc3RlcHNfbGVmdAoKICAgICAgICByZXR1cm4gbnBfdG9fcHl0b3JjaF9iYXRjaChiYXRjaCkKCiAgICBkZWYgY29tcHV0ZV9yZXdhcmRzX25wKHNlbGYsIG9icywgYWN0aW9ucywgbmV4dF9vYnMsIGdvYWxzKToKICAgICAgICByZXR1cm4gc2VsZi5lbnYuY29tcHV0ZV9yZXdhcmRzKAogICAgICAgICAgICBvYnMsCiAgICAgICAgICAgIGFjdGlvbnMsCiAgICAgICAgICAgIG5leHRfb2JzLAogICAgICAgICAgICBnb2FscywKICAgICAgICApCgogICAgQHByb3BlcnR5CiAgICBkZWYgdHJhaW5fYnVmZmVyKHNlbGYpOgogICAgICAgIGlmIHNlbGYucmVwbGF5X2J1ZmZlcl9pc19zcGxpdDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYucmVwbGF5X2J1ZmZlci5nZXRfcmVwbGF5X2J1ZmZlcih0cmFpbmlnPVRydWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYucmVwbGF5X2J1ZmZlcgoKICAgIGRlZiBzYW1wbGVfZ29hbHNfZm9yX3RyYWluaW5nKHNlbGYpOgogICAgICAgIGlmIHNlbGYuc2FtcGxlX3RyYWluX2dvYWxzX2Zyb20gPT0gJ2Vudmlyb25tZW50JzoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LnNhbXBsZV9nb2FscyhzZWxmLmJhdGNoX3NpemUpCiAgICAgICAgZWxpZiBzZWxmLnNhbXBsZV90cmFpbl9nb2Fsc19mcm9tID09ICdyZXBsYXlfYnVmZmVyJzoKICAgICAgICAgICAgYmF0Y2ggPSBzZWxmLnRyYWluX2J1ZmZlci5yYW5kb21fYmF0Y2goc2VsZi5iYXRjaF9zaXplKQogICAgICAgICAgICBvYnMgPSBiYXRjaFsnb2JzZXJ2YXRpb25zJ10KICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LmNvbnZlcnRfb2JzX3RvX2dvYWxzKG9icykKICAgICAgICBlbGlmIHNlbGYuc2FtcGxlX3RyYWluX2dvYWxzX2Zyb20gPT0gJ2hlcic6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiVGFrZSBzYW1wbGVzIGZyb20gcmVwbGF5IGJ1ZmZlci4iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiSW52YWxpZCBgc2FtcGxlX2dvYWxzX2Zyb21gOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgc2VsZi5zYW1wbGVfdHJhaW5fZ29hbHNfZnJvbQogICAgICAgICAgICApKQogICAgZGVmIHNhbXBsZV9nb2FsX2Zvcl9yb2xsb3V0KHNlbGYpOgogICAgICAgIGlmIHNlbGYuc2FtcGxlX3JvbGxvdXRfZ29hbHNfZnJvbSA9PSAnZW52aXJvbm1lbnQnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5lbnYuc2FtcGxlX2dvYWxfZm9yX3JvbGxvdXQoKQogICAgICAgIGVsaWYgc2VsZi5zYW1wbGVfcm9sbG91dF9nb2Fsc19mcm9tID09ICdyZXBsYXlfYnVmZmVyJzoKICAgICAgICAgICAgYmF0Y2ggPSBzZWxmLnRyYWluX2J1ZmZlci5yYW5kb21fYmF0Y2goMSkKICAgICAgICAgICAgb2JzID0gYmF0Y2hbJ29ic2VydmF0aW9ucyddCiAgICAgICAgICAgIGdvYWxfc3RhdGUgPSBzZWxmLmVudi5jb252ZXJ0X29ic190b19nb2FsX3N0YXRlcyhvYnMpWzBdCiAgICAgICAgICAgIHJldHVybiBzZWxmLmVudi5tb2RpZnlfZ29hbF9mb3Jfcm9sbG91dChnb2FsX3N0YXRlKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiSW52YWxpZCBgc2FtcGxlX2dvYWxzX2Zyb21gOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgc2VsZi5zYW1wbGVfcm9sbG91dF9nb2Fsc19mcm9tCiAgICAgICAgICAgICkpCgogICAgZGVmIG9mZmxpbmVfZXZhbHVhdGUoc2VsZiwgZXBvY2gpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoKQoKICAgIGRlZiBfc3RhcnRfbmV3X3JvbGxvdXQoc2VsZik6CiAgICAgICAgc2VsZi5leHBsb3JhdGlvbl9wb2xpY3kucmVzZXQoKQogICAgICAgIHNlbGYuZ29hbCA9IHNlbGYuc2FtcGxlX2dvYWxfZm9yX3JvbGxvdXQoKQogICAgICAgICMgc2VsZi50cmFpbmluZ19lbnYuc2V0X2dvYWwoc2VsZi5nb2FsX3N0YXRlKQogICAgICAgICMgc2VsZi5leHBsb3JhdGlvbl9wb2xpY3kuc2V0X2dvYWwoc2VsZi5nb2FsX3N0YXRlKQogICAgICAgICMgc2VsZi5leHBsb3JhdGlvbl9wb2xpY3kuc2V0X2Rpc2NvdW50KHNlbGYuZGlzY291bnQpCiAgICAgICAgcmV0dXJuIHNlbGYudHJhaW5pbmdfZW52LnJlc2V0KCkKCiAgICBkZWYgX2hhbmRsZV9zdGVwKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBvYnNlcnZhdGlvbiwKICAgICAgICAgICAgYWN0aW9uLAogICAgICAgICAgICByZXdhcmQsCiAgICAgICAgICAgIG5leHRfb2JzZXJ2YXRpb24sCiAgICAgICAgICAgIHRlcm1pbmFsLAogICAgICAgICAgICBhZ2VudF9pbmZvLAogICAgICAgICAgICBlbnZfaW5mbywKICAgICk6CiAgICAgICAgc2VsZi5fY3VycmVudF9wYXRoX2J1aWxkZXIuYWRkX2FsbCgKICAgICAgICAgICAgb2JzZXJ2YXRpb25zPW9ic2VydmF0aW9uLAogICAgICAgICAgICBhY3Rpb25zPWFjdGlvbiwKICAgICAgICAgICAgcmV3YXJkcz1yZXdhcmQsCiAgICAgICAgICAgIG5leHRfb2JzZXJ2YXRpb25zPW5leHRfb2JzZXJ2YXRpb24sCiAgICAgICAgICAgIHRlcm1pbmFscz10ZXJtaW5hbCwKICAgICAgICAgICAgYWdlbnRfaW5mb3M9YWdlbnRfaW5mbywKICAgICAgICAgICAgZW52X2luZm9zPWVudl9pbmZvLAogICAgICAgICAgICBnb2Fscz1zZWxmLmdvYWwsCiAgICAgICAgICAgICMgdGF1cz1zZWxmLl9yb2xsb3V0X2Rpc2NvdW50LAogICAgICAgICkKCiAgICAgICAgc2VsZi5yZXBsYXlfYnVmZmVyLmFkZF9zYW1wbGUoCiAgICAgICAgICAgIG9ic2VydmF0aW9uPW9ic2VydmF0aW9uLAogICAgICAgICAgICBhY3Rpb249YWN0aW9uLAogICAgICAgICAgICByZXdhcmQ9cmV3YXJkLAogICAgICAgICAgICB0ZXJtaW5hbD10ZXJtaW5hbCwKICAgICAgICAgICAgbmV4dF9vYnNlcnZhdGlvbj1uZXh0X29ic2VydmF0aW9uLAogICAgICAgICAgICBhZ2VudF9pbmZvPWFnZW50X2luZm8sCiAgICAgICAgICAgIGVudl9pbmZvPWVudl9pbmZvLAogICAgICAgICAgICBnb2FsPXNlbGYuZ29hbCwKICAgICAgICApCiAgICAgICAgIwogICAgICAgICMgaWYgc2VsZi5jeWNsZV90YXVzX2Zvcl9yb2xsb3V0OgogICAgICAgICMgICAgIHNlbGYuX3JvbGxvdXRfZGlzY291bnQgLT0gMQogICAgICAgICMgICAgIGlmIHNlbGYuX3JvbGxvdXRfZGlzY291bnQgPCAwOgogICAgICAgICMgICAgICAgICBzZWxmLl9yb2xsb3V0X2Rpc2NvdW50ID0gc2VsZi5kaXNjb3VudAogICAgICAgICMgICAgIHNlbGYuZXhwbG9yYXRpb25fcG9saWN5LnNldF9kaXNjb3VudChzZWxmLl9yb2xsb3V0X2Rpc2NvdW50KQoK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoaXMgaXMgKm11Y2gqIGZhc3RlciB0aGFuIG5wLnJhbmRvbS5jaG9pY2UsIGJlY2F1c2UgbnAucmFuZG9tLmNob2ljZQogICAgICAgICMgY29udmVydHMgdGhlIGlucHV0dGVkIGFycmF5IGludG8gYSBucC5hcnJheSBpbnRlcm5hbGx5LiBCdXQKICAgICAgICAjIHNlbGYuX3ZhbGlkX3RyYW5zaXRpb25faW5kaWNlcyBtYXkgYmUgaHVnZSEKICAgICAgICBsZW5ndGggPSBsZW4oc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzKQogICAgICAgIGluZGljZXMgPSBucC5hcnJheShbCiAgICAgICAgICAgIHNlbGYuX3ZhbGlkX3RyYW5zaXRpb25faW5kaWNlc1tpXQogICAgICAgICAgICBmb3IgaSBpbiBucC5yYW5kb20ucmFuZGludCgwLCBsZW5ndGgsIGJhdGNoX3NpemUpCiAgICAgICAgXSkK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgZXBvY2hfbWF4X3RhdV9zY2hlZHVsZSBpcyBOb25lOgogICAgICAgICAgICBlcG9jaF9tYXhfdGF1X3NjaGVkdWxlID0gQ29uc3RhbnRTY2hlZHVsZShtYXhfdGF1KQoKICAgICAgICBzZWxmLm1heF90YXUgPSBtYXhfdGF1CiAgICAgICAgc2VsZi5lcG9jaF9tYXhfdGF1X3NjaGVkdWxlID0gZXBvY2hfbWF4X3RhdV9zY2hlZHVsZQogICAgICAgIHNlbGYuc2FtcGxlX3RyYWluX2dvYWxzX2Zyb20gPSBzYW1wbGVfdHJhaW5fZ29hbHNfZnJvbQogICAgICAgIHNlbGYuc2FtcGxlX3JvbGxvdXRfZ29hbHNfZnJvbSA9IHNhbXBsZV9yb2xsb3V0X2dvYWxzX2Zyb20KICAgICAgICBzZWxmLmdvYWwgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5wLnJhbmRvbS5jaG9pY2UobGlzdChyYW5nZSgKICAgICAgICAgICAgICAgICAgICAqc2VsZi5faW5kZXhfdG9fZ29hbF9zdGF0ZXNfaW50ZXJ2YWxbaV0KICAgICAgICAgICAgICAgICkpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13086,49 +13087,48 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGVudjoKICAgICAgICA6cGFyYW0gcWY6CiAgICAgICAgOnBhcmFtIGVwb2NoX21heF90YXVfc2NoZWR1bGU6IEEgc2NoZWR1bGUgZm9yIHRoZSBtYXhpbXVtIHBsYW5uaW5nCiAgICAgICAgaG9yaXpvbiB0YXUuCiAgICAgICAgOnBhcmFtIGt3YXJnczoKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5wLnJhbmRvbS5jaG9pY2Uoc2VsZi5faW5kZXhfdG9fc2FtcGxlZF9nb2FsX3N0YXRlc19pZHhzW2ldKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X3RhdT0xMCwKICAgICAgICAgICAgZXBvY2hfbWF4X3RhdV9zY2hlZHVsZT1Ob25lLAogICAgICAgICAgICBzYW1wbGVfdHJhaW5fZ29hbHNfZnJvbT0ncmVwbGF5X2J1ZmZlcicsCiAgICAgICAgICAgIHNhbXBsZV9yb2xsb3V0X2dvYWxzX2Zyb209J2Vudmlyb25tZW50JywK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ib3R0b20gPSAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>base_kwargs</last-search>
+      <last-search>goals</last-search>
       <last-offset />
-      <last-pattern>base_kwargs</last-pattern>
-      <last-replace>goals</last-replace>
-      <last-substitute>goal_states</last-substitute>
+      <last-pattern>goals</last-pattern>
+      <last-replace>_</last-replace>
+      <last-substitute>_state_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_step</entry>
-        <entry>max_ta</entry>
-        <entry>get_replay</entry>
-        <entry>85</entry>
-        <entry>ipdb</entry>
-        <entry>replay_buffer</entry>
-        <entry>start_new_rol</entry>
-        <entry>set_goal</entry>
-        <entry>self.goal</entry>
-        <entry>conver</entry>
-        <entry>get_action</entry>
-        <entry>state</entry>
-        <entry>learning</entry>
-        <entry>env_qf</entry>
         <entry>env</entry>
         <entry>replay</entry>
         <entry>Her</entry>
         <entry>her_replay_bufer</entry>
         <entry>her_replay</entry>
         <entry>base_kwargs</entry>
+        <entry>self._env</entry>
+        <entry>self._bottom</entry>
+        <entry>last_top_index</entry>
+        <entry>bottom</entry>
+        <entry>next_indices</entry>
+        <entry>num_goal_states_are_from_rollout</entry>
+        <entry>taus</entry>
+        <entry>goal_states</entry>
+        <entry>indecs</entry>
+        <entry>_add_goals_to_last</entry>
+        <entry>potential_goal</entry>
+        <entry>_state_</entry>
+        <entry>state</entry>
+        <entry>goals</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/naive_estimation/naive_expectation/g</entry>
         <entry>61</entry>
         <entry>115</entry>
         <entry>187</entry>
@@ -13141,13 +13141,14 @@
         <entry>91</entry>
         <entry>264</entry>
         <entry>57</entry>
-        <entry>%s/goal_states/goals/g</entry>
         <entry>48</entry>
         <entry>85</entry>
         <entry>w'</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>%s/goal_states/goals/g</entry>
+        <entry>%s/_state_/_/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
