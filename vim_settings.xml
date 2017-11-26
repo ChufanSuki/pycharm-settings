@@ -94,6 +94,10 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="32" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/sac/sac.py" timestamp="1511596031722">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="181" column="13" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/optimal_control/compare_oc_variants.py" timestamp="1508626288257">
         <mark key="'" line="121" column="13" />
         <mark key="[" line="11" column="21" />
@@ -1209,12 +1213,12 @@
         <mark key="." line="207" column="24" />
         <mark key="^" line="207" column="24" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1511719268752">
-        <mark key="'" line="169" column="22" />
-        <mark key="[" line="61" column="69" />
-        <mark key="]" line="61" column="70" />
-        <mark key="." line="61" column="69" />
-        <mark key="^" line="61" column="76" />
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1511720237560">
+        <mark key="'" line="172" column="22" />
+        <mark key="[" line="67" column="59" />
+        <mark key="]" line="68" column="52" />
+        <mark key="." line="68" column="52" />
+        <mark key="^" line="68" column="52" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/launchers/trpo_cartpole_recurrent.py" timestamp="1488329772171">
         <mark key="'" line="15" column="21" />
@@ -2909,6 +2913,10 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/replay_buffer.py" timestamp="1511720256565">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="57" column="29" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/algos/optimal_targets_ddpg.py" timestamp="1484197054127">
         <mark key="'" line="36" column="33" />
         <mark key="[" line="24" column="6" />
@@ -3646,7 +3654,7 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511718086226">
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511720205058">
         <mark key="'" line="5" column="26" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="61" />
@@ -4336,7 +4344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="11" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
       <jump line="77" column="32" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="148" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="133" column="24" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" />
@@ -4436,13 +4443,14 @@
       <jump line="7" column="13" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="188" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="167" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="5" column="26" filename="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsib2JzZXJ2YXRpb25zIl0sCiAgICAgICAgICAgIHBhdGhbImFjdGlvbnMiXSwKICAgICAgICAgICAgcGF0aFsicmV3YXJkcyJdLAogICAgICAgICAgICBwYXRoWyJuZXh0X29ic2VydmF0aW9ucyJdLAogICAgICAgICAgICBwYXRoWyJ0ZXJtaW5hbHMiXSwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -11982,7 +11990,7 @@
         <text>goals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLnJhbmRpbnQoCiAgICAgICAgICAgIHNlbGYuX21pbl92YWxpZF9pZHgsIHNlbGYuX21heF92YWxpZF9pZHgsIGJhdGNoX3NpemUKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aFsib2JzZXJ2YXRpb25zIl0sCiAgICAgICAgICAgIHBhdGhbImFjdGlvbnMiXSwKICAgICAgICAgICAgcGF0aFsicmV3YXJkcyJdLAogICAgICAgICAgICBwYXRoWyJuZXh0X29ic2VydmF0aW9ucyJdLAogICAgICAgICAgICBwYXRoWyJ0ZXJtaW5hbHMiXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gbnAucmFuZG9tLmNob2ljZSgKICAgICAgICAgICAgc2VsZi5fdmFsaWRfdHJhbnNpdGlvbl9pbmRpY2VzLAogICAgICAgICAgICBiYXRjaF9zaXplLAogICAgICAgICAgICByZXBsYWNlPUZhbHNlCiAgICAgICAgKQo=</text>
