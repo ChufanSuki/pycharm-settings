@@ -458,6 +458,13 @@
       <file name="$USER_HOME$/git/hw4_fall2017/controllers_solution.py" timestamp="1510095677555">
         <mark key="'" line="58" column="31" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/collapse.py" timestamp="1511825333202">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="50" column="31" />
+        <mark key="^" line="50" column="31" />
+        <mark key="." line="55" column="31" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/nips2017/recurrent_trpo.py" timestamp="1497479770407">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -4535,7 +4542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="41" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_vectorized_qfunction.py" />
       <jump line="61" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
       <jump line="29" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/discrete_vectorized_qfunction.py" />
       <jump line="77" column="30" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
@@ -4635,13 +4641,14 @@
       <jump line="89" column="19" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
       <jump line="106" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/collapse.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR29hbFN0YXRlU2ltcGxlU3RhdGVSZWFjaGVyRW52LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhY2tfY29weVtpXS5uYW1lZF9sb29wOgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12180,8 +12187,8 @@
       <register name="/" type="4">
         <text>goal_stat</text>
       </register>
-      <register name="0" type="4">
-        <text>Reacher7DofXyzGoalState</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhY2tfY29weVtpXS5uYW1lZF9sb29wOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgR29hbFN0YXRlU2ltcGxlU3RhdGVSZWFjaGVyRW52LAo=</text>
