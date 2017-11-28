@@ -606,11 +606,11 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1511854741073">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="38" />
-        <mark key="." line="80" column="21" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1511893387845">
+        <mark key="'" line="52" column="38" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="71" />
+        <mark key="." line="117" column="20" />
         <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/noop_algo.py" timestamp="1478629091758">
@@ -886,12 +886,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" timestamp="1511854599054">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="53" />
-        <mark key="^" line="55" column="30" />
-        <mark key="." line="65" column="20" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" timestamp="1511893732687">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="76" />
+        <mark key="^" line="68" column="32" />
+        <mark key="." line="68" column="32" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" timestamp="1511387384310">
         <mark key="'" line="37" column="11" />
@@ -2864,6 +2864,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/sac/multigoal.py" timestamp="1511893365343">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="28" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/tests/test_tf_util.py" timestamp="1485207779181">
         <mark key="'" line="38" column="36" />
         <mark key="[" line="181" column="41" />
@@ -3393,12 +3398,6 @@
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/eval_util.py" timestamp="1511852919606">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1511809585584">
         <mark key="'" line="205" column="6" />
         <mark key="[" line="220" column="19" />
@@ -3881,12 +3880,12 @@
         <mark key="." line="541" column="72" />
         <mark key="^" line="541" column="72" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/discrete/vectorized_classic_control.py" timestamp="1511854247049">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/discrete/vectorized_classic_control.py" timestamp="1511894289575">
         <mark key="'" line="33" column="17" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="47" />
-        <mark key="^" line="100" column="45" />
-        <mark key="." line="100" column="45" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="63" />
+        <mark key="^" line="107" column="61" />
+        <mark key="." line="82" column="56" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1495087834697">
         <mark key="'" line="306" column="18" />
@@ -4459,11 +4458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="575" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="260" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="214" column="6" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="228" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="588" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
       <jump line="209" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="39" column="42" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
@@ -4559,13 +4553,18 @@
       <jump line="57" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
       <jump line="60" column="19" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
       <jump line="72" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
+      <jump line="90" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/sac/multigoal.py" />
+      <jump line="52" column="38" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBub3JtYWxpemVfYW5kX2NvbnZlcnRfdG9fdGZfZW52ID0gQ29udmVydEVudgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cF9wcmVmaXg9InRkbS1kcW4tY2FydHBvbGUtZ29hbC13ZWlnaHQtc3dlZXAiLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12099,25 +12098,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIEprajt3</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC52c3RhY2soWwogICAgICAgIFtpbmZvW3NjYWxhcl9uYW1lXSBmb3IgaW5mbyBpbiBwYXRoW2RpY3RfbmFtZV1dCiAgICAgICAgZm9yIHBhdGggaW4gcGF0aHMKICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWzEsMSwxLDFdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBub3JtYWxpemVfYW5kX2NvbnZlcnRfdG9fdGZfZW52ID0gQ29udmVydEVudgo=</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfaXRlcmF0aW9uID0gMTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWzAsMCwxLDBdLAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12128,19 +12127,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzICAjIGhhY2sgZm9yIFRSUE8K</text>
+        <text encoding="base64">ICAgICAgICAnZW52X2NsYXNzJzogWwogICAgICAgICAgICAjIEdvYWxTdGF0ZVNpbXBsZVN0YXRlUmVhY2hlckVudiwKICAgICAgICAgICAgIyBSZWFjaGVyN0RvZlh5ekdvYWxTdGF0ZSwKICAgICAgICAgICAgIyBIYW5kQ3lsaW5kZXJYWVB1c2hlcjJERW52LAogICAgICAgICAgICAjIFB1c2hlcjJERW52LAogICAgICAgICAgICAjIEhhbGZDaGVldGFoLAogICAgICAgICAgICBSZWFjaGVyN0RvZkFuZ2xlR29hbFN0YXRlLAogICAgICAgICAgICAjIFJlYWNoZXI3RG9mLAogICAgICAgICAgICAjIFJhbmRvbUdvYWxQdXNoZXIyREVudiwKICAgICAgICAgICAgIyBNdWx0aXRhc2tQdXNoZXIyREVudiwKICAgICAgICAgICAgIyBSZWFjaGVyN0RvZk11bHRpdGFza0VudiwKICAgICAgICBdLAogICAgICAgICMgJ2FsZ29fcGFyYW1zLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IFsKICAgICAgICAjICAgICAxLCA1LAogICAgICAgICMgXSwKICAgICAgICAjICdhbGdvX3BhcmFtcy50YXUnOiBbCiAgICAgICAgIyAgICAgMWUtMiwgMWUtMywKICAgICAgICAjIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpcAo=</text>
+        <text encoding="base64">IyBub3JtYWxpemVfYW5kX2NvbnZlcnRfdG9fdGZfZW52ID0gQ29udmVydEVudgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICJwdXNoZXItZW52LXRycG8tYmFzZWxpbmUiCg==</text>
+        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfaXRlcmF0aW9uID0gMTAwMAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbW9kZSA9ICJlYzIiCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13210,10 +13209,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzICAjIGhhY2sgZm9yIFRSUE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRmRGlzY3JldGUoYWN0aW9uX3NwYWNlLm4pCg==</text>
+        <text encoding="base64">ICAgICAgICBpcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -1,3 +1,13 @@
 <templateSet group="vitchyr">
   <template name="test" value="test" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="hyp" value="import railrl.misc.hyperparameter as hyp" description="import hyperparameters as hyp" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sweep" value="    search_space = {&#10;    }&#10;    sweeper = hyp.DeterministicHyperparameterSweeper(&#10;        search_space, default_parameters=variant,&#10;    )&#10;    for exp_id, variant in enumerate(sweeper.iterate_hyperparameters()):&#10;" description="add sweeper" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
