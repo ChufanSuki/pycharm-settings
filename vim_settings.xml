@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1511855124972">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="8" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/sac/sac.py" timestamp="1511853420530">
         <mark key="'" line="34" column="8" />
         <mark key="[" line="151" column="0" />
@@ -49,11 +45,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/exploration_strategies/epsilon_greedy.py" timestamp="1511662372663">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1511656116063">
         <mark key="'" line="207" column="28" />
@@ -102,13 +93,11 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="45" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1511849382659">
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1511914282039">
+        <mark key="'" line="123" column="37" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/samplers/util.py" timestamp="1511855647512">
-        <mark key="'" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/sac/cheetah.py" timestamp="1511854320229">
         <mark key="'" line="0" column="0" />
@@ -147,11 +136,18 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" timestamp="1511853321311">
-        <mark key="'" line="131" column="36" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" timestamp="1511914414363">
+        <mark key="'" line="88" column="28" />
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1511914245403">
+        <mark key="'" line="57" column="8" />
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="33" />
+        <mark key="." line="77" column="33" />
+        <mark key="^" line="77" column="33" />
       </file>
       <file name="$USER_HOME$/git/railrl/examples/torch_ddpg_sweep_cheetah.py" timestamp="1511598391452">
         <mark key="[" line="74" column="0" />
@@ -221,10 +217,15 @@
         <mark key="^" line="57" column="65" />
         <mark key="." line="54" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" timestamp="1511899213645">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="588" column="0" />
-        <mark key="]" line="588" column="0" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1511914444064">
+        <mark key="'" line="30" column="33" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" timestamp="1511914228229">
+        <mark key="'" line="174" column="16" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="49" />
         <mark key="." line="588" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/__init__.py" timestamp="1511747890284">
@@ -250,11 +251,6 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/discrete_tdm.py" timestamp="1511806880672">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/sac/multigoal.py" timestamp="1511893365343">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="0" />
@@ -275,11 +271,6 @@
         <mark key="[" line="254" column="0" />
         <mark key="]" line="254" column="0" />
         <mark key="." line="254" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/policies/gaussian_mlp_policy.py" timestamp="1511855327968">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/state_distance/discrete_action_networks.py" timestamp="1511766102446">
         <mark key="'" line="24" column="37" />
@@ -311,18 +302,8 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/policies/base.py" timestamp="1511662353649">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm_dqn.py" timestamp="1511899051244">
         <mark key="^" line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile.py" timestamp="1511593253717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="60" column="56" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1511723078305">
         <mark key="'" line="53" column="8" />
@@ -344,12 +325,12 @@
         <mark key="]" line="73" column="4" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" timestamp="1511912885280">
-        <mark key="'" line="40" column="15" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="23" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" timestamp="1511914614681">
+        <mark key="'" line="56" column="17" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="76" />
+        <mark key="." line="124" column="74" />
+        <mark key="^" line="124" column="74" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multigoal.py" timestamp="1511570407063">
         <mark key="'" line="70" column="19" />
@@ -371,30 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="37" filename="$USER_HOME$/git/railrl/railrl/torch/algos/dqn.py" />
-      <jump line="71" column="4" filename="$USER_HOME$/git/railrl/railrl/torch/eval_util.py" />
-      <jump line="7" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
-      <jump line="3" column="4" filename="$USER_HOME$/git/railrl/railrl/samplers/util.py" />
-      <jump line="148" column="11" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
-      <jump line="76" column="29" filename="$USER_HOME$/git/railrl/railrl/torch/eval_util.py" />
-      <jump line="1" column="7" filename="$USER_HOME$/git/railrl/railrl/torch/eval_util.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
-      <jump line="36" column="50" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_dqn.py" />
-      <jump line="95" column="19" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/simple_ddpg.py" />
-      <jump line="4" column="42" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
-      <jump line="21" column="25" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_sac.py" />
-      <jump line="16" column="26" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_sac.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_sac.py" />
-      <jump line="34" column="8" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_sac.py" />
-      <jump line="85" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="139" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
-      <jump line="56" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
-      <jump line="136" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
-      <jump line="90" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
       <jump line="95" column="31" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="66" column="40" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="32" column="0" filename="$USER_HOME$/git/railrl/experiments/sac/cheetah.py" />
@@ -460,7 +417,6 @@
       <jump line="148" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="170" column="41" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="180" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
-      <jump line="272" column="11" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="273" column="11" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="64" column="7" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
       <jump line="66" column="0" filename="$USER_HOME$/git/railrl/examples/torch_ddpg_cheetah.py" />
@@ -471,13 +427,38 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/examples/ddpg_cheetah_no_doodad.py" />
       <jump line="17" column="13" filename="$USER_HOME$/git/railrl/examples/ddpg_cheetah_no_doodad.py" />
       <jump line="68" column="4" filename="$USER_HOME$/git/railrl/examples/ddpg_cheetah_no_doodad.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="59" column="51" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="61" column="33" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="62" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="115" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="362" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="476" column="17" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="60" column="11" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="82" column="15" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="84" column="39" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="139" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="174" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="119" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="123" column="37" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
+      <jump line="88" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
+      <jump line="272" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
+      <jump line="30" column="33" filename="$USER_HOME$/git/railrl/experiments/state_distance/vectorized_train_q.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
+      <jump line="56" column="17" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVkPXNlZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cF9wcmVmaXg9InRkbS1kZHBnLXJlYWNoZXItN2RvZi1hbmdsZXMtc2FtZS1ocHMtYXMtc2RxbC0yIiwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8011,25 +7992,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
-        <text>example</text>
+        <text>params</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IiIiClJ1biBQeVRvcmNoIEREUEcgb24gSGFsZkNoZWV0YWguCiIiIgppbXBvcnQgcmFuZG9tCmZyb20gcmFpbHJsLmV4cGxvcmF0aW9uX3N0cmF0ZWdpZXMuYmFzZSBpbXBvcnQgXAogICAgUG9saWN5V3JhcHBlZFdpdGhFeHBsb3JhdGlvblN0cmF0ZWd5CmZyb20gcmFpbHJsLmV4cGxvcmF0aW9uX3N0cmF0ZWdpZXMub3Vfc3RyYXRlZ3kgaW1wb3J0IE9VU3RyYXRlZ3kKZnJvbSByYWlscmwubGF1bmNoZXJzLmxhdW5jaGVyX3V0aWwgaW1wb3J0IHJ1bl9leHBlcmltZW50CmZyb20gcmFpbHJsLnBvbGljaWVzLnRvcmNoIGltcG9ydCBGZWVkRm9yd2FyZFBvbGljeQpmcm9tIHJhaWxybC5xZnVuY3Rpb25zLnRvcmNoIGltcG9ydCBGZWVkRm9yd2FyZFFGdW5jdGlvbgpmcm9tIHJhaWxybC50b3JjaC5hbGdvcy5kZHBnIGltcG9ydCBERFBHCmltcG9ydCByYWlscmwudG9yY2gucHl0b3JjaF91dGlsIGFzIHB0dQoKZnJvbSBybGxhYi5lbnZzLm11am9jby5oYWxmX2NoZWV0YWhfZW52IGltcG9ydCBIYWxmQ2hlZXRhaEVudgpmcm9tIHJsbGFiLmVudnMubm9ybWFsaXplZF9lbnYgaW1wb3J0IG5vcm1hbGl6ZQoKCmRlZiBleGFtcGxlKHZhcmlhbnQpOgogICAgZW52ID0gSGFsZkNoZWV0YWhFbnYoKQogICAgZW52ID0gbm9ybWFsaXplKGVudikKICAgIGVzID0gT1VTdHJhdGVneShhY3Rpb25fc3BhY2U9ZW52LmFjdGlvbl9zcGFjZSkKICAgIHFmID0gRmVlZEZvcndhcmRRRnVuY3Rpb24oCiAgICAgICAgaW50KGVudi5vYnNlcnZhdGlvbl9zcGFjZS5mbGF0X2RpbSksCiAgICAgICAgaW50KGVudi5hY3Rpb25fc3BhY2UuZmxhdF9kaW0pLAogICAgICAgIDQwMCwKICAgICAgICAzMDAsCiAgICApCiAgICBwb2xpY3kgPSBGZWVkRm9yd2FyZFBvbGljeSgKICAgICAgICBpbnQoZW52Lm9ic2VydmF0aW9uX3NwYWNlLmZsYXRfZGltKSwKICAgICAgICBpbnQoZW52LmFjdGlvbl9zcGFjZS5mbGF0X2RpbSksCiAgICAgICAgNDAwLAogICAgICAgIDMwMCwKICAgICkKICAgIGV4cGxvcmF0aW9uX3BvbGljeSA9IFBvbGljeVdyYXBwZWRXaXRoRXhwbG9yYXRpb25TdHJhdGVneSgKICAgICAgICBleHBsb3JhdGlvbl9zdHJhdGVneT1lcywKICAgICAgICBwb2xpY3k9cG9saWN5LAogICAgKQogICAgYWxnb3JpdGhtID0gRERQRygKICAgICAgICBlbnYsCiAgICAgICAgcWY9cWYsCiAgICAgICAgcG9saWN5PXBvbGljeSwKICAgICAgICBleHBsb3JhdGlvbl9wb2xpY3k9ZXhwbG9yYXRpb25fcG9saWN5LAogICAgICAgICoqdmFyaWFudFsnYWxnb19wYXJhbXMnXQogICAgKQogICAgaWYgcHR1LmdwdV9lbmFibGVkKCk6CiAgICAgICAgYWxnb3JpdGhtLmN1ZGEoKQogICAgYWxnb3JpdGhtLnRyYWluKCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgIyBub2luc3BlY3Rpb24gUHlUeXBlQ2hlY2tlcgogICAgdmFyaWFudCA9IGRpY3QoCiAgICAgICAgYWxnb19wYXJhbXM9ZGljdCgKICAgICAgICAgICAgbnVtX2Vwb2Nocz0xMDAsCiAgICAgICAgICAgIG51bV9zdGVwc19wZXJfZXBvY2g9MTAwMCwKICAgICAgICAgICAgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMDAsCiAgICAgICAgICAgIHVzZV9zb2Z0X3VwZGF0ZT1UcnVlLAogICAgICAgICAgICB0YXU9MWUtMiwKICAgICAgICAgICAgYmF0Y2hfc2l6ZT0xMjgsCiAgICAgICAgICAgIG1heF9wYXRoX2xlbmd0aD0xMDAwLAogICAgICAgICAgICBkaXNjb3VudD0wLjk5LAogICAgICAgICAgICBxZl9sZWFybmluZ19yYXRlPTFlLTMsCiAgICAgICAgICAgIHBvbGljeV9sZWFybmluZ19yYXRlPTFlLTQsCiAgICAgICAgKSwKICAgICkKICAgIHNlZWQgPSByYW5kb20ucmFuZGludCgwLCA5OTk5OTkpCiAgICBydW5fZXhwZXJpbWVudCgKICAgICAgICBleGFtcGxlLAogICAgICAgIGV4cF9wcmVmaXg9ImRkcGctaGFsZi1jaGVldGFoLXB5dG9yY2giLAogICAgICAgIHNlZWQ9c2VlZCwKICAgICAgICBtb2RlPSdsb2NhbCcsCiAgICAgICAgdmFyaWFudD12YXJpYW50LAogICAgICAgIHVzZV9ncHU9VHJ1ZSwKICAgICkK</text>
+        <text encoding="base64">ICAgIHFmX2NyaXRlcmlvbiA9IHZhcmlhbnRbJ3FmX2NyaXRlcmlvbl9jbGFzcyddKAogICAgICAgICoqdmFyaWFudFsncWZfY3JpdGVyaW9uX3BhcmFtcyddCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVkPXNlZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBxZl9jcml0ZXJpb249cWZfY3JpdGVyaW9uLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlZWQgPSByYW5kb20ucmFuZGludCgwLCA5OTk5OTkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWVkPXNlZWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4YW1wbGUodmFyaWFudCkK</text>
+        <text encoding="base64">ICAgIHNlZWQgPSByYW5kb20ucmFuZGludCgwLCA5OTk5OTkpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -8040,19 +8021,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGV4YW1wbGUodmFyaWFudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxZiA9IFZlY3Rvcml6ZWREaXNjcmV0ZVFGdW5jdGlvbigKICAgICAgICAgICAgb2JzZXJ2YXRpb25fZGltPWludChucC5wcm9kKGVudi5vYnNlcnZhdGlvbl9zcGFjZS5sb3cuc2hhcGUpKSwKICAgICAgICAgICAgYWN0aW9uX2RpbT1lbnYuYWN0aW9uX3NwYWNlLm4sCiAgICAgICAgICAgIGdvYWxfZGltPWVudi5nb2FsX2RpbSwKICAgICAgICAgICAgKip2YXJpYW50WydxZl9wYXJhbXMnXQogICAgICAgICkKICAgICAgICBwb2xpY3kgPSBBcmdtYXhEaXNjcmV0ZVRkbVBvbGljeSgKICAgICAgICAgICAgcWYsCiAgICAgICAgICAgICoqdmFyaWFudFsncG9saWN5X3BhcmFtcyddCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxZiA9IEZsYXR0ZW5NbHAoCiAgICAgICAgICAgIGhpZGRlbl9zaXplcz1bMzIsIDMyXSwKICAgICAgICAgICAgaW5wdXRfc2l6ZT1pbnQobnAucHJvZChlbnYub2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUpKSArIGVudi5nb2FsX2RpbSArIDEsCiAgICAgICAgICAgIG91dHB1dF9zaXplPWVudi5hY3Rpb25fc3BhY2UubiwKICAgICAgICApCiAgICAgICAgcG9saWN5ID0gQXJnbWF4RGlzY3JldGVQb2xpY3kocWYpCg==</text>
+        <text encoding="base64">ICAgICAgICBxZiA9IFZlY3Rvcml6ZWREaXNjcmV0ZVFGdW5jdGlvbigKICAgICAgICAgICAgb2JzZXJ2YXRpb25fZGltPWludChucC5wcm9kKGVudi5vYnNlcnZhdGlvbl9zcGFjZS5sb3cuc2hhcGUpKSwKICAgICAgICAgICAgYWN0aW9uX2RpbT1lbnYuYWN0aW9uX3NwYWNlLm4sCiAgICAgICAgICAgIGdvYWxfZGltPWVudi5nb2FsX2RpbSwKICAgICAgICAgICAgKip2YXJpYW50WydxZl9wYXJhbXMnXQogICAgICAgICkKICAgICAgICBwb2xpY3kgPSBBcmdtYXhEaXNjcmV0ZVRkbVBvbGljeSgKICAgICAgICAgICAgcWYsCiAgICAgICAgICAgICoqdmFyaWFudFsncG9saWN5X3BhcmFtcyddCiAgICAgICAgKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcGxheV9idWZmZXIgPSBIZXJSZXBsYXlCdWZmZXIoCiAgICAgICAgZW52PWVudiwKICAgICAgICAqKnZhcmlhbnRbJ2hlcl9yZXBsYXlfYnVmZmVyX3BhcmFtcyddCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBxZiA9IEZsYXR0ZW5NbHAoCiAgICAgICAgICAgIGhpZGRlbl9zaXplcz1bMzIsIDMyXSwKICAgICAgICAgICAgaW5wdXRfc2l6ZT1pbnQobnAucHJvZChlbnYub2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUpKSArIGVudi5nb2FsX2RpbSArIDEsCiAgICAgICAgICAgIG91dHB1dF9zaXplPWVudi5hY3Rpb25fc3BhY2UubiwKICAgICAgICApCiAgICAgICAgcG9saWN5ID0gQXJnbWF4RGlzY3JldGVQb2xpY3kocWYpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -9122,19 +9103,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cF9wcmVmaXg9ImRldi12ZWN0b3JpemVkLWRpc2NyZXRlLXRkbS1jbGFzc2ljLWNvbnRyb2wiLAo=</text>
+        <text encoding="base64">ICAgIHJlcGxheV9idWZmZXIgPSBIZXJSZXBsYXlCdWZmZXIoCiAgICAgICAgZW52PWVudiwKICAgICAgICAqKnZhcmlhbnRbJ2hlcl9yZXBsYXlfYnVmZmVyX3BhcmFtcyddCiAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZXhwX3ByZWZpeD0idGRtLWRxbi1jYXJ0cG9sZS1nb2FsLXdlaWdodC1zd2VlcCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cF9wcmVmaXg9ImRldi12ZWN0b3JpemVkLWRpc2NyZXRlLXRkbS1jbGFzc2ljLWNvbnRyb2wiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>example</last-search>
+      <last-search>params</last-search>
       <last-offset />
-      <last-pattern>example</last-pattern>
+      <last-pattern>params</last-pattern>
       <last-replace>goal</last-replace>
       <last-substitute>goal_state</last-substitute>
       <last-dir>1</last-dir>
@@ -9142,15 +9123,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ddpg_kwa</entry>
-        <entry>exploration</entry>
-        <entry>Joint</entry>
-        <entry>Angl</entry>
-        <entry>sample_goals</entry>
-        <entry>here</entry>
-        <entry>123</entry>
-        <entry>ConvertEnv</entry>
-        <entry>Box</entry>
         <entry>distance</entry>
         <entry>log</entry>
         <entry>veco</entry>
@@ -9160,11 +9132,19 @@
         <entry>goal_state</entry>
         <entry>Criterion</entry>
         <entry>qf</entry>
-        <entry>criterion</entry>
         <entry>example</entry>
+        <entry>train_Goals</entry>
+        <entry>asdf</entry>
+        <entry>replay_buffer</entry>
+        <entry encoding="base64">XDxzYW1wbGVfdHJhaW5fZ29hbHNfZnJvbVw+</entry>
+        <entry>get_batch</entry>
+        <entry>goals</entry>
+        <entry>qf_cri</entry>
+        <entry encoding="base64">XDxIdWJlckxvc3NcPg==</entry>
+        <entry>criterion</entry>
+        <entry>params</entry>
       </history-search>
       <history-cmd>
-        <entry>w'</entry>
         <entry>%s/_state_/_/g</entry>
         <entry>324</entry>
         <entry>88</entry>
@@ -9183,6 +9163,7 @@
         <entry>56</entry>
         <entry>49</entry>
         <entry>q</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
