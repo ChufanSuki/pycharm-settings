@@ -1952,12 +1952,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1512090254764">
-        <mark key="'" line="76" column="34" />
-        <mark key="[" line="206" column="23" />
-        <mark key="]" line="206" column="23" />
-        <mark key="." line="206" column="39" />
-        <mark key="^" line="59" column="29" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1512162293164">
+        <mark key="'" line="169" column="8" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="138" column="32" />
+        <mark key="." line="128" column="54" />
+        <mark key="^" line="128" column="54" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/model_learning.py" timestamp="1508961142099">
         <mark key="'" line="188" column="12" />
@@ -4568,7 +4568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="23" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" />
       <jump line="3" column="58" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" />
       <jump line="8" column="58" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" />
       <jump line="56" column="3" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" />
@@ -4668,13 +4667,14 @@
       <jump line="575" column="22" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="225" column="15" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="166" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.AWS_S3_PATH</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBjb21wdXRlX3Jld2FyZHNfbnAoc2VsZiwgb2JzLCBhY3Rpb25zLCBuZXh0X29icywgZ29hbHMpOgogICAgICAgIGlmIHNlbGYudmVjdG9yaXplZDoKICAgICAgICAgICAgaWYgaGFzYXR0ciguLi4pOgogICAgICAgICAgICAgICAgc2VsZi5lbnYuY29tcHV0ZV9yZXdhcmRzX3ZlY3Rvcml6ZWQoLi4uKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZGlmZiA9IHNlbGYuZW52LmNvbnZlcnRfb2JzX3RvX2dvYWxzKG5leHRfb2JzKSAtIGdvYWxzCiAgICAgICAgICAgICAgICByZXR1cm4gLW5wLmFicyhkaWZmKSAqIHNlbGYucmV3YXJkX3NjYWxlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW52LmNvbXB1dGVfcmV3YXJkcygKICAgICAgICAgICAgICAgIG9icywKICAgICAgICAgICAgICAgIGFjdGlvbnMsCiAgICAgICAgICAgICAgICBuZXh0X29icywKICAgICAgICAgICAgICAgIGdvYWxzLAogICAgICAgICAgICApICogc2VsZi5yZXdhcmRfc2NhbGUK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12208,25 +12208,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.AWS_S3_PATH</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>logs</text>
+        <text>compute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhd3NfczNfcGF0aCA9IGNvbmZpZy5BV1NfUzNfUEFUSAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3c19zM19wYXRoPWF3c19zM19wYXRoLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lbnYuY29tcHV0ZV9yZXdhcmRzX3ZlY3Rvcml6ZWQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZV9ncHU6CiAgICAgICAgbW9kZV9zdHJfdG9fZG9vZGFkX21vZGVbJ2VjMiddLmltYWdlX2lkID0gY29uZmlnLkdQVV9BV1NfSU1BR0VfSUQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShlbnYsIHZlY3Rvcml6YWJlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhd3NfczNfcGF0aD1Ob25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lbnYuCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12237,19 +12237,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhd3NfczNfcGF0aCA9IGF3c19zM19wYXRoIG9yIEFVVE9DT05GSUcuYXdzX2ltYWdlX2lkKHJlZ2lvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3c19zM19wYXRoPWF3c19zM19wYXRoLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdzX3MzX3BhdGg9Tm9uZSwK</text>
+        <text encoding="base64">ICAgIGlmIHVzZV9ncHU6CiAgICAgICAgbW9kZV9zdHJfdG9fZG9vZGFkX21vZGVbJ2VjMiddLmltYWdlX2lkID0gY29uZmlnLkdQVV9BV1NfSU1BR0VfSUQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVhY2hlcjdEb2ZHb2FsU3RhdGVFdmVyeXRoaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICBhd3NfczNfcGF0aD1Ob25lLAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVhY2hlcjdEb2ZHb2FsU3RhdGVFdmVyeXRoaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICBhd3NfczNfcGF0aCA9IGF3c19zM19wYXRoIG9yIEFVVE9DT05GSUcuYXdzX2ltYWdlX2lkKHJlZ2lvbikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13319,7 +13319,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVhY2hlcjdEb2ZHb2FsU3RhdGVFdmVyeXRoaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdzX3MzX3BhdGg9Tm9uZSwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmVhY2hlcjdEb2ZHb2FsU3RhdGVFdmVyeXRoaW5nLAo=</text>
@@ -13329,9 +13329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logs</last-search>
+      <last-search>compute</last-search>
       <last-offset />
-      <last-pattern>logs</last-pattern>
+      <last-pattern>compute</last-pattern>
       <last-replace>goal</last-replace>
       <last-substitute>goal_state</last-substitute>
       <last-dir>1</last-dir>
@@ -13339,7 +13339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sample</entry>
         <entry>start_new</entry>
         <entry>goal</entry>
         <entry>self.goal</entry>
@@ -13359,6 +13358,7 @@
         <entry>EC2Auto</entry>
         <entry>bucket</entry>
         <entry>logs</entry>
+        <entry>compute</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
