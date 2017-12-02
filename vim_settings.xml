@@ -2406,10 +2406,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="55" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1512068428013">
-        <mark key="'" line="133" column="44" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="78" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1512177335289">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="44" />
         <mark key="^" line="21" column="78" />
         <mark key="." line="21" column="78" />
       </file>
@@ -4567,7 +4567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
       <jump line="113" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
       <jump line="54" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="60" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
@@ -4667,13 +4666,14 @@
       <jump line="68" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" />
       <jump line="107" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
       <jump line="19" column="26" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>-fixed-aws-path&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QKCmltcG9ydCB0b3JjaAppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBneW0gaW1wb3J0IHV0aWxzCmZyb20gZ3ltLmVudnMubXVqb2NvIGltcG9ydCBtdWpvY29fZW52Cgpmcm9tIHJhaWxybC5lbnZzLmVudl91dGlscyBpbXBvcnQgZ2V0X2Fzc2V0X3htbApmcm9tIHJhaWxybC5lbnZzLm11bHRpdGFzay5tdWx0aXRhc2tfZW52IGltcG9ydCBNdWx0aXRhc2tFbnYKZnJvbSByYWlscmwubWlzYy5kYXRhX3Byb2Nlc3NpbmcgaW1wb3J0IGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QKZnJvbSByYWlscmwuc2FtcGxlcnMudXRpbCBpbXBvcnQgZ2V0X3N0YXRfaW5fcGF0aHMKaW1wb3J0IHJhaWxybC50b3JjaC5weXRvcmNoX3V0aWwgYXMgcHR1CmZyb20gcmxsYWIuY29yZS5zZXJpYWxpemFibGUgaW1wb3J0IFNlcmlhbGl6YWJsZQpmcm9tIHJsbGFiLm1pc2MgaW1wb3J0IGxvZ2dlcgoKCmNsYXNzIFJlYWNoZXI3RG9mTXVsdGl0YXNrRW52KAogICAgTXVsdGl0YXNrRW52LCBtdWpvY29fZW52Lk11am9jb0VudiwgU2VyaWFsaXphYmxlCik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZGlzdGFuY2VfbWV0cmljX29yZGVyPU5vbmUpOgogICAgICAgIFNlcmlhbGl6YWJsZS5xdWlja19pbml0KHNlbGYsIGxvY2FscygpKQogICAgICAgIE11bHRpdGFza0Vudi5fX2luaXRfXyhzZWxmLCBkaXN0YW5jZV9tZXRyaWNfb3JkZXI9ZGlzdGFuY2VfbWV0cmljX29yZGVyKQogICAgICAgIG11am9jb19lbnYuTXVqb2NvRW52Ll9faW5pdF9fKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBnZXRfYXNzZXRfeG1sKCdyZWFjaGVyXzdkb2YueG1sJyksCiAgICAgICAgICAgIDUsCiAgICAgICAgKQogICAgICAgIHNlbGYuX2Rlc2lyZWRfeHl6ID0gbnAuemVyb3MoMykKCiAgICBkZWYgdmlld2VyX3NldHVwKHNlbGYpOgogICAgICAgIHNlbGYudmlld2VyLmNhbS50cmFja2JvZHlpZCA9IC0xCiAgICAgICAgc2VsZi52aWV3ZXIuY2FtLmRpc3RhbmNlID0gNC4wCgogICAgZGVmIHJlc2V0X21vZGVsKHNlbGYpOgogICAgICAgIHFwb3MgPSBzZWxmLmluaXRfcXBvcwogICAgICAgIHF2ZWwgPSBzZWxmLmluaXRfcXZlbCArIHNlbGYubnBfcmFuZG9tLnVuaWZvcm0obG93PS0wLjAwNSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpZ2g9MC4wMDUsIHNpemU9c2VsZi5tb2RlbC5udikKICAgICAgICBxcG9zWy03Oi00XSA9IHNlbGYuX2Rlc2lyZWRfeHl6CiAgICAgICAgcXZlbFstNzpdID0gMAogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCiAgICAgICAgcmV0dXJuIHNlbGYuX2dldF9vYnMoKQoKICAgIGRlZiBzYW1wbGVfYWN0aW9ucyhzZWxmLCBiYXRjaF9zaXplKToKICAgICAgICByZXR1cm4gbnAucmFuZG9tLnVuaWZvcm0oCiAgICAgICAgICAgIC0xLCAxLCBzaXplPShiYXRjaF9zaXplLCBzZWxmLmFjdGlvbl9zcGFjZS5sb3cuc2l6ZSkKICAgICAgICApCgogICAgZGVmIHNhbXBsZV9zdGF0ZXMoc2VsZiwgYmF0Y2hfc2l6ZSk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigpCgogICAgZGVmIF9nZXRfb2JzKHNlbGYpOgogICAgICAgIHJldHVybiBucC5jb25jYXRlbmF0ZShbCiAgICAgICAgICAgIHNlbGYubW9kZWwuZGF0YS5xcG9zLmZsYXRbOjddLAogICAgICAgICAgICBzZWxmLm1vZGVsLmRhdGEucXZlbC5mbGF0Wzo3XSwKICAgICAgICAgICAgc2VsZi5nZXRfYm9keV9jb20oInRpcHNfYXJtIiksCiAgICAgICAgXSkKCiAgICBkZWYgX3N0ZXAoc2VsZiwgYSk6CiAgICAgICAgZGlzdGFuY2UgPSBucC5saW5hbGcubm9ybSgKICAgICAgICAgICAgc2VsZi5nZXRfYm9keV9jb20oInRpcHNfYXJtIikgLSBzZWxmLmdldF9ib2R5X2NvbSgiZ29hbCIpCiAgICAgICAgKQogICAgICAgIHJld2FyZCA9IC0gZGlzdGFuY2UKICAgICAgICBzZWxmLmRvX3NpbXVsYXRpb24oYSwgc2VsZi5mcmFtZV9za2lwKQogICAgICAgIG9iID0gc2VsZi5fZ2V0X29icygpCiAgICAgICAgZG9uZSA9IEZhbHNlCiAgICAgICAgcmV0dXJuIG9iLCByZXdhcmQsIGRvbmUsIGRpY3QoZGlzdGFuY2U9ZGlzdGFuY2UpCgogICAgZGVmIGxvZ19kaWFnbm9zdGljcyhzZWxmLCBwYXRocyk6CiAgICAgICAgc3VwZXIoKS5sb2dfZGlhZ25vc3RpY3MocGF0aHMpCiAgICAgICAgc3RhdGlzdGljcyA9IE9yZGVyZWREaWN0KCkKCiAgICAgICAgZXVjbGlkZWFuX2Rpc3RhbmNlcyA9IGdldF9zdGF0X2luX3BhdGhzKAogICAgICAgICAgICBwYXRocywgJ2Vudl9pbmZvcycsICdkaXN0YW5jZScKICAgICAgICApCiAgICAgICAgc3RhdGlzdGljcy51cGRhdGUoY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdCgKICAgICAgICAgICAgJ0V1Y2xpZGVhbiBkaXN0YW5jZSB0byBnb2FsJywgZXVjbGlkZWFuX2Rpc3RhbmNlcwogICAgICAgICkpCiAgICAgICAgc3RhdGlzdGljcy51cGRhdGUoY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdCgKICAgICAgICAgICAgJ0ZpbmFsIEV1Y2xpZGVhbiBkaXN0YW5jZSB0byBnb2FsJywKICAgICAgICAgICAgZXVjbGlkZWFuX2Rpc3RhbmNlc1s6LCAtMV0sCiAgICAgICAgICAgIGFsd2F5c19zaG93X2FsbF9zdGF0cz1UcnVlLAogICAgICAgICkpCiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gc3RhdGlzdGljcy5pdGVtcygpOgogICAgICAgICAgICBsb2dnZXIucmVjb3JkX3RhYnVsYXIoa2V5LCB2YWx1ZSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12210,7 +12210,7 @@
         <text>-fixed-aws-path&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>policy</text>
+        <text>Mujo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudiA9IG5vcm1hbGl6ZV9ib3goCiAgICAgICAgZW52LAogICAgICAgICoqdmFyaWFudFsnbm9ybWFsaXplX3BhcmFtcyddCiAgICApCg==</text>
@@ -13328,9 +13328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>policy</last-search>
+      <last-search>Mujo</last-search>
       <last-offset />
-      <last-pattern>policy</last-pattern>
+      <last-pattern>Mujo</last-pattern>
       <last-replace>goal</last-replace>
       <last-substitute>goal_state</last-substitute>
       <last-dir>1</last-dir>
@@ -13338,7 +13338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cycle</entry>
         <entry>Huber</entry>
         <entry>env_kw</entry>
         <entry>Half</entry>
@@ -13358,6 +13357,7 @@
         <entry>HEAD</entry>
         <entry encoding="base64">PDw8PA==</entry>
         <entry>policy</entry>
+        <entry>Mujo</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
