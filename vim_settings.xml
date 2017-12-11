@@ -3565,8 +3565,8 @@
         <mark key="^" line="34" column="36" />
         <mark key="." line="34" column="36" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" timestamp="1512965139516">
-        <mark key="'" line="469" column="26" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" timestamp="1513031387785">
+        <mark key="'" line="597" column="8" />
         <mark key="[" line="332" column="0" />
         <mark key="]" line="332" column="0" />
         <mark key="." line="332" column="0" />
@@ -4713,7 +4713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
       <jump line="203" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
       <jump line="195" column="15" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
       <jump line="255" column="70" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
@@ -4813,6 +4812,7 @@
       <jump line="188" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
       <jump line="217" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
       <jump line="244" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
+      <jump line="597" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -13470,7 +13470,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -13522,10 +13522,10 @@
         <entry>25</entry>
         <entry>%s/pre_activation/preactivation/g</entry>
         <entry>bp|bd #</entry>
-        <entry>q</entry>
         <entry>7</entry>
         <entry>96</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
