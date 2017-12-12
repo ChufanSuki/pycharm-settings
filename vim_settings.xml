@@ -673,12 +673,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1513039207980">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1513040716077">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="117" column="9" />
-        <mark key="." line="116" column="19" />
-        <mark key="^" line="116" column="19" />
+        <mark key="[" line="116" column="13" />
+        <mark key="]" line="116" column="13" />
+        <mark key="." line="116" column="13" />
+        <mark key="^" line="116" column="13" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1511655997934">
         <mark key="'" line="21" column="0" />
@@ -984,12 +984,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" timestamp="1513039212813">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" timestamp="1513040710723">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="99" column="10" />
-        <mark key="^" line="85" column="21" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="98" column="13" />
+        <mark key="^" line="98" column="13" />
+        <mark key="." line="98" column="13" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/docker/rllab-vitchyr/rllab-vitchyr-env.yml" timestamp="1511387384310">
         <mark key="'" line="37" column="11" />
@@ -3560,10 +3560,10 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" timestamp="1513038949007">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" timestamp="1513040786970">
         <mark key="'" line="41" column="74" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="34" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="90" column="9" />
       </file>
@@ -4876,7 +4876,7 @@
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMubnVtX3VwZGF0ZXNfcGVyX2Vudl9zdGVwJzogWwogICAgICAgICAgICAxLCA1LCAxMAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWhhbGYtY2hlZXRhaCIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12410,7 +12410,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>1e-2, 1e-3,</text>
+        <text>, 5, 10</text>
       </register>
       <register name="/" type="4">
         <text>HER</text>
@@ -13537,7 +13537,7 @@
       <last-replace>_kwargs</last-replace>
       <last-substitute>_params</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
