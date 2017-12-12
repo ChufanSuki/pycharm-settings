@@ -1265,6 +1265,9 @@
         <mark key="^" line="116" column="27" />
         <mark key="." line="116" column="27" />
       </file>
+      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1513112062954">
+        <mark key="^" line="4" column="18" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/launch_benchmarks.py" timestamp="1499992640950">
         <mark key="'" line="4" column="15" />
         <mark key="[" line="32" column="0" />
@@ -3837,6 +3840,10 @@
         <mark key="^" line="59" column="55" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/walker2d_env.py" timestamp="1513112048623">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/tests/test_nnqf.py" timestamp="1484277288578">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="32" column="0" />
@@ -4847,8 +4854,8 @@
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 15,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBlbnYgPSBNdWx0aXRhc2tUb0ZsYXRFbnYoRGlzY3JldGVSZWFjaGVyMkQoKSkKIyBlbnYgPSBSZXBlYXRDb3B5RW52KCkKIyBlbnYgPSBTaW1wbGUxRCgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12382,25 +12389,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 15,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rewar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAwCiAgICBudW1fc3RlcHNfcGVyX2V2YWwgPSAxMDAwMAogICAgbWF4X3BhdGhfbGVuZ3RoID0gMTAwCg==</text>
+      <register name="0" type="4">
+        <text>Walker2DEnv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTUsCg==</text>
+        <text encoding="base64">IyBlbnYgPSBNdWx0aXRhc2tUb0ZsYXRFbnYoRGlzY3JldGVSZWFjaGVyMkQoKSkKIyBlbnYgPSBSZXBlYXRDb3B5RW52KCkKIyBlbnYgPSBTaW1wbGUxRCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMuc2FjX2t3YXJncy5zb2Z0X3RhcmdldF90YXUnOiBbCiAgICAgICAgICAgIDFlLTIsCiAgICAgICAgICAgIDFlLTMsCiAgICAgICAgXSwK</text>
+        <text encoding="base64">IyBlbnYgPSBEaXNjcmV0ZVNpbXBsZTFEKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXZhbCA9IDEwMDAKICAgIG1heF9wYXRoX2xlbmd0aCA9IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTUsCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12411,19 +12418,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMuc2FjX2t3YXJncy5zb2Z0X3RhcmdldF90YXUnOiBbCiAgICAgICAgICAgIDFlLTIsCiAgICAgICAgICAgIDFlLTMsCiAgICAgICAgXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICdhbGdvX3BhcmFtcy5iYXNlX2t3YXJncy5kaXNjb3VudCc6IFsKICAgICAgICAjICAgICAwLjk4LAogICAgICAgICMgXSwK</text>
+        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXZhbCA9IDEwMDAKICAgIG1heF9wYXRoX2xlbmd0aCA9IDEwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMudGRtX2t3YXJncy5kZW5zZV9yZXdhcmRzJzogWwogICAgICAgICAgICBUcnVlLAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGYWxzZSwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWhhbGYtY2hlZXRhaC1kZW5zZS1yZXdhcmRzIgo=</text>
+        <text encoding="base64">ICAgICAgICAjICdhbGdvX3BhcmFtcy5iYXNlX2t3YXJncy5kaXNjb3VudCc6IFsKICAgICAgICAjICAgICAwLjk4LAogICAgICAgICMgXSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13493,13 +13500,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICJ0ZG0taGFsZi1jaGVldGFoLXRvZ2dsZS1xZi1zdHJ1Y3R1cmUtYW5kLXNhbXBsZS1tYXgtdGF1Igo=</text>
+        <text encoding="base64">ICAgICAgICAnYWxnb19wYXJhbXMudGRtX2t3YXJncy5kZW5zZV9yZXdhcmRzJzogWwogICAgICAgICAgICBUcnVlLAogICAgICAgIF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb19rd2FyZ3MudGRtX2t3YXJncy5zYW1wbGVfbWF4X3RhdV9mb3Jfcm9sbG91dCc6IFtGYWxzZSwgVHJ1ZV0sCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWhhbGYtY2hlZXRhaC1kZW5zZS1yZXdhcmRzIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -13553,8 +13560,8 @@
         <entry>279</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
