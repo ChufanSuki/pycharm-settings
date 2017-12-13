@@ -34,6 +34,13 @@
       <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her.py" timestamp="1513107125421">
         <mark key="'" line="57" column="12" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/sawyer_results.py" timestamp="1513192568478">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="57" />
+        <mark key="." line="50" column="57" />
+        <mark key="^" line="48" column="58" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/memory/trpo_ocm_recurrent.py" timestamp="1488330158333">
         <mark key="'" line="51" column="28" />
         <mark key="[" line="93" column="27" />
@@ -681,6 +688,9 @@
         <mark key="." line="108" column="22" />
         <mark key="^" line="110" column="26" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1513191866555">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1511655997934">
         <mark key="'" line="21" column="0" />
       </file>
@@ -1243,11 +1253,6 @@
         <mark key="]" line="116" column="27" />
         <mark key="^" line="116" column="27" />
         <mark key="." line="116" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1513112777702">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/launch_benchmarks.py" timestamp="1499992640950">
         <mark key="'" line="4" column="15" />
@@ -2491,6 +2496,9 @@
         <mark key="]" line="17" column="39" />
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" timestamp="1513192426525">
+        <mark key="'" line="2082" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/baselines/ddpg_final.py" timestamp="1510094103401">
         <mark key="'" line="118" column="0" />
@@ -4703,23 +4711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="17" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her.py" />
-      <jump line="7" column="38" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her.py" />
-      <jump line="50" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" />
-      <jump line="124" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="127" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="31" column="18" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="57" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/git/railrl/railrl/state_distance/her.py" />
-      <jump line="218" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="84" column="44" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" />
-      <jump line="81" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
-      <jump line="4" column="52" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_sac.py" />
-      <jump line="139" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="5" column="6" filename="$USER_HOME$/git/railrl/tmp.py" />
-      <jump line="4" column="18" filename="$USER_HOME$/git/railrl/tmp.py" />
       <jump line="6" column="46" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/__init__.py" />
       <jump line="72" column="12" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/mujoco_env.py" />
       <jump line="14" column="19" filename="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/walker2d_env.py" />
@@ -4803,13 +4794,30 @@
       <jump line="13" column="19" filename="$USER_HOME$/git/railrl/railrl/state_distance/exploration.py" />
       <jump line="139" column="4" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
       <jump line="127" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" />
+      <jump line="47" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/sawyer_results.py" />
+      <jump line="3304" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="1921" column="14" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2003" column="29" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2017" column="39" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2020" column="49" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2021" column="46" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2025" column="49" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2026" column="48" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2043" column="48" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2047" column="42" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2066" column="30" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2070" column="28" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2072" column="29" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2074" column="44" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+      <jump line="2082" column="30" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MAX_SPEED</text>
+        <text>'blue')</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12343,25 +12351,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>MAX_SPEED</text>
+        <text>'blue')</text>
       </register>
       <register name="/" type="4">
-        <text>sample</text>
+        <text>blue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBkYXRhWydwb2xpY3knXQo=</text>
+        <text encoding="base64">ICAgICAgICBwbHQucGxvdChlcG9jaHMsIG1lYW4sIGxhYmVsPW5hbWUsIGNvbG9yPSdncmVlbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldAo=</text>
+        <text encoding="base64">cHJvcF9jeWNsZSA9IHBsdC5yY1BhcmFtc1snYXhlcy5wcm9wX2N5Y2xlJ10KY29sb3JzID0gcHJvcF9jeWNsZS5ieV9rZXkoKVsnY29sb3InXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="2" type="8">
+        <text>$USER_HOME$/git/rllab-rail/railrl/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICdkaXNjb3VudCcgaW4gZGF0YToKICAgICAgICBkaXNjb3VudCA9IGRhdGFbJ2Rpc2NvdW50J10KICAgICAgICBpZiBhcmdzLmRpc2NvdW50IGlzIG5vdCBOb25lOgogICAgICAgICAgICBwcmludCgiV0FSTklORzogeW91IGFyZSBvdmVycmlkaW5nIHRoZSBzYXZlZCBkaXNjb3VudCBmYWN0b3IuIikKICAgICAgICAgICAgZGlzY291bnQgPSBhcmdzLmRpc2NvdW50CiAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHJldAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12372,19 +12380,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbOiwgLTFdLAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGlmICdkaXNjb3VudCcgaW4gZGF0YToKICAgICAgICBkaXNjb3VudCA9IGRhdGFbJ2Rpc2NvdW50J10KICAgICAgICBpZiBhcmdzLmRpc2NvdW50IGlzIG5vdCBOb25lOgogICAgICAgICAgICBwcmludCgiV0FSTklORzogeW91IGFyZSBvdmVycmlkaW5nIHRoZSBzYXZlZCBkaXNjb3VudCBmYWN0b3IuIikKICAgICAgICAgICAgZGlzY291bnQgPSBhcmdzLmRpc2NvdW50CiAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbOiwgLTFdLAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWhhbGYtY2hlZXRhaC1zaG9ydC1lcG9jaC1udXBvLXN3ZWVwIgoKICAgIG51bV9lcG9jaHMgPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAwCiAgICBudW1fc3RlcHNfcGVyX2V2YWwgPSAxMDAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHBhc3MK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13454,19 +13462,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXZhbCA9IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNSwKICAgICAgICAgICAgMjUsCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWhhbGYtY2hlZXRhaC1zaG9ydC1lcG9jaC1udXBvLXN3ZWVwIgoKICAgIG51bV9lcG9jaHMgPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAwCiAgICBudW1fc3RlcHNfcGVyX2V2YWwgPSAxMDAwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sample</last-search>
+      <last-search>blue</last-search>
       <last-offset />
-      <last-pattern>sample</last-pattern>
+      <last-pattern>blue</last-pattern>
       <last-replace>x_positions</last-replace>
       <last-substitute>xposs</last-substitute>
       <last-dir>1</last-dir>
@@ -13474,8 +13482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qf_</entry>
-        <entry encoding="base64">XDxfc2FtcGxlX21heF90YXVfZm9yX3JvbGxvdXRcPg==</entry>
         <entry>replay</entry>
         <entry>dense</entry>
         <entry>rewar</entry>
@@ -13494,6 +13500,8 @@
         <entry>discount</entry>
         <entry>ipdb</entry>
         <entry>sample</entry>
+        <entry>mb</entry>
+        <entry>blue</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
