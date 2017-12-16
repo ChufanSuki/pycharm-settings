@@ -3631,6 +3631,9 @@
       <file name="$USER_HOME$/git/railrl/railrl/torch/eval_util.py" timestamp="1511852919606">
         <mark key="'" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" timestamp="1513462138973">
+        <mark key="'" line="136" column="31" />
+      </file>
       <file name="$USER_HOME$/git/railrl/scripts/sim_policy.py" timestamp="1513363127477">
         <mark key="'" line="41" column="24" />
         <mark key="[" line="47" column="0" />
@@ -4611,6 +4614,9 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/times.py" timestamp="1513462148121">
+        <mark key="'" line="44" column="14" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/optimizers/conjugate_gradient_optimizer.py" timestamp="1511758697676">
         <mark key="'" line="123" column="0" />
       </file>
@@ -4760,15 +4766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
-      <jump line="12" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/algos/torch_rl_algorithm.py" />
-      <jump line="21" column="6" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="20" column="42" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="50" column="25" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
       <jump line="60" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
       <jump line="74" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
       <jump line="38" column="36" filename="$USER_HOME$/git/railrl/railrl/state_distance/exploration.py" />
@@ -4860,6 +4857,15 @@
       <jump line="160" column="28" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
       <jump line="174" column="12" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
       <jump line="182" column="28" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
+      <jump line="54" column="32" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="144" column="31" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="152" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="39" column="19" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="119" column="25" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="128" column="15" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="136" column="31" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/loop.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/times.py" />
+      <jump line="44" column="14" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/times.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12403,7 +12409,7 @@
         <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>GenMatch</text>
+        <text>named_loop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICY9IFxFW1kgXG1pZCBlID0gMV0gLSBcRVtZIFxtaWQgZSA9IDBdXFwK</text>
@@ -13521,9 +13527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GenMatch</last-search>
+      <last-search>named_loop</last-search>
       <last-offset />
-      <last-pattern>GenMatch</last-pattern>
+      <last-pattern>named_loop</last-pattern>
       <last-replace>x_positions</last-replace>
       <last-substitute>xposs</last-substitute>
       <last-dir>1</last-dir>
@@ -13531,7 +13537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snapshot</entry>
         <entry>policy</entry>
         <entry>discount</entry>
         <entry>ipdb</entry>
@@ -13551,6 +13556,7 @@
         <entry>e_</entry>
         <entry>max</entry>
         <entry>GenMatch</entry>
+        <entry>named_loop</entry>
       </history-search>
       <history-cmd>
         <entry>244</entry>
