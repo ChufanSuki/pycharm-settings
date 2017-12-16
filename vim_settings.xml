@@ -2094,6 +2094,9 @@
         <mark key="^" line="185" column="51" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" timestamp="1513456671442">
+        <mark key="'" line="182" column="28" />
+      </file>
       <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw6/q2.tex" timestamp="1508223264355">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="90" column="11" />
@@ -4757,13 +4760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="17" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
-      <jump line="46" column="17" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="70" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="101" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="109" column="9" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/sac.py" />
       <jump line="33" column="24" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
       <jump line="12" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/algos/torch_rl_algorithm.py" />
       <jump line="21" column="6" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
@@ -4857,6 +4853,13 @@
       <jump line="133" column="16" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q2.tex" />
       <jump line="0" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q2.tex" />
       <jump line="137" column="13" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q2.tex" />
+      <jump line="0" column="16" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q1.tex" />
+      <jump line="67" column="2" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
+      <jump line="240" column="0" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
+      <jump line="152" column="10" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
+      <jump line="160" column="28" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
+      <jump line="174" column="12" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
+      <jump line="182" column="28" filename="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2017/STAT239-statistics-of-causal-inference-in-social-sciences/homework/hw4/hw4.R" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12400,7 +12403,7 @@
         <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>GenMatch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICY9IFxFW1kgXG1pZCBlID0gMV0gLSBcRVtZIFxtaWQgZSA9IDBdXFwK</text>
@@ -13518,9 +13521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>GenMatch</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>GenMatch</last-pattern>
       <last-replace>x_positions</last-replace>
       <last-substitute>xposs</last-substitute>
       <last-dir>1</last-dir>
@@ -13528,7 +13531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>algo</entry>
         <entry>snapshot</entry>
         <entry>policy</entry>
         <entry>discount</entry>
@@ -13548,6 +13550,7 @@
         <entry>done</entry>
         <entry>e_</entry>
         <entry>max</entry>
+        <entry>GenMatch</entry>
       </history-search>
       <history-cmd>
         <entry>244</entry>
