@@ -1304,8 +1304,8 @@
         <mark key="." line="88" column="13" />
         <mark key="^" line="88" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/her/main.py" timestamp="1513554359204">
-        <mark key="'" line="7" column="8" />
+      <file name="$USER_HOME$/Documents/her/main.py" timestamp="1513563566273">
+        <mark key="'" line="126" column="8" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/rllab/config_personal.py" timestamp="1487910886048">
         <mark key="'" line="0" column="0" />
@@ -3402,8 +3402,8 @@
         <mark key="." line="100" column="47" />
         <mark key="^" line="100" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/her/her.py" timestamp="1513563229203">
-        <mark key="'" line="51" column="27" />
+      <file name="$USER_HOME$/Documents/her/her.py" timestamp="1513563529956">
+        <mark key="'" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/envs/gym_env.py" timestamp="1478490864707">
         <mark key="'" line="5" column="0" />
@@ -4413,8 +4413,8 @@
         <mark key="." line="121" column="24" />
         <mark key="^" line="121" column="24" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/her.py" timestamp="1512968264390">
-        <mark key="'" line="234" column="25" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/her.py" timestamp="1513563468079">
+        <mark key="'" line="88" column="8" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="46" />
         <mark key="." line="30" column="27" />
@@ -4795,12 +4795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="16" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/main.tex" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q3.tex" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/midterm/q4.tex" />
-      <jump line="41" column="66" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q1.tex" />
-      <jump line="48" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q1.tex" />
-      <jump line="46" column="0" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q1.tex" />
       <jump line="34" column="51" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q1.tex" />
       <jump line="137" column="13" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q2.tex" />
       <jump line="41" column="32" filename="$USER_HOME$/git/overleaf/classes/fall2017/stat239a-causal-inference/final/q3.tex" />
@@ -4890,11 +4884,17 @@
       <jump line="23" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="35" column="42" filename="$USER_HOME$/Documents/her/her.py" />
-      <jump line="50" column="61" filename="$USER_HOME$/Documents/her/her.py" />
-      <jump line="51" column="27" filename="$USER_HOME$/Documents/her/her.py" />
       <jump line="226" column="8" filename="$USER_HOME$/Documents/her/ddpg.py" />
       <jump line="257" column="76" filename="$USER_HOME$/Documents/her/ddpg.py" />
       <jump line="247" column="32" filename="$USER_HOME$/Documents/her/ddpg.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/her.py" />
+      <jump line="51" column="27" filename="$USER_HOME$/Documents/her/her.py" />
+      <jump line="50" column="38" filename="$USER_HOME$/Documents/her/her.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/Documents/her/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/her/main.py" />
+      <jump line="4" column="31" filename="$USER_HOME$/Documents/her/main.py" />
+      <jump line="156" column="6" filename="$USER_HOME$/Documents/her/main.py" />
+      <jump line="126" column="8" filename="$USER_HOME$/Documents/her/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12438,7 +12438,7 @@
         <text encoding="base64">IDUsIDI1</text>
       </register>
       <register name="/" type="4">
-        <text>Q_tf</text>
+        <text>train</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIGdvYWxfZGltKHNlbGYpIC0+IGludDoKICAgICAgICAiIiIKICAgICAgICA6cmV0dXJuOiBpbnQsIGRpbWVuc2lvbiBvZiBnb2FsIHZlY3RvcgogICAgICAgICIiIgogICAgICAgIHBhc3MKCiAgICBAYWJjLmFic3RyYWN0bWV0aG9kCiAgICBkZWYgc2FtcGxlX2dvYWxzKHNlbGYsIGJhdGNoX3NpemUpOgogICAgICAgIHBhc3MKCiAgICBAYWJjLmFic3RyYWN0bWV0aG9kCiAgICBkZWYgY29udmVydF9vYnNfdG9fZ29hbHMoc2VsZiwgb2JzKToKICAgICAgICAiIiIKICAgICAgICBDb252ZXJ0IGEgcmF3IGVudmlyb25tZW50IG9ic2VydmF0aW9uIGludG8gYSBnb2FsIHN0YXRlIChpZiBwb3NzaWJsZSkuCiAgICAgICAgIiIiCiAgICAgICAgcGFzcwo=</text>
@@ -13556,9 +13556,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Q_tf</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>Q_tf</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>x_positions</last-replace>
       <last-substitute>xposs</last-substitute>
       <last-dir>1</last-dir>
@@ -13566,10 +13566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reset</entry>
-        <entry>snapsho</entry>
-        <entry>replay_buffer</entry>
-        <entry>render</entry>
         <entry>args</entry>
         <entry>num_steps_per_eval</entry>
         <entry>cost_f</entry>
@@ -13586,6 +13582,10 @@
         <entry>Q_loss</entry>
         <entry>target_tf</entry>
         <entry>Q_tf</entry>
+        <entry>goals</entry>
+        <entry>reward</entry>
+        <entry>her</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry>kjk;w</entry>
