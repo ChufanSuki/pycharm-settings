@@ -241,12 +241,12 @@
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1513712497203">
-        <mark key="'" line="412" column="41" />
-        <mark key="[" line="440" column="50" />
-        <mark key="]" line="440" column="48" />
-        <mark key="." line="440" column="48" />
-        <mark key="^" line="440" column="48" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1513717028995">
+        <mark key="'" line="316" column="33" />
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="0" />
+        <mark key="." line="326" column="0" />
+        <mark key="^" line="319" column="33" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/figure_gen.py" timestamp="1497557914666">
         <mark key="'" line="1" column="16" />
@@ -4837,11 +4837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="55" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
-      <jump line="239" column="64" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
-      <jump line="241" column="56" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
-      <jump line="249" column="32" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
-      <jump line="251" column="58" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
       <jump line="253" column="46" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
       <jump line="220" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
       <jump line="268" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/templates/main.html" />
@@ -4917,7 +4912,6 @@
       <jump line="245" column="8" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="443" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="318" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="310" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="312" column="33" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="348" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="355" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
@@ -4931,19 +4925,25 @@
       <jump line="433" column="27" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="444" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="350" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="351" column="43" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="438" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="402" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="404" column="24" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="407" column="45" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="412" column="41" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="530" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="310" column="42" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="351" column="28" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="440" column="27" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="480" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="300" column="37" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="314" column="33" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKWoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12477,25 +12477,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>isnan</text>
       </register>
       <register name="/" type="4">
-        <text>max_size</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0X2ZpbmFsX3ZhbHVlKGJlc3RfZmlsdGVyX2tleSwgc2VsZWN0b3IsIHVzZV9tZWRpYW4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKWoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKClqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXAK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihmaW5hbF92YWx1ZXMpID09IDA6CiAgICAgICAgcmV0dXJuIG5wLmFycmF5KFtucC5uYW5dKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12506,19 +12506,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihmaW5hbF92YWx1ZXMpID09IDA6CiAgICAgICAgcmV0dXJuIG5wLmFycmF5KFtucC5uYW5dKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAgICAgICAgICAgICMgcHJvZ3Jlc3NlcyA9IFsKICAgICAgICAgICAgICAgICAgICAjICAgICBleHAucHJvZ3Jlc3MuZ2V0KHBsb3Rfa2V5LCBucC5hcnJheShbbnAubmFuXSkpCiAgICAgICAgICAgICAgICAgICAgIyAgICAgZm9yIGV4cCBpbiBkYXRhCiAgICAgICAgICAgICAgICAgICAgIyBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRfZmluYWxfdmFsdWUocGxvdF9rZXksIHNlbGVjdG9yc1swXSwgdXNlX21lZGlhbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13588,19 +13588,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB1c2VfbWVkaWFuOgogICAgICAgICAgICAgICAgICAgICAgICBiZXN0X3RvX3Bsb3QgPSBtYXgoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b19wbG90LAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSBhdHRyX2RpY3Q6IGF0dHJfZGljdC5wZXJjZW50aWxlNTBbLTFdCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICBiZXN0X3RvX3Bsb3QgPSBtYXgoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b19wbG90LAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSBhdHRyX2RpY3Q6IGF0dHJfZGljdC5tZWFuc1stMV0KICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIHRvX3Bsb3QgPSBbYmVzdF90b19wbG90XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igc2VsZWN0b3IgaW4gc2VsZWN0b3JzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKWoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max_size</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>max_size</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>best_filter_key</last-replace>
       <last-substitute>filter_key</last-substitute>
       <last-dir>1</last-dir>
@@ -13624,10 +13624,10 @@
         <entry>data</entry>
         <entry>final</entry>
         <entry encoding="base64">XDxvbmx5X3Nob3dfYmVzdF9maW5hbFw+</entry>
-        <entry>ipdb</entry>
         <entry>filtered_data</entry>
         <entry>sizes</entry>
         <entry>max_size</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
