@@ -2520,6 +2520,10 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dense_her_ddpg.py" timestamp="1513806831244">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="25" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/opt.py" timestamp="1491241809420">
         <mark key="'" line="252" column="10" />
         <mark key="[" line="237" column="10" />
@@ -2664,11 +2668,6 @@
         <mark key="]" line="157" column="12" />
         <mark key="." line="157" column="12" />
         <mark key="^" line="156" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/misc/special.py" timestamp="1513557042977">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/launchers/launcher_utils.py" timestamp="1479334116325">
         <mark key="'" line="75" column="9" />
@@ -4330,11 +4329,6 @@
         <mark key="^" line="65" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/core.py" timestamp="1513561541272">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/one_offs/residual_gradient_ddpg_comparison.py" timestamp="1508450722641">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="66" column="0" />
@@ -4493,10 +4487,11 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1513805980559">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1513806697359">
+        <mark key="'" line="122" column="18" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_env.py" timestamp="1497472080913">
         <mark key="'" line="22" column="21" />
@@ -4884,7 +4879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="57" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="18" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" />
       <jump line="55" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" />
@@ -4984,13 +4978,14 @@
       <jump line="114" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="124" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="201" column="45" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="122" column="18" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl93cmFwcGVkX2Vudi5tdWx0aXRhc2tfZ29hbCkK</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWFudCIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12524,25 +12519,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>goal</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnb2FsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl93cmFwcGVkX2Vudi5tdWx0aXRhc2tfZ29hbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMi45LAogICAgICAgICAgICAzLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGJvZHkgbmFtZT0iZ29hbCIgcG9zPSIwLiAwLiAwLjMiID4tLT4KICAgICAgICAgICAgPCEtLTxnZW9tIHJnYmE9IjAgMSAxIDAuNSIgdHlwZT0ic3BoZXJlIiBzaXplPSIwLjUgMC41IDAuNSItLT4KICAgICAgICAgICAgICAgICAgPCEtLWRlbnNpdHk9IjAuMDAwMDEiIGNvbmFmZmluaXR5PSIwIiBjb250eXBlPSIwIi8+LS0+CiAgICAgICAgICAgIDwhLS08am9pbnQgbmFtZT0iZ29hbF9mcmVlX2pvaW50IiB0eXBlPSJmcmVlIiBsaW1pdGVkPSJmYWxzZSIvPi0tPgogICAgICAgIDwhLS08L2JvZHk+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl93cmFwcGVkX2Vudi5tdWx0aXRhc2tfZ29hbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnb2FsKQogICAgICAgIHByaW50KHNpdGVfcG9zKQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGJvZHkgbmFtZT0iZ29hbCIgcG9zPSIwLiAwLiAwLjMiID4tLT4KICAgICAgICAgICAgPCEtLTxnZW9tIHJnYmE9IjAgMSAxIDAuNSIgdHlwZT0ic3BoZXJlIiBzaXplPSIwLjUgMC41IDAuNSItLT4KICAgICAgICAgICAgICAgICAgPCEtLWRlbnNpdHk9IjAuMDAwMDEiIGNvbmFmZmluaXR5PSIwIiBjb250eXBlPSIwIi8+LS0+CiAgICAgICAgICAgIDwhLS08am9pbnQgbmFtZT0iZ29hbF9mcmVlX2pvaW50IiB0eXBlPSJmcmVlIiBsaW1pdGVkPSJmYWxzZSIvPi0tPgogICAgICAgIDwhLS08L2JvZHk+LS0+Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12553,19 +12548,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnb2FsKQogICAgICAgIHByaW50KHNpdGVfcG9zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13635,10 +13630,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vdCBpdGVyYWJsZQo=</text>
+        <text encoding="base64">ICAgIGlvcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
