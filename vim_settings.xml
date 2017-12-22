@@ -907,12 +907,12 @@
         <mark key="^" line="74" column="96" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" timestamp="1513896092079">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" timestamp="1513903455464">
         <mark key="'" line="120" column="4" />
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="28" />
-        <mark key="." line="71" column="28" />
-        <mark key="^" line="71" column="28" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/mujoco_py/mjtypes.py" timestamp="1494877880845">
         <mark key="'" line="5656" column="8" />
@@ -5020,8 +5020,8 @@
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAidGRtLWhlci1zYWMtYW50LXN3ZWVwIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12555,7 +12555,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Filter best</text>
@@ -13718,7 +13718,6 @@
         <entry>105</entry>
         <entry>%s/discount/tau/g</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>670</entry>
         <entry>297</entry>
         <entry>626</entry>
@@ -13727,6 +13726,7 @@
         <entry>300</entry>
         <entry>310</entry>
         <entry>321</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
