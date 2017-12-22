@@ -907,12 +907,8 @@
         <mark key="^" line="74" column="96" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" timestamp="1513907755409">
-        <mark key="'" line="202" column="42" />
-        <mark key="[" line="166" column="16" />
-        <mark key="]" line="166" column="21" />
-        <mark key="." line="166" column="21" />
-        <mark key="^" line="166" column="21" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" timestamp="1513971022155">
+        <mark key="'" line="203" column="42" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/mujoco_py/mjtypes.py" timestamp="1494877880845">
         <mark key="'" line="5656" column="8" />
@@ -4843,6 +4839,9 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gtimer/private/times.py" timestamp="1513462148121">
+        <mark key="'" line="44" column="14" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/qlearning/state_distance_q_learning.py" timestamp="1501125583804">
         <mark key="'" line="96" column="15" />
         <mark key="[" line="47" column="8" />
@@ -5021,7 +5020,7 @@
         <text>wDj0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>batch['terminals']</text>
+        <text>128</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12555,10 +12554,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>batch['terminals']</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
-        <text>finite</text>
+        <text>snapshot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV4dF9vYnMgPSBucC5yZXBlYXQobmV4dF9vYnMsIHNlbGYubWF4X3RhdSArIDEsIDApCg==</text>
@@ -13676,9 +13675,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finite</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>finite</last-pattern>
+      <last-pattern>snapshot</last-pattern>
       <last-replace>tau</last-replace>
       <last-substitute>discount</last-substitute>
       <last-dir>1</last-dir>
@@ -13686,7 +13685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>group-keys</entry>
         <entry>split_key</entry>
         <entry>split_legend</entry>
         <entry>split_keys</entry>
@@ -13706,6 +13704,7 @@
         <entry>uniform</entry>
         <entry>all</entry>
         <entry>finite</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
