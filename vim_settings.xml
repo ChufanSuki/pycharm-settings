@@ -321,8 +321,10 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1513191866555">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1513974282658">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="102" column="9" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/rllab/config.py" timestamp="1511655997934">
         <mark key="'" line="21" column="0" />
@@ -2925,6 +2927,13 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/swimmer.py" timestamp="1510959236672">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" timestamp="1513974723882">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="35" />
+        <mark key="^" line="53" column="35" />
+        <mark key="." line="53" column="35" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/linear_qfunction.py" timestamp="1486962668048">
         <mark key="'" line="35" column="19" />
         <mark key="[" line="8" column="11" />
@@ -4897,10 +4906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="20" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="301" column="16" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="302" column="29" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
-      <jump line="305" column="31" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="439" column="52" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="218" column="23" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="288" column="27" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
@@ -4997,13 +5002,17 @@
       <jump line="55" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
       <jump line="60" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
       <jump line="59" column="4" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" />
+      <jump line="38" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Error</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12537,25 +12546,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>discount</text>
+        <text>Error</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>ddpg_exp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeT1tYXgoeV91cHBlcikgKyAobWF4KHlfdXBwZXIpIC0gbWluKHlfbG93ZXIpKSAvIDEwLAo=</text>
+        <text encoding="base64">ICAgICdzYWNfdGRtX2t3YXJncy50ZG1fa3dhcmdzLnZlY3Rvcml6ZWQnOiBGYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">IyBwbHQudGl0bGUociJIYWxmIENoZWV0YWg6IFZlbG9jaXR5IEVycm9yIHZzIEVudmlyb25tZW50IFNhbXBsZXMiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB5PW1heCh5X3VwcGVyKSArIChtYXgoeV91cHBlcikgLSBtaW4oeV9sb3dlcikpIC8gMTAsCg==</text>
+        <text encoding="base64">IyBTdG9wIGF0IDIwMCBlcG9jaHMKaGVyX2RhdGEgPSBoZXJfZGF0YVs6LCA6MTAwXQpoZXJfbWVhbiA9IG5wLm1lYW4oaGVyX2RhdGEsIGF4aXM9MCkKaGVyX3N0ZCA9IG5wLm1lYW4oaGVyX2RhdGEsIGF4aXM9MCkKZXBvY2hzID0gMiAqIG5wLmFyYW5nZSgwLCBsZW4oaGVyX21lYW4pKQojIHBsdC5maWxsX2JldHdlZW4oZXBvY2hzLCBoZXJfbWVhbiAtIGhlcl9zdGQsIGhlcl9tZWFuICsgaGVyX3N0ZCwgYWxwaGE9MC4xKQojIHBsdC5wbG90KGVwb2NocywgaGVyX21lYW4sIGxhYmVsPSJIRVIiKQojIGZvciBydW4gaW4gaGVyX2RhdGE6CiMgICAgIHBsdC5wbG90KGVwb2NocywgcnVuLCBsYWJlbD0iSEVSIikKCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12566,19 +12575,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVnZW5kPWRpY3QoeD0tLjEsIHk9MS4yKSwK</text>
+        <text encoding="base64">ICAgIChtYl90cmlhbHMsICdNb2RlbCBCYXNlZCcsICdGaW5hbF94dmVsX2Vycm9yc19NZWFuJyksCiAgICAob3VyX3RyaWFscywgJ1RETScsICd0ZXN0X0ZpbmFsX3h2ZWxfZXJyb3JzX01lYW4nKSwKICAgIChoZXJfZGVuc2VfdHJpYWxzLCAnSEVSIC0gZGVuc2UnLCAndGVzdF9GaW5hbF94dmVsX2Vycm9yc19NZWFuJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZGRwZ19leHAgPSBFeHBlcmltZW50KGRkcGdfcGF0aCkKbWJfZXhwID0gRXhwZXJpbWVudChtYl9wYXRoKQpvdXJfZXhwID0gRXhwZXJpbWVudChvdXJfcGF0aCkKaGVyX2RlbnNlX2V4cCA9IEV4cGVyaW1lbnQoaGVyX2RlbnNlX3BhdGgpCgpkZHBnX3RyaWFscyA9IEV4cGVyaW1lbnQoZGRwZ19wYXRoKS5nZXRfdHJpYWxzKGRkcGdfY3JpdGVyaWEpCm1iX3RyaWFscyA9IG1iX2V4cC5nZXRfdHJpYWxzKG1iX2NyaXRlcmlhKQpvdXJfdHJpYWxzID0gb3VyX2V4cC5nZXRfdHJpYWxzKG91cl9jcml0ZXJpYSkKaGVyX2RlbnNlX3RyaWFscyA9IGhlcl9kZW5zZV9leHAuZ2V0X3RyaWFscyhoZXJfZGVuc2VfY3JpdGVyaWEpCgpwcmludChsZW4oZGRwZ190cmlhbHMpKQpwcmludChsZW4obWJfdHJpYWxzKSkKcHJpbnQobGVuKG91cl90cmlhbHMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZGRwZ19wYXRoID0gIi9ob21lL3ZpdGNoeXIvZ2l0L3JsbGFiLXJhaWwvcmFpbHJsL2RhdGEvZG9vZGFkczMvMTAtMjYtZGRwZy1oYWxmLWNoZWV0YWgvIgpkZHBnX2NyaXRlcmlhID0gewogICAgJ2FsZ29fcGFyYW1zLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IDUsCiAgICAnYWxnb19wYXJhbXMucmV3YXJkX3NjYWxlJzogMSwKICAgICdhbGdvX3BhcmFtcy50YXUnOiAwLjAwMSwKfQojIEREUEcgcG9saWN5OiAvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9leHBlcmltZW50cy9zdGF0ZV9kaXN0YW5jZS9pY2xyMjAxOC9jaGVldGFoX3Jlc3VsdHMucHkKbWJfcGF0aCA9ICIvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9kYXRhL2Rvb2RhZHMzLzEwLTI2LWFiaGlzaGVrLW1iLWNoZWV0YWgtdGFyZ2V0LXJlc2V0LyIKbWJfY3JpdGVyaWEgPSBOb25lCiMgb3VyX3BhdGggPSAiL2hvbWUvdml0Y2h5ci9naXQvcmxsYWItcmFpbC9yYWlscmwvZGF0YS9sb2NhbC8xMC0yNi1zZHFsLWNoZWV0YWgteHZlbC8xMC0yNi1zZHFsLWNoZWV0YWgteHZlbF8yMDE3XzEwXzI2XzE2XzExXzQyXzAwMDAtLXMtNTAxMS8iCiMgb3VyX2NyaXRlcmlhID0gTm9uZQpvdXJfcGF0aCA9ICIvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9kYXRhL2Rvb2RhZHMzLzEwLTI3LWdldC1yZXN1bHRzLWhhbGYtY2hlZXRhaC1oMTAwLyIKb3VyX2NyaXRlcmlhID0gewogICAgJ2FsZ29fcGFyYW1zLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IDI1LAogICAgJ2Vwb2NoX2Rpc2NvdW50X3NjaGVkdWxlX3BhcmFtcy52YWx1ZSc6IDEwLAp9Cmhlcl9kZW5zZV9wYXRoID0gIi9ob21lL3ZpdGNoeXIvZ2l0L3JsbGFiLXJhaWwvcmFpbHJsL2RhdGEvZG9vZGFkczMvMTAtMjctaGVyLWJhc2VsaW5lLXNoYXBlZC1yZXdhcmRzLW5vLWNsaXBwaW5nLTMwMC0zMDAtcmlnaHQtZGlzY291bnQtYW5kLXRhdS8iCmhlcl9kZW5zZV9jcml0ZXJpYSA9IHsKICAgICdhbGdvX3BhcmFtcy5udW1fdXBkYXRlc19wZXJfZW52X3N0ZXAnOiA1LAogICAgJ2FsZ29fcGFyYW1zLnJld2FyZF9zY2FsZSc6IDEwLAogICAgJ2Vudl9jbGFzcy4kY2xhc3MnOgogICAgICAgICJyYWlscmwuZW52cy5tdWx0aXRhc2suaGFsZl9jaGVldGFoLkdvYWxYVmVsSGFsZkNoZWV0YWgiCn0KCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbnVtX3N0ZXBzX2xlZnQgPSBucC5yZXBlYXQoCiAgICAgICAgICAgICAgICAjICAgICBucC5hcmFuZ2UoMCwgc2VsZi5tYXhfdGF1ICsgMSlbTm9uZV0sCiAgICAgICAgICAgICAgICAjICAgICBzZWxmLmJhdGNoX3NpemUsCiAgICAgICAgICAgICAgICAjICAgICAwLAogICAgICAgICAgICAgICAgIyApLnJlc2hhcGUoc2VsZi5iYXRjaF9zaXplICogc2VsZi5tYXhfdGF1KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13648,19 +13657,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bV9zdGVwc19sZWZ0Cg==</text>
+        <text encoding="base64">ICAgICdzYWNfdGRtX2t3YXJncy5iYXNlX2t3YXJncy5yZXdhcmRfc2NhbGUnOiAxMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIGlmIHNlbGYudGF1X3NhbXBsZV9zdHJhdGVneSA9PSAnYWxsJzoKICAgICAgICAgICAgb2JzID0gbnAucmVwZWF0KG9icywgc2VsZi5tYXhfdGF1LCAwKQogICAgICAgICAgICBhY3Rpb25zID0gbnAucmVwZWF0KGFjdGlvbnMsIHNlbGYubWF4X3RhdSwgMCkKICAgICAgICAgICAgbmV4dF9vYnMgPSBucC5yZXBlYXQobmV4dF9vYnMsIHNlbGYubWF4X3RhdSwgMCkKICAgICAgICAgICAgcmV3YXJkcyA9IG5wLnJlcGVhdChyZXdhcmRzLCBzZWxmLm1heF90YXUsIDApCiAgICAgICAgICAgIHRlcm1pbmFscyA9IG5wLnJlcGVhdCh0ZXJtaW5hbHMsIHNlbGYubWF4X3RhdSwgMCkKCg==</text>
+        <text encoding="base64">ICAgICdzYWNfdGRtX2t3YXJncy5iYXNlX2t3YXJncy5yZXdhcmRfc2NhbGUnOiAxMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>ddpg_exp</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>ddpg_exp</last-pattern>
       <last-replace>tau</last-replace>
       <last-substitute>discount</last-substitute>
       <last-dir>1</last-dir>
@@ -13668,8 +13677,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Filter best</entry>
-        <entry>vectorized</entry>
         <entry>NotI</entry>
         <entry>terminals</entry>
         <entry>actions</entry>
@@ -13688,6 +13695,8 @@
         <entry encoding="base64">XDxnZXRfcGxvdF9pbnN0cnVjdGlvblw+</entry>
         <entry>plot_width</entry>
         <entry>max</entry>
+        <entry>ddpg_Exp</entry>
+        <entry>ddpg_exp</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
@@ -13706,9 +13715,9 @@
         <entry>300</entry>
         <entry>310</entry>
         <entry>321</entry>
-        <entry>q</entry>
         <entry>vsp</entry>
         <entry>157</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
