@@ -2898,12 +2898,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her_v2.py" timestamp="1513990889714">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her_v2.py" timestamp="1513992684276">
         <mark key="'" line="7" column="28" />
-        <mark key="[" line="178" column="15" />
-        <mark key="]" line="178" column="15" />
-        <mark key="." line="178" column="15" />
-        <mark key="^" line="178" column="15" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="45" />
+        <mark key="." line="91" column="24" />
+        <mark key="^" line="91" column="24" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/naf.py" timestamp="1498103918895">
         <mark key="'" line="0" column="0" />
@@ -3380,12 +3380,11 @@
         <mark key="^" line="34" column="48" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" timestamp="1513990645112">
-        <mark key="'" line="207" column="13" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="209" column="52" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" timestamp="1513992541969">
+        <mark key="'" line="209" column="13" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/ant.xml" timestamp="1510020317758">
         <mark key="'" line="0" column="0" />
@@ -3443,10 +3442,10 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1513990296020">
-        <mark key="'" line="199" column="76" />
-        <mark key="[" line="203" column="27" />
-        <mark key="]" line="203" column="27" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1513992170668">
+        <mark key="'" line="167" column="32" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="43" />
         <mark key="." line="203" column="46" />
         <mark key="^" line="96" column="32" />
       </file>
@@ -4719,10 +4718,10 @@
         <mark key="^" line="39" column="22" />
         <mark key="." line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/her.py" timestamp="1513989898698">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="111" column="8" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/her.py" timestamp="1513992191558">
+        <mark key="'" line="179" column="16" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="66" />
         <mark key="." line="109" column="67" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/ros/baxter_env.py" timestamp="1508620088796">
@@ -4930,9 +4929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="52" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
-      <jump line="32" column="45" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
       <jump line="82" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
       <jump line="56" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/trpo.py" />
       <jump line="402" column="32" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
@@ -5030,13 +5026,16 @@
       <jump line="7" column="28" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/her_v2.py" />
       <jump line="125" column="42" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
       <jump line="208" column="13" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
+      <jump line="149" column="41" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="167" column="32" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="179" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/her.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0.1,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiaGVyLWFuZHJ5Y2hvd2ljei10cnktaGFyZC0yIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12570,25 +12569,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0.1,</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>clamp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ldmFsX3N0YXRpc3RpY3NbJ1JhdyBQb2xpY3kgTG9zcyddID0gbnAubWVhbihwdHUuZ2V0X251bXB5KAo=</text>
+        <text encoding="base64">ICAgICAgICBxX3RhcmdldCA9IHRvcmNoLmNsYW1wKHFfdGFyZ2V0LCAtMS4vKDEtc2VsZi5kaXNjb3VudCksIDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMSwK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMC4sCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12599,19 +12598,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0dS5nZXRfbnVtcHkocHJlX2FjdGl2YXRpb25fcG9saWN5X2xvc3MpCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMC4wMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA9MC4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkaWN0KHRoZXRhPTAuMSwgbWF4X3NpZ21hPTAuMDEsIG1pbl9zaWdtYT0wLjAxKSwKICAgICAgICAgICAgIyBkaWN0KHRoZXRhPTAuMSwgbWF4X3NpZ21hPTAuMiwgbWluX3NpZ21hPTAuMiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMC4wMSwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcV90YXJnZXQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13681,19 +13680,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBIdWJlckxvc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMC4wMDEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnZml4ZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>clamp</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>clamp</last-pattern>
       <last-replace>tau</last-replace>
       <last-substitute>discount</last-substitute>
       <last-dir>1</last-dir>
@@ -13701,9 +13700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>goal</entry>
-        <entry>log_diag</entry>
-        <entry>vectorized</entry>
         <entry>batch</entry>
         <entry>pre_activation_weight</entry>
         <entry>policy</entry>
@@ -13715,12 +13711,15 @@
         <entry encoding="base64">XDxwb2xpY3lfcHJlX2FjdGl2YXRpb25fd2VpZ2h0XD4=</entry>
         <entry>max_tau</entry>
         <entry>terminat</entry>
-        <entry>sparse</entry>
         <entry>tau</entry>
         <entry>discount</entry>
         <entry>vectori</entry>
         <entry>her_replay_buffer</entry>
         <entry>ipdb</entry>
+        <entry>sparse</entry>
+        <entry>indicator</entry>
+        <entry>clip</entry>
+        <entry>clamp</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
