@@ -754,12 +754,12 @@
         <mark key="^" line="42" column="14" />
         <mark key="." line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/ec2_example.py" timestamp="1514140544866">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="25" />
-        <mark key="." line="38" column="25" />
-        <mark key="^" line="38" column="25" />
+      <file name="$USER_HOME$/git/railrl/examples/ec2_example.py" timestamp="1514332988261">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/her_envs.py" timestamp="1508969890455">
         <mark key="'" line="37" column="8" />
@@ -4778,7 +4778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="21" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="523" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
       <jump line="276" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
@@ -4878,13 +4877,14 @@
       <jump line="88" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="137" column="43" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="17" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/ant.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/railrl/examples/ec2_example.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wDj0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGUgPT0gJ2hlcmVfbm9fZG9vZGFkJzoKICAgICAgICBydW5fZXhwZXJpbWVudF9oZXJlKAogICAgICAgICAgICBtZXRob2RfY2FsbCwKICAgICAgICAgICAgKipydW5fZXhwZXJpbWVudF9rd2FyZ3MKICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>00000</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12418,7 +12418,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>base_log_dir</text>
+        <text>00000</text>
       </register>
       <register name="/" type="4">
         <text>_get_ob</text>
