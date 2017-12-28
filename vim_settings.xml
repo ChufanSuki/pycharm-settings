@@ -141,8 +141,8 @@
         <mark key="." line="64" column="53" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1514402032076">
-        <mark key="'" line="481" column="0" />
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1514485831514">
+        <mark key="'" line="300" column="12" />
         <mark key="[" line="318" column="0" />
         <mark key="]" line="318" column="0" />
         <mark key="." line="318" column="0" />
@@ -666,12 +666,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1514424721566">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1514485225189">
         <mark key="'" line="33" column="3" />
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="35" column="13" />
-        <mark key="." line="23" column="13" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="35" column="13" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/noop_algo.py" timestamp="1478629091758">
         <mark key="'" line="66" column="21" />
@@ -1223,11 +1223,11 @@
         <mark key="^" line="102" column="28" />
         <mark key="." line="102" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" timestamp="1514409163910">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" timestamp="1514485405244">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/linear_qfunction.py" timestamp="1486962668048">
         <mark key="'" line="35" column="19" />
@@ -1380,12 +1380,11 @@
         <mark key="." line="70" column="15" />
         <mark key="^" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/pusher3d_results.py" timestamp="1514484042592">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/pusher3d_results.py" timestamp="1514485438719">
         <mark key="'" line="6" column="23" />
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-        <mark key="^" line="9" column="61" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/math/distributions.py" timestamp="1514404508014" />
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/sac/sac.py" timestamp="1511576853850">
@@ -4782,7 +4781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="481" column="21" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="484" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="489" column="23" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
@@ -4882,6 +4880,7 @@
       <jump line="30" column="8" filename="$USER_HOME$/git/railrl/railrl/misc/data_processing.py" />
       <jump line="62" column="30" filename="$USER_HOME$/git/railrl/railrl/misc/data_processing.py" />
       <jump line="169" column="30" filename="$USER_HOME$/git/railrl/railrl/misc/data_processing.py" />
+      <jump line="300" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4905,7 +4904,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAtKS5nZXRfdHJpYWxzKHsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12439,25 +12438,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>criteria</text>
+        <text>exp_prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoZGF0YV9maWxlX25hbWUpIG9yIG9zLnN0YXQoCiAgICAgICAgICAgICAgICBkYXRhX2ZpbGVfbmFtZSkuc3Rfc2l6ZSA9PSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICAnZXhwX2lkJzogJzMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAtKS5nZXRfdHJpYWxzKHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>m</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RkcGdfdGRtX2t3YXJncy5iYXNlX2t3YXJncy5yZXdhcmRfc2NhbGUnOiAxMDAsCiAgICAgICAgICAgICdkZHBnX3RkbV9rd2FyZ3MudGRtX2t3YXJncy50YXVfc2FtcGxlX3N0cmF0ZWd5JzoKICAgICAgICAgICAgICAgICd0cnVuY2F0ZWRfZ2VvbWV0cmljJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAnZXhwX2lkJzogJzMnLAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12468,10 +12467,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiL2hvbWUvdml0Y2h5ci9naXQvcmFpbHJsL2RhdGEvZG9vZGFkczMvMTItMjctcHVzaGVyLXJld2FyZC1zY2FsZS10YXUtdW5pZm9ybS1vci10cnVuY2F0ZWQtZ2VvLXN3ZWVwLTIvIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZXhwX2lkJzogJzEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8xMi0yNS10ZG0tZGRwZy1wdXNoZXIzZC8iLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0pCg==</text>
@@ -13550,7 +13549,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZXhwX2lkJzogJzEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAnZXhwX2lkJzogJzE5JywK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIH0pCg==</text>
@@ -13560,9 +13559,9 @@
       </register>
     </registers>
     <search>
-      <last-search>criteria</last-search>
+      <last-search>exp_prefix</last-search>
       <last-offset />
-      <last-pattern>criteria</last-pattern>
+      <last-pattern>exp_prefix</last-pattern>
       <last-replace>kwargs</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -13570,7 +13569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sparse</entry>
         <entry>TDM</entry>
         <entry>HER</entry>
         <entry>max_tau</entry>
@@ -13590,6 +13588,7 @@
         <entry>label</entry>
         <entry>asdf</entry>
         <entry>criteria</entry>
+        <entry>exp_prefix</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
