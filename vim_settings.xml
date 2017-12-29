@@ -1811,8 +1811,8 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" timestamp="1514188034060">
-        <mark key="'" line="45" column="8" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" timestamp="1514576008215">
+        <mark key="'" line="94" column="0" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="58" />
       </file>
@@ -4077,14 +4077,6 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1514498424653">
-        <mark key="u" line="101" column="38" />
-        <mark key="'" line="116" column="27" />
-        <mark key="[" line="100" column="6" />
-        <mark key="]" line="100" column="17" />
-        <mark key="." line="150" column="56" />
-        <mark key="^" line="150" column="56" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_env.py" timestamp="1497472080913">
         <mark key="'" line="22" column="21" />
         <mark key="[" line="3" column="12" />
@@ -4816,7 +4808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/optimal_control/ant_diff_movement.py" />
       <jump line="91" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/optimal_control/ant_diff_movement.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
       <jump line="8" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/optimal_control/ant_diff_movement.py" />
@@ -4916,6 +4907,7 @@
       <jump line="49" column="50" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="56" column="15" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="102" column="29" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12476,7 +12468,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</text>
+        <text>reward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VfZ3B1ID0gdmFyaWFudFsnZGRwZ190ZG1fa3dhcmdzLmJhc2Vfa3dhcmdzLmJhdGNoX3NpemUnXSA9PSAxMDI0Cg==</text>
@@ -13594,9 +13586,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</last-search>
+      <last-search>reward</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</last-pattern>
+      <last-pattern>reward</last-pattern>
       <last-replace>kwargs</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -13604,7 +13596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_path_length</entry>
         <entry>qf-kwargs</entry>
         <entry>qf_kwargs</entry>
         <entry>assert</entry>
@@ -13624,6 +13615,7 @@
         <entry>ipdb</entry>
         <entry>dense</entry>
         <entry encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</entry>
+        <entry>reward</entry>
       </history-search>
       <history-cmd>
         <entry>352</entry>
