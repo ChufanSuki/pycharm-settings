@@ -1260,9 +1260,6 @@
         <mark key="^" line="102" column="28" />
         <mark key="." line="102" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_results.py" timestamp="1514488019362">
-        <mark key="'" line="77" column="12" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/qfunctions/memory/linear_qfunction.py" timestamp="1486962668048">
         <mark key="'" line="35" column="19" />
         <mark key="[" line="8" column="11" />
@@ -2079,11 +2076,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1514509886641">
-        <mark key="'" line="350" column="8" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1514573830343">
+        <mark key="'" line="102" column="29" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/algos/n3dpg.py" timestamp="1513707541766">
         <mark key="'" line="150" column="24" />
@@ -4819,9 +4816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="58" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/optimal_control/ant_diff_movement.py" />
       <jump line="72" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/optimal_control/ant_diff_movement.py" />
       <jump line="91" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/optimal_control/ant_diff_movement.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/rollout_util.py" />
@@ -4919,6 +4913,9 @@
       <jump line="259" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="508" column="30" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="82" column="35" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
+      <jump line="49" column="50" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="56" column="15" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="102" column="29" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12479,7 +12476,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VfZ3B1ID0gdmFyaWFudFsnZGRwZ190ZG1fa3dhcmdzLmJhc2Vfa3dhcmdzLmJhdGNoX3NpemUnXSA9PSAxMDI0Cg==</text>
@@ -13597,9 +13594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</last-pattern>
       <last-replace>kwargs</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -13607,8 +13604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diffs</entry>
-        <entry>learn_dist</entry>
         <entry>max_path_length</entry>
         <entry>qf-kwargs</entry>
         <entry>qf_kwargs</entry>
@@ -13627,6 +13622,8 @@
         <entry>mode_kwag</entry>
         <entry>mode_kwargs</entry>
         <entry>ipdb</entry>
+        <entry>dense</entry>
+        <entry encoding="base64">XDxkZW5zZV9yZXdhcmRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>352</entry>
