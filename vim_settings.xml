@@ -98,13 +98,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dagger.py" timestamp="1514857204550">
-        <mark key="'" line="109" column="8" />
-        <mark key="[" line="153" column="14" />
-        <mark key="]" line="153" column="28" />
-        <mark key="." line="153" column="28" />
-        <mark key="^" line="153" column="28" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/algos/dqicnn.py" timestamp="1480628318277">
         <mark key="'" line="53" column="54" />
         <mark key="[" line="53" column="0" />
@@ -4322,11 +4315,12 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" timestamp="1514860666451">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" timestamp="1514926230089">
+        <mark key="'" line="124" column="24" />
         <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="39" />
-        <mark key="^" line="243" column="22" />
-        <mark key="." line="243" column="17" />
+        <mark key="]" line="111" column="48" />
+        <mark key="." line="111" column="48" />
+        <mark key="^" line="111" column="48" />
       </file>
       <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw9/main.tex" timestamp="1509588844236">
         <mark key="'" line="54" column="0" />
@@ -4887,7 +4881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher3d.py" />
       <jump line="127" column="57" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher3d.py" />
       <jump line="45" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher3d.py" />
       <jump line="79" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher3d.py" />
@@ -4987,6 +4980,7 @@
       <jump line="233" column="21" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
       <jump line="35" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
       <jump line="108" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
+      <jump line="124" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5004,7 +4998,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZmluYWwtY2hlZXRhaC14cG9zIgo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiY2hlZXRhaC14cG9zLW1heGQzLWludGVycG9sYXRlIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12538,10 +12532,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>BrokenPipeError</text>
+        <text>-again&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>terminate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicHJlLWZpbmFsLXB1c2hlci1neW0iCg==</text>
@@ -12595,9 +12589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>terminate</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>terminate</last-pattern>
       <last-replace>normalize_flat_obs</last-replace>
       <last-substitute>process_flat_obs</last-substitute>
       <last-dir>1</last-dir>
@@ -12617,7 +12611,6 @@
         <entry>kwargs</entry>
         <entry>normalize</entry>
         <entry>max_path_length</entry>
-        <entry>terminate</entry>
         <entry encoding="base64">XDxnb2FsX3JlYWNoZWRfZXBzaWxvblw+</entry>
         <entry>copy</entry>
         <entry>target_policy</entry>
@@ -12625,6 +12618,7 @@
         <entry>asdf</entry>
         <entry>spec.args</entry>
         <entry>ipdb</entry>
+        <entry>terminate</entry>
       </history-search>
       <history-cmd>
         <entry>175</entry>
