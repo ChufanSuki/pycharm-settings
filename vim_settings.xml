@@ -920,12 +920,11 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" timestamp="1514677216130">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" timestamp="1515005002246">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="73" column="28" />
-        <mark key="^" line="57" column="24" />
-        <mark key="." line="57" column="24" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/performance/tf_vs_pt_rnn.py" timestamp="1496959561176">
         <mark key="'" line="71" column="17" />
@@ -1256,10 +1255,10 @@
         <mark key="." line="93" column="51" />
         <mark key="^" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_distance_6_results.py" timestamp="1514664276356">
-        <mark key="'" line="7" column="10" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="58" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_distance_6_results.py" timestamp="1515004320022">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="63" column="9" />
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/sac/policies.py" timestamp="1514078234415">
@@ -1995,11 +1994,6 @@
         <mark key="]" line="37" column="61" />
         <mark key="^" line="34" column="48" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" timestamp="1514858155718">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/ant.xml" timestamp="1510020317758">
         <mark key="'" line="0" column="0" />
@@ -4281,12 +4275,12 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" timestamp="1514957976163">
-        <mark key="'" line="111" column="0" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" timestamp="1515005862211">
+        <mark key="'" line="207" column="14" />
         <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="41" />
-        <mark key="." line="182" column="12" />
-        <mark key="^" line="182" column="12" />
+        <mark key="]" line="110" column="45" />
+        <mark key="." line="264" column="17" />
+        <mark key="^" line="264" column="17" />
       </file>
       <file name="$USER_HOME$/git/overleaf/classes/fall2017/stat210a-theoretical-statistics/hw9/main.tex" timestamp="1509588844236">
         <mark key="'" line="54" column="0" />
@@ -4828,6 +4822,12 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_distance_3_to_5.py" timestamp="1515005578662">
+        <mark key="[" line="62" column="52" />
+        <mark key="]" line="62" column="53" />
+        <mark key="." line="62" column="53" />
+        <mark key="^" line="11" column="64" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/state_distance/get_results.py" timestamp="1513063425921">
         <mark key="'" line="50" column="14" />
         <mark key="[" line="187" column="37" />
@@ -4844,9 +4844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="18" filename="$USER_HOME$/git/rllab-rail/rllab/core/serializable.py" />
-      <jump line="233" column="21" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
       <jump line="108" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
       <jump line="124" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
       <jump line="91" column="39" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
@@ -4944,6 +4941,9 @@
       <jump line="204" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="399" column="38" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="111" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_distance_6_results.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_distance_6_results.py" />
+      <jump line="207" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4961,7 +4961,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZGRwZy10ZG0tYW50LW51cG8tc3dlZXAiCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiZGRwZy10ZG0tY2hlZXRhaC1udXBvLXN3ZWVwIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12495,25 +12495,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>100, 1000, 10000,</text>
       </register>
       <register name="/" type="4">
-        <text>relabel</text>
+        <text>terminate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpeCB0aGlzIGhhY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FsZ29yaXRobSc6ICdERFBHJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBnb2FsWzBdID0gLTEwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnb2FscyA9IG5wLnZzdGFjayhbCiAgICAgICAgICAgIHNlbGYuX3NhbXBsZV9nb2FsX2Zvcl9yb2xsb3V0KCkKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoCiAgICAgICAgICAgICAgICBzZWxmLm51bV9wYXRoc19mb3Jfbm9ybWFsaXphdGlvbiAqIHNlbGYubWF4X3BhdGhfbGVuZ3RoCiAgICAgICAgICAgICkKICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FsZ29yaXRobSc6ICdERFBHJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FsZ29yaXRobSc6ICdNb2RlbC1CYXNlZC1EYWdnZXIiLAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -12524,37 +12524,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbW9kZSA9ICJsb2NhbF9kb2NrZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGUgPSAibG9jYWxfZCIK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicmVhY2hlci1wb3MtYW5kLXZlbC10YXJnZXQiCg==</text>
+        <text encoding="base64">ICAgICAgICBnb2FscyA9IG5wLnZzdGFjayhbCiAgICAgICAgICAgIHNlbGYuX3NhbXBsZV9nb2FsX2Zvcl9yb2xsb3V0KCkKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoCiAgICAgICAgICAgICAgICBzZWxmLm51bV9wYXRoc19mb3Jfbm9ybWFsaXphdGlvbiAqIHNlbGYubWF4X3BhdGhfbGVuZ3RoCiAgICAgICAgICAgICkKICAgICAgICBdKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGUgPSAibG9jYWxfZG9ja2VyIgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICMgbW9kZSA9ICJsb2NhbF9kb2NrZXIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIG1vZGUgPSAibG9jYWxfZCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>relabel</last-search>
+      <last-search>terminate</last-search>
       <last-offset />
-      <last-pattern>relabel</last-pattern>
+      <last-pattern>terminate</last-pattern>
       <last-replace>normalize_flat_obs</last-replace>
       <last-substitute>process_flat_obs</last-substitute>
       <last-dir>1</last-dir>
@@ -12562,7 +12562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HEAD</entry>
         <entry>cost_fn</entry>
         <entry>env</entry>
         <entry>action_dim</entry>
@@ -12582,6 +12581,7 @@
         <entry>done</entry>
         <entry>ipdb</entry>
         <entry>relabel</entry>
+        <entry>terminate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/trpo_params/algo_kwargs/g</entry>
