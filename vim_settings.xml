@@ -889,8 +889,8 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1514954650229">
-        <mark key="'" line="68" column="39" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1515106783503">
+        <mark key="'" line="194" column="12" />
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
@@ -4133,9 +4133,9 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1515101101721">
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1515106755140">
         <mark key="u" line="12" column="38" />
-        <mark key="'" line="247" column="12" />
+        <mark key="'" line="207" column="17" />
         <mark key="[" line="267" column="28" />
         <mark key="]" line="267" column="28" />
         <mark key="." line="267" column="32" />
@@ -4891,19 +4891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="65" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dagger.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="35" column="19" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
-      <jump line="29" column="22" filename="$USER_HOME$/git/railrl/railrl/dagger/dagger.py" />
-      <jump line="12" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/algos/torch_rl_algorithm.py" />
-      <jump line="606" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="546" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="108" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/rl_algorithm.py" />
       <jump line="136" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dagger.py" />
       <jump line="14" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dagger.py" />
       <jump line="16" column="53" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dagger.py" />
@@ -4991,6 +4978,19 @@
       <jump line="37" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/gym_pusher3d_results.py" />
       <jump line="172" column="4" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
       <jump line="193" column="24" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="78" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
+      <jump line="117" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
+      <jump line="204" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
+      <jump line="208" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
+      <jump line="207" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
+      <jump line="216" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="145" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="169" column="44" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="170" column="54" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="194" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="179" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12545,7 +12545,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>eval</text>
+        <text>observations</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICdpbmYnIGluIHN0cmluZzoKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -12595,13 +12595,13 @@
         <text encoding="base64">ICAgICAgICAiL2hvbWUvdml0Y2h5ci9naXQvcmFpbHJsL2RhdGEvZG9vZGFkczMvMDEtMDItcHJlLWZpbmFsLXB1c2hlci1neW0vIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>eval</last-search>
+      <last-search>observations</last-search>
       <last-offset />
-      <last-pattern>eval</last-pattern>
+      <last-pattern>observations</last-pattern>
       <last-replace>normalize_flat_obs</last-replace>
       <last-substitute>process_flat_obs</last-substitute>
       <last-dir>1</last-dir>
@@ -12609,10 +12609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb2xpY3lfcHJlX2FjdGl2YXRpb25fd2VpZ2h0XD4=</entry>
-        <entry>policy</entry>
-        <entry>preac</entry>
-        <entry>use_</entry>
         <entry>use</entry>
         <entry>target</entry>
         <entry>clamp</entry>
@@ -12629,6 +12625,10 @@
         <entry>dashes</entry>
         <entry encoding="base64">XDxFeHBlcmltZW50XD4=</entry>
         <entry>eval</entry>
+        <entry>distance</entry>
+        <entry>pos_error</entry>
+        <entry>log_diag</entry>
+        <entry>observations</entry>
       </history-search>
       <history-cmd>
         <entry>158</entry>
@@ -12647,10 +12647,10 @@
         <entry>vsp</entry>
         <entry>'w</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>193</entry>
         <entry>189</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
