@@ -469,8 +469,8 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1514663955192">
-        <mark key="'" line="322" column="28" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" timestamp="1515190259300">
+        <mark key="'" line="46" column="11" />
         <mark key="[" line="271" column="0" />
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
@@ -1816,8 +1816,8 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/assets/pusher.xml" timestamp="1514854915630">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" timestamp="1515105326425">
-        <mark key="'" line="194" column="24" />
+      <file name="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" timestamp="1515190246552">
+        <mark key="'" line="152" column="14" />
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
@@ -4569,7 +4569,7 @@
         <mark key="." line="148" column="30" />
         <mark key="^" line="148" column="30" />
       </file>
-      <file name="$USER_HOME$/git/railrl/scripts/terminate_instance.sh" timestamp="1515025107601">
+      <file name="$USER_HOME$/git/railrl/scripts/terminate_instance.sh" timestamp="1515190108427">
         <mark key="'" line="16" column="11" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="62" />
@@ -4773,14 +4773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/matplotlib/pyplot.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
-      <jump line="52" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
-      <jump line="53" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
-      <jump line="35" column="5" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
-      <jump line="54" column="34" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
-      <jump line="55" column="32" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
-      <jump line="28" column="23" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
       <jump line="43" column="30" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
       <jump line="119" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="142" column="46" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
@@ -4873,6 +4865,14 @@
       <jump line="29" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_target_pos_and_vel_results.py" />
       <jump line="27" column="25" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/ant_distance_6_results.py" />
       <jump line="49" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
+      <jump line="152" column="14" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/core.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="648" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="737" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="7" column="7" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="37" column="6" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
+      <jump line="46" column="11" filename="$USER_HOME$/git/rllab-rail/rllab/viskit/frontend.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -12427,7 +12427,7 @@
         <text>XYZ</text>
       </register>
       <register name="/" type="4">
-        <text>window</text>
+        <text>flask</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzWzptaW5fbGVuXQo=</text>
@@ -12481,9 +12481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>window</last-search>
+      <last-search>flask</last-search>
       <last-offset />
-      <last-pattern>window</last-pattern>
+      <last-pattern>flask</last-pattern>
       <last-replace>normalize_flat_obs</last-replace>
       <last-substitute>process_flat_obs</last-substitute>
       <last-dir>1</last-dir>
@@ -12491,7 +12491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dashed</entry>
         <entry>dashes</entry>
         <entry encoding="base64">XDxFeHBlcmltZW50XD4=</entry>
         <entry>eval</entry>
@@ -12511,6 +12510,7 @@
         <entry>pad</entry>
         <entry>slide</entry>
         <entry>window</entry>
+        <entry>flask</entry>
       </history-search>
       <history-cmd>
         <entry>363</entry>
