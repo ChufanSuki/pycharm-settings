@@ -172,6 +172,12 @@
         <mark key="." line="56" column="60" />
         <mark key="^" line="56" column="60" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_ant_max_distance_6.py" timestamp="1515125582314">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs188-ai-spring2017-projects/reinforcement/util.py" timestamp="1487802119256">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="520" column="0" />
@@ -3196,10 +3202,10 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" timestamp="1515122358012">
-        <mark key="'" line="36" column="19" />
-        <mark key="[" line="70" column="45" />
-        <mark key="]" line="70" column="45" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" timestamp="1515125563305">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="9" />
         <mark key="^" line="59" column="60" />
         <mark key="." line="70" column="45" />
       </file>
@@ -4939,8 +4945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git/railrl/scripts/terminate_instance.sh" />
-      <jump line="14" column="41" filename="$USER_HOME$/git/railrl/scripts/terminate_instance.sh" />
       <jump line="16" column="11" filename="$USER_HOME$/git/railrl/scripts/terminate_instance.sh" />
       <jump line="225" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
       <jump line="153" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" />
@@ -5039,6 +5043,8 @@
       <jump line="17" column="23" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/reacher_results.py" />
       <jump line="139" column="10" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="220" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/sawyer_env.py" />
+      <jump line="18" column="28" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/nupo_sweep_ant_distance_6.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5055,8 +5061,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWJfcGF0aCA9ICIvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8xMi0yNC1tb2RlbC1iYXNlZC1yZWFjaGVyLW11bHRpdGFzay1maXhlZC0yLyIK</text>
+      <register name="&quot;" type="4">
+        <text>relabel_exp</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -12590,13 +12596,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>relabel_exp</text>
       </register>
       <register name="/" type="4">
         <text>ax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBheCwgZXhwLCBuYW1lIGluIFsKICAgICAgICAoYXgxLCByZWxhYmVsX2V4cCwgJ1JlbGFiZWwnKSwKICAgICAgICAoYXgyLCBub19yZWxhYmVsX2V4cCwgJ05vIFJlbGFiZWwnKSwKICAgIF06Cg==</text>
+        <text encoding="base64">ZnJvbSByYWlscmwubWlzYy5kYXRhX3Byb2Nlc3NpbmcgaW1wb3J0IEV4cGVyaW1lbnQKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgbnVtcHkgYXMgbnAKCmZyb20gcmFpbHJsLm1pc2MudmlzdWFsaXphdGlvbl91dGlsIGltcG9ydCBzbGlkaW5nX21lYW4KCgpkZWYgbWFpbigpOgogICAgcmVsYWJlbF9leHAgPSBFeHBlcmltZW50KAogICAgICAgICIvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0wMi1kZHBnLXRkbS1hbnQtbnVwby1zd2VlcC8iLAogICAgICAgIGNyaXRlcmlhPXsKICAgICAgICAgICAgJ3JlbGFiZWwnOiBUcnVlLAogICAgICAgICAgICAnZGRwZ190ZG1fa3dhcmdzLmJhc2Vfa3dhcmdzLnJld2FyZF9zY2FsZSc6IDEsCiAgICAgICAgfQogICAgKQogICAgbm9fcmVsYWJlbF9leHAgPSBFeHBlcmltZW50KAogICAgICAgICIvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0wMi1kZHBnLXRkbS1hbnQtbnVwby1zd2VlcC8iLAogICAgICAgIGNyaXRlcmlhPXsKICAgICAgICAgICAgJ3JlbGFiZWwnOiBGYWxzZSwKICAgICAgICAgICAgJ2RkcGdfdGRtX2t3YXJncy5iYXNlX2t3YXJncy5yZXdhcmRfc2NhbGUnOiAxLAogICAgICAgIH0KICAgICkKCiAgICBNQVhfSVRFUlMgPSAxMDAKCiAgICAjIGF4MSA9IGZpZy5hZGRfc3VicGxvdCgyMTEpCiAgICAjIGF4MiA9IGZpZy5hZGRfc3VicGxvdCgyMTIpCiAgICBwbG90X2tleSA9ICdGaW5hbCBEaXN0YW5jZSB0byBnb2FsIE1lYW4nLnJlcGxhY2UoJyAnLCAnXycpCiAgICAjIGZvciBheCwgZXhwLCBuYW1lIGluIFsKICAgICMgICAgIChheDEsIHJlbGFiZWxfZXhwLCAnUmVsYWJlbCcpLAogICAgIyAgICAgKGF4Miwgbm9fcmVsYWJlbF9leHAsICdObyBSZWxhYmVsJyksCiAgICAjIF06CiAgICBmb3IgZXhwLCBuYW1lIGluIFsKICAgICAgICAocmVsYWJlbF9leHAsICdSZWxhYmVsJyksCiAgICAgICAgKG5vX3JlbGFiZWxfZXhwLCAnTm8gUmVsYWJlbCcpLAogICAgXToKICAgICAgICBmaWcgPSBwbHQuZmlndXJlKCkKICAgICAgICBmb3IgbnVwbyBpbiBbMSwgNSwgMTAsIDIwLCAzMF06CiAgICAgICAgICAgIHRyaWFscyA9IGV4cC5nZXRfdHJpYWxzKHsKICAgICAgICAgICAgICAgICdkZHBnX3RkbV9rd2FyZ3MuYmFzZV9rd2FyZ3MubnVtX3VwZGF0ZXNfcGVyX2Vudl9zdGVwJzogbnVwbwogICAgICAgICAgICB9KQogICAgICAgICAgICBhbGxfdmFsdWVzID0gW10KICAgICAgICAgICAgZm9yIHRyaWFsIGluIHRyaWFsczoKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICB2YWx1ZXNfdHMgPSB0cmlhbC5kYXRhW3Bsb3Rfa2V5XQogICAgICAgICAgICAgICAgICAgIHZhbHVlc190cyA9IHNsaWRpbmdfbWVhbih2YWx1ZXNfdHMsIHdpbmRvdz0xMCkKICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAgICAgICAgYWxsX3ZhbHVlcy5hcHBlbmQodmFsdWVzX3RzKQogICAgICAgICAgICBtaW5fbGVuID0gbWluKG1hcChsZW4sIGFsbF92YWx1ZXMpKQogICAgICAgICAgICBjb3N0cyA9IG5wLnZzdGFjayhbCiAgICAgICAgICAgICAgICB2YWx1ZXNbOm1pbl9sZW5dCiAgICAgICAgICAgICAgICBmb3IgdmFsdWVzIGluIGFsbF92YWx1ZXMKICAgICAgICAgICAgXSkKICAgICAgICAgICAgY29zdHMgPSBjb3N0c1s6LCA6bWluKGNvc3RzLnNoYXBlWzFdLCBNQVhfSVRFUlMpXQogICAgICAgICAgICBtZWFuID0gbnAubWVhbihjb3N0cywgYXhpcz0wKQogICAgICAgICAgICBzdGQgPSBucC5zdGQoY29zdHMsIGF4aXM9MCkKICAgICAgICAgICAgZXBvY2hzID0gbnAuYXJhbmdlKDAsIGxlbihjb3N0c1swXSkpCiAgICAgICAgICAgIHBsdC5maWxsX2JldHdlZW4oZXBvY2hzLCBtZWFuIC0gc3RkLCBtZWFuICsgc3RkLCBhbHBoYT0wLjEpCiAgICAgICAgICAgIHBsdC5wbG90KGVwb2NocywgbWVhbiwgbGFiZWw9Int9IHVwZGF0ZXMgcGVyIHN0ZXAiLmZvcm1hdCgKICAgICAgICAgICAgICAgIG51cG8KICAgICAgICAgICAgKSkKICAgICAgICAjIHBsdC50aXRsZShuYW1lKQoKICAgICAgICBwbHQueGxhYmVsKCJFbnZpcm9ubWVudCBTYW1wbGVzICh4MSwwMDApIikKICAgICAgICBwbHQueWxhYmVsKCJGaW5hbCBEaXN0YW5jZSB0byBHb2FsIFBvc2l0aW9uIikKICAgICAgICBwbHQubGVnZW5kKCkKICAgICAgICAjIHByaW50KGZpZy5nZXRfc2l6ZV9pbmNoZXMoKSkKICAgICAgICAjIGZpZy5zZXRfc2l6ZV9pbmNoZXMoNi40KjEsIDQuOCoyKQogICAgICAgIHBsdC5zYXZlZmlnKAogICAgICAgICAgICAncmVzdWx0cy9pY2xyMjAxOC9hbnQtbnVwby1zd2VlcC17fS5qcGcnLmZvcm1hdCgKICAgICAgICAgICAgICAgIG5hbWUubG93ZXIoKS5yZXBsYWNlKCcgJywgJy0nKQogICAgICAgICAgICApLAogICAgICAgICAgICAjIHRyYW5zcGFyZW50PVRydWUsIGJib3hfaW5jaGVzPSd0aWdodCcsIHBhZF9pbmNoZXM9MCwKICAgICAgICApCiAgICAgICAgcGx0LnNob3coKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZpZyA9IHBsdC5maWd1cmUoKQo=</text>
