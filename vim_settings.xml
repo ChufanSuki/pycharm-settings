@@ -670,6 +670,9 @@
         <mark key="^" line="82" column="68" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1515611934158">
+        <mark key="'" line="29" column="41" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail-private/railrl/algos/bptt.py" timestamp="1487214463080">
         <mark key="'" line="99" column="22" />
         <mark key="[" line="84" column="0" />
@@ -4547,12 +4550,12 @@
         <mark key="^" line="355" column="0" />
         <mark key="." line="355" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" timestamp="1515558081696">
-        <mark key="'" line="148" column="11" />
-        <mark key="[" line="120" column="16" />
-        <mark key="]" line="120" column="16" />
-        <mark key="." line="120" column="16" />
-        <mark key="^" line="120" column="17" />
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" timestamp="1515616024157">
+        <mark key="'" line="144" column="29" />
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="106" column="17" />
+        <mark key="." line="106" column="17" />
+        <mark key="^" line="106" column="16" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/q_functions/continuous_mlp_q_function.py" timestamp="1478218937305">
         <mark key="'" line="31" column="0" />
@@ -5262,42 +5265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/mujoco_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/memory/hidden_cartpole.py" />
-      <jump line="77" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/memory/hidden_cartpole.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/memory/hidden_cartpole.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
-      <jump line="3" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
-      <jump line="23" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/memory/continuous_memory_augmented.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/remote.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/time_limited_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/ros/sawyer_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/baxter_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/cropped_gym_env.py" />
-      <jump line="1" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/cropped_gym_env.py" />
-      <jump line="10" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/cropped_gym_env.py" />
-      <jump line="107" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="6" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="297" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="12" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/cartpole_env.py" />
-      <jump line="4" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/cartpole_env.py" />
-      <jump line="7" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/cartpole_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/discrete_reacher_2d.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/half_cheetah.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/discrete_reacher_7dof.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/hopper_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/mountain_car_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher3d_gym.py" />
-      <jump line="0" column="34" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/walker2d_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/walker2d_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/simple1d.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/sawyer_env.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/policies/composition.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git/railrl/railrl/policies/composition.py" />
       <jump line="2" column="47" filename="$USER_HOME$/git/railrl/railrl/policies/composition.py" />
@@ -5334,7 +5301,6 @@
       <jump line="142" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/optim/optimizer.py" />
       <jump line="0" column="6" filename="/code.py" />
       <jump line="5" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="73" column="26" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="50" column="6" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="187" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/distributions.py" />
@@ -5342,26 +5308,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="45" column="23" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="112" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="101" column="37" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="99" column="25" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="188" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/distributions.py" />
-      <jump line="103" column="44" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="90" column="25" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="91" column="38" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="92" column="40" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="100" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="116" column="31" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="65" column="10" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="41" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="89" column="20" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="93" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="94" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="95" column="42" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="96" column="37" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="146" column="11" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="89" column="44" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="155" column="24" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="152" column="9" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="12" column="5" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="28" column="34" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="94" column="18" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="96" column="19" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="98" column="15" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="101" column="18" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="67" column="26" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="29" column="41" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
+      <jump line="129" column="4" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="128" column="18" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="130" column="26" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="3100" column="4" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/1918714723/torch/_C/__init__.py" />
+      <jump line="73" column="28" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="82" column="17" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="103" column="19" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="163" column="9" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="125" column="4" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="127" column="18" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="139" column="21" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="160" column="38" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="132" column="27" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="120" column="10" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="55" column="12" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="123" column="44" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="188" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/distributions.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="122" column="49" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="121" column="12" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="74" column="31" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="79" column="32" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="80" column="15" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="81" column="37" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="116" column="48" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="40" column="25" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="137" column="7" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="114" column="37" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="118" column="54" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="144" column="29" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5402,8 +5405,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGVyZmVjdCA9IHJlY29uc3RydWN0aW9uX3BlcmZlY3QodmlzX3NhbXBsZXMpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6769,22 +6772,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
-        <text>decoder_</text>
+        <text>vis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YXNldCA9IG5vcm1hbF9zYW1wbGVzCg==</text>
+        <text encoding="base64">ICAgIGRlY29kZXJfb3V0cHV0ID0gZGVjb2RlcihsYXRlbnRzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FtcGxlcy5kYXRhLm51bXB5KCkK</text>
+        <text encoding="base64">cGVyZmVjdCA9IHJlY29uc3RydWN0aW9uX3BlcmZlY3QodmlzX3NhbXBsZXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRpc3RyaWJ1dGlvbiA9IE5vcm1hbChlbmNvZGVyX21lYW5zLCBlbmNvZGVyX3N0ZHMpCiAgICAgICAgIyBzYW1wbGVkX2xhdGVudHMgPSBkaXN0cmlidXRpb24uc2FtcGxlKCkudW5zcXVlZXplKDEpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -6836,7 +6839,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVuY29kZXJfb3V0cHV0ID0gZW5jb2RlcihiYXRjaCkKICAgICAgICAjIGVuY29kZXJfbWVhbnMsIGVuY29kZXJfbG9nX3N0ZHMgPSAoCiAgICAgICAgIyAgICAgZW5jb2Rlcl9vdXRwdXRbOiwgMF0sIGVuY29kZXJfb3V0cHV0WzosIDFdCiAgICAgICAgIyApCiAgICAgICAgIyBlbmNvZGVyX3N0ZHMgPSBlbmNvZGVyX2xvZ19zdGRzLmV4cCgpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -6896,37 +6899,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgZm9yd2FyZHMoc2VsZiwgeCk6CiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZGVmIHNwaXJhbF94eV90b190KHh5KToKICAgIHggPSB4eVs6LCAwXQogICAgeSA9IHh5WzosIDFdCiAgICByZXR1cm4gbnAudGFuaCh4IC8geSkKCgpkZWYgdF90b19zcGlyYWxfeHkodCk6CiAgICB4ID0gdCAqIG5wLmNvcyh0KSAvIDEwCiAgICB5ID0gdCAqIG5wLnNpbih0KSAvIDEwCiAgICByZXR1cm4gbnAuYXJyYXkoW3gsIHldKS5UCgoKZGVmIHJlY29uc3RydWN0aW9uX3BlcmZlY3QoeHkpOgogICAgdCA9IHNwaXJhbF94eV90b190KHh5KQogICAgcmV0dXJuIHRfdG9fc3BpcmFsX3h5KHQpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGtsID0ga2xfdG9fcHJpb3IoZW5jb2Rlcl9tZWFucywgZW5jb2Rlcl9sb2dfc3RkcywgZW5jb2Rlcl9zdGRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGVwc2lsb24gPSBWYXJpYWJsZSh0b3JjaC5yYW5kKCptZWFucy5zaXplKCkpKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2NhdHRlcl9wbG90KHNhbXBsZXNfbnApCg==</text>
+        <text encoding="base64">ZGVmIHNjYXR0ZXJfcGxvdChkYXRhKToKICAgIHBsdC5wbG90KGRhdGFbOiwgMF0sIGRhdGFbOiwgMV0sICcuJykKICAgIHBsdC5zaG93KCkKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NhdHRlcl9wbG90KHNhbXBsZXNfbnApCg==</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>decoder_</last-search>
+      <last-search>vis</last-search>
       <last-offset />
-      <last-pattern>decoder_</last-pattern>
+      <last-pattern>vis</last-pattern>
       <last-replace>decrement_tau</last-replace>
       <last-substitute>decrement_discount</last-substitute>
       <last-dir>1</last-dir>
@@ -6934,26 +6937,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry>special</entry>
-        <entry>logger</entry>
-        <entry>Serializable</entry>
-        <entry encoding="base64">XDxub3JtYWxpemVfdGZcPg==</entry>
-        <entry>Serializ</entry>
-        <entry>rllab</entry>
-        <entry>local_doc</entry>
-        <entry>local_d</entry>
-        <entry>Modukle</entry>
-        <entry>Module</entry>
-        <entry>np_to_var</entry>
-        <entry>lr</entry>
-        <entry>sampled</entry>
-        <entry>log_prob</entry>
-        <entry>log_std</entry>
-        <entry encoding="base64">XDxkZWNvZGVyXD4=</entry>
-        <entry>means</entry>
+        <entry>samples</entry>
+        <entry>32</entry>
+        <entry>site</entry>
+        <entry>log_st</entry>
+        <entry encoding="base64">XDxkaXN0cmlidXRpb25cPg==</entry>
+        <entry>decoder</entry>
+        <entry>decode</entry>
+        <entry>recon</entry>
+        <entry>sahp</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxzY2F0dGVyX3Bsb3RcPg==</entry>
+        <entry>encode</entry>
+        <entry>stds</entry>
+        <entry>asdf</entry>
+        <entry encoding="base64">XDxnZXRfZW5jb2RpbmdfYW5kX3N1ZmZfc3RhdHNcPg==</entry>
         <entry>log_stds</entry>
-        <entry>decoder_</entry>
+        <entry>psiral_rate</entry>
+        <entry>data_gen</entry>
+        <entry>latents</entry>
+        <entry>vis</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1q</entry>
