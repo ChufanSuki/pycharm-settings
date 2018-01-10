@@ -4550,12 +4550,12 @@
         <mark key="^" line="355" column="0" />
         <mark key="." line="355" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" timestamp="1515621197058">
-        <mark key="'" line="158" column="23" />
-        <mark key="[" line="3" column="76" />
-        <mark key="]" line="3" column="74" />
-        <mark key="." line="3" column="74" />
-        <mark key="^" line="3" column="74" />
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" timestamp="1515622030600">
+        <mark key="'" line="181" column="32" />
+        <mark key="[" line="98" column="15" />
+        <mark key="]" line="98" column="15" />
+        <mark key="." line="98" column="15" />
+        <mark key="^" line="182" column="38" />
       </file>
       <file name="$USER_HOME$/git/rllab/rllab/q_functions/continuous_mlp_q_function.py" timestamp="1478218937305">
         <mark key="'" line="31" column="0" />
@@ -5265,9 +5265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="41" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
-      <jump line="151" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="234" column="44" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/her_half_cheetah.py" />
       <jump line="96" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/her_half_cheetah.py" />
@@ -5365,6 +5362,9 @@
       <jump line="144" column="35" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="174" column="4" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
       <jump line="158" column="23" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="147" column="28" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="52" column="23" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
+      <jump line="181" column="32" filename="$USER_HOME$/git/railrl/experiments/one_offs/vae.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5406,7 +5406,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>spiral_data</text>
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6772,22 +6772,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>spiral_data</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>spiral</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWluKGZsb3dlcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIHBsdC5wbG90KHZpc19zYW1wbGVzWzosIDBdLCB2aXNfc2FtcGxlc1s6LCAxXSwgJy4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFQgPSAxMAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -6839,7 +6839,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHRyYWluKGZsb3dlcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -6899,28 +6899,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZ2VuID0gZmxvd2VyX2RhdGEKICAgICMgZGF0YV9nZW4gPSBnYXVzc2lhbl9kYXRhCiAgICAjIGRhdGFfZ2VuID0gc3BpcmFsX2RhdGEK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHRyYWluKGZsb3dlcl9kYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZ2VuID0gZmxvd2VyX2RhdGEKICAgICMgZGF0YV9nZW4gPSBnYXVzc2lhbl9kYXRhCiAgICAjIGRhdGFfZ2VuID0gc3BpcmFsX2RhdGEKICAgIEJTID0gMTYKICAgIE5fQkFUQ0hFUyA9IDEwMDAwCiAgICBOX1ZJUyA9IDEwMDAKCg==</text>
+        <text encoding="base64">ICAgIGRhdGFfZ2VuID0gZmxvd2VyX2RhdGEKICAgICMgZGF0YV9nZW4gPSBnYXVzc2lhbl9kYXRhCiAgICAjIGRhdGFfZ2VuID0gc3BpcmFsX2RhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRyYWluKCkKCg==</text>
+        <text encoding="base64">ICAgIGRhdGFfZ2VuID0gZmxvd2VyX2RhdGEKICAgICMgZGF0YV9nZW4gPSBnYXVzc2lhbl9kYXRhCiAgICAjIGRhdGFfZ2VuID0gc3BpcmFsX2RhdGEKICAgIEJTID0gMTYKICAgIE5fQkFUQ0hFUyA9IDEwMDAwCiAgICBOX1ZJUyA9IDEwMDAKCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwbHQucGxvdChwZXJmZWN0WzosIDBdLCBwZXJmZWN0WzosIDFdLCAnLicpCg==</text>
+        <text encoding="base64">ZGVmIHRyYWluKCkKCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgYmF0Y2gsIHRydWVfbGF0ZW50cyA9IGRhdGFfZ2VuKEJTKQo=</text>
+        <text encoding="base64">IyBwbHQucGxvdChwZXJmZWN0WzosIDBdLCBwZXJmZWN0WzosIDFdLCAnLicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdHJ1ZV9sYXRlbnRzID0gbnBfdG9fdmFyKHRydWVfbGF0ZW50cykudW5zcXVlZXplKDEpCg==</text>
+        <text encoding="base64">ICAgICMgYmF0Y2gsIHRydWVfbGF0ZW50cyA9IGRhdGFfZ2VuKEJTKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
