@@ -10,6 +10,9 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="/a.dummy" timestamp="1515204948019">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -450,10 +453,10 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/core.py" timestamp="1515207514939">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="7" column="48" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/core.py" timestamp="1515547879750">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="26" />
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
       </file>
@@ -2965,12 +2968,15 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/code.py" timestamp="1515545871858">
-        <mark key="'" line="3" column="15" />
+      <file name="/Dummy.txt" timestamp="1515547514009">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="72" column="9" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="73" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1515549713097">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="58" column="43" />
+        <mark key="]" line="62" column="13" />
+        <mark key="." line="62" column="13" />
+        <mark key="^" line="62" column="13" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/pusher_3d.xml" timestamp="1513573028594">
         <mark key="'" line="26" column="51" />
@@ -4214,6 +4220,9 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" timestamp="1515548423513">
+        <mark key="'" line="223" column="8" />
+      </file>
       <file name="$USER_HOME$/git/sandbox/rllab/ddpg/test_hyperparameters.py" timestamp="1478628332846">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="47" column="0" />
@@ -5174,21 +5183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/her_pusher_env.py" />
-      <jump line="9" column="47" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/hopper_env.py" />
-      <jump line="8" column="47" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/gridcraft/grid_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
-      <jump line="40" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/gridcraft/grid_env.py" />
-      <jump line="108" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/her_reacher_7dof_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/supervised_learning.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/model_learning.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/policies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/state_distance_q_learning.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/model_based_policies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/amortized_oc.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/memory_states/bptt_ddpg.py" />
-      <jump line="454" column="12" filename="$USER_HOME$/git/railrl/railrl/memory_states/bptt_ddpg.py" />
       <jump line="16" column="23" filename="$USER_HOME$/git/railrl/railrl/memory_states/bptt_ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/icra2018/combine_naf_policies.py" />
@@ -5274,6 +5268,21 @@
       <jump line="96" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/her_half_cheetah.py" />
       <jump line="12" column="48" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/dagger.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/core.py" />
+      <jump line="0" column="15" filename="/code.py" />
+      <jump line="3" column="33" filename="/code.py" />
+      <jump line="14" column="19" filename="/code.py" />
+      <jump line="43" column="0" filename="/code.py" />
+      <jump line="5" column="0" filename="/code.py" />
+      <jump line="223" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" />
+      <jump line="11" column="3" filename="/code.py" />
+      <jump line="32" column="39" filename="/code.py" />
+      <jump line="1" column="0" filename="/code.py" />
+      <jump line="36" column="16" filename="/code.py" />
+      <jump line="39" column="11" filename="/code.py" />
+      <jump line="19" column="8" filename="/code.py" />
+      <jump line="45" column="11" filename="/code.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5314,8 +5323,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGUgPSAibG9jYWxfZG9ja2VyIgo=</text>
+      <register name="&quot;" type="4">
+        <text>encoder_optimizer.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6681,22 +6690,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIA==</text>
+        <text>encoder_optimizer.</text>
       </register>
       <register name="/" type="4">
-        <text>local_d</text>
+        <text>np_to_var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IC0gZXhwZXJpbWVudHMvc3RhdGVfZGlzdGFuY2UvYmFzZWxpbmVzL3RycG8ucHkK</text>
+        <text encoding="base64">ZW5jb2Rlcl9vcHQgPSBBZGFtKGVuY29kZXIucGFyYW1ldGVycygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGUgPSAibG9jYWxfZG9ja2VyIgo=</text>
+        <text encoding="base64">ZnJvbSB0b3IK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IC0gZXhwZXJpbWVudHMvc3RhdGVfZGlzdGFuY2UvYmFzZWxpbmVzL3RycG8ucHkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -6748,7 +6757,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGUgPSAibG9jYWxfZG9ja2VyIgo=</text>
+        <text encoding="base64">aW1wb3JyCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -6808,37 +6817,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9nZ2VyIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBybGxhYl9sb2dnZXIucmVjb3JkX3RhYnVsYXIoa2V5LCB2YWx1ZSkKICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb25zdHJ1Y3Rpb25fdGVybSA9CiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgcmVjb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5jb3JlLnNlcmlhbGl6YWJsZSBpbXBvcnQgU2VyaWFsaXphYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJlY29uc3RydWN0aW9uX3Rlcm0gPQogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIHJlY29uCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5jb3JlLnNlcmlhbGl6YWJsZSBpbXBvcnQgU2VyaWFsaXphYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5jb2Rlcgo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5jb3JlLnNlcmlhbGl6YWJsZSBpbXBvcnQgU2VyaWFsaXphYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlZF9sYXRlbnRzID0gZGlzdHJpYnV0aW9uLnNhbXBsZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5jb3JlLnNlcmlhbGl6YWJsZSBpbXBvcnQgU2VyaWFsaXphYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5jb3JlLnNlcmlhbGl6YWJsZSBpbXBvcnQgU2VyaWFsaXphYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local_d</last-search>
+      <last-search>np_to_var</last-search>
       <last-offset />
-      <last-pattern>local_d</last-pattern>
+      <last-pattern>np_to_var</last-pattern>
       <last-replace>decrement_tau</last-replace>
       <last-substitute>decrement_discount</last-substitute>
       <last-dir>1</last-dir>
@@ -6846,9 +6855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flask</entry>
-        <entry>torch</entry>
-        <entry>update</entry>
         <entry>terminate</entry>
         <entry>decrement_discount</entry>
         <entry>taus</entry>
@@ -6866,9 +6872,11 @@
         <entry>rllab</entry>
         <entry>local_doc</entry>
         <entry>local_d</entry>
+        <entry>Modukle</entry>
+        <entry>Module</entry>
+        <entry>np_to_var</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry>54</entry>
         <entry>.,.+1q</entry>
         <entry>256</entry>
@@ -6886,6 +6894,7 @@
         <entry>23</entry>
         <entry>47</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>set number</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
