@@ -1530,12 +1530,12 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" timestamp="1516076325788">
-        <mark key="'" line="20" column="24" />
-        <mark key="[" line="43" column="68" />
-        <mark key="]" line="43" column="68" />
-        <mark key="^" line="43" column="68" />
-        <mark key="." line="43" column="68" />
+      <file name="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" timestamp="1516077341992">
+        <mark key="'" line="48" column="29" />
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="15" />
+        <mark key="^" line="46" column="15" />
+        <mark key="." line="46" column="15" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/torch/__init__.py" timestamp="1498514108722">
         <mark key="'" line="194" column="47" />
@@ -2229,10 +2229,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/linear.py" timestamp="1516075767984">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="71" />
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/linear.py" timestamp="1516077210670">
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="53" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/oracle_bptt_ddpg.py" timestamp="1495087834697">
         <mark key="'" line="306" column="18" />
@@ -5294,11 +5294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="107" column="14" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="318" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/examples/ec2_example.py" />
       <jump line="345" column="4" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="16" column="0" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="320" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
@@ -5389,11 +5384,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
       <jump line="3" column="17" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
       <jump line="21" column="37" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
       <jump line="495" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="4" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/utils/convert_parameters.py" />
       <jump line="19" column="44" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
       <jump line="22" column="24" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
+      <jump line="47" column="16" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
+      <jump line="4" column="25" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
+      <jump line="54" column="17" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/linear.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
+      <jump line="48" column="29" filename="$USER_HOME$/git/railrl/railrl/sandbox/compatible_features/networks.py" />
+      <jump line="821" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/functional.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5434,8 +5434,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>, self.bias)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6801,13 +6801,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>self.ones)</text>
+        <text>, self.bias)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tfcGFyYW1fZGV2aWNlXD4=</text>
+        <text>linear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHBhcmFtZXRlcnNfdG9fdmVjdG9yKHBhcmFtZXRlcnMpOgogICAgciIiIkNvbnZlcnQgcGFyYW1ldGVycyB0byBvbmUgdmVjdG9yCgogICAgQXJndW1lbnRzOgogICAgICAgIHBhcmFtZXRlcnMgKEl0ZXJhYmxlW1ZhcmlhYmxlXSk6IGFuIGl0ZXJhdG9yIG9mIFZhcmlhYmxlcyB0aGF0IGFyZSB0aGUKICAgICAgICAgICAgcGFyYW1ldGVycyBvZiBhIG1vZGVsLgoKICAgIFJldHVybnM6CiAgICAgICAgVGhlIHBhcmFtZXRlcnMgcmVwcmVzZW50ZWQgYnkgYSBzaW5nbGUgdmVjdG9yCiAgICAiIiIKICAgICMgRmxhZyBmb3IgdGhlIGRldmljZSB3aGVyZSB0aGUgcGFyYW1ldGVyIGlzIGxvY2F0ZWQKICAgIHBhcmFtX2RldmljZSA9IE5vbmUKCiAgICB2ZWMgPSBbXQogICAgZm9yIHBhcmFtIGluIHBhcmFtZXRlcnM6CiAgICAgICAgIyBFbnN1cmUgdGhlIHBhcmFtZXRlcnMgYXJlIGxvY2F0ZWQgaW4gdGhlIHNhbWUgZGV2aWNlCiAgICAgICAgcGFyYW1fZGV2aWNlID0gX2NoZWNrX3BhcmFtX2RldmljZShwYXJhbSwgcGFyYW1fZGV2aWNlKQoKICAgICAgICB2ZWMuYXBwZW5kKHBhcmFtLnZpZXcoLTEpKQogICAgcmV0dXJuIHRvcmNoLmNhdCh2ZWMpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRi5saW5lYXIoaW5wdXQsIHNlbGYud2VpZ2h0LCBzZWxmLmJpYXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -6956,9 +6956,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tfcGFyYW1fZGV2aWNlXD4=</last-search>
+      <last-search>linear</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tfcGFyYW1fZGV2aWNlXD4=</last-pattern>
+      <last-pattern>linear</last-pattern>
       <last-replace>swirl</last-replace>
       <last-substitute encoding="base64">XDx1c2VfZ3B1XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -6982,10 +6982,10 @@
         <entry encoding="base64">XDxwcmVfYWN0aXZhdGlvbl9wb2xpY3lfbG9zc1w+</entry>
         <entry>raw_po</entry>
         <entry>00</entry>
-        <entry>linear</entry>
         <entry>Tensor</entry>
         <entry encoding="base64">XDxwYXJhbV9kZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxfY2hlY2tfcGFyYW1fZGV2aWNlXD4=</entry>
+        <entry>linear</entry>
       </history-search>
       <history-cmd>
         <entry>'w</entry>
