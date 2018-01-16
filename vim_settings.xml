@@ -3695,12 +3695,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1514956761152">
-        <mark key="'" line="397" column="38" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-        <mark key="^" line="410" column="12" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1516064136235">
+        <mark key="'" line="382" column="35" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/policies/memory/memory_policy.py" timestamp="1495152023656">
         <mark key="'" line="6" column="20" />
@@ -4832,14 +4831,6 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1515207930745">
-        <mark key="u" line="12" column="38" />
-        <mark key="'" line="234" column="44" />
-        <mark key="[" line="234" column="44" />
-        <mark key="]" line="234" column="57" />
-        <mark key="." line="234" column="57" />
-        <mark key="^" line="234" column="57" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_env.py" timestamp="1497472080913">
         <mark key="'" line="22" column="21" />
         <mark key="[" line="3" column="12" />
@@ -5278,12 +5269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="4" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
-      <jump line="120" column="6" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
-      <jump line="131" column="25" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
-      <jump line="144" column="20" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
-      <jump line="154" column="43" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
-      <jump line="157" column="36" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="153" column="8" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="149" column="8" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="113" column="31" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
@@ -5378,6 +5363,12 @@
       <jump line="284" column="33" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="194" column="20" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
       <jump line="341" column="4" filename="$USER_HOME$/git/railrl/experiments/vaes/learn_swirl_vae.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="38" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/path_builder.py" />
+      <jump line="361" column="36" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="381" column="47" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/path_builder.py" />
+      <jump line="382" column="35" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5419,7 +5410,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwubGF1bmNoZXJzLmxhdW5jaGVyX3V0aWwgaW1wb3J0IHJ1bl9leHBlcmltZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZV9zdGF0ZT0uLi4sCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6785,22 +6776,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>use_gpu</text>
+        <text>self._current_path_goal,</text>
       </register>
       <register name="/" type="4">
-        <text>ptu</text>
+        <text>_current_path_builder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9hbHRlcm5hdGluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ29hbHM9c2VsZi5fY3VycmVudF9wYXRoX2dvYWwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwubGF1bmNoZXJzLmxhdW5jaGVyX3V0aWwgaW1wb3J0IHJ1bl9leHBlcmltZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZV9zdGF0ZT0uLi4sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHJhaW5fYWx0ZXJuYXRpbmcoKQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwubGF1bmNoZXJzLmxhdW5jaGVyX3V0aWwgaW1wb3J0IHJ1bl9leHBlcmltZW50Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -6852,7 +6843,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcHR1LnNldF9ncHVfbW9kZShUcnVlKQo=</text>
+        <text encoding="base64">ICAgICMgdHJhaW5fYWx0ZXJuYXRpbmcoKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -6912,37 +6903,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJ1bl9leHBlcmltZW50KAogICAgICAgIHRyYWluX2FsdGVybmF0aW5nLAogICAgICAgIHVzZV9ncHU9VHJ1ZSwKICAgICkK</text>
+        <text encoding="base64">ICAgICMgcHR1LnNldF9ncHVfbW9kZShUcnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJ1bl9leHBlcmltZW50KAogICAgICAgIHRyYWluX2FsdGVybmF0aW5nLAogICAgICAgIHVzZV9ncHU9VHJ1ZSwKICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB0dS5zZXRfZ3B1X21vZGUoVHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIG5wX3RvX3ZhcihucF9hcnJheSk6CiAgICByZXR1cm4gcHR1LlZhcmlhYmxlKHRvcmNoLmZyb21fbnVtcHkobnBfYXJyYXkpLmZsb2F0KCkpCgoK</text>
+        <text encoding="base64">ICAgIHB0dS5zZXRfZ3B1X21vZGUoVHJ1ZSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
+        <text encoding="base64">ZGVmIG5wX3RvX3ZhcihucF9hcnJheSk6CiAgICByZXR1cm4gcHR1LlZhcmlhYmxlKHRvcmNoLmZyb21fbnVtcHkobnBfYXJyYXkpLmZsb2F0KCkpCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVGhpcyBpcyB0aGUgZmlyc3QgcGxhY2UgdGhhdCB3ZSBjaGVhdC4gSG93ZXZlciwgdGhpcyBwcmV0cmFpbmluZyBpc24ndAogICAgIyBuZWVkZWQgaWYgeW91IGp1c3QgYWRkIHRoZSBsb3NzIHRvIHRoZSB0cmFpbmluZyAoc2VlIGJlbG93KQogICAgIyBwcmV0cmFpbl9lbmNvZGVyKGVuY29kZXIsIGVuY29kZXJfb3B0KQogICAgcHJpbnQoIkRvbmUgdHJhaW5pbmcgZW5jb2RlciIpCg==</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ptu</last-search>
+      <last-search>_current_path_builder</last-search>
       <last-offset />
-      <last-pattern>ptu</last-pattern>
+      <last-pattern>_current_path_builder</last-pattern>
       <last-replace>swirl</last-replace>
       <last-substitute encoding="base64">XDx1c2VfZ3B1XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -6950,7 +6941,6 @@
     </search>
     <history>
       <history-search>
-        <entry>estimated_mean</entry>
         <entry>latents</entry>
         <entry encoding="base64">XDx0cnVlX21lYW5zXD4=</entry>
         <entry encoding="base64">XDx0cnVlX2xhdGVudHNfbnBcPg==</entry>
@@ -6970,6 +6960,7 @@
         <entry encoding="base64">XDx1c2VfZ3B1XD4=</entry>
         <entry>use_gpu</entry>
         <entry>ptu</entry>
+        <entry>_current_path_builder</entry>
       </history-search>
       <history-cmd>
         <entry>98</entry>
