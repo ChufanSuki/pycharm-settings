@@ -999,8 +999,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="255" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/one_offs/ddpg_start_with_good_policy.py" timestamp="1516778063929">
-        <mark key="'" line="52" column="27" />
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/ddpg_start_with_good_policy.py" timestamp="1516820050585">
+        <mark key="'" line="64" column="32" />
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="61" />
         <mark key="." line="61" column="25" />
@@ -2962,11 +2962,11 @@
         <mark key="." line="79" column="43" />
         <mark key="^" line="79" column="43" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" timestamp="1516774943080">
-        <mark key="'" line="157" column="57" />
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" timestamp="1516819724714">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="106" column="22" />
+        <mark key="]" line="106" column="22" />
+        <mark key="." line="106" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2017/cs294-112-deep-rl/hw3/run_dqn_atari.py" timestamp="1488949195124">
@@ -5230,12 +5230,11 @@
         <mark key="^" line="92" column="28" />
         <mark key="." line="92" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" timestamp="1516774850098">
-        <mark key="'" line="43" column="40" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="47" />
-        <mark key="." line="111" column="16" />
-        <mark key="^" line="111" column="16" />
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" timestamp="1516819744654">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/recurrent_q_bptt_ddpg_exp.py" timestamp="1497976121600">
         <mark key="'" line="70" column="9" />
@@ -5578,10 +5577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="12" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
-      <jump line="67" column="33" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
-      <jump line="89" column="10" filename="$USER_HOME$/git/railrl/railrl/sac/policies.py" />
-      <jump line="86" column="32" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
       <jump line="101" column="49" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
       <jump line="114" column="42" filename="$USER_HOME$/git/railrl/railrl/sac/policies.py" />
       <jump line="42" column="29" filename="$USER_HOME$/git/railrl/railrl/torch/distributions.py" />
@@ -5618,7 +5613,6 @@
       <jump line="75" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
       <jump line="82" column="39" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
       <jump line="101" column="29" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
       <jump line="73" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
       <jump line="79" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
       <jump line="53" column="27" filename="$USER_HOME$/git/railrl/railrl/torch/algos/n3dpg.py" />
@@ -5678,6 +5672,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/git/railrl/experiments/torch/sac_sweep.py" />
       <jump line="73" column="12" filename="$USER_HOME$/git/railrl/experiments/torch/sac_sweep.py" />
       <jump line="52" column="27" filename="$USER_HOME$/git/railrl/experiments/one_offs/ddpg_start_with_good_policy.py" />
+      <jump line="117" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
+      <jump line="115" column="8" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
+      <jump line="64" column="32" filename="$USER_HOME$/git/railrl/experiments/one_offs/ddpg_start_with_good_policy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5719,7 +5718,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cF9wcmVmaXg9ImRkcGctY2hlZXRhaC1leHBsb3JlLXdpdGgtZXhwZXJ0IiwK</text>
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gubW9kdWxlcyBpbXBvcnQgSHViZXJMb3NzCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7085,22 +7084,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>301</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>mul</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZXNfa3dhcmdzLnRoZXRhJzogWwogICAgICAgICAgICAxLCAwLjUKICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gubW9kdWxlcyBpbXBvcnQgSHViZXJMb3NzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAnYWxnb19rd2FyZ3MucG9saWN5X2xvc3NfbXVsdGlwbGllcic6IFsKICAgICAgICAgICAgMSwgLTEKICAgICAgICBdLAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7152,7 +7151,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICogc2VsZi5wb2xpY3lfbG9zc19tdWx0aXBsaWVyCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7212,37 +7211,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvbGljeV9sb3NzX211bHRpcGxpZXIgPSBwb2xpY3lfbG9zc19tdWx0aXBsaWVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGV0YT0uNSwKICAgICAgICBtYXhfc2lnbWE9MC4zLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9saWN5X2xvc3NfbXVsdGlwbGllcj0xLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1pbl9zaWdtYT1Ob25lLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5fc2lnbWE9MC4xLAo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW0uQWRhZ3JhZCwK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW0uUk1TcHJvcCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyPVRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>mul</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>mul</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -7250,7 +7249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>policy_pre</entry>
         <entry>raw_</entry>
         <entry>Hack</entry>
         <entry encoding="base64">XDxjb21wdXRlX25vcm1hbGl6YXRpb25cPg==</entry>
@@ -7270,6 +7268,7 @@
         <entry>cuda()</entry>
         <entry>cuda</entry>
         <entry>ipdb</entry>
+        <entry>mul</entry>
       </history-search>
       <history-cmd>
         <entry>322</entry>
