@@ -5230,12 +5230,12 @@
         <mark key="^" line="92" column="28" />
         <mark key="." line="92" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" timestamp="1516830454136">
-        <mark key="'" line="89" column="16" />
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
-        <mark key="^" line="108" column="19" />
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" timestamp="1516832168820">
+        <mark key="'" line="21" column="15" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="23" />
+        <mark key="." line="93" column="23" />
+        <mark key="^" line="93" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/memory/recurrent_q_bptt_ddpg_exp.py" timestamp="1497976121600">
         <mark key="'" line="70" column="9" />
@@ -5578,7 +5578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="50" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
       <jump line="169" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/algos/ddpg.py" />
       <jump line="39" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/dspg/dspg.py" />
@@ -5678,6 +5677,7 @@
       <jump line="136" column="0" filename="$USER_HOME$/git/railrl/railrl/sac/sac.py" />
       <jump line="89" column="16" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
       <jump line="20" column="0" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5719,7 +5719,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>CartpoleEnv</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7085,7 +7085,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>CartpoleEnv</text>
       </register>
       <register name="/" type="4">
         <text>Cartpo</text>
