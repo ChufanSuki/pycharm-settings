@@ -207,7 +207,7 @@
         <mark key="." line="119" column="19" />
         <mark key="^" line="77" column="19" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/distributions.py" timestamp="1516846283702">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/distributions.py" timestamp="1517264279892">
         <mark key="'" line="3" column="5" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="51" column="31" />
@@ -2554,11 +2554,12 @@
         <mark key="." line="64" column="44" />
         <mark key="^" line="64" column="44" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/torch_rl_algorithm.py" timestamp="1517103268247">
-        <mark key="'" line="65" column="12" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/torch_rl_algorithm.py" timestamp="1517264414310">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="12" />
+        <mark key="." line="52" column="12" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/core/network.py" timestamp="1479600191251">
         <mark key="'" line="9" column="10" />
@@ -5725,8 +5726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="10" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="301" column="22" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="443" column="9" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="65" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/torch_rl_algorithm.py" />
@@ -5825,6 +5824,8 @@
       <jump line="37" column="15" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
       <jump line="144" column="52" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/benchmark.c" />
       <jump line="18" column="43" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blas.c" />
+      <jump line="51" column="19" filename="$USER_HOME$/git/railrl/railrl/torch/torch_rl_algorithm.py" />
+      <jump line="147" column="13" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7383,7 +7384,7 @@
         <text encoding="base64">ICAgICAgICBsYXN0X3N0YXRlID0gYWxsX25leHRfc3RhdGVzWy0xLCA6XQogICAgICAgIHJldHVybiBucC5zdW0oKGxhc3Rfc3RhdGUgLSBzZWxmLl9nb2FsX25wKSoqMikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -7433,12 +7434,12 @@
         <entry>bp|bd #</entry>
         <entry>Vsp</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>vsp</entry>
         <entry>65</entry>
         <entry>140</entry>
         <entry>110</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
