@@ -2568,8 +2568,12 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" timestamp="1517259426311">
-        <mark key="'" line="4" column="18" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" timestamp="1517260255515">
+        <mark key="'" line="37" column="15" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/make_plots.sh" timestamp="1515177106241">
         <mark key="'" line="9" column="0" />
@@ -5719,11 +5723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/algos/n3dpg.py" />
-      <jump line="126" column="12" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/n3dpg_sweep.py" />
       <jump line="103" column="12" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
       <jump line="20" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/n3dpg_sweep.py" />
       <jump line="27" column="10" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
@@ -5819,6 +5818,11 @@
       <jump line="31" column="17" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/use_model_in_implicit_optimization.py" />
       <jump line="109" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/use_model_in_implicit_optimization.py" />
       <jump line="4" column="18" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="30" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="16" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="15" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="37" column="15" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5859,8 +5863,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeSA9IFNxcE9jUG9saWN5KHRkbSwgZW52KQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC1sIGRvb2RhZA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7226,10 +7230,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IC1sIGRvb2RhZA==</text>
       </register>
       <register name="/" type="4">
-        <text>module</text>
+        <text>LDLIBS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeSA9IFNxcE9jUG9saWN5KHRkbSwgZW52KQo=</text>
@@ -7381,9 +7385,9 @@
       </register>
     </registers>
     <search>
-      <last-search>module</last-search>
+      <last-search>LDLIBS</last-search>
       <last-offset />
-      <last-pattern>module</last-pattern>
+      <last-pattern>LDLIBS</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7391,11 +7395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OU</entry>
-        <entry>kwargs</entry>
-        <entry>ou_kwargs</entry>
-        <entry>OUST</entry>
-        <entry>OUSt</entry>
         <entry>__getattr__</entry>
         <entry>num_simu</entry>
         <entry>return_grad</entry>
@@ -7411,6 +7410,11 @@
         <entry>tdm</entry>
         <entry>state</entry>
         <entry>module</entry>
+        <entry>OPT</entry>
+        <entry>LDFLAGS</entry>
+        <entry encoding="base64">XDxMREZMQUdTXD4=</entry>
+        <entry>CFLAGS</entry>
+        <entry>LDLIBS</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
