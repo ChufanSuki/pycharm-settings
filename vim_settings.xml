@@ -61,6 +61,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/benchmark.c" timestamp="1517263067569">
+        <mark key="'" line="144" column="52" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="90" column="21" />
+        <mark key="." line="144" column="53" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
         <mark key="[" line="63" column="20" />
@@ -2570,10 +2576,6 @@
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" timestamp="1517260255515">
         <mark key="'" line="37" column="15" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/make_plots.sh" timestamp="1515177106241">
         <mark key="'" line="9" column="0" />
@@ -5723,8 +5725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="12" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/n3dpg_sweep.py" />
       <jump line="27" column="10" filename="$USER_HOME$/git/railrl/experiments/one_offs/dspg_sweep.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="301" column="22" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
@@ -5823,6 +5823,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
       <jump line="15" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
       <jump line="37" column="15" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="144" column="52" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/benchmark.c" />
+      <jump line="18" column="43" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blas.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5863,8 +5865,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC1sIGRvb2RhZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKiBhbGxvY2F0ZSBtZW1vcnkgZm9yIGFsbCBwcm9ibGVtcyAqLwogIGRvdWJsZSogYnVmID0gTlVMTDsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7236,7 +7238,7 @@
         <text>LDLIBS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeSA9IFNxcE9jUG9saWN5KHRkbSwgZW52KQo=</text>
+        <text encoding="base64">ICAvKiBhbGxvY2F0ZSBtZW1vcnkgZm9yIGFsbCBwcm9ibGVtcyAqLwogIGRvdWJsZSogYnVmID0gTlVMTDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeSA9IFNxcE9jUG9saWN5KHRkbSwgZW52KQo=</text>
