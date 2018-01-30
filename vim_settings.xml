@@ -863,8 +863,8 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517287570776">
-        <mark key="'" line="19" column="13" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517288313108">
+        <mark key="'" line="182" column="72" />
         <mark key="[" line="206" column="28" />
         <mark key="]" line="206" column="28" />
         <mark key="." line="206" column="34" />
@@ -5758,9 +5758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="31" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
-      <jump line="137" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
-      <jump line="138" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
       <jump line="139" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
       <jump line="140" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
       <jump line="156" column="31" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
@@ -5858,6 +5855,9 @@
       <jump line="183" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
       <jump line="181" column="31" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
       <jump line="157" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-roshan.c" />
+      <jump line="186" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="204" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="182" column="72" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7268,7 +7268,7 @@
         <text>loadu_pd</text>
       </register>
       <register name="/" type="4">
-        <text>B</text>
+        <text>B[0]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGludCBLLAo=</text>
@@ -7420,9 +7420,9 @@
       </register>
     </registers>
     <search>
-      <last-search>B</last-search>
+      <last-search>B[0]</last-search>
       <last-offset />
-      <last-pattern>B</last-pattern>
+      <last-pattern>B[0]</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7430,8 +7430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>store_pd</entry>
-        <entry>load_u</entry>
         <entry>KERNEL_SIZE</entry>
         <entry>prefetch</entry>
         <entry>KERNEL</entry>
@@ -7450,6 +7448,8 @@
         <entry>asdf</entry>
         <entry>asd</entry>
         <entry>B</entry>
+        <entry>b0</entry>
+        <entry>B[0]</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
