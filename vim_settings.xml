@@ -754,6 +754,13 @@
         <mark key="." line="85" column="51" />
         <mark key="^" line="83" column="38" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" timestamp="1517523328010">
+        <mark key="'" line="34" column="33" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/torch_ddpg_cheetah.py" timestamp="1511589196023">
         <mark key="'" line="66" column="21" />
         <mark key="[" line="69" column="0" />
@@ -3380,9 +3387,6 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/probabilistic_tdm/mpc_controller.py" timestamp="1517372032618">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rlkit/rlkit/torch/algos/sac.py" timestamp="1516846369730">
         <mark key="'" line="167" column="13" />
         <mark key="[" line="28" column="0" />
@@ -4462,7 +4466,7 @@
         <mark key="." line="74" column="15" />
         <mark key="^" line="67" column="26" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" timestamp="1517342259290">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" timestamp="1517521511785">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="99" column="45" />
@@ -5886,16 +5890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="21" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="107" column="38" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="108" column="38" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="109" column="38" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="137" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="138" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="139" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="140" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="167" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="169" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="215" column="37" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="216" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="233" column="23" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
@@ -5986,6 +5980,16 @@
       <jump line="286" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="248" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="55" column="19" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="11" column="25" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="7" column="25" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="23" column="22" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="17" column="11" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="31" column="33" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6027,7 +6031,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGIzID0gX21tMjU2X3NldDFfcGQoQltsZGEgKyAzXSk7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7393,22 +7397,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>KERNEL_SIZE</text>
+        <text>100</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGIzID0gX21tMjU2X3NldDFfcGQoQltsZGEgKyAzXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uW2ldID0gYTBfdmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGMxID0gX21tMjU2X2ZtYWRkX3BkKGEwLCBiMCwKICAgICAgICAgICAgICAgICAgICBfbW0yNTZfZm1hZGRfcGQoYTEsIGIxLAogICAgICAgICAgICAgICAgICAgICAgICBfbW0yNTZfZm1hZGRfcGQoYTIsIGIyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgX21tMjU2X2ZtYWRkX3BkKGEzLCBiMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjMQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHFfdmFsdWVzID0gW10KICAgIHFfZ3JhZGllbnRzID0gW10K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7460,7 +7464,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYyID0gQVsyKkJMT0NLX1NJWkVdICogQlsyXTsKICAgICAgICAgICAgICAgIGYzID0gQVszKkJMT0NLX1NJWkVdICogQlszXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7520,37 +7524,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I0RFRklORSBLVyA2Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgKChpbnB1dCAvIHgpICsgMSkgKiB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY29uc3QgaW50IGpfZW5kID0gKE4gPj4gMikgPDwgMjsK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">NDYgKAogICAgY29uc3QgaW50IE0sCiAgICBjb25zdCBpbnQgTiwKICAgIGNvbnN0IGludCBLLAogICAgY29uc3QgaW50IGxkYSwKICAgIGNvbnN0IGRvdWJsZSogQSwKICAgIGNvbnN0IGRvdWJsZSogQiwKICAgIGRvdWJsZSogcmVzdHJpY3QgQwopIHsKCiAgICBpbnQgaSwgaiwgaywgaW5kQjsKICAgIGRvdWJsZSBjaWo7CiAgICBjb25zdCBpbnQgaV9lbmQgPSAoTSA+PiAyKSA8PCAyOwovLyAgICBjb25zdCBpbnQgal9lbmQgPSAoTiA+PiAyKSA8PCAyOwogICAgY29uc3QgaW50IGpfZW5kID0gKChOIC8gNikgKyAxKSAqIE47CiAgICBwcmludGYoIk4gPSAlZCIsIGpfZW5k</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBiMCA9IF9tbTI1Nl9zZXQxX3BkKEJbMF0pOwovLyAgICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCBpX2VuZDsgaSArPSA0LCBBICs9IDQsIEMgKz0gNCkgewovLyAgICAgICAgICAgICAgICBjMCA9IF9tbTI1Nl9sb2FkdV9wZChDKTsKLy8gICAgICAgICAgICAgICAgYTAgPSBfbW0yNTZfbG9hZF9wZChBKTsKLy8gICAgICAgICAgICAgICAgX21tMjU2X3N0b3JldV9wZChDLCBfbW0yNTZfZm1hZGRfcGQoYTAsIGIwLCBjMCkpOwovLyAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxX3ZhbHVlcy5hcHBlbmQoCiAgICAgICAgICAgIHFmLmV2YWxfbnAob2JbTm9uZV0sIGFjdGlvbltOb25lXSlbMCwgMF0KICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>KERNEL_SIZE</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern>KERNEL_SIZE</last-pattern>
+      <last-pattern>100</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7558,7 +7562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>indB</entry>
         <entry>B_in</entry>
         <entry>B</entry>
@@ -7578,6 +7581,7 @@
         <entry>KH</entry>
         <entry>KW</entry>
         <entry>KERNEL_SIZE</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
