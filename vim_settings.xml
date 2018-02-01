@@ -754,12 +754,12 @@
         <mark key="." line="85" column="51" />
         <mark key="^" line="83" column="38" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" timestamp="1517523328010">
-        <mark key="'" line="34" column="33" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="14" column="10" />
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" timestamp="1517526975616">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="144" />
+        <mark key="." line="58" column="51" />
+        <mark key="^" line="58" column="51" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/torch_ddpg_cheetah.py" timestamp="1511589196023">
         <mark key="'" line="66" column="21" />
@@ -5890,9 +5890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="37" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="216" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="233" column="23" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="269" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="285" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="54" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
@@ -5990,6 +5987,9 @@
       <jump line="23" column="22" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
       <jump line="17" column="11" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
       <jump line="31" column="33" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="10" column="138" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
+      <jump line="14" column="23" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6031,7 +6031,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">VU5TVEFCTEVfUE9MQ0lZX1BBVEggPSAnL2hvbWUvdml0Y2h5ci9naXQvcmFpbHJsL2RhdGEvZG9vZGFkczMvMDEtMjYtZGRwZy1zd2VlcC1oYXJkZXItdGFza3MvMDEtMjYtZGRwZy1zd2VlcC1oYXJkZXItdGFza3MtaWQ5LXMyMDYyOS9wYXJhbXMucGtsJwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7397,22 +7397,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>BAD_POLICY_PATH</text>
       </register>
       <register name="/" type="4">
-        <text>100</text>
+        <text>PATH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uW2ldID0gYTBfdmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHFfdmFsdWVzID0gW10KICAgIHFfZ3JhZGllbnRzID0gW10K</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7464,7 +7464,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHFfdmFsdWVzID0gW10KICAgIHFfZ3JhZGllbnRzID0gW10K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7524,19 +7524,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -7545,16 +7545,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxX3ZhbHVlcy5hcHBlbmQoCiAgICAgICAgICAgIHFmLmV2YWxfbnAob2JbTm9uZV0sIGFjdGlvbltOb25lXSlbMCwgMF0KICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>100</last-search>
+      <last-search>PATH</last-search>
       <last-offset />
-      <last-pattern>100</last-pattern>
+      <last-pattern>PATH</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7562,7 +7562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indB</entry>
         <entry>B_in</entry>
         <entry>B</entry>
         <entry>rowj</entry>
@@ -7582,6 +7581,7 @@
         <entry>KW</entry>
         <entry>KERNEL_SIZE</entry>
         <entry>100</entry>
+        <entry>PATH</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
