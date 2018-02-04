@@ -41,4 +41,5 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="load" value="import argparse&#10;import joblib&#10;&#10;&#10;def main(args):&#10;    data = joblib.load(args.file)&#10;&#10;&#10;if __name__ == &quot;__main__&quot;:&#10;    parser = argparse.ArgumentParser()&#10;    parser.add_argument('file', type=str, help='path to the snapshot file')&#10;    args = parser.parse_args()&#10;&#10;    main(args)" description="load joblib file" toReformat="false" toShortenFQNames="true" />
 </templateSet>
