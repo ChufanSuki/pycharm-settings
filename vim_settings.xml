@@ -479,8 +479,8 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1516837891207">
-        <mark key="'" line="17" column="30" />
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1517854969207">
+        <mark key="'" line="705" column="29" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -635,10 +635,6 @@
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/use_tdm_in_implicit_optimization.py" timestamp="1517718056792">
-        <mark key="'" line="6" column="38" />
-        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1514188274158">
         <mark key="'" line="6" column="12" />
@@ -5880,17 +5876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="50" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="355" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="372" column="13" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="496" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="34" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="112" column="14" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="113" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="55" column="22" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
-      <jump line="32" column="40" filename="$USER_HOME$/git/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
       <jump line="30" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" />
       <jump line="7" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
@@ -5980,6 +5965,17 @@
       <jump line="40" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
       <jump line="24" column="18" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
       <jump line="48" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
+      <jump line="0" column="1" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="103" column="11" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="165" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="187" column="34" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="198" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="217" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="235" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="245" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="360" column="27" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="705" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7390,7 +7386,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>qf_output</text>
+        <text>use_gpu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcWYuZXZhbF9ucChmbGF0X29iW05vbmVdLCBhY3Rpb25bTm9uZV0pWzBdCg==</text>
@@ -7542,9 +7538,9 @@
       </register>
     </registers>
     <search>
-      <last-search>qf_output</last-search>
+      <last-search>use_gpu</last-search>
       <last-offset />
-      <last-pattern>qf_output</last-pattern>
+      <last-pattern>use_gpu</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7552,8 +7548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sample</entry>
-        <entry>sample_actions</entry>
         <entry>get_numpy</entry>
         <entry>cycle</entry>
         <entry>False</entry>
@@ -7572,6 +7566,8 @@
         <entry>entropyu</entry>
         <entry>entropy</entry>
         <entry>qf_output</entry>
+        <entry>CUDA</entry>
+        <entry>use_gpu</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
