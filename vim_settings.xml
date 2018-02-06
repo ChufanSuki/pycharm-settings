@@ -71,7 +71,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/benchmark.c" timestamp="1517465443451">
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/benchmark.c" timestamp="1517945173746">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="7" />
@@ -865,12 +865,11 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517942731227">
-        <mark key="'" line="456" column="0" />
-        <mark key="[" line="419" column="93" />
-        <mark key="]" line="419" column="91" />
-        <mark key="^" line="419" column="91" />
-        <mark key="." line="419" column="91" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517945163482">
+        <mark key="'" line="285" column="16" />
+        <mark key="[" line="352" column="33" />
+        <mark key="]" line="352" column="34" />
+        <mark key="." line="352" column="34" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
@@ -5861,11 +5860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="43" column="44" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="68" column="12" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="72" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
-      <jump line="351" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="87" column="12" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="661" column="22" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
@@ -5961,6 +5955,11 @@
       <jump line="24" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="201" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="456" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="248" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="249" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="254" column="23" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="371" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="285" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6002,7 +6001,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiTiA9ICVkXG4iLCBOKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21tMjU2X3N0b3JldV9wZChDICsgMyAqIGxkYSwgYzMpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7368,22 +7367,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>c0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRmKCJOID0gJWRcbiIsIE4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21tMjU2X3N0b3JldV9wZChDICsgMyAqIGxkYSwgYzMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiTiA9ICVkXG4iLCBOKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpaiArPSBBWzQqQkxPQ0tfU0laRV0gKiBCWzRdOwogICAgICAgICAgICAgICAgY2lqICs9IEFbNSpCTE9DS19TSVpFXSAqIEJbNV07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGY0ID0gZjAgKyBmMTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7435,7 +7434,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBdCB0aGlzIHBvaW50LCB3ZSB3YW50IHRvIGRvIChpbiBweXRob24gbm90YXRpb24pCiAgICAgICAgLy8gQyArPSBBIEIKICAgICAgICAvLyB3aGVyZSBBIGlzIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7495,37 +7494,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbW0yNTZfZm1hZGRfcGQoYTQsIGI1LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbW0yNTZfZm1hZGRfcGQoYTQsIGI1LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGI0ID0gX21tMjU2X3NldDFfcGQoQltsZGEgKyAzXSk7CiAgICAgICAgICAgICAgICBiNSA9IF9tbTI1Nl9zZXQxX3BkKEJbbGRhICsgM10pOwo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGI0ID0gX21tMjU2X3NldDFfcGQoQls0XSk7CiAgICAgICAgICAgICAgICBiNSA9IF9tbTI1Nl9zZXQxX3BkKEJbNV0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>c0</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>c0</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7533,12 +7532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>False</entry>
-        <entry>decre</entry>
-        <entry>init_tau</entry>
-        <entry encoding="base64">XDxleHBhbmRfZ29hbFw+</entry>
-        <entry>compute_d</entry>
-        <entry>distance</entry>
         <entry>TODO</entry>
         <entry>log_prob</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9sb2dfcGlcPg==</entry>
@@ -7553,6 +7546,12 @@
         <entry encoding="base64">XDxNXD4=</entry>
         <entry>4</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxLV1w+</entry>
+        <entry>indB</entry>
+        <entry>C</entry>
+        <entry>B</entry>
+        <entry>asdf</entry>
+        <entry>c0</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
