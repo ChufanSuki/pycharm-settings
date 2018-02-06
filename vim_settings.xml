@@ -865,12 +865,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517882532230">
-        <mark key="'" line="431" column="79" />
-        <mark key="[" line="294" column="48" />
-        <mark key="]" line="294" column="47" />
-        <mark key="." line="294" column="47" />
-        <mark key="^" line="294" column="47" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517942731227">
+        <mark key="'" line="456" column="0" />
+        <mark key="[" line="419" column="93" />
+        <mark key="]" line="419" column="91" />
+        <mark key="^" line="419" column="91" />
+        <mark key="." line="419" column="91" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
@@ -5861,13 +5861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="65" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="73" column="17" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
-      <jump line="37" column="21" filename="$USER_HOME$/git/railrl/railrl/state_distance/exploration.py" />
-      <jump line="11" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/core.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="260" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="43" column="44" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
       <jump line="68" column="12" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/modules/module.py" />
@@ -5958,9 +5951,16 @@
       <jump line="705" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="79" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="445" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="439" column="81" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="431" column="79" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="258" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="423" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="445" column="29" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="11" column="139" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="20" column="19" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="24" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="201" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="456" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6001,8 +6001,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiTiA9ICVkXG4iLCBOKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7371,19 +7371,19 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNXD4=</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcWYuZXZhbF9ucChmbGF0X29iW05vbmVdLCBhY3Rpb25bTm9uZV0pWzBdCg==</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRmKCJOID0gJWRcbiIsIE4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiTiA9ICVkXG4iLCBOKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7495,10 +7495,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
@@ -7507,25 +7507,25 @@
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNXD4=</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNXD4=</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7533,7 +7533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cycle</entry>
         <entry>False</entry>
         <entry>decre</entry>
         <entry>init_tau</entry>
@@ -7546,19 +7545,16 @@
         <entry encoding="base64">XDxleHBlY3RlZF9sb2dfcGlfdGFyZ2V0XD4=</entry>
         <entry>return_expected_log_prob</entry>
         <entry>expected_log_prob</entry>
-        <entry>print</entry>
         <entry>entropyu</entry>
         <entry>entropy</entry>
         <entry>qf_output</entry>
         <entry>CUDA</entry>
         <entry>use_gpu</entry>
         <entry encoding="base64">XDxNXD4=</entry>
+        <entry>4</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>65</entry>
-        <entry>140</entry>
-        <entry>110</entry>
-        <entry>w'</entry>
         <entry>25</entry>
         <entry>31</entry>
         <entry>13</entry>
@@ -7574,6 +7570,10 @@
         <entry>83</entry>
         <entry>161</entry>
         <entry>q</entry>
+        <entry>259</entry>
+        <entry>260</entry>
+        <entry>490</entry>
+        <entry>420</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
