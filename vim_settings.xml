@@ -865,8 +865,8 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517466566963">
-        <mark key="'" line="248" column="4" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517882532230">
+        <mark key="'" line="431" column="79" />
         <mark key="[" line="294" column="48" />
         <mark key="]" line="294" column="47" />
         <mark key="." line="294" column="47" />
@@ -1871,11 +1871,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="28" column="23" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/rlkit/rlkit/torch/ddpg/ddpg.py" timestamp="1517360617513">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="262" column="22" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/eval_qf_as_implicit_model.py" timestamp="1505878571803">
         <mark key="'" line="38" column="23" />
@@ -5362,22 +5357,12 @@
         <mark key="." line="136" column="14" />
         <mark key="^" line="136" column="16" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/visualize_implicit_model_error.py" timestamp="1517718069948">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="76" column="42" />
-      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1509866695491">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="24" column="9" />
         <mark key="." line="12" column="40" />
         <mark key="^" line="10" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" timestamp="1517338699689">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="103" column="44" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/pygame/pygame_env.py" timestamp="1497472080913">
         <mark key="'" line="22" column="21" />
@@ -5876,11 +5861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" />
-      <jump line="7" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
-      <jump line="34" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
-      <jump line="6" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
       <jump line="64" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
       <jump line="65" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
       <jump line="73" column="17" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
@@ -5976,6 +5956,11 @@
       <jump line="245" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="360" column="27" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="705" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="79" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="445" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="439" column="81" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="431" column="79" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7386,7 +7371,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>use_gpu</text>
+        <text encoding="base64">XDxNXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcWYuZXZhbF9ucChmbGF0X29iW05vbmVdLCBhY3Rpb25bTm9uZV0pWzBdCg==</text>
@@ -7538,9 +7523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>use_gpu</last-search>
+      <last-search encoding="base64">XDxNXD4=</last-search>
       <last-offset />
-      <last-pattern>use_gpu</last-pattern>
+      <last-pattern encoding="base64">XDxNXD4=</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7548,7 +7533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_numpy</entry>
         <entry>cycle</entry>
         <entry>False</entry>
         <entry>decre</entry>
@@ -7568,6 +7552,7 @@
         <entry>qf_output</entry>
         <entry>CUDA</entry>
         <entry>use_gpu</entry>
+        <entry encoding="base64">XDxNXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
