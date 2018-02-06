@@ -17,6 +17,10 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="11" column="57" />
       </file>
+      <file name="/a.dummy" timestamp="1517955173676">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="38" column="15" />
@@ -73,10 +77,6 @@
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/benchmark.c" timestamp="1517945173746">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="81" column="4" />
-        <mark key="]" line="81" column="7" />
-        <mark key="." line="81" column="7" />
-        <mark key="^" line="81" column="7" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/algos/noop_algo.py" timestamp="1480029897368">
         <mark key="'" line="55" column="44" />
@@ -865,12 +865,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517948526648">
-        <mark key="'" line="582" column="48" />
-        <mark key="[" line="582" column="38" />
-        <mark key="]" line="582" column="48" />
-        <mark key="^" line="582" column="48" />
-        <mark key="." line="582" column="48" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" timestamp="1517958020942">
+        <mark key="'" line="675" column="12" />
+        <mark key="[" line="494" column="0" />
+        <mark key="]" line="494" column="0" />
+        <mark key="^" line="493" column="48" />
+        <mark key="." line="494" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-private/sandbox/rocky/tf/policies/deterministic_mlp_policy.py" timestamp="1479867080370">
         <mark key="'" line="11" column="29" />
@@ -916,6 +916,13 @@
         <mark key="]" line="257" column="0" />
         <mark key="." line="257" column="0" />
         <mark key="^" line="224" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/tmp.c" timestamp="1517955881273">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/state_distance/vectorized_train_q.py" timestamp="1510093027011">
         <mark key="'" line="253" column="12" />
@@ -3378,6 +3385,9 @@
       <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1517528784883">
         <mark key="'" line="125" column="8" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" timestamp="1517357973651">
+        <mark key="'" line="170" column="48" />
+      </file>
       <file name="/code.py" timestamp="1515556577223">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
@@ -3803,6 +3813,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c.132t.vect" timestamp="1517954283475">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/ros/baxter_ddpg.py" timestamp="1495926767685">
         <mark key="'" line="13" column="15" />
@@ -5817,6 +5830,9 @@
         <mark key="^" line="222" column="7" />
         <mark key="." line="222" column="7" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-opt.c" timestamp="1517957498489">
+        <mark key="'" line="32" column="5" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Berkeley/Classes/Fall2016/cs281a-statistical-learning-theory/homework/hw6/sum_product.py" timestamp="1477983987740">
         <mark key="'" line="92" column="4" />
         <mark key="[" line="189" column="8" />
@@ -5861,106 +5877,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/sac/expected_sac.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/sac/expected_sac.py" />
-      <jump line="109" column="32" filename="$USER_HOME$/git/railrl/railrl/torch/sac/expected_sac.py" />
-      <jump line="102" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/sac/expected_sac.py" />
-      <jump line="100" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/sac/expected_sac.py" />
-      <jump line="98" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/sac/expected_sac.py" />
-      <jump line="80" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="76" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="83" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="191" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="212" column="40" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="241" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="256" column="40" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="289" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="305" column="40" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="358" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="365" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="197" column="32" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
-      <jump line="28" column="15" filename="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" />
-      <jump line="67" column="56" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
-      <jump line="20" column="10" filename="$USER_HOME$/git/railrl/experiments/one_offs/visualize_qf_gradient.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="122" column="18" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
-      <jump line="35" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
-      <jump line="40" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
-      <jump line="24" column="18" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
-      <jump line="0" column="1" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="103" column="11" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="165" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="187" column="34" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="198" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="217" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="235" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="245" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="360" column="27" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="705" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="79" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="439" column="81" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="431" column="79" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="258" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="423" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="445" column="29" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="11" column="139" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="20" column="19" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="24" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="201" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="456" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="248" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="249" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="254" column="23" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="371" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="285" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="251" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="476" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="221" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="535" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="714" column="57" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="689" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="691" column="29" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="700" column="62" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="711" column="66" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="695" column="46" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="22" column="18" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="713" column="69" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="717" column="24" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="516" column="19" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="541" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="558" column="15" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="561" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="570" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="572" column="19" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="567" column="35" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="583" column="5" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="434" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="498" column="33" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="559" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="496" column="11" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="497" column="13" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="557" column="10" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="566" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="579" column="11" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="574" column="64" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="568" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="437" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="543" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="610" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="345" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="330" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="315" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="255" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="358" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="377" column="37" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="381" column="24" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="431" column="1" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="390" column="44" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="401" column="13" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="411" column="48" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="425" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="228" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="417" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="272" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="285" column="45" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="286" column="45" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="287" column="45" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="288" column="45" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="301" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="302" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="303" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="304" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="316" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="317" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="318" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="319" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="331" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="332" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="333" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="334" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="346" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="347" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="348" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="349" column="49" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="378" column="44" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="388" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="402" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="426" column="24" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="238" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="257" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="258" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="259" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="260" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="261" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="524" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="262" column="30" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="362" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="363" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="364" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="365" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="366" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="367" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="139" column="19" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c.132t.vect" />
+      <jump line="227" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="595" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="30" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="31" column="61" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="362" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="512" column="23" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="391" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="490" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/tmp.c" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="20" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="70" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="27" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/Makefile" />
+      <jump line="299" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="496" column="7" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="495" column="7" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="607" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="668" column="24" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="252" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="655" column="5" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="679" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="432" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="32" column="5" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-opt.c" />
+      <jump line="530" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="21" column="23" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="501" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="499" column="36" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="509" column="40" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="513" column="65" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="534" column="15" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="582" column="48" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="224" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="541" column="21" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="546" column="90" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="552" column="33" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="528" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="529" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="553" column="32" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="569" column="20" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="533" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="538" column="61" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="539" column="25" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="547" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="548" column="42" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="549" column="41" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="582" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="551" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="506" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="466" column="18" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="674" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6001,8 +6017,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>BLOCK_SIZE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgY29uc3QgaW50IE4sCiAgICBjb25zdCBpbnQgSywKICAgIGNvbnN0IGludCBhX3N0cmlkZSwKICAgIGNvbnN0IGludCBiX3N0cmlkZSwKICAgIGNvbnN0IGludCBjX3N0cmlkZSwKICAgIGNvbnN0IGRvdWJsZSogQSwKICAgIGNvbnN0IGRvdWJsZSogQiwKICAgIGRvdWJsZSogcmVzdHJpY3QgQwopOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7368,22 +7384,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>BLOCK_SIZE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rowk</text>
+        <text>dgemm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqICAtIEMgaXMgYmxvY2tfaGVpZ2h0IHggMQo=</text>
+        <text encoding="base64">dm9pZCBkZ2VtbSAoCiAgICBjb25zdCBpbnQgTSwKICAgIGNvbnN0IGludCBOLAogICAgY29uc3QgaW50IEssCiAgICBjb25zdCBpbnQgYV9zdHJpZGUsCiAgICBjb25zdCBpbnQgYl9zdHJpZGUsCiAgICBjb25zdCBpbnQgY19zdHJpZGUsCiAgICBjb25zdCBkb3VibGUqIEEsCiAgICBjb25zdCBkb3VibGUqIEIsCiAgICBkb3VibGUqIHJlc3RyaWN0IEMKKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEEgPSBBX2luOwogICAgQiA9IEJfaW47CiAgICBDID0gQ19pbjsKCg==</text>
+        <text encoding="base64">ICAgIAogICAgY29uc3QgaW50IE4sCiAgICBjb25zdCBpbnQgSywKICAgIGNvbnN0IGludCBhX3N0cmlkZSwKICAgIGNvbnN0IGludCBiX3N0cmlkZSwKICAgIGNvbnN0IGludCBjX3N0cmlkZSwKICAgIGNvbnN0IGRvdWJsZSogQSwKICAgIGNvbnN0IGRvdWJsZSogQiwKICAgIGRvdWJsZSogcmVzdHJpY3QgQwopOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEMgPSBDX2luICsgaipsZGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZG9fYmxvY2tfNDZfbm9fYXZ4KAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7435,7 +7451,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDICs9IGxkYSAtIGJsb2NrX2hlaWdodDsK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZG9fYmxvY2tfNDZfbm9fYXZ4ICgKICAgIGNvbnN0IGludCBNLAogICAgY29uc3QgaW50IE4sCiAgICBjb25zdCBpbnQgSywKICAgIGNvbnN0IGludCBCX2hlaWdodCwKICAgIGNvbnN0IGludCBDX2hlaWdodCwKICAgIGNvbnN0IGRvdWJsZSogQSwKICAgIGNvbnN0IGRvdWJsZSogQiwKICAgIGRvdWJsZSogcmVzdHJpY3QgQwopIHsKCiAgICBpbnQgaSwgaiwgaywgaW5kQjsKICAgIGRvdWJsZSBjaWo7CiAgICBjb25zdCBpbnQgaV9lbmQgPSAoTSA+PiAyKSA8PCAyOwovLyAgICBjb25zdCBpbnQgal9lbmQgPSAoTiA+PiAyKSA8PCAyOwogICAgY29uc3QgaW50IGpfZW5kID0gKChOIC8gS1cpKSAqIEtXOwovLyAgICBwcmludGYoIk4gPSAlZFxuIiwgTik7Ci8vICAgIHByaW50Zigial9lbmQgPSAlZFxuIiwgal9lbmQpOwogICAgY29uc3QgaW50IGtfZW5kID0gKEsgPj4gMikgPDwgMjsKICAgIHJlZ2lzdGVyIGRvdWJsZSBmMCwgZjEsIGYyLCBmMywgZjQsIGY1OwogICAgX19tMjU2ZCBhMCwgYTEsIGEyLCBhMzsKICAgIF9fbTI1NmQgYzAsIGMxLCBjMiwgYzMsIGM0LCBjNTsKICAgIF9fbTI1NmQgYjAsIGIxLCBiMiwgYjM7CiAgICBkb3VibGUgKiByZXN0cmljdCBDX2luID0gQzsKICAgIGNvbnN0IGRvdWJsZSAqQV9pbiwgKkJfaW47CiAgICBBX2luID0gQTsKICAgIEJfaW4gPSBCOwoKICAgIGZvciAoaiA9IDA7IGogPCBqX2VuZDsgaiArPSBLVykgewogICAgICAgIGluZEIgPSBqKkJfaGVpZ2h0OwogICAgICAgIEMgPSBDX2luICsgaipDX2hlaWdodDsKICAgICAgICBmb3IgKGkgPSAwOyBpIDwgaV9lbmQ7IGkgKz0gS0gsIEMgKz0gS0gpIHsKICAgICAgICAgICAgQSA9IEFfaW4gKyBpOwogICAgICAgICAgICBCID0gQl9pbiArIGluZEI7CiAgICAgICAgICAgIGMwID0gX21tMjU2X2xvYWR1X3BkKEMpOwogICAgICAgICAgICBjMSA9IF9tbTI1Nl9sb2FkdV9wZChDICsgQ19oZWlnaHQpOwogICAgICAgICAgICBjMiA9IF9tbTI1Nl9sb2FkdV9wZChDICsgMiAqIENfaGVpZ2h0KTsKICAgICAgICAgICAgYzMgPSBfbW0yNTZfbG9hZHVfcGQoQyArIDMgKiBDX2hlaWdodCk7CiAgICAgICAgICAgIGM0ID0gX21tMjU2X2xvYWR1X3BkKEMgKyA0ICogQ19oZWlnaHQpOwogICAgICAgICAgICBjNSA9IF9tbTI1Nl9sb2FkdV9wZChDICsgNSAqIENfaGVpZ2h0KTsKICAgICAgICAgICAgZm9yIChrID0gMDsgayA8IGtfZW5kOyBrICs9IEtILCBBICs9IEtIICogQkxPQ0tfU0laRSwgQiArPSBLSCkgewogICAgICAgICAgICAgICAgYTAgPSBfbW0yNTZfbG9hZF9wZChBKTsKICAgICAgICAgICAgICAgIGExID0gX21tMjU2X2xvYWRfcGQoQSArIEJMT0NLX1NJWkUpOwogICAgICAgICAgICAgICAgYTIgPSBfbW0yNTZfbG9hZF9wZChBICsgMiAqIEJMT0NLX1NJWkUpOwogICAgICAgICAgICAgICAgYTMgPSBfbW0yNTZfbG9hZF9wZChBICsgMyAqIEJMT0NLX1NJWkUpOwoKICAgICAgICAgICAgICAgIGIwID0gX21tMjU2X3NldDFfcGQoQlswXSk7CiAgICAgICAgICAgICAgICBiMSA9IF9tbTI1Nl9zZXQxX3BkKEJbMV0pOwogICAgICAgICAgICAgICAgYjIgPSBfbW0yNTZfc2V0MV9wZChCWzJdKTsKICAgICAgICAgICAgICAgIGIzID0gX21tMjU2X3NldDFfcGQoQlszXSk7CgogICAgICAgICAgICAgICAgYzAgPSBhMCpiMCArIGExKmIxICsgYTIqYjIgKyBhMypiMyArIGMwOwoKCiAgICAgICAgICAgICAgICBiMCA9IF9tbTI1Nl9zZXQxX3BkKEJbQl9oZWlnaHRdKTsKICAgICAgICAgICAgICAgIGIxID0gX21tMjU2X3NldDFfcGQoQltCX2hlaWdodCArIDFdKTsKICAgICAgICAgICAgICAgIGIyID0gX21tMjU2X3NldDFfcGQoQltCX2hlaWdodCArIDJdKTsKICAgICAgICAgICAgICAgIGIzID0gX21tMjU2X3NldDFfcGQoQltCX2hlaWdodCArIDNdKTsKCiAgICAgICAgICAgICAgICBjMSA9IGEwKmIwICsgYTEqYjEgKyBhMipiMiArIGEzKmIzICsgYzE7CgogICAgICAgICAgICAgICAgYjAgPSBfbW0yNTZfc2V0MV9wZChCWzIgKiBCX2hlaWdodF0pOwogICAgICAgICAgICAgICAgYjEgPSBfbW0yNTZfc2V0MV9wZChCWzIgKiBCX2hlaWdodCArIDFdKTsKICAgICAgICAgICAgICAgIGIyID0gX21tMjU2X3NldDFfcGQoQlsyICogQl9oZWlnaHQgKyAyXSk7CiAgICAgICAgICAgICAgICBiMyA9IF9tbTI1Nl9zZXQxX3BkKEJbMiAqIEJfaGVpZ2h0ICsgM10pOwoKICAgICAgICAgICAgICAgIGMyID0gYTAqYjAgKyBhMSpiMSArIGEyKmIyICsgYTMqYjMgKyBjMjsKCiAgICAgICAgICAgICAgICBiMCA9IF9tbTI1Nl9zZXQxX3BkKEJbMyAqIEJfaGVpZ2h0XSk7CiAgICAgICAgICAgICAgICBiMSA9IF9tbTI1Nl9zZXQxX3BkKEJbMyAqIEJfaGVpZ2h0ICsgMV0pOwogICAgICAgICAgICAgICAgYjIgPSBfbW0yNTZfc2V0MV9wZChCWzMgKiBCX2hlaWdodCArIDJdKTsKICAgICAgICAgICAgICAgIGIzID0gX21tMjU2X3NldDFfcGQoQlszICogQl9oZWlnaHQgKyAzXSk7CgogICAgICAgICAgICAgICAgYzMgPSBhMCpiMCArIGExKmIxICsgYTIqYjIgKyBhMypiMyArIGMzOwoKICAgICAgICAgICAgICAgIGIwID0gX21tMjU2X3NldDFfcGQoQls0ICogQl9oZWlnaHRdKTsKICAgICAgICAgICAgICAgIGIxID0gX21tMjU2X3NldDFfcGQoQls0ICogQl9oZWlnaHQgKyAxXSk7CiAgICAgICAgICAgICAgICBiMiA9IF9tbTI1Nl9zZXQxX3BkKEJbNCAqIEJfaGVpZ2h0ICsgMl0pOwogICAgICAgICAgICAgICAgYjMgPSBfbW0yNTZfc2V0MV9wZChCWzQgKiBCX2hlaWdodCArIDNdKTsKCiAgICAgICAgICAgICAgICBjNCA9IGEwKmIwICsgYTEqYjEgKyBhMipiMiArIGEzKmIzICsgYzQ7CgogICAgICAgICAgICAgICAgYjAgPSBfbW0yNTZfc2V0MV9wZChCWzUgKiBCX2hlaWdodF0pOwogICAgICAgICAgICAgICAgYjEgPSBfbW0yNTZfc2V0MV9wZChCWzUgKiBCX2hlaWdodCArIDFdKTsKICAgICAgICAgICAgICAgIGIyID0gX21tMjU2X3NldDFfcGQoQls1ICogQl9oZWlnaHQgKyAyXSk7CiAgICAgICAgICAgICAgICBiMyA9IF9tbTI1Nl9zZXQxX3BkKEJbNSAqIEJfaGVpZ2h0ICsgM10pOwoKICAgICAgICAgICAgICAgIGM1ID0gYTAqYjAgKyBhMSpiMSArIGEyKmIyICsgYTMqYjMgKyBjNTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgX21tMjU2X3N0b3JldV9wZChDLCBjMCk7CiAgICAgICAgICAgIF9tbTI1Nl9zdG9yZXVfcGQoQyArIENfaGVpZ2h0LCBjMSk7CiAgICAgICAgICAgIF9tbTI1Nl9zdG9yZXVfcGQoQyArIDIgKiBDX2hlaWdodCwgYzIpOwogICAgICAgICAgICBfbW0yNTZfc3RvcmV1X3BkKEMgKyAzICogQ19oZWlnaHQsIGMzKTsKICAgICAgICAgICAgX21tMjU2X3N0b3JldV9wZChDICsgNCAqIENfaGVpZ2h0LCBjNCk7CiAgICAgICAgICAgIF9tbTI1Nl9zdG9yZXVfcGQoQyArIDUgKiBDX2hlaWdodCwgYzUpOwogICAgICAgIH0KICAgIH0KCiAgICBBID0gQV9pbiArIGtfZW5kICogQkxPQ0tfU0laRTsKICAgIEIgPSBCX2luOwogICAgQyA9IENfaW47CgogICAgZm9yIChrID0ga19lbmQ7IGsgPCBLOyBrKyssIEEgKz0gQkxPQ0tfU0laRSkgewogICAgICAgIEIgPSBCX2luICsgazsKICAgICAgICBDID0gQ19pbjsKICAgICAgICBmb3IgKGogPSAwOyBqIDwgTjsgaisrLCBCICs9IEJfaGVpZ2h0KSB7CiAgICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCBNOyBpKyssIEMrKywgQSsrKSB7CiAgICAgICAgICAgICAgICBDWzBdICs9IEFbMF0gKiBCWzBdOwogICAgICAgICAgICB9CiAgICAgICAgICAgIEMgKz0gQ19oZWlnaHQgLSBNOwogICAgICAgICAgICBBIC09IE07CiAgICAgICAgfQogICAgfQoKICAgIEEgPSBBX2luOwogICAgQiA9IEJfaW4gKyBqX2VuZCAqIEJfaGVpZ2h0OwogICAgQyA9IENfaW4gKyBqX2VuZCAqIENfaGVpZ2h0OwoKICAgIGZvciAoaiA9IGpfZW5kOyBqIDwgTjsgaisrLCBDICs9IENfaGVpZ2h0KSB7CiAgICAgICAgQSA9IEFfaW47CiAgICAgICAgZm9yIChrID0gMDsgayA8IGtfZW5kOyBrKyssIEEgKz0gQkxPQ0tfU0laRSwgQisrKSB7CiAgICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCBNOyBpKyssIEErKywgQysrKSB7CiAgICAgICAgICAgICAgICBDWzBdICs9IEFbMF0gKiBCWzBdOwogICAgICAgICAgICB9CgogICAgICAgICAgICBBIC09IE07CiAgICAgICAgICAgIEMgLT0gTTsKICAgICAgICB9CgogICAgICAgIEIgKz0gQl9oZWlnaHQgLSBrX2VuZDsKICAgIH0KCiAgICBBID0gQV9pbjsKICAgIEIgPSBCX2luOwogICAgQyA9IENfaW47CgogICAgZm9yIChpID0gaV9lbmQ7IGkgPCBNOyBpKyspIHsKICAgICAgICBCID0gQl9pbjsKICAgICAgICBDID0gQ19pbiArIGk7CiAgICAgICAgZm9yIChqID0gMDsgaiA8IGpfZW5kOyBqKyssIEMgKz0gQ19oZWlnaHQpIHsKICAgICAgICAgICAgY2lqID0gQ1swXTsKICAgICAgICAgICAgQSA9IEFfaW4gKyBpOwogICAgICAgICAgICBmb3IgKGsgPSAwOyBrIDwga19lbmQ7IGsgKz0gNCwgQSArPSA0ICogQkxPQ0tfU0laRSwgQiArPSA0KSB7CiAgICAgICAgICAgICAgICBmMCA9IEFbMF0gKiBCWzBdOwogICAgICAgICAgICAgICAgZjEgPSBBW0JMT0NLX1NJWkVdICogQlsxXTsKICAgICAgICAgICAgICAgIGY0ID0gZjAgKyBmMTsKICAgICAgICAgICAgICAgIGYyID0gQVsyKkJMT0NLX1NJWkVdICogQlsyXTsKICAgICAgICAgICAgICAgIGYzID0gQVszKkJMT0NLX1NJWkVdICogQlszXTsKICAgICAgICAgICAgICAgIGY1ID0gZjIgKyBmMzsKICAgICAgICAgICAgICAgIGNpaiArPSBmNCArIGY1OwogICAgICAgICAgICB9CiAgICAgICAgICAgIENbMF0gPSBjaWo7CgogICAgICAgICAgICBCICs9IEJfaGVpZ2h0IC0ga19lbmQ7CiAgICAgICAgfQogICAgfQp9Cgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7495,37 +7511,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEIgKz0gbGRhIC0ga19lbmQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgI3ByYWdtYSBvbXAgcGFyYWxsZWwgZm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGogPSAwOyBqIDwgYmxvY2tfd2lkdGg7IGorKywgQyArPSBsZGEpIHsK</text>
+        <text encoding="base64">ICAgICNwcmFnbWEgb21wIHBhcmFsbGVsIGZvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgI3ByYWdtYSBvbXAgcGFyYWxsZWwgZm9yCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGogPSAwOyBqIDwgTjsgaisrLCBCICs9IGxkYSkgewo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEEgPSBBX2luOwogICAgQiA9IEJfaW4gKyBqX2VuZCAqIGxkYTsKICAgIEMgPSBDX2luICsgal9lbmQgKiBsZGE7CgogICAgZm9yIChqID0gal9lbmQ7IGogPCBOOyBqKyssIEMgKz0gbGRhKSB7CiAgICAgICAgQSA9IEFfaW47CiAgICAgICAgZm9yIChrID0gMDsgayA8IGtfZW5kOyBrKyssIEEgKz0gQkxPQ0tfU0laRSwgQisrKSB7CiAgICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCBNOyBpKyssIEErKywgQysrKSB7CiAgICAgICAgICAgICAgICBDWzBdICs9IEFbMF0gKiBCWzBdOwogICAgICAgICAgICB9CgogICAgICAgICAgICBBIC09IE07CiAgICAgICAgICAgIEMgLT0gTTsKICAgICAgICB9CgogICAgICAgIEIgKz0gbGRhIC0ga19lbmQ7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYzAgPSBDWzBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgY29uc3QgaW50IGpfZW5kID0gKE4gPj4gMikgPDwgMjsKICAgIGNvbnN0IGludCBqX2VuZCA9ICgoTiAvIEtXKSkgKiBLVzsKLy8gICAgcHJpbnRmKCJOID0gJWRcbiIsIE4pOwovLyAgICBwcmludGYoImpfZW5kID0gJWRcbiIsIGpfZW5kKTsK</text>
+        <text encoding="base64">ICAgIF9fbTI1NmQgYzEsIGMyLCBjMywgYzQsIGM1Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rowk</last-search>
+      <last-search>dgemm</last-search>
       <last-offset />
-      <last-pattern>rowk</last-pattern>
+      <last-pattern>dgemm</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7533,37 +7549,34 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry encoding="base64">XDxLV1w+</entry>
-        <entry>indB</entry>
-        <entry>c0</entry>
+        <entry>lda</entry>
+        <entry>loadu</entry>
+        <entry>storeu</entry>
         <entry>rowj</entry>
-        <entry>colj</entry>
-        <entry>j_end</entry>
-        <entry>cij</entry>
-        <entry>square_dgemm2</entry>
-        <entry>square_dgemm</entry>
-        <entry>K</entry>
-        <entry>B</entry>
-        <entry>j</entry>
-        <entry>BLOCK_HEIGHT</entry>
-        <entry>i_end</entry>
-        <entry>KH</entry>
-        <entry>k</entry>
+        <entry>JB</entry>
+        <entry encoding="base64">XDxjb21wdXRlXzQ4eDF4MV9rZXJuZWxcPg==</entry>
+        <entry encoding="base64">XDxDRkxBR1NcPg==</entry>
+        <entry>CFLAGS</entry>
+        <entry>LDLIBS</entry>
+        <entry>46</entry>
+        <entry>pragma</entry>
+        <entry>no_avx</entry>
+        <entry encoding="base64">XDxzcXVhcmVfZGdlbW1cPg==</entry>
+        <entry encoding="base64">XDxOXD4=</entry>
         <entry>asdf</entry>
-        <entry>C</entry>
-        <entry>rowk</entry>
+        <entry>M</entry>
+        <entry>N</entry>
+        <entry>K</entry>
+        <entry encoding="base64">XDxkb19ibG9ja180Nlw+</entry>
+        <entry>dgemm</entry>
       </history-search>
       <history-cmd>
-        <entry>271</entry>
-        <entry>394</entry>
         <entry>410</entry>
         <entry>459</entry>
         <entry>79</entry>
         <entry>137</entry>
         <entry>83</entry>
         <entry>161</entry>
-        <entry>q</entry>
         <entry>259</entry>
         <entry>260</entry>
         <entry>490</entry>
@@ -7574,6 +7587,9 @@
         <entry>556</entry>
         <entry>510</entry>
         <entry>580</entry>
+        <entry>vsp</entry>
+        <entry>476</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
