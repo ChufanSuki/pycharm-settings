@@ -3473,8 +3473,8 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" timestamp="1518130233768">
-        <mark key="'" line="337" column="0" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" timestamp="1518130841848">
+        <mark key="'" line="41" column="39" />
         <mark key="j" line="368" column="13" />
         <mark key="[" line="373" column="20" />
         <mark key="]" line="373" column="48" />
@@ -5941,7 +5941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="7" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="8" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="11" column="13" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
@@ -6041,6 +6040,7 @@
       <jump line="134" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="16" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="337" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="41" column="39" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7516,7 +7516,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLQkxPQ0tTSVpFXD4=</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudiA9IE11bHRpdGFza0VudlRvU2lsZW50TXVsdGl0YXNrRW52KGVudi53cmFwcGVkX2VudikK</text>
@@ -7664,13 +7664,13 @@
         <text encoding="base64">ICAgICAgICAjIGJpYXM9LTIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>16</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLQkxPQ0tTSVpFXD4=</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLQkxPQ0tTSVpFXD4=</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7678,8 +7678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
-        <entry>save_</entry>
         <entry>qf</entry>
         <entry>model</entry>
         <entry>w</entry>
@@ -7698,9 +7696,10 @@
         <entry>clamp</entry>
         <entry>loadu_pd(A</entry>
         <entry encoding="base64">XDxLQkxPQ0tTSVpFXD4=</entry>
+        <entry>b0</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>546</entry>
         <entry>556</entry>
         <entry>510</entry>
         <entry>580</entry>
@@ -7720,6 +7719,7 @@
         <entry>466</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>16</entry>
       </history-cmd>
       <history-expr />
       <history-input />
