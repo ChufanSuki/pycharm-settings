@@ -3473,8 +3473,8 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" timestamp="1518031882072">
-        <mark key="'" line="11" column="13" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" timestamp="1518130233768">
+        <mark key="'" line="337" column="0" />
         <mark key="j" line="368" column="13" />
         <mark key="[" line="373" column="20" />
         <mark key="]" line="373" column="48" />
@@ -5941,9 +5941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="54" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
-      <jump line="313" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
-      <jump line="562" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="7" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
       <jump line="8" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
@@ -6041,6 +6038,9 @@
       <jump line="436" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="167" column="38" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="192" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
+      <jump line="134" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="16" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
+      <jump line="337" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7516,7 +7516,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>loadu_pd(A</text>
+        <text encoding="base64">XDxLQkxPQ0tTSVpFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudiA9IE11bHRpdGFza0VudlRvU2lsZW50TXVsdGl0YXNrRW52KGVudi53cmFwcGVkX2VudikK</text>
@@ -7668,9 +7668,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loadu_pd(A</last-search>
+      <last-search encoding="base64">XDxLQkxPQ0tTSVpFXD4=</last-search>
       <last-offset />
-      <last-pattern>loadu_pd(A</last-pattern>
+      <last-pattern encoding="base64">XDxLQkxPQ0tTSVpFXD4=</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7678,7 +7678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>q_val</entry>
         <entry>state</entry>
         <entry>save_</entry>
         <entry>qf</entry>
@@ -7698,6 +7697,7 @@
         <entry>vf</entry>
         <entry>clamp</entry>
         <entry>loadu_pd(A</entry>
+        <entry encoding="base64">XDxLQkxPQ0tTSVpFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>546</entry>
