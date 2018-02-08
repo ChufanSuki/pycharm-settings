@@ -17,12 +17,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518060875461">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518062121551">
         <mark key="'" line="30" column="33" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="50" />
-        <mark key="." line="33" column="50" />
-        <mark key="^" line="33" column="50" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="32" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1517955173676">
         <mark key="[" line="0" column="0" />
@@ -3893,12 +3893,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1518060928521">
-        <mark key="'" line="113" column="12" />
-        <mark key="[" line="241" column="35" />
-        <mark key="]" line="242" column="40" />
-        <mark key="." line="242" column="40" />
-        <mark key="^" line="242" column="40" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1518062299587">
+        <mark key="'" line="237" column="48" />
+        <mark key="[" line="237" column="51" />
+        <mark key="]" line="237" column="50" />
+        <mark key="." line="237" column="50" />
+        <mark key="^" line="237" column="50" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" timestamp="1511398036999">
         <mark key="'" line="124" column="24" />
@@ -5904,8 +5904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="501" column="1" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="202" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="306" column="6" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="613" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
@@ -6004,6 +6002,8 @@
       <jump line="22" column="19" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="28" column="33" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="8" column="4" filename="$USER_HOME$/git/railrl/railrl/state_distance/util.py" />
+      <jump line="239" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="237" column="48" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6044,8 +6044,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>next_states</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7479,19 +7479,19 @@
         <text>next_states</text>
       </register>
       <register name="/" type="4">
-        <text>actions</text>
+        <text>w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UEFUSCA9ICcvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZycgXAogICAgICAgJy10ZG0tbXRhdS0wLzAxLTIzLXJlYWNoZXItZnVsbC1kZHBnLXRkbS1tdGF1LTAtaWQxLXM0OTM0My9wYXJhbXMucGtsJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gubXBjLmNvbGxvY2F0aW9uLm1vZGVsX3RvX2ltcGxpY2l0X21vZGVsIGltcG9ydCBcCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7543,7 +7543,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1vZGVsVG9JbXBsaWNpdE1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7603,37 +7603,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICctdGRtLW10YXUtMC8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZy10ZG0tbXRhdS0wLWlkMS1zNDkzNDMvcGFyYW1zLnBrbCcK</text>
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gubXBjLmNvbGxvY2F0aW9uLm1vZGVsX3RvX2ltcGxpY2l0X21vZGVsIGltcG9ydCBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UEFUSCA9ICcvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZycgXAo=</text>
+        <text encoding="base64">ICAgIE1vZGVsVG9JbXBsaWNpdE1vZGVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICctdGRtLW10YXUtMC8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZy10ZG0tbXRhdS0wLWlkMS1zNDkzNDMvcGFyYW1zLnBrbCcK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UkVXQVIKCg==</text>
+        <text encoding="base64">UEFUSCA9ICcvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZycgXAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">UkVXQVIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>actions</last-search>
+      <last-search>w</last-search>
       <last-offset />
-      <last-pattern>actions</last-pattern>
+      <last-pattern>w</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7641,7 +7641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>N</entry>
         <entry>qf_outputs</entry>
         <entry>goal</entry>
         <entry>rentropy</entry>
@@ -7661,9 +7660,9 @@
         <entry>qf</entry>
         <entry>model</entry>
         <entry>actions</entry>
+        <entry>w</entry>
       </history-search>
       <history-cmd>
-        <entry>420</entry>
         <entry>499</entry>
         <entry>543</entry>
         <entry>546</entry>
@@ -7682,6 +7681,7 @@
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>317</entry>
+        <entry>239</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
