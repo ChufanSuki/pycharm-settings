@@ -1460,6 +1460,9 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/murtaza/tdm_tau_sac.py" timestamp="1518048719939">
+        <mark key="'" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1516252347666">
         <mark key="'" line="4" column="39" />
       </file>
@@ -1837,6 +1840,7 @@
         <mark key="." line="58" column="3" />
         <mark key="^" line="58" column="3" />
       </file>
+      <file name="$USER_HOME$/git/rllab-rail/rllab/envs/normalized_env.py" timestamp="1518048690909" />
       <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/load_mb.py" timestamp="1515207298612">
         <mark key="'" line="54" column="12" />
         <mark key="[" line="10" column="11" />
@@ -2115,10 +2119,6 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" timestamp="1517726415835">
-        <mark key="'" line="28" column="15" />
-        <mark key="^" line="0" column="59" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/ros/sawyer_env.py" timestamp="1515207630462">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="65" />
@@ -2165,8 +2165,8 @@
       <file name="$USER_HOME$/git/railrl/examples/pytorch_dqn.py" timestamp="1516218508514">
         <mark key="'" line="475" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1517528939747">
-        <mark key="'" line="93" column="28" />
+      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1518049275495">
+        <mark key="'" line="206" column="43" />
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
@@ -3421,8 +3421,11 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1517528784883">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1518048867848">
         <mark key="'" line="125" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" timestamp="1518048921642">
+        <mark key="'" line="220" column="13" />
       </file>
       <file name="/code.py" timestamp="1515556577223">
         <mark key="'" line="0" column="6" />
@@ -4043,10 +4046,10 @@
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="58" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1517604482668">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="33" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1518049631463">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="33" column="1" />
         <mark key="^" line="32" column="14" />
         <mark key="." line="33" column="0" />
       </file>
@@ -5927,15 +5930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="494" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="496" column="6" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="499" column="14" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="531" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="503" column="5" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="299" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
-      <jump line="515" column="7" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="511" column="1" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
       <jump line="537" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-vitchyr.c" />
@@ -6027,6 +6021,15 @@
       <jump line="353" column="21" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
       <jump line="46" column="35" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/visualize_sac_tdm_errors.py" />
       <jump line="415" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
+      <jump line="5" column="33" filename="$USER_HOME$/git/railrl/experiments/murtaza/tdm_tau_sac.py" />
+      <jump line="14" column="10" filename="$USER_HOME$/git/railrl/experiments/murtaza/tdm_tau_sac.py" />
+      <jump line="20" column="6" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="220" column="13" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="206" column="43" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
+      <jump line="20" column="46" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6068,7 +6071,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">R1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAndml0Y2h5ci9yYWlscmwtdml0Y2h5ci1ncHUnCkdQVV9JTlNUQU5DRV9UWVBFID0gJ2cyLjJ4bGFyZ2UnCkdQVV9TUE9UX1BSSUNFID0gMC40ClJFR0lPTl9UT19HUFVfQVdTX0lNQUdFX0lEID0gewogICAgJ3VzLXdlc3QtMSc6ICJhbWktODc0Mzc4ZTciLAogICAgJ3VzLWVhc3QtMSc6ICJhbWktMGVmMWIzNzQiLAogICAgJ3VzLWVhc3QtMWInOiAiYW1pLTBlZjFiMzc0IiwKfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7502,7 +7505,7 @@
         <text>flat_ob</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>terminal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5ldmFsX25wKG9ic19ucCwgZGV0ZXJtaW5pc3RpYz1kZXRlcm1pbmlzdGljKVswXQo=</text>
@@ -7654,9 +7657,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>terminal</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>terminal</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute encoding="base64">XDxwcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -7664,9 +7667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>printf</entry>
-        <entry encoding="base64">XDxkb19ibG9ja180eDR4Nlw+</entry>
         <entry>load_pd</entry>
         <entry>loadu_pd</entry>
         <entry>_pd_pd</entry>
@@ -7684,6 +7684,9 @@
         <entry>entropies</entry>
         <entry>flat_ob</entry>
         <entry>ipdb</entry>
+        <entry encoding="base64">XDxOb3JtYWxpemVkQm94RW52XD4=</entry>
+        <entry>_update_target_netw</entry>
+        <entry>terminal</entry>
       </history-search>
       <history-cmd>
         <entry>490</entry>
