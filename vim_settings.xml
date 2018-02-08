@@ -17,12 +17,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518060017117">
-        <mark key="'" line="28" column="33" />
-        <mark key="[" line="28" column="65" />
-        <mark key="]" line="29" column="36" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="29" column="36" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518060875461">
+        <mark key="'" line="30" column="33" />
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="50" />
+        <mark key="^" line="33" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1517955173676">
         <mark key="[" line="0" column="0" />
@@ -3893,12 +3893,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1517709032970">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1518060928521">
         <mark key="'" line="113" column="12" />
-        <mark key="[" line="468" column="60" />
-        <mark key="]" line="469" column="38" />
-        <mark key="." line="469" column="38" />
-        <mark key="^" line="469" column="38" />
+        <mark key="[" line="241" column="35" />
+        <mark key="]" line="242" column="40" />
+        <mark key="." line="242" column="40" />
+        <mark key="^" line="242" column="40" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" timestamp="1511398036999">
         <mark key="'" line="124" column="24" />
@@ -6045,7 +6045,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>np_to_variable</text>
+        <text>next_states</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7476,7 +7476,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>np_to_variable</text>
+        <text>next_states</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -7485,13 +7485,13 @@
         <text encoding="base64">UEFUSCA9ICcvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZycgXAogICAgICAgJy10ZG0tbXRhdS0wLzAxLTIzLXJlYWNoZXItZnVsbC1kZHBnLXRkbS1tdGF1LTAtaWQxLXM0OTM0My9wYXJhbXMucGtsJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gubXBjLmNvbGxvY2F0aW9uLm1vZGVsX3RvX2ltcGxpY2l0X21vZGVsIGltcG9ydCBcCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1vZGVsVG9JbXBsaWNpdE1vZGVsCg==</text>
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gubXBjLmNvbGxvY2F0aW9uLm1vZGVsX3RvX2ltcGxpY2l0X21vZGVsIGltcG9ydCBcCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7543,7 +7543,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICctdGRtLW10YXUtMC8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZy10ZG0tbXRhdS0wLWlkMS1zNDkzNDMvcGFyYW1zLnBrbCcK</text>
+        <text encoding="base64">ICAgIE1vZGVsVG9JbXBsaWNpdE1vZGVsCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7603,19 +7603,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UEFUSCA9ICcvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZycgXAo=</text>
+        <text encoding="base64">ICAgICAgICctdGRtLW10YXUtMC8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZy10ZG0tbXRhdS0wLWlkMS1zNDkzNDMvcGFyYW1zLnBrbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">UEFUSCA9ICcvaG9tZS92aXRjaHlyL2dpdC9yYWlscmwvZGF0YS9kb29kYWRzMy8wMS0yMy1yZWFjaGVyLWZ1bGwtZGRwZycgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UkVXQVIKCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">UkVXQVIKCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -7624,7 +7624,7 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7663,7 +7663,6 @@
         <entry>actions</entry>
       </history-search>
       <history-cmd>
-        <entry>490</entry>
         <entry>420</entry>
         <entry>499</entry>
         <entry>543</entry>
@@ -7682,6 +7681,7 @@
         <entry>341</entry>
         <entry>vsp</entry>
         <entry>q</entry>
+        <entry>317</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
