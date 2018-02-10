@@ -2135,10 +2135,6 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" timestamp="1517726415835">
-        <mark key="'" line="28" column="15" />
-        <mark key="^" line="0" column="59" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/ros/sawyer_env.py" timestamp="1515207630462">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="65" />
@@ -2627,6 +2623,9 @@
       </file>
       <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/1918714723/numpy/random/mtrand.py" timestamp="1514595156691">
         <mark key="'" line="3073" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/one_offs/n3dpg_sweep.py" timestamp="1517102406448">
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail-private/cs294/hw1/json_to_yaml.py" timestamp="1486583488726">
         <mark key="'" line="9" column="0" />
@@ -4158,9 +4157,8 @@
         <mark key="." line="189" column="16" />
         <mark key="^" line="298" column="22" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" timestamp="1518303888148">
-        <mark key="'" line="791" column="27" />
-        <mark key="^" line="801" column="46" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" timestamp="1518305214305">
+        <mark key="^" line="800" column="46" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/assets/ant.xml" timestamp="1510020317758">
         <mark key="'" line="0" column="0" />
@@ -5978,9 +5976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/compare_tdm_and_mb_error.py" />
-      <jump line="51" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/compare_tdm_and_mb_error.py" />
-      <jump line="116" column="44" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/compare_tdm_and_mb_error.py" />
       <jump line="57" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/compare_tdm_and_mb_error.py" />
       <jump line="80" column="24" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/compare_tdm_and_mb_error.py" />
       <jump line="146" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/compare_tdm_and_mb_error.py" />
@@ -6078,6 +6073,9 @@
       <jump line="795" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
       <jump line="784" column="56" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
       <jump line="792" column="27" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
+      <jump line="822" column="46" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
+      <jump line="801" column="9" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
+      <jump line="780" column="5" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6119,7 +6117,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgQV9ibG9ja19jb2xbSUJMT0NLU0laRSpLQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwogICAgICAgIGRvdWJsZSBDX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKkpCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cg==</text>
+        <text encoding="base64">CWRvdWJsZSBBX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKktCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cglkb3VibGUgQ19ibG9ja19jb2xbSUJMT0NLU0laRSpKQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwoJaW50IGosIGssIE4sIEs7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7553,19 +7551,19 @@
         <text encoding="base64">IHByaXZhdGUoaSwgbGRhKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>A_block_col</text>
+        <text>pragma</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICNwcmFnbWEgb21wIHBhcmFsbGVsIGZvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgQV9ibG9ja19jb2xbSUJMT0NLU0laRSpLQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwogICAgICAgIGRvdWJsZSBDX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKkpCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cg==</text>
+        <text encoding="base64">CWRvdWJsZSBBX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKktCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cglkb3VibGUgQ19ibG9ja19jb2xbSUJMT0NLU0laRSpKQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwoJaW50IGosIGssIE4sIEs7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWludCBqLCBrLCBOLCBLOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgQV9ibG9ja19jb2xbSUJMT0NLU0laRSpLQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwogICAgICAgIGRvdWJsZSBDX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKkpCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7617,7 +7615,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRvdWJsZSBBX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKktCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cglkb3VibGUgQ19ibG9ja19jb2xbSUJMT0NLU0laRSpKQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwo=</text>
+        <text encoding="base64">CWludCBqLCBrLCBOLCBLOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7677,37 +7675,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CWRvdWJsZSBBX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKktCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cglkb3VibGUgQ19ibG9ja19jb2xbSUJMT0NLU0laRSpKQkxPQ0tTSVpFXSBfX2F0dHJpYnV0ZV9fKChhbGlnbmVkKDMyKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKDsgaSA8PSBsZGEgLSBJQkxPQ0tTSVpFOyBpICs9IElCTE9DS1NJWkUpIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgago=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKDsgaSA8PSBsZGEgLSBJQkxPQ0tTSVpFOyBpICs9IElCTE9DS1NJWkUpIHsK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBjb25zdCBpbnQgbGVmdCA9IGxkYSAlIElCTE9DS1NJWkU7CgkJLy8gY29uc3QgaW50IGlfZW5kID0gbGRhIC0gbGVmdDsKCQkvLyBpZiAobGVmdCA+IDApIHsKCQkvLyAJZm9yIChqID0gMDsgaiA8IGxkYTsgaiArPSBKQkxPQ0tTSVpFKSB7CgkJLy8gCQlOID0gbWluKGxkYS1qLCBKQkxPQ0tTSVpFKTsKCQkvLyAJCWNvcHlfYmxvY2soQ19ibG9ja19jb2wsIEMgKyBpX2VuZCArIGogKiBsZGEsIGxlZnQsIGxkYSwgbGVmdCwgTik7CgkJLy8gCQlmb3IoIGsgPSAwOyBrIDwgbGRhOyBrICs9IEtCTE9DS1NJWkUgKSB7CgkJLy8gCQkJSyA9IG1pbihsZGEgLSBrLCBLQkxPQ0tTSVpFKTsKCQkvLyAJCQljb3B5X2Jsb2NrKEFfYmxvY2tfY29sLCBBICsgaV9lbmQgKyBrICogbGRhLCBsZWZ0LCBsZGEsIGxlZnQsIEspOwoJCS8vIAkJCWkgPSAwOwoJCS8vIAkJCWZvciAoOyBpIDwgbGVmdCAtIDE1OyBpICs9IDE2KSB7CgkJLy8gCQkJCWNvbXB1dGVfMTZ4MXgyX2tlcm5lbChsZGEsIE4sIEssIGxlZnQsIEFfYmxvY2tfY29sICsgaSwgQiArIGsgKyBqICogbGRhLCBDX2Jsb2NrX2NvbCArIGkpOwoJCS8vIAkJCX0KCgkJLy8gCQkJaWYgKGkgPCBsZWZ0IC0gMTEpIHsKCQkvLyAJCQkJY29tcHV0ZV8xMngxeDJfa2VybmVsKGxkYSwgTiwgSywgbGVmdCwgQV9ibG9ja19jb2wgKyBpLCBCICsgayArIGogKiBsZGEsIENfYmxvY2tfY29sICsgaSk7CgkJLy8gCQkJCWkgKz0gMTI7CgkJLy8gCQkJfQoKCQkvLyAJCQlpZiAoaSA8IGxlZnQgLSA3KSB7CgkJLy8gCQkJCWNvbXB1dGVfOHgxeDJfa2VybmVsKGxkYSwgTiwgSywgbGVmdCwgQV9ibG9ja19jb2wgKyBpLCBCICsgayArIGogKiBsZGEsIENfYmxvY2tfY29sICsgaSk7CgkJLy8gCQkJCWkgKz0gODsKCQkvLyAJCQl9CgoJCS8vIAkJCWlmIChpIDwgbGVmdCAtIDMpIHsKCQkvLyAJCQkJY29tcHV0ZV80eDF4Ml9rZXJuZWwobGRhLCBOLCBLLCBsZWZ0LCBBX2Jsb2NrX2NvbCArIGksIEIgKyBrICsgaiAqIGxkYSwgQ19ibG9ja19jb2wgKyBpKTsKCQkvLyAJCQkJaSArPSA0OwoJCS8vIAkJCX0KCgkJLy8gCQkJZm9yKDsgaSA8IGxlZnQ7IGkrKykgewoJCS8vIAkJCQlBX3B0ciA9IEFfYmxvY2tfY29sICsgaTsKCQkvLyAJCQkJQl9wdHIgPSBCICsgayArIGogKiBsZGE7CgkJLy8gCQkJCUNfcHRyID0gQ19ibG9ja19jb2wgKyBpOwoKCQkvLyAJCQkJZm9yIChpbnQgal9ibG9ja19jb2wgPSAwOyBqX2Jsb2NrX2NvbCA8IE47IGpfYmxvY2tfY29sKyspIHsKCQkvLyAJCQkJCWNpaiA9IENfcHRyW2pfYmxvY2tfY29sICogbGVmdF07CgkJLy8gCQkJCQlpbnQga19ibG9ja19jb2wgPSAwOwoJCS8vIAkJCQkJZm9yICg7IGtfYmxvY2tfY29sICsgMyA8IEs7IGtfYmxvY2tfY29sICs9IDQpIHsKCQkvLyAJCQkJCQlmMCA9IEFfcHRyW2tfYmxvY2tfY29sICogbGVmdF0gKiBCX3B0cltrX2Jsb2NrX2NvbCArIGpfYmxvY2tfY29sKmxkYV07CgkJLy8gCQkJCQkJZjEgPSBBX3B0cltrX2Jsb2NrX2NvbCAqIGxlZnQgKyBsZWZ0XSAqIEJfcHRyW2tfYmxvY2tfY29sICsgal9ibG9ja19jb2wqbGRhICsgMV07CgkJLy8gCQkJCQkJZjIgPSBBX3B0cltrX2Jsb2NrX2NvbCAqIGxlZnQgKyAyKmxlZnRdICogQl9wdHJba19ibG9ja19jb2wgKyBqX2Jsb2NrX2NvbCpsZGEgKyAyXTsKCQkvLyAJCQkJCQlmMyA9IEFfcHRyW2tfYmxvY2tfY29sICogbGVmdCArIDMqbGVmdF0gKiBCX3B0cltrX2Jsb2NrX2NvbCArIGpfYmxvY2tfY29sKmxkYSArIDNdOwoJCS8vIAkJCQkJCWNpaiArPSBmMCArIGYxICsgZjIgKyBmMzsKCQkvLyAJCQkJCX0KCgkJLy8gCQkJCQlmb3IgKDsga19ibG9ja19jb2wgPCBLOyBrX2Jsb2NrX2NvbCsrKSB7CgkJLy8gCQkJCQkJY2lqICs9IEFfcHRyW2tfYmxvY2tfY29sICogbGVmdF0gKiBCX3B0cltrX2Jsb2NrX2NvbCArIGpfYmxvY2tfY29sKmxkYV07CgkJLy8gCQkJCQl9CgoJCS8vIAkJCQkJQ19wdHJbal9ibG9ja19jb2wgKiBsZWZ0XSA9IGNpajsKCQkvLyAJCQkJfQoJCS8vIAkJCX0KCQkvLyAJCX0KCQkvLyAJCWNvcHlfYmxvY2soQyArIGlfZW5kICsgaiAqIGxkYSwgQ19ibG9ja19jb2wsIGxkYSwgbGVmdCwgbGVmdCwgTik7CgkJLy8gCX0KCQkvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgago=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBqLCBrLCBOLCBLOwogICAgZG91YmxlIEFfYmxvY2tfY29sW0lCTE9DS1NJWkUqS0JMT0NLU0laRV0gX19hdHRyaWJ1dGVfXygoYWxpZ25lZCgzMikpKTsKICAgIGRvdWJsZSBDX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKkpCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cgo=</text>
+        <text encoding="base64">CQkvLyBjb25zdCBpbnQgbGVmdCA9IGxkYSAlIElCTE9DS1NJWkU7CgkJLy8gY29uc3QgaW50IGlfZW5kID0gbGRhIC0gbGVmdDsKCQkvLyBpZiAobGVmdCA+IDApIHsKCQkvLyAJZm9yIChqID0gMDsgaiA8IGxkYTsgaiArPSBKQkxPQ0tTSVpFKSB7CgkJLy8gCQlOID0gbWluKGxkYS1qLCBKQkxPQ0tTSVpFKTsKCQkvLyAJCWNvcHlfYmxvY2soQ19ibG9ja19jb2wsIEMgKyBpX2VuZCArIGogKiBsZGEsIGxlZnQsIGxkYSwgbGVmdCwgTik7CgkJLy8gCQlmb3IoIGsgPSAwOyBrIDwgbGRhOyBrICs9IEtCTE9DS1NJWkUgKSB7CgkJLy8gCQkJSyA9IG1pbihsZGEgLSBrLCBLQkxPQ0tTSVpFKTsKCQkvLyAJCQljb3B5X2Jsb2NrKEFfYmxvY2tfY29sLCBBICsgaV9lbmQgKyBrICogbGRhLCBsZWZ0LCBsZGEsIGxlZnQsIEspOwoJCS8vIAkJCWkgPSAwOwoJCS8vIAkJCWZvciAoOyBpIDwgbGVmdCAtIDE1OyBpICs9IDE2KSB7CgkJLy8gCQkJCWNvbXB1dGVfMTZ4MXgyX2tlcm5lbChsZGEsIE4sIEssIGxlZnQsIEFfYmxvY2tfY29sICsgaSwgQiArIGsgKyBqICogbGRhLCBDX2Jsb2NrX2NvbCArIGkpOwoJCS8vIAkJCX0KCgkJLy8gCQkJaWYgKGkgPCBsZWZ0IC0gMTEpIHsKCQkvLyAJCQkJY29tcHV0ZV8xMngxeDJfa2VybmVsKGxkYSwgTiwgSywgbGVmdCwgQV9ibG9ja19jb2wgKyBpLCBCICsgayArIGogKiBsZGEsIENfYmxvY2tfY29sICsgaSk7CgkJLy8gCQkJCWkgKz0gMTI7CgkJLy8gCQkJfQoKCQkvLyAJCQlpZiAoaSA8IGxlZnQgLSA3KSB7CgkJLy8gCQkJCWNvbXB1dGVfOHgxeDJfa2VybmVsKGxkYSwgTiwgSywgbGVmdCwgQV9ibG9ja19jb2wgKyBpLCBCICsgayArIGogKiBsZGEsIENfYmxvY2tfY29sICsgaSk7CgkJLy8gCQkJCWkgKz0gODsKCQkvLyAJCQl9CgoJCS8vIAkJCWlmIChpIDwgbGVmdCAtIDMpIHsKCQkvLyAJCQkJY29tcHV0ZV80eDF4Ml9rZXJuZWwobGRhLCBOLCBLLCBsZWZ0LCBBX2Jsb2NrX2NvbCArIGksIEIgKyBrICsgaiAqIGxkYSwgQ19ibG9ja19jb2wgKyBpKTsKCQkvLyAJCQkJaSArPSA0OwoJCS8vIAkJCX0KCgkJLy8gCQkJZm9yKDsgaSA8IGxlZnQ7IGkrKykgewoJCS8vIAkJCQlBX3B0ciA9IEFfYmxvY2tfY29sICsgaTsKCQkvLyAJCQkJQl9wdHIgPSBCICsgayArIGogKiBsZGE7CgkJLy8gCQkJCUNfcHRyID0gQ19ibG9ja19jb2wgKyBpOwoKCQkvLyAJCQkJZm9yIChpbnQgal9ibG9ja19jb2wgPSAwOyBqX2Jsb2NrX2NvbCA8IE47IGpfYmxvY2tfY29sKyspIHsKCQkvLyAJCQkJCWNpaiA9IENfcHRyW2pfYmxvY2tfY29sICogbGVmdF07CgkJLy8gCQkJCQlpbnQga19ibG9ja19jb2wgPSAwOwoJCS8vIAkJCQkJZm9yICg7IGtfYmxvY2tfY29sICsgMyA8IEs7IGtfYmxvY2tfY29sICs9IDQpIHsKCQkvLyAJCQkJCQlmMCA9IEFfcHRyW2tfYmxvY2tfY29sICogbGVmdF0gKiBCX3B0cltrX2Jsb2NrX2NvbCArIGpfYmxvY2tfY29sKmxkYV07CgkJLy8gCQkJCQkJZjEgPSBBX3B0cltrX2Jsb2NrX2NvbCAqIGxlZnQgKyBsZWZ0XSAqIEJfcHRyW2tfYmxvY2tfY29sICsgal9ibG9ja19jb2wqbGRhICsgMV07CgkJLy8gCQkJCQkJZjIgPSBBX3B0cltrX2Jsb2NrX2NvbCAqIGxlZnQgKyAyKmxlZnRdICogQl9wdHJba19ibG9ja19jb2wgKyBqX2Jsb2NrX2NvbCpsZGEgKyAyXTsKCQkvLyAJCQkJCQlmMyA9IEFfcHRyW2tfYmxvY2tfY29sICogbGVmdCArIDMqbGVmdF0gKiBCX3B0cltrX2Jsb2NrX2NvbCArIGpfYmxvY2tfY29sKmxkYSArIDNdOwoJCS8vIAkJCQkJCWNpaiArPSBmMCArIGYxICsgZjIgKyBmMzsKCQkvLyAJCQkJCX0KCgkJLy8gCQkJCQlmb3IgKDsga19ibG9ja19jb2wgPCBLOyBrX2Jsb2NrX2NvbCsrKSB7CgkJLy8gCQkJCQkJY2lqICs9IEFfcHRyW2tfYmxvY2tfY29sICogbGVmdF0gKiBCX3B0cltrX2Jsb2NrX2NvbCArIGpfYmxvY2tfY29sKmxkYV07CgkJLy8gCQkJCQl9CgoJCS8vIAkJCQkJQ19wdHJbal9ibG9ja19jb2wgKiBsZWZ0XSA9IGNpajsKCQkvLyAJCQkJfQoJCS8vIAkJCX0KCQkvLyAJCX0KCQkvLyAJCWNvcHlfYmxvY2soQyArIGlfZW5kICsgaiAqIGxkYSwgQ19ibG9ja19jb2wsIGxkYSwgbGVmdCwgbGVmdCwgTik7CgkJLy8gCX0KCQkvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgIGludCBqLCBrLCBOLCBLOwogICAgZG91YmxlIEFfYmxvY2tfY29sW0lCTE9DS1NJWkUqS0JMT0NLU0laRV0gX19hdHRyaWJ1dGVfXygoYWxpZ25lZCgzMikpKTsKICAgIGRvdWJsZSBDX2Jsb2NrX2NvbFtJQkxPQ0tTSVpFKkpCTE9DS1NJWkVdIF9fYXR0cmlidXRlX18oKGFsaWduZWQoMzIpKSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>A_block_col</last-search>
+      <last-search>pragma</last-search>
       <last-offset />
-      <last-pattern>A_block_col</last-pattern>
+      <last-pattern>pragma</last-pattern>
       <last-replace>multitask_goal_slice</last-replace>
       <last-substitute>multitask_goal_to_goal_slice</last-substitute>
       <last-dir>1</last-dir>
@@ -7730,11 +7728,11 @@
         <entry>path</entry>
         <entry>K</entry>
         <entry>targets</entry>
-        <entry>pragma</entry>
         <entry encoding="base64">XDxDX2Jsb2NrX2NvbFw+</entry>
         <entry encoding="base64">XDxJQkxPQ0tTSVpFXD4=</entry>
         <entry>par</entry>
         <entry>A_block_col</entry>
+        <entry>pragma</entry>
       </history-search>
       <history-cmd>
         <entry>542</entry>
