@@ -3484,14 +3484,6 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" timestamp="1518132741746">
-        <mark key="'" line="41" column="39" />
-        <mark key="j" line="368" column="13" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="166" column="61" />
-        <mark key="^" line="349" column="16" />
-        <mark key="." line="349" column="16" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/core/test_neuralnet.py" timestamp="1490908756538">
         <mark key="'" line="433" column="22" />
         <mark key="[" line="433" column="29" />
@@ -5971,7 +5963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="133" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="108" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="91" column="19" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
@@ -6071,6 +6062,7 @@
       <jump line="505" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="113" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
       <jump line="54" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="30" column="40" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7546,7 +7538,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHR1LmdldF9udW1weShjb25zdHJhaW50X2xvc3Muc3VtKCkpCg==</text>
@@ -7698,9 +7690,9 @@
       </register>
     </registers>
     <search>
-      <last-search>path</last-search>
+      <last-search>K</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>K</last-pattern>
       <last-replace>multitask_goal_slice</last-replace>
       <last-substitute>multitask_goal_to_goal_slice</last-substitute>
       <last-dir>1</last-dir>
@@ -7708,7 +7700,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RlbF9kaXN0YW5jZV9wcmVkc1w+</entry>
         <entry encoding="base64">XDxnZXRfZmVhc2libGVfZ29hbFw+</entry>
         <entry>goal_state</entry>
         <entry>num_dims</entry>
@@ -7728,6 +7719,7 @@
         <entry>pritn</entry>
         <entry>print</entry>
         <entry>path</entry>
+        <entry>K</entry>
       </history-search>
       <history-cmd>
         <entry>561</entry>
