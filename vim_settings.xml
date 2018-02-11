@@ -656,8 +656,8 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1518228402820">
-        <mark key="'" line="54" column="4" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1518323293950">
+        <mark key="'" line="74" column="30" />
         <mark key="[" line="112" column="9" />
         <mark key="]" line="112" column="10" />
         <mark key="." line="112" column="10" />
@@ -2306,6 +2306,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/benchmark.c" timestamp="1518323751492">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/icra2017/train_two_policies_and_combine.py" timestamp="1505193101501">
         <mark key="'" line="83" column="27" />
         <mark key="[" line="75" column="0" />
@@ -3679,6 +3685,12 @@
         <mark key="]" line="52" column="45" />
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/benchmark.c" timestamp="1518323708091">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/doodad_test/launch_test.py" timestamp="1515207192287">
         <mark key="'" line="0" column="0" />
@@ -5403,10 +5415,10 @@
       <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1515203864551">
         <mark key="'" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-results-clean.txt" timestamp="1518322464479">
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-results-clean.txt" timestamp="1518323391829">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="33" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="97" column="9" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-blas-results.txt" timestamp="1518322460828">
@@ -5966,8 +5978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="790" column="22" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
-      <jump line="780" column="7" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
       <jump line="824" column="12" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
       <jump line="820" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
       <jump line="819" column="16" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-blocked-parallel.c" />
@@ -6065,6 +6075,8 @@
       <jump line="86" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-results-clean.txt" />
       <jump line="1" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-results-clean.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-blas-results.txt" />
+      <jump line="74" column="30" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-results-clean.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-results-clean.txt" />
     </jumps>
     <registers>
@@ -6107,7 +6119,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>19.99</text>
+        <text>197</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7538,13 +7550,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2l6ZTogMzEJTWZsb3AvczogIDE2MjU0LjgJUGVyY2VudGFnZTog</text>
+        <text>197</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">MzEsMjcuMDIKMzIsNTAuODQKMzMsNDIuNzkKNjMsMzUuNTQKNjQsNTEuOTMKNjUsNDUuMzcKOTUsMzkuNTYKOTYsNTIuNjQKOTcsNDcuMjcKMTI3LDQxLjUzCjEyOCw1Mi44NAoxMjksNDguNDkKMTU5LDQ0LjI3CjE2MCw1My4yMgoxNjEsNDkuODAKMTkxLDQ1Ljk1CjE5Miw1My41NQoxOTMsNTAuNTUKMjIzLDQ2Ljc2CjIyNCw1NS4wMgoyMjUsNTIuMDIKMjU1LDQ3LjUyCjI1Niw1Mi40MgoyNTcsNTAuMjMKMjg3LDQ5LjI4CjI4OCw1NC44MQoyODksNTIuMTAKMzE5LDQ5LjAyCjMyMCw1NS4wMgozMjEsNTIuNzQKMzUxLDQ5LjQyCjM1Miw1NC4xMwozNTMsNTIuMjgKMzgzLDUwLjcyCjM4NCw1NC44OAozODUsNTIuOTkKNDE1LDQ5LjY4CjQxNiw1NC4xOAo0MTcsNTIuNjMKNDQ3LDUwLjQ3CjQ0OCw1NC4yNAo0NDksNTIuNzkKNDc5LDUxLjMzCjQ4MCw1NC44Nwo0ODEsNTMuNDkKNTExLDQ5LjE4CjUxMiw1MC40MQo1MTMsNDkuNjkKNTQzLDUwLjUxCjU0NCw1My40Mgo1NDUsNTIuNDcKNTc1LDUxLjI2CjU3Niw1NC4yMAo1NzcsNTIuOTAKNjA3LDUwLjg1CjYwOCw1NC4wMAo2MDksNTMuMjEKNjM5LDUxLjM2CjY0MCw1My42NAo2NDEsNTIuODkKNjcxLDUxLjY3CjY3Miw1NC4wOQo2NzMsNTMuMzQKNzAzLDUxLjI2CjcwNCw1My45NAo3MDUsNTMuMTgKNzM1LDUxLjM5CjczNiw1My4zMgo3MzcsNTIuODMKNzY3LDUxLjg5Cjc2OCw1Mi41Mwo3NjksNTIuMzcKNzk5LDUxLjUwCjgwMCw1My45MQo4MDEsNTMuMzgKODMxLDUxLjY2CjgzMiw1My4zNAo4MzMsNTIuOTUKODYzLDUyLjMxCjg2NCw1NC4wNAo4NjUsNTMuMzgKODk1LDUxLjY0Cjg5Niw1My4zOQo4OTcsNTMuMTYKOTI3LDUyLjAwCjkyOCw1My41MQo5MjksNTMuMjMKOTU5LDUyLjU3Cjk2MCw1My44Mgo5NjEsNTMuNjIKOTkxLDUxLjc3Cjk5Miw1My40Mgo5OTMsNTMuMDUKMTAyMyw1MC43NQoxMDI0LDQ5LjExCjEwMjUsNDkuNDIK</text>
+        <text encoding="base64">Ly8gMi4zIEdIeiAqIDggdmVjdG9yIHdpZHRoICogMiBmbG9wcyBmb3IgRk1BID0gMzYuOCBHRi9zCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QXZlcmFnZSBwZXJjZW50YWdlIG9mIFBlYWsgPSAzMi45Mjg2Cg==</text>
@@ -7689,13 +7701,13 @@
         <text encoding="base64">QXZlcmFnZSBwZXJjZW50YWdlIG9mIFBlYWsgPSAxOS45OTA1Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ //g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -7721,8 +7733,8 @@
         <entry>nrow</entry>
         <entry>KBLOCK</entry>
         <entry>HEAD</entry>
-        <entry>asdf</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>341</entry>
@@ -7740,11 +7752,11 @@
         <entry>160</entry>
         <entry>151</entry>
         <entry>193</entry>
-        <entry>q</entry>
         <entry>799</entry>
         <entry>807</entry>
         <entry>w</entry>
         <entry>%s/ //g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
