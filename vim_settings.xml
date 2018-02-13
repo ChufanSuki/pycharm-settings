@@ -17,12 +17,12 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518480157066">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518482291350">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="87" column="24" />
-        <mark key="." line="87" column="24" />
-        <mark key="^" line="84" column="13" />
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="84" column="13" />
+        <mark key="." line="84" column="13" />
+        <mark key="^" line="137" column="27" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -4232,12 +4232,12 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1518477852687">
-        <mark key="'" line="41" column="34" />
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1518482872579">
+        <mark key="'" line="27" column="30" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/avx-test.c" timestamp="1517277231895">
         <mark key="'" line="27" column="48" />
@@ -5682,12 +5682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-results-clean.txt" />
-      <jump line="2" column="43" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-blas-results.txt" />
-      <jump line="97" column="44" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-blas-results.txt" />
-      <jump line="95" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part1/part1-blas-results.txt" />
-      <jump line="23" column="28" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-blas-results.txt" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-blas-results.txt" />
       <jump line="95" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-blas-results.txt" />
       <jump line="11" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-blas-results.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267_hw1/part2/part2-blas-results.txt" />
@@ -5782,6 +5776,12 @@
       <jump line="635" column="38" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="48" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
       <jump line="362" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="66" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="181" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="225" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="27" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5823,7 +5823,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">R09BTF9TTElDRSA9IHNsaWNlKDAsIDcpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7254,22 +7254,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>, order):</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
-        <text>actions_np</text>
+        <text>Sim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb3NzX25wID0gcHR1LmdldF9udW1weShsb3NzKVswXQogICAgICAgIGxvc3Muc3F1ZWV6ZSgwKS5iYWNrd2FyZCgpCiAgICAgICAgZ3JhZGllbnRfbnAgPSBwdHUuZ2V0X251bXB5KHguZ3JhZCkKICAgICAgICByZXR1cm4gbG9zc19ucCwgZ3JhZGllbnRfbnAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">R09BTF9TTElDRSA9IHNsaWNlKDAsIDcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWN0aW9uLCB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7321,7 +7321,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwcm94X2dyYWQ9VHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWN0aW9uLCB7fQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7381,37 +7381,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnByaW1lPXNlbGYuY29zdF9qYWNvYmlhbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwcm94X2dyYWQ9VHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb3N0X2Z1bmN0aW9uKHNlbGYsIHgsIG9ic2VydmF0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5fY29zdF9mdW5jdGlvbih4LCBvYnNlcnZhdGlvbiwgb3JkZXI9MCkuYXN0eXBlKG5wLmZsb2F0NjQpCgogICAgZGVmIGNvc3RfamFjb2JpYW4oc2VsZiwgeCwgb2JzZXJ2YXRpb24pOgogICAgICAgIHJldHVybiBzZWxmLl9jb3N0X2Z1bmN0aW9uKHgsIG9ic2VydmF0aW9uLCBvcmRlcj0xKS5hc3R5cGUobnAuZmxvYXQ2NCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnByaW1lPXNlbGYuY29zdF9qYWNvYmlhbiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIG9yZGVyID09IDE6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb3N0X2Z1bmN0aW9uKHNlbGYsIHgsIG9ic2VydmF0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5fY29zdF9mdW5jdGlvbih4LCBvYnNlcnZhdGlvbiwgb3JkZXI9MCkuYXN0eXBlKG5wLmZsb2F0NjQpCgogICAgZGVmIGNvc3RfamFjb2JpYW4oc2VsZiwgeCwgb2JzZXJ2YXRpb24pOgogICAgICAgIHJldHVybiBzZWxmLl9jb3N0X2Z1bmN0aW9uKHgsIG9ic2VydmF0aW9uLCBvcmRlcj0xKS5hc3R5cGUobnAuZmxvYXQ2NCkKCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcmRlciA9PSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIG9yZGVyID09IDE6Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcmRlciA9PSAwOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb3N0X2Z1bmN0aW9uKHNlbGYsIHgsIG9ic2VydmF0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5fY29zdF9mdW5jdGlvbih4LCBvYnNlcnZhdGlvbiwgb3JkZXI9MCkuYXN0eXBlKG5wLmZsb2F0NjQpCgogICAgZGVmIGNvc3RfamFjb2JpYW4oc2VsZiwgeCwgb2JzZXJ2YXRpb24pOgogICAgICAgIHJldHVybiBzZWxmLl9jb3N0X2Z1bmN0aW9uKHgsIG9ic2VydmF0aW9uLCBvcmRlcj0xKS5hc3R5cGUobnAuZmxvYXQ2NCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>actions_np</last-search>
+      <last-search>Sim</last-search>
       <last-offset />
-      <last-pattern>actions_np</last-pattern>
+      <last-pattern>Sim</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -7419,10 +7419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>distances</entry>
-        <entry>autom</entry>
-        <entry>split</entry>
-        <entry>_cost_function</entry>
         <entry>obsdim</entry>
         <entry>get_action</entry>
         <entry>x</entry>
@@ -7439,6 +7435,10 @@
         <entry>model</entry>
         <entry>ipdb</entry>
         <entry>actions_np</entry>
+        <entry>step</entry>
+        <entry>def _step</entry>
+        <entry>MjSim</entry>
+        <entry>Sim</entry>
       </history-search>
       <history-cmd>
         <entry>466</entry>
