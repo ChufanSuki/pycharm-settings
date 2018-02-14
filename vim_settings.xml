@@ -420,6 +420,13 @@
         <mark key="^" line="42" column="14" />
         <mark key="." line="42" column="14" />
       </file>
+      <file name="$USER_HOME$/git/classes/spring2018/cs267_hw2/Makefile" timestamp="1518566439346">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/multitask/her_envs.py" timestamp="1508969890455">
         <mark key="'" line="37" column="8" />
         <mark key="[" line="6" column="0" />
@@ -5820,8 +5827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/distance_mpc/distance_model_trainer.py" />
-      <jump line="85" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
       <jump line="63" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
       <jump line="24" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/dynamics_model.py" />
       <jump line="26" column="57" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/dynamics_model.py" />
@@ -5920,6 +5925,8 @@
       <jump line="656" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
       <jump line="64" column="22" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
       <jump line="220" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
+      <jump line="12" column="9" filename="$USER_HOME$/git/classes/spring2018/cs267_hw2/Makefile" />
+      <jump line="11" column="11" filename="$USER_HOME$/git/classes/spring2018/cs267_hw2/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5960,8 +5967,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRkbV9ub3JtYWxpemVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICBvYnNlcnZhdGlvbnMgPSBzZWxmLnRkbV9ub3JtYWxpemVyLm5vcm1hbGl6ZV9vYnNlcnZhdGlvbnMoCiAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbnMKICAgICAgICAgICAgKQogICAgICAgICAgICBnb2FscyA9IHNlbGYudGRtX25vcm1hbGl6ZXIubm9ybWFsaXplX2dvYWxzKAogICAgICAgICAgICAgICAgZ29hbHMKICAgICAgICAgICAgKQogICAgICAgICAgICBudW1fc3RlcHNfbGVmdCA9IHNlbGYudGRtX25vcm1hbGl6ZXIubm9ybWFsaXplX251bV9zdGVwc19sZWZ0KAogICAgICAgICAgICAgICAgbnVtX3N0ZXBzX2xlZnQKICAgICAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7392,13 +7399,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>actions</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>obs</text>
+        <text>CFLAGS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRkbV9ub3JtYWxpemVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICBvYnNlcnZhdGlvbnMsIF8sIGdvYWxzLCBudW1fc3RlcHNfbGVmdCA9ICgKICAgICAgICAgICAgICAgIHNlbGYudGRtX25vcm1hbGl6ZXIubm9ybWFsaXplX2FsbCgKICAgICAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbnMsIE5vbmUsIGdvYWxzLCBudW1fc3RlcHNfbGVmdAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">I0NDID0gQ0MKI01QQ0MgPSBDQwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRkbV9ub3JtYWxpemVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICBvYnNlcnZhdGlvbnMgPSBzZWxmLnRkbV9ub3JtYWxpemVyLm5vcm1hbGl6ZV9vYnNlcnZhdGlvbnMoCiAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbnMKICAgICAgICAgICAgKQogICAgICAgICAgICBnb2FscyA9IHNlbGYudGRtX25vcm1hbGl6ZXIubm9ybWFsaXplX2dvYWxzKAogICAgICAgICAgICAgICAgZ29hbHMKICAgICAgICAgICAgKQogICAgICAgICAgICBudW1fc3RlcHNfbGVmdCA9IHNlbGYudGRtX25vcm1hbGl6ZXIubm9ybWFsaXplX251bV9zdGVwc19sZWZ0KAogICAgICAgICAgICAgICAgbnVtX3N0ZXBzX2xlZnQKICAgICAgICAgICAgKQo=</text>
@@ -7547,9 +7554,9 @@
       </register>
     </registers>
     <search>
-      <last-search>obs</last-search>
+      <last-search>CFLAGS</last-search>
       <last-offset />
-      <last-pattern>obs</last-pattern>
+      <last-pattern>CFLAGS</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -7557,8 +7564,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MakeUni</entry>
-        <entry encoding="base64">XDxuZXh0X29ic1w+</entry>
         <entry>ipdb</entry>
         <entry>goal_batch</entry>
         <entry>Make</entry>
@@ -7577,6 +7582,8 @@
         <entry>taus</entry>
         <entry>observations</entry>
         <entry>obs</entry>
+        <entry>LIBS</entry>
+        <entry>CFLAGS</entry>
       </history-search>
       <history-cmd>
         <entry>408</entry>
