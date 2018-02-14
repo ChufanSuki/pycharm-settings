@@ -17,16 +17,12 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518485115255">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="87" column="24" />
-        <mark key="]" line="87" column="23" />
-        <mark key="." line="87" column="23" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518590408687">
+        <mark key="'" line="87" column="27" />
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="28" />
+        <mark key="." line="87" column="28" />
         <mark key="^" line="87" column="23" />
-      </file>
-      <file name="/a.dummy" timestamp="1518584170913">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -656,7 +652,8 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1518549335086">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1518590375521">
+        <mark key="'" line="47" column="22" />
         <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/gridcraft/test.py" timestamp="1499462517577">
@@ -1102,12 +1099,12 @@
         <mark key="^" line="74" column="96" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" timestamp="1518589383924">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" timestamp="1518590222142">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="53" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="15" />
         <mark key="^" line="78" column="53" />
-        <mark key="." line="78" column="53" />
+        <mark key="." line="76" column="15" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-ros/lib/python3.5/site-packages/mujoco_py/mjtypes.py" timestamp="1494877880845">
         <mark key="'" line="5656" column="8" />
@@ -2096,6 +2093,10 @@
       </file>
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjsim.pyx" timestamp="1518494175002">
         <mark key="'" line="48" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" timestamp="1517726415835">
+        <mark key="'" line="28" column="15" />
+        <mark key="^" line="0" column="59" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/ros/sawyer_env.py" timestamp="1515207630462">
         <mark key="'" line="0" column="0" />
@@ -5942,8 +5943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="28" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
-      <jump line="64" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="20" column="8" filename="$USER_HOME$/git/railrl/railrl/exploration_strategies/base.py" />
       <jump line="88" column="11" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
       <jump line="15" column="29" filename="$USER_HOME$/git/railrl/railrl/policies/argmax.py" />
@@ -6042,6 +6041,8 @@
       <jump line="101" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="151" column="35" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="26" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
+      <jump line="47" column="22" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="87" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6082,8 +6083,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicmVhY2hlcjdkb2YtZnVsbC1ldmFsLXdpdGgtb2Mtc3dlZXAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>0 / reward_scale</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7514,13 +7515,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>state-softplus-mtau0&quot;</text>
+        <text>0 / reward_scale</text>
       </register>
       <register name="/" type="4">
-        <text>vectorized</text>
+        <text>lagran</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncWZfcGFyYW1zLmhpZGRlbl9hY3RpdmF0aW9uJzogWwogICAgICAgICAgICBwdHUuc29mdHBsdXMsCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIGxhZ3JhbmdlX211bHRpcGxpZXIgPSAxMDAgLyByZXdhcmRfc2NhbGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
@@ -7669,9 +7670,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vectorized</last-search>
+      <last-search>lagran</last-search>
       <last-offset />
-      <last-pattern>vectorized</last-pattern>
+      <last-pattern>lagran</last-pattern>
       <last-replace>kwargs</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -7679,7 +7680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TdmPol</entry>
         <entry>es</entry>
         <entry>Epsi</entry>
         <entry>policy</entry>
@@ -7699,6 +7699,7 @@
         <entry>snaptshot</entry>
         <entry>snapshot</entry>
         <entry>vectorized</entry>
+        <entry>lagran</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
