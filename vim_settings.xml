@@ -18,9 +18,9 @@
         <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1518634178841">
-        <mark key="'" line="128" column="18" />
-        <mark key="." line="136" column="27" />
-        <mark key="^" line="136" column="27" />
+        <mark key="'" line="129" column="18" />
+        <mark key="." line="137" column="27" />
+        <mark key="^" line="137" column="27" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -286,8 +286,8 @@
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" timestamp="1518636676038">
-        <mark key="'" line="48" column="4" />
+      <file name="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" timestamp="1518652465431">
+        <mark key="'" line="318" column="12" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/visualization/figure_gen.py" timestamp="1497557914666">
         <mark key="'" line="1" column="16" />
@@ -5925,18 +5925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="18" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="78" column="15" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="81" column="41" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="83" column="58" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="106" column="15" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="121" column="19" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="206" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="302" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="258" column="36" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="117" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="121" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
-      <jump line="122" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/ddpg_tdm_launch.py" />
       <jump line="402" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
       <jump line="500" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
       <jump line="496" column="37" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_networks.py" />
@@ -6025,6 +6013,18 @@
       <jump line="227" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" />
       <jump line="232" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" />
       <jump line="1228" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/1918714723/torch/_C/FloatTensorBase.py" />
+      <jump line="191" column="11" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="277" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="353" column="34" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="111" column="8" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="112" column="4" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="189" column="21" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="293" column="8" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="313" column="0" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="320" column="37" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="53" column="33" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="318" column="12" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/lbfgsb.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/1593649292/scipy/optimize/_lbfgsb.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7500,7 +7500,7 @@
         <text>save</text>
       </register>
       <register name="/" type="4">
-        <text>numpy</text>
+        <text>maxls</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfY29zdF9mdW5jdGlvbihzZWxmLCB4LCBvYnNlcnZhdGlvbiwgb3JkZXIpOgogICAgICAgIHggPSBwdHUubnBfdG9fdmFyKHgsIHJlcXVpcmVzX2dyYWQ9VHJ1ZSkKICAgICAgICBsb3NzID0gKAogICAgICAgICAgICBzZWxmLmxhZ3JhbmdlX211bHRpcGxlcgogICAgICAgICAgICAqIHNlbGYuX2ZlYXNpYmlsaXR5X2Nvc3RfZnVuY3Rpb24oeCwgb2JzZXJ2YXRpb24pCiAgICAgICAgICAgICsgc2VsZi5fZW52X2Nvc3RfZnVuY3Rpb24oeCkKICAgICAgICApCiAgICAgICAgaWYgb3JkZXIgPT0gMDoKICAgICAgICAgICAgcmV0dXJuIHB0dS5nZXRfbnVtcHkobG9zcylbMF0KICAgICAgICBlbGlmIG9yZGVyID09IDE6CiAgICAgICAgICAgIGxvc3Muc3F1ZWV6ZSgwKS5iYWNrd2FyZCgpCiAgICAgICAgICAgIHJldHVybiBwdHUuZ2V0X251bXB5KHguZ3JhZCkKCiAgICBkZWYgY29zdF9mdW5jdGlvbihzZWxmLCB4LCBvYnNlcnZhdGlvbik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2Nvc3RfZnVuY3Rpb24oeCwgb2JzZXJ2YXRpb24sIG9yZGVyPTApLmFzdHlwZShucC5mbG9hdDY0KQoKICAgIGRlZiBjb3N0X2phY29iaWFuKHNlbGYsIHgsIG9ic2VydmF0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5fY29zdF9mdW5jdGlvbih4LCBvYnNlcnZhdGlvbiwgb3JkZXI9MSkuYXN0eXBlKG5wLmZsb2F0NjQpCg==</text>
@@ -7652,9 +7652,9 @@
       </register>
     </registers>
     <search>
-      <last-search>numpy</last-search>
+      <last-search>maxls</last-search>
       <last-offset />
-      <last-pattern>numpy</last-pattern>
+      <last-pattern>maxls</last-pattern>
       <last-replace>kwargs</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -7662,9 +7662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>predictions</entry>
-        <entry>goals</entry>
-        <entry>snaptshot</entry>
         <entry>snapshot</entry>
         <entry>vectorized</entry>
         <entry>predict</entry>
@@ -7682,6 +7679,9 @@
         <entry>eval</entry>
         <entry encoding="base64">XDxzYW1wbGVfcm9sbG91dF9nb2Fsc19mcm9tXD4=</entry>
         <entry>numpy</entry>
+        <entry>line</entry>
+        <entry>search</entry>
+        <entry>maxls</entry>
       </history-search>
       <history-cmd>
         <entry>%s/params/kwargs/g</entry>
