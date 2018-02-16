@@ -1078,8 +1078,8 @@
         <mark key="." line="140" column="20" />
         <mark key="^" line="140" column="20" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" timestamp="1518760340026">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" timestamp="1518761790200">
+        <mark key="'" line="28" column="4" />
         <mark key="[" line="101" column="30" />
         <mark key="]" line="101" column="30" />
         <mark key="^" line="100" column="28" />
@@ -2348,11 +2348,11 @@
         <mark key="." line="1" column="67" />
         <mark key="^" line="1" column="67" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.h" timestamp="1518760177159">
-        <mark key="'" line="49" column="1" />
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="4" />
-        <mark key="." line="64" column="28" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.h" timestamp="1518761783395">
+        <mark key="'" line="40" column="1" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
         <mark key="^" line="64" column="2" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/reacher_7dof.xml" timestamp="1518492574641">
@@ -5521,10 +5521,12 @@
         <mark key="." line="136" column="14" />
         <mark key="^" line="136" column="16" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/serial.cpp" timestamp="1518760401991">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/serial.cpp" timestamp="1518761797014">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="52" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-dev/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1509866695491">
         <mark key="'" line="4" column="6" />
@@ -6052,10 +6054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="26" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
-      <jump line="40" column="24" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
-      <jump line="147" column="9" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
-      <jump line="149" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
       <jump line="162" column="37" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
       <jump line="178" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
       <jump line="179" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
@@ -6152,6 +6150,10 @@
       <jump line="65" column="0" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/serial.cpp" />
       <jump line="37" column="17" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/serial.cpp" />
       <jump line="49" column="1" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.h" />
+      <jump line="50" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/serial.cpp" />
+      <jump line="31" column="1" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
+      <jump line="28" column="4" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.cpp" />
+      <jump line="40" column="1" filename="$USER_HOME$/git/classes/spring2018/cs267-sp18-acv/common.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6192,8 +6194,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigibWF4IG5uc3F1YXJlcyA9ICVkXG4iLCBnZXRfbWF4X25zcXVhcmVzX3Blcl9zaWRlKCkpOwogICAgcHJpbnRmKCJuc3F1YXJlc19wZXJfc2lkZSA9ICVkXG4iLCBuc3F1YXJlc19wZXJfc2lkZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x, y);</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7624,22 +7626,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>x, y);</text>
       </register>
       <register name="/" type="4">
-        <text>get_box_nei</text>
+        <text>Box</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ZigibWF4IG5uc3F1YXJlcyA9ICVkXG4iLCBnZXRfbWF4X25zcXVhcmVzX3Blcl9zaWRlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigibWF4IG5uc3F1YXJlcyA9ICVkXG4iLCBnZXRfbWF4X25zcXVhcmVzX3Blcl9zaWRlKCkpOwogICAgcHJpbnRmKCJuc3F1YXJlc19wZXJfc2lkZSA9ICVkXG4iLCBuc3F1YXJlc19wZXJfc2lkZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgeCwgeSwgbnVtX3BhcnRpY2xlczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgaW50IG5zcXVhcmVzX3Blcl9zaWRlID0gZmxvb3Ioc3FydChuLzQpKTsK</text>
+        <text encoding="base64">ICAgIHByaW50ZigibWF4IG5uc3F1YXJlcyA9ICVkXG4iLCBnZXRfbWF4X25zcXVhcmVzX3Blcl9zaWRlKCkpOwogICAgcHJpbnRmKCJuc3F1YXJlc19wZXJfc2lkZSA9ICVkXG4iLCBuc3F1YXJlc19wZXJfc2lkZSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7691,7 +7693,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgaW50IG5zcXVhcmVzX3Blcl9zaWRlID0gZmxvb3Ioc3FydCgyKm4pKTsKLy8gICAgaW50IG5zcXVhcmVzX3Blcl9zaWRlID0gZmxvb3Ioc3FydChuLzQpKTsK</text>
+        <text encoding="base64">Ly8gICAgaW50IG5zcXVhcmVzX3Blcl9zaWRlID0gZmxvb3Ioc3FydChuLzQpKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7751,37 +7753,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBuc3F1YXJlc19wZXJfc2lkZSA9IGdldF9tYXhfbnNxdWFyZXNfcGVyX3NpZGUoKTsK</text>
+        <text encoding="base64">Ly8gICAgaW50IG5zcXVhcmVzX3Blcl9zaWRlID0gZmxvb3Ioc3FydCgyKm4pKTsKLy8gICAgaW50IG5zcXVhcmVzX3Blcl9zaWRlID0gZmxvb3Ioc3FydChuLzQpKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGludCBuc3F1YXJlc19wZXJfc2lkZSA9IGdldF9tYXhfbnNxdWFyZXNfcGVyX3NpZGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigibWF4IG5uc3F1YXJlcyA9ICVkIiwgZ2V0X21heF9udW1fYmxvY2tzKCkpOwo=</text>
+        <text encoding="base64">ICAgIGludCBuc3F1YXJlc19wZXJfc2lkZSA9IGdldF9tYXhfbnNxdWFyZXNfcGVyX3NpZGUoKTsK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigibWF4IG5uc3F1YXJlcyA9ICVkIiwgZ2V0X21heF9udW1fYmxvY2tzKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiYm94X3dpZHRoPSVmXG4iLCBib3hfd2lkdGgpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHV0X3BhcnRpY2xlc19pbl9ib3hlcygKLy8gICAgICAgIGJveGVkX3BhcnRpY2xlcywKLy8gICAgICAgIGJveGVzLAovLyAgICAgICAgdmVydGJvdW5kcywKLy8gICAgICAgIGhvcnpib3VuZHMsCi8vICAgICAgICBuc3F1YXJlc19wZXJfc2lkZSwKLy8gICAgICAgIG4KLy8gICAgKTsK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiYm94X3dpZHRoPSVmXG4iLCBib3hfd2lkdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_box_nei</last-search>
+      <last-search>Box</last-search>
       <last-offset />
-      <last-pattern>get_box_nei</last-pattern>
+      <last-pattern>Box</last-pattern>
       <last-replace>kwargs</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -7789,8 +7791,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_size</entry>
-        <entry>density</entry>
         <entry encoding="base64">XDxucGFydGljbGVzX3Blcl9iaW5cPg==</entry>
         <entry>boxes</entry>
         <entry>get_Box</entry>
@@ -7809,6 +7809,8 @@
         <entry>vertz</entry>
         <entry>vertb</entry>
         <entry>get_box_nei</entry>
+        <entry>num_particles</entry>
+        <entry>Box</entry>
       </history-search>
       <history-cmd>
         <entry>564</entry>
