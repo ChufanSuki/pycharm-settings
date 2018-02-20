@@ -658,11 +658,12 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1519157825802">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="22" column="23" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1519162744757">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="147" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/gridcraft/test.py" timestamp="1499462517577">
         <mark key="'" line="6" column="0" />
@@ -1580,10 +1581,10 @@
         <mark key="^" line="212" column="130" />
         <mark key="." line="212" column="130" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/mpc_neural_network.py" timestamp="1519107667172">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="24" />
-        <mark key="]" line="116" column="25" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/mpc_neural_network.py" timestamp="1519162800062">
+        <mark key="'" line="127" column="12" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="68" />
         <mark key="." line="116" column="25" />
         <mark key="^" line="115" column="20" />
       </file>
@@ -1901,8 +1902,8 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_uwall.py" timestamp="1519105098659">
-        <mark key="'" line="26" column="17" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_uwall.py" timestamp="1519161240632">
+        <mark key="'" line="7" column="30" />
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="28" column="17" />
@@ -1977,12 +1978,12 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" timestamp="1519105322684">
-        <mark key="'" line="23" column="25" />
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="53" column="48" />
-        <mark key="^" line="52" column="50" />
-        <mark key="." line="53" column="48" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" timestamp="1519162854586">
+        <mark key="'" line="141" column="27" />
+        <mark key="[" line="203" column="46" />
+        <mark key="]" line="204" column="11" />
+        <mark key="." line="204" column="11" />
+        <mark key="^" line="204" column="11" />
       </file>
       <file name="$USER_HOME$/git/rlkit/rlkit/torch/tdm/base.py" timestamp="1519082103292">
         <mark key="'" line="4" column="0" />
@@ -2579,11 +2580,11 @@
         <mark key="^" line="197" column="21" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/controller.py" timestamp="1519108800836">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="86" column="27" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/controller.py" timestamp="1519162265891">
+        <mark key="[" line="95" column="67" />
+        <mark key="]" line="96" column="7" />
+        <mark key="." line="96" column="7" />
+        <mark key="^" line="96" column="7" />
       </file>
       <file name="$USER_HOME$/git/gym/gym/envs/__init__.py" timestamp="1479949355026">
         <mark key="'" line="467" column="0" />
@@ -3939,6 +3940,12 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519161468684">
+        <mark key="'" line="430" column="28" />
+        <mark key="[" line="447" column="17" />
+        <mark key="]" line="447" column="17" />
+        <mark key="." line="447" column="17" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" timestamp="1511398036999">
         <mark key="'" line="124" column="24" />
@@ -6043,35 +6050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="17" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="52" column="40" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="123" column="8" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="51" column="39" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="115" column="8" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="63" column="25" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="117" column="8" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="155" column="8" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="18" column="16" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="384" column="12" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="262" column="0" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="386" column="5" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="22" column="10" filename="$USER_HOME$/git/rlkit/examples/tdm/cheetah.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/git/rlkit/examples/tdm/cheetah.py" />
-      <jump line="10" column="32" filename="$USER_HOME$/git/rlkit/examples/tdm/cheetah.py" />
-      <jump line="51" column="38" filename="$USER_HOME$/git/rlkit/examples/tdm/cheetah.py" />
-      <jump line="83" column="4" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position.py" />
-      <jump line="7" column="50" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position_and_velocity.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position_and_velocity.py" />
-      <jump line="31" column="37" filename="$USER_HOME$/git/rlkit/examples/tdm/7dof_reacher.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/rlkit/examples/tdm/7dof_reacher.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position_and_velocity.py" />
-      <jump line="382" column="4" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="381" column="13" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
-      <jump line="14" column="43" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
       <jump line="67" column="12" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position.py" />
       <jump line="72" column="0" filename="$USER_HOME$/git/rlkit/examples/tdm/ant_position_and_velocity.py" />
       <jump line="263" column="12" filename="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" />
@@ -6143,6 +6121,35 @@
       <jump line="126" column="4" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/visualize_model_error.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/controller.py" />
       <jump line="92" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/controller.py" />
+      <jump line="7" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_uwall.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="101" column="18" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="422" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="510" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="483" column="61" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="421" column="60" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="430" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="78" column="15" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="139" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="191" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="196" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="54" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="125" column="11" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="126" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="127" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="15" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="88" column="23" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="177" column="23" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="188" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="72" column="21" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/controller.py" />
+      <jump line="187" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" />
+      <jump line="137" column="27" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/mpc_neural_network.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/baselines/mpc_neural_network.py" />
+      <jump line="141" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6184,7 +6191,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBHT0FMX1NMSUNFID0gc2xpY2UoMTQsIDE3KQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwuZW52cy5tdWx0aXRhc2sucG9pbnQyZF91d2FsbCBpbXBvcnQgTXVsdGl0YXNrUG9pbnQyZFVXYWxsCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7615,22 +7622,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>reacher7dof-xyz-refactor&quot;</text>
+        <text>gg</text>
       </register>
       <register name="/" type="4">
-        <text>planning</text>
+        <text encoding="base64">XDxNdWx0aXRhc2tQb2ludDJkVVdhbGxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R09BTF9TTElDRSA9IHNsaWNlKDAsIDcpCiMgR09BTF9TTElDRSA9IHNsaWNlKDE0LCAxNykKTVVMVElUQVNLX0dPQUxfU0xJQ0UgPSBHT0FMX1NMSUNFCg==</text>
+        <text encoding="base64">ICAgICAgICBiZXN0X2FjdGlvbl9zZXF1ZW5jZSA9IFthY3Rpb25fdFtpLCA6XSBmb3IgYWN0aW9uX3QgaW4gYWxsX2FjdGlvbnNfbnBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBHT0FMX1NMSUNFID0gc2xpY2UoMTQsIDE3KQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfb2JzX25wID0gW29ic10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiZXN0X2Nvc3RzID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfYWN0aW9ucyA9IFtmaXJzdF9zYW1wbGVkX2FjdGlvbnNdCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7682,7 +7689,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb3N0cyA9IGNvc3RzICsgc2VsZi5jb3N0X2ZuKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7742,37 +7749,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBpID4gMDoKICAgICAgICAgICAgIyAgICAgbmV3X2Nvc3RzID0gbnAubWluaW11bShjb3N0cywgbmV3X2Nvc3RzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb3N0cyA9IG5ld19jb3N0cwo=</text>
+        <text encoding="base64">X3BvaW50MmQgPSBQb2ludDJkVVdhbGwoKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2Nvc3RzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igd2FsbCBpbiBzZWxmLl93YWxsczoK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0cyA9IGFsbF9jb3N0c1swXQogICAgICAgIGZvciBpLCBvdGhlcl9jb3N0IGluIGVudW1lcmF0ZShhbGxfY29zdHNbMTpdKToKICAgICAgICAgICAgY29zdHMgPSBucC5taW4oY29zdHMsIG90aGVyX2Nvc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93YWxscyA9IFsKICAgICAgICAgICAgIyBSaWdodCB3YWxsCiAgICAgICAgICAgIFZlcnRpY2FsV2FsbCgKICAgICAgICAgICAgICAgIHNlbGYuQkFMTF9SQURJVVMsCiAgICAgICAgICAgICAgICBzZWxmLklOTkVSX1dBTExfTUFYX0RJU1QsCiAgICAgICAgICAgICAgICBzZWxmLklOTkVSX1dBTExfTUFYX0RJU1QsCiAgICAgICAgICAgICAgICAtc2VsZi5JTk5FUl9XQUxMX01BWF9ESVNUCiAgICAgICAgICAgICksCiAgICAgICAgICAgICMgTGVmdCB3YWxsCiAgICAgICAgICAgIFZlcnRpY2FsV2FsbCgKICAgICAgICAgICAgICAgIHNlbGYuQkFMTF9SQURJVVMsCiAgICAgICAgICAgICAgICAtc2VsZi5JTk5FUl9XQUxMX01BWF9ESVNULAogICAgICAgICAgICAgICAgc2VsZi5JTk5FUl9XQUxMX01BWF9ESVNULAogICAgICAgICAgICAgICAgLXNlbGYuSU5ORVJfV0FMTF9NQVhfRElTVAogICAgICAgICAgICApLAogICAgICAgICAgICAjIEJvdHRvbSB3YWxsCiAgICAgICAgICAgIEhvcml6b250YWxXYWxsKAogICAgICAgICAgICAgICAgc2VsZi5CQUxMX1JBRElVUywKICAgICAgICAgICAgICAgIHNlbGYuSU5ORVJfV0FMTF9NQVhfRElTVCwKICAgICAgICAgICAgICAgIHNlbGYuSU5ORVJfV0FMTF9NQVhfRElTVCwKICAgICAgICAgICAgICAgIC1zZWxmLklOTkVSX1dBTExfTUFYX0RJU1QKICAgICAgICAgICAgKQogICAgICAgIF0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgIHNlbGYuX3Bvc2l0aW9uID0gbmV3X3Bvc2l0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRpc3RhbmNlX3RvX3RhcmdldCA9IG5wLmxpbmFsZy5ub3JtKAogICAgICAgIHNlbGYuX3RhcmdldF9wb3NpdGlvbiAtIHNlbGYuX3Bvc2l0aW9uCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>planning</last-search>
+      <last-search encoding="base64">XDxNdWx0aXRhc2tQb2ludDJkVVdhbGxcPg==</last-search>
       <last-offset />
-      <last-pattern>planning</last-pattern>
+      <last-pattern encoding="base64">XDxNdWx0aXRhc2tQb2ludDJkVVdhbGxcPg==</last-pattern>
       <last-replace>tdm_kwargs</last-replace>
       <last-substitute>ddpg_tdm_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -7780,11 +7787,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X2FjdGlvbl9hbmRfaW5mb1w+</entry>
-        <entry>TdmDdpg</entry>
-        <entry>ddpg_tdm_kwargs</entry>
-        <entry encoding="base64">XDxfaGFuZGxlX3BhdGhcPg==</entry>
-        <entry>clip</entry>
         <entry encoding="base64">XDxfdGFyZ2V0X3Bvc2l0aW9uXD4=</entry>
         <entry encoding="base64">XDxNQVhfVEFSR0VUX0RJU1RBTkNFXD4=</entry>
         <entry>s1[0]</entry>
@@ -7800,10 +7802,13 @@
         <entry>ipdb</entry>
         <entry>nrows</entry>
         <entry>planning</entry>
+        <entry>,</entry>
+        <entry>asdf</entry>
+        <entry>Point2d</entry>
+        <entry>all_costs</entry>
+        <entry encoding="base64">XDxNdWx0aXRhc2tQb2ludDJkVVdhbGxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>pat</entry>
-        <entry>61</entry>
         <entry>149</entry>
         <entry>171</entry>
         <entry>172</entry>
@@ -7821,6 +7826,8 @@
         <entry>157</entry>
         <entry>63</entry>
         <entry>q</entry>
+        <entry>bp|bd #</entry>
+        <entry>205</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
