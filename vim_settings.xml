@@ -382,11 +382,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rlkit/rlkit/torch/tdm/tdm.py" timestamp="1519097117832">
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
-      </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/memory/trpo_ocm.py" timestamp="1487974031443">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="9" column="50" />
@@ -662,6 +657,12 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation.py" timestamp="1519157825802">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/envs/gridcraft/test.py" timestamp="1499462517577">
         <mark key="'" line="6" column="0" />
@@ -952,11 +953,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="5" column="22" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/rlkit/rlkit/policies/base.py" timestamp="1519081943204">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git/sandbox/cython/math_from_c.pyx" timestamp="1518487882746">
         <mark key="'" line="4" column="0" />
@@ -2334,11 +2330,6 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/exploration.py" timestamp="1518672487416">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" timestamp="1515206622127">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="97" column="44" />
@@ -2753,11 +2744,6 @@
         <mark key="]" line="58" column="40" />
         <mark key="^" line="58" column="40" />
         <mark key="." line="58" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/modules.py" timestamp="1518464425577">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/policies/bundle_entropy_argmax_policy.py" timestamp="1480650854656">
         <mark key="'" line="27" column="41" />
@@ -3463,11 +3449,6 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1518728616877">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/pygame/walls.py" timestamp="1519103675974">
         <mark key="'" line="95" column="44" />
       </file>
@@ -3554,11 +3535,6 @@
         <mark key="]" line="80" column="49" />
         <mark key="^" line="80" column="49" />
         <mark key="." line="80" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/rlkit/rlkit/exploration_strategies/base.py" timestamp="1519083242875">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/railrl/algos/state_distance/util.py" timestamp="1505886359095">
         <mark key="'" line="35" column="36" />
@@ -6208,7 +6184,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAicG9pbnQtMmQtdXdhbGwtc3dlZXAtbXRhdS1hbmQtbGVhcm4tb2Zmc2V0Igo=</text>
+        <text encoding="base64">IyBHT0FMX1NMSUNFID0gc2xpY2UoMTQsIDE3KQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7645,16 +7621,16 @@
         <text>planning</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tSCcsIHR5cGU9aW50LCBkZWZhdWx0PTMwMCwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTWF4IGxlbmd0aCBvZiByb2xsb3V0JykK</text>
+        <text encoding="base64">R09BTF9TTElDRSA9IHNsaWNlKDAsIDcpCiMgR09BTF9TTElDRSA9IHNsaWNlKDE0LCAxNykKTVVMVElUQVNLX0dPQUxfU0xJQ0UgPSBHT0FMX1NMSUNFCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiZXN0X2Nvc3RzID0gMAo=</text>
+        <text encoding="base64">IyBHT0FMX1NMSUNFID0gc2xpY2UoMTQsIDE3KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb3N0cyA9IGNvc3RzICsgc2VsZi5jb3N0X2ZuKAo=</text>
+        <text encoding="base64">ICAgICAgICBiZXN0X2Nvc3RzID0gMAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7706,7 +7682,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBpID4gMDoKICAgICAgICAgICAgIyAgICAgbmV3X2Nvc3RzID0gbnAubWluaW11bShjb3N0cywgbmV3X2Nvc3RzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb3N0cyA9IGNvc3RzICsgc2VsZi5jb3N0X2ZuKAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7766,28 +7742,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb3N0cyA9IG5ld19jb3N0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBpID4gMDoKICAgICAgICAgICAgIyAgICAgbmV3X2Nvc3RzID0gbnAubWluaW11bShjb3N0cywgbmV3X2Nvc3RzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2Nvc3RzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb3N0cyA9IG5ld19jb3N0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0cyA9IGFsbF9jb3N0c1swXQogICAgICAgIGZvciBpLCBvdGhlcl9jb3N0IGluIGVudW1lcmF0ZShhbGxfY29zdHNbMTpdKToKICAgICAgICAgICAgY29zdHMgPSBucC5taW4oY29zdHMsIG90aGVyX2Nvc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2Nvc3RzID0gCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICBjb3N0cyA9IGFsbF9jb3N0c1swXQogICAgICAgIGZvciBpLCBvdGhlcl9jb3N0IGluIGVudW1lcmF0ZShhbGxfY29zdHNbMTpdKToKICAgICAgICAgICAgY29zdHMgPSBucC5taW4oY29zdHMsIG90aGVyX2Nvc3QpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
