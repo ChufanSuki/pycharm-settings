@@ -273,12 +273,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ensemble_ddpg.py" timestamp="1519178316516">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ensemble_ddpg.py" timestamp="1519186025531">
+        <mark key="'" line="79" column="22" />
+        <mark key="[" line="351" column="33" />
+        <mark key="]" line="351" column="30" />
+        <mark key="^" line="351" column="30" />
+        <mark key="." line="351" column="30" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/samplers/in_place.py" timestamp="1514164503916">
         <mark key="'" line="34" column="21" />
@@ -6190,8 +6190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
-      <jump line="239" column="11" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
       <jump line="243" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
       <jump line="244" column="11" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
       <jump line="238" column="7" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
@@ -6290,6 +6288,8 @@
       <jump line="60" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="25" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
       <jump line="5" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ensemble_ddpg.py" />
+      <jump line="345" column="4" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ensemble_ddpg.py" />
+      <jump line="79" column="22" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ensemble_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6330,8 +6330,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>DDPG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhcmdldF9wb2xpY3kgPSBwb2xpY3kuY29weSgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7771,13 +7771,13 @@
         <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QKCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgdG9yY2gub3B0aW0gYXMgb3B0aW0KCmltcG9ydCByYWlscmwudG9yY2gucHl0b3JjaF91dGlsIGFzIHB0dQppbXBvcnQgdG9yY2gKZnJvbSByYWlscmwubWlzYy5ldmFsX3V0aWwgaW1wb3J0IGNyZWF0ZV9zdGF0c19vcmRlcmVkX2RpY3QKZnJvbSByYWlscmwubWlzYy5tbF91dGlsIGltcG9ydCAoCiAgICBTdGF0Q29uZGl0aW9uYWxTY2hlZHVsZSwKICAgIENvbnN0YW50U2NoZWR1bGUsCikKZnJvbSByYWlscmwucG9saWNpZXMuc2ltcGxlIGltcG9ydCBSYW5kb21Qb2xpY3kKZnJvbSByYWlscmwuc2FtcGxlcnMudXRpbCBpbXBvcnQgcm9sbG91dApmcm9tIHJhaWxybC50b3JjaC50b3JjaF9ybF9hbGdvcml0aG0gaW1wb3J0IFRvcmNoUkxBbGdvcml0aG0KZnJvbSByYWlscmwudG9yY2guZGF0YV9tYW5hZ2VtZW50Lm5vcm1hbGl6ZXIgaW1wb3J0IFRvcmNoRml4ZWROb3JtYWxpemVyCmZyb20gcmFpbHJsLmNvcmUgaW1wb3J0IGxvZ2dlcgpmcm9tIHRvcmNoIGltcG9ydCBubiBhcyBubgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhcmdldF9wb2xpY3kgPSBwb2xpY3kuY29weSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgUAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7829,7 +7829,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgUAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7889,28 +7889,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgcGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAjICMgcGx0LnNob3coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5sYXN0X3NvbHV0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdvYWwgPSBzZWxmLl93cmFwcGVkX2Vudi5zYW1wbGVfZ29hbF9mb3Jfcm9sbG91dCgpCiAgICAgICAgIyBnb2FsWzFdID0gbWF4KGdvYWxbMV0sIC1nb2FsWzFdKQogICAgICAgICMgc2VsZi5fd3JhcHBlZF9lbnYuc2V0X2dvYWwoZ29hbCkKICAgICAgICAjIHJldHVybiBzdXBlcigpLnJlc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5sYXN0X3NvbHV0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJsbGFiLm1pc2MubG9nZ2VyIGFzIGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGdvYWwgPSBzZWxmLl93cmFwcGVkX2Vudi5zYW1wbGVfZ29hbF9mb3Jfcm9sbG91dCgpCiAgICAgICAgIyBnb2FsWzFdID0gbWF4KGdvYWxbMV0sIC1nb2FsWzFdKQogICAgICAgICMgc2VsZi5fd3JhcHBlZF9lbnYuc2V0X2dvYWwoZ29hbCkKICAgICAgICAjIHJldHVybiBzdXBlcigpLnJlc2V0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZWQ9c2VlZCwK</text>
+        <text encoding="base64">aW1wb3J0IHJsbGFiLm1pc2MubG9nZ2VyIGFzIGxvZ2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
