@@ -3190,8 +3190,10 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" timestamp="1518679801598">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" timestamp="1519412419581">
+        <mark key="'" line="73" column="30" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl/lib/python3.5/site-packages/gym/monitoring/__init__.py" timestamp="1486884717812">
         <mark key="'" line="2" column="19" />
@@ -6299,7 +6301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_sac.py" />
       <jump line="60" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
       <jump line="137" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="20" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d.py" />
@@ -6399,6 +6400,7 @@
       <jump line="305" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
       <jump line="308" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_uwall.py" />
       <jump line="169" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="73" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/sac/policies.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6440,7 +6442,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>TanhGaussianPolicy(</text>
       </register>
       <register name="b" type="4">
         <keys>
