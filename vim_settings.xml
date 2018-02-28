@@ -17,7 +17,8 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1519283388139">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1519843361415">
+        <mark key="'" line="226" column="22" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
@@ -3972,8 +3973,8 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519279475023">
-        <mark key="'" line="415" column="19" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519843364755">
+        <mark key="'" line="395" column="12" />
         <mark key="[" line="538" column="31" />
         <mark key="]" line="539" column="44" />
         <mark key="^" line="539" column="44" />
@@ -6056,8 +6057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
-      <jump line="55" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
       <jump line="152" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="172" column="21" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="177" column="38" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
@@ -6115,7 +6114,6 @@
       <jump line="225" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/gridcraft/grid_env.py" />
       <jump line="176" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
       <jump line="143" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
-      <jump line="226" column="23" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="118" column="16" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="73" column="37" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="118" column="26" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/sac_tdm_collocation_launch.py" />
@@ -6156,6 +6154,9 @@
       <jump line="247" column="20" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="144" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="11" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/ant_env.py" />
+      <jump line="383" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="226" column="22" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
+      <jump line="395" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7631,7 +7632,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Point2dWall</text>
+        <text encoding="base64">XDxvbmx5X3VzZV90ZXJtaW5hbF9lbnZfbG9zc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG51bV9lcG9jaHMgPSAxMDAwCiAgICBudW1fc3RlcHNfcGVyX2Vwb2NoID0gMTAwMAogICAgbnVtX3N0ZXBzX3Blcl9ldmFsID0gMTAwMAo=</text>
@@ -7783,18 +7784,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Point2dWall</last-search>
+      <last-search encoding="base64">XDxvbmx5X3VzZV90ZXJtaW5hbF9lbnZfbG9zc1w+</last-search>
       <last-offset />
-      <last-pattern>Point2dWall</last-pattern>
+      <last-pattern encoding="base64">XDxvbmx5X3VzZV90ZXJtaW5hbF9lbnZfbG9zc1w+</last-pattern>
       <last-replace>OUTER_WALL_MAX_DIST</last-replace>
       <last-substitute>BOUNDARY_DIST</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>action_space_dif</entry>
-        <entry>get_obs</entry>
         <entry>get_action</entry>
         <entry>obs</entry>
         <entry>+=</entry>
@@ -7813,6 +7812,8 @@
         <entry>Point2DEnv</entry>
         <entry>BOUNDARY_DIST</entry>
         <entry>Point2dWall</entry>
+        <entry>onle</entry>
+        <entry encoding="base64">XDxvbmx5X3VzZV90ZXJtaW5hbF9lbnZfbG9zc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
