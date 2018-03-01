@@ -17,12 +17,12 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1519883854597">
-        <mark key="'" line="262" column="13" />
-        <mark key="[" line="259" column="70" />
-        <mark key="]" line="260" column="37" />
-        <mark key="." line="260" column="37" />
-        <mark key="^" line="260" column="37" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1519885730591">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="202" column="23" />
+        <mark key="]" line="202" column="29" />
+        <mark key="." line="202" column="29" />
+        <mark key="^" line="202" column="29" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -4117,12 +4117,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519883785724">
-        <mark key="'" line="600" column="28" />
-        <mark key="[" line="528" column="21" />
-        <mark key="]" line="528" column="21" />
-        <mark key="." line="528" column="21" />
-        <mark key="^" line="528" column="11" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519885148244">
+        <mark key="[" line="666" column="52" />
+        <mark key="]" line="666" column="52" />
+        <mark key="^" line="666" column="52" />
+        <mark key="." line="666" column="52" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" timestamp="1511398036999">
         <mark key="'" line="124" column="24" />
@@ -6264,14 +6263,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/railrl/experiments/state_distance/tdm/sac_tdm_launch.py" />
       <jump line="38" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
       <jump line="420" column="29" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="490" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="238" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="821" column="0" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/optimize.py" />
-      <jump line="648" column="31" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="664" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="791" column="42" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/optimize.py" />
       <jump line="822" column="8" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/optimize.py" />
@@ -6359,11 +6355,14 @@
       <jump line="569" column="35" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="583" column="48" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="585" column="60" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="598" column="56" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="599" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="600" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="259" column="23" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="261" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
+      <jump line="264" column="18" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
+      <jump line="598" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="648" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6404,8 +6403,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7836,22 +7835,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>tau</text>
+        <text encoding="base64">XDxhY3Rpb25zX2FuZF9vYnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgb3B0aW1pemVyID09ICdsYmZncyc6CiAgICAgICAgcG9saWN5ID0gTEJmZ3NCQ01DKAogICAgICAgICAgICBpbXBsaWNpdF9tb2RlbCwKICAgICAgICAgICAgZW52LAogICAgICAgICAgICBnb2FsX3NsaWNlPWdvYWxfc2xpY2UsCiAgICAgICAgICAgIG11bHRpdGFza19nb2FsX3NsaWNlPW11bHRpdGFza19nb2FsX3NsaWNlLAogICAgICAgICAgICBsYWdyYW5nZV9tdWx0aXBsZXI9bGFncmFuZ2VfbXVsdGlwbGllciwKICAgICAgICAgICAgcGxhbm5pbmdfaG9yaXpvbj1wbGFubmluZ19ob3Jpem9uLAogICAgICAgICAgICAjIGZpbml0ZV9kaWZmZXJlbmNlPVRydWUsCiAgICAgICAgICAgIHNvbHZlcl9wYXJhbXM9ewogICAgICAgICAgICAgICAgJ2ZhY3RyJzogMWU5LAogICAgICAgICAgICB9LAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tSCcsIHR5cGU9aW50LCBkZWZhdWx0PTEwMCwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTWF4IGxlbmd0aCBvZiByb2xsb3V0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBvYnNfcHl0b3JjaCA9IHB0dS5ucF90b192YXIob2JzLCByZXF1aXJlc19ncmFkPUZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhbc3RhcnRfaCtzZWxmLmFjdGlvbl9kaW06c3RhcnRfaCtzZWxmLmFvX2RpbV0sCg==</text>
+        <text encoding="base64">ICAgICAgICB4X3RvcmNoID0gcHR1Lm5wX3RvX3Zhcih4LCByZXF1aXJlc19ncmFkPVRydWUpCiAgICAgICAgYWN0aW9uc19hbmRfb2JzID0gc2VsZi5zcGxpdCh4KQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7903,7 +7902,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydF9zdGF0ZSA9IHB0dS5ucF90b192YXIoc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICB4X3RvcmNoID0gcHR1Lm5wX3RvX3Zhcih4LCByZXF1aXJlc19ncmFkPVRydWUpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7963,37 +7962,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4Xwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bV9zdGVwc19sZWZ0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucz1hY3Rpb25zLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IGN1cnJlbnRfc3RhdGVbTm9uZV0K</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YXVzID0gcHR1Lm5wX3RvX3ZhcigKICAgICAgICAgICAgc2VsZi50YXUgKiBucC5vbmVzKChzdGF0ZXMuc2hhcGVbMF0sIDEpKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnFmID0gcWYK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3N0YXRlID0gY3VycmVudF9zdGF0ZS51bnNxdWVlemUoMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uLmFwcGVuZChzZWxmLmVudi5hY3Rpb25fc3BhY2Uuc2FtcGxlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tau</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25zX2FuZF9vYnNcPg==</last-search>
       <last-offset />
-      <last-pattern>tau</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25zX2FuZF9vYnNcPg==</last-pattern>
       <last-replace>OUTER_WALL_MAX_DIST</last-replace>
       <last-substitute>BOUNDARY_DIST</last-substitute>
       <last-dir>1</last-dir>
@@ -8001,8 +8000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bounds</entry>
-        <entry>traj</entry>
         <entry>col</entry>
         <entry>offset</entry>
         <entry>mtau</entry>
@@ -8021,12 +8018,10 @@
         <entry>self.split</entry>
         <entry>start_state</entry>
         <entry>tau</entry>
+        <entry encoding="base64">XDxfZmVhc2liaWxpdHlfY29zdF9mdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDxhY3Rpb25zX2FuZF9vYnNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>157</entry>
-        <entry>63</entry>
-        <entry>bp|bd #</entry>
-        <entry>205</entry>
         <entry>124</entry>
         <entry>297</entry>
         <entry>192</entry>
@@ -8042,6 +8037,10 @@
         <entry>%s/BOUNDARY_DIST/OUTER_WALL_MAX_DIST/g</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry>600</entry>
+        <entry>607</entry>
+        <entry>579</entry>
+        <entry>653</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
