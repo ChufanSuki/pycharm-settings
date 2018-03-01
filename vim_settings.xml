@@ -738,12 +738,10 @@
         <mark key="." line="469" column="34" />
         <mark key="^" line="469" column="34" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/networks.py" timestamp="1519192145797">
-        <mark key="'" line="109" column="17" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/networks.py" timestamp="1519883043835">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/examples/torch_ddpg_cheetah.py" timestamp="1511589196023">
         <mark key="'" line="66" column="21" />
@@ -6265,9 +6263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
-      <jump line="62" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
       <jump line="16" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d.py" />
       <jump line="85" column="49" filename="$USER_HOME$/git/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
       <jump line="86" column="13" filename="$USER_HOME$/git/railrl/experiments/state_distance/visualize_implicit_model_error.py" />
@@ -6365,6 +6360,9 @@
       <jump line="18" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="20" column="40" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
       <jump line="540" column="4" filename="$USER_HOME$/git/railrl/railrl/core/tabulate.py" />
+      <jump line="88" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
+      <jump line="86" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
+      <jump line="87" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/networks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6406,7 +6404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAic2FjLXRkbS1hbnQtZ29hbHh5LXN3ZWVwIgo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRzID0gW10KICAgICAgICBmb3IgeCBpbiBpbnB1dHM6CiAgICAgICAgICAgIG91dHB1dHMuYXBwZW5kKHNlbGYuZmMxKHgpKQogICAgICAgIG91dHB1dHNbMF0gPSBzZWxmLmZjMShpbnB1dHNbMF0pCiAgICAgICAgb3V0cHV0c1sxXSA9IHNlbGYuZmMxKGlucHV0c1sxXSkKICAgICAgICBvdXRwdXRzWzJdID0gc2VsZi5mYzEoaW5wdXRzWzJdKQogICAgICAgIHJldHVybiBvdXRwdXRzCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7837,22 +7835,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>x)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text encoding="base64">XDx4XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG51bV9lcG9jaHMgPSAxMDAwCiAgICBudW1fc3RlcHNfcGVyX2Vwb2NoID0gMTAwMAogICAgbnVtX3N0ZXBzX3Blcl9ldmFsID0gMTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRzWzBdID0gc2VsZi5mYzEoaW5wdXRzWzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG51bV9lcG9jaHMgPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXZhbCA9IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRzID0gW10KICAgICAgICBmb3IgeCBpbiBpbnB1dHM6CiAgICAgICAgICAgIG91dHB1dHMuYXBwZW5kKHNlbGYuZmMxKHgpKQogICAgICAgIG91dHB1dHNbMF0gPSBzZWxmLmZjMShpbnB1dHNbMF0pCiAgICAgICAgb3V0cHV0c1sxXSA9IHNlbGYuZmMxKGlucHV0c1sxXSkKICAgICAgICBvdXRwdXRzWzJdID0gc2VsZi5mYzEoaW5wdXRzWzJdKQogICAgICAgIHJldHVybiBvdXRwdXRzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeiA9IHRvcmNoLkZsb2F0VGVuc29yKHgpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7904,7 +7902,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZV9ncHU9VHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IHNlbGYuZmMxKHgpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7964,37 +7962,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAsCg==</text>
+        <text encoding="base64">ICAgIG51bV9lcG9jaHMgPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXBvY2ggPSAxMDAKICAgIG51bV9zdGVwc19wZXJfZXZhbCA9IDEwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTUsCg==</text>
+        <text encoding="base64">ICAgIGVudgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZV9ncHU9VHJ1ZSwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMCwK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDx4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx4XD4=</last-pattern>
       <last-replace>OUTER_WALL_MAX_DIST</last-replace>
       <last-substitute>BOUNDARY_DIST</last-substitute>
       <last-dir>1</last-dir>
@@ -8002,8 +8000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>+=</entry>
-        <entry>ipdb</entry>
         <entry>tau</entry>
         <entry>learn</entry>
         <entry>bound</entry>
@@ -8022,6 +8018,8 @@
         <entry encoding="base64">XDxvbmx5X3VzZV90ZXJtaW5hbF9lbnZfbG9zc1w+</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxvdXRwdXRzXD4=</entry>
+        <entry encoding="base64">XDx4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
@@ -8042,8 +8040,8 @@
         <entry>%s/Point2dUWall/Point2dWall/g</entry>
         <entry>%s/Point2DEnv/Point2dWall/g</entry>
         <entry>%s/BOUNDARY_DIST/OUTER_WALL_MAX_DIST/g</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
