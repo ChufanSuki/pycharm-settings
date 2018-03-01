@@ -17,12 +17,11 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1519885730591">
-        <mark key="'" line="58" column="8" />
-        <mark key="[" line="202" column="23" />
-        <mark key="]" line="202" column="29" />
-        <mark key="." line="202" column="29" />
-        <mark key="^" line="202" column="29" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" timestamp="1519941000676">
+        <mark key="'" line="248" column="22" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/git/rail-rl/example.py" timestamp="1484178238126">
         <mark key="'" line="18" column="26" />
@@ -4117,11 +4116,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519885148244">
-        <mark key="[" line="666" column="52" />
-        <mark key="]" line="666" column="52" />
-        <mark key="^" line="666" column="52" />
-        <mark key="." line="666" column="52" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" timestamp="1519941724201">
+        <mark key="'" line="449" column="15" />
+        <mark key="[" line="449" column="15" />
+        <mark key="]" line="449" column="15" />
+        <mark key="." line="449" column="15" />
+        <mark key="^" line="448" column="29" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_torch_distributions.py" timestamp="1511398036999">
         <mark key="'" line="124" column="24" />
@@ -6263,10 +6263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
-      <jump line="420" column="29" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="490" column="28" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
-      <jump line="238" column="20" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="821" column="0" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/optimize.py" />
       <jump line="664" column="25" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="791" column="42" filename="$USER_HOME$/.local/lib/python3.5/site-packages/scipy/optimize/optimize.py" />
@@ -6363,6 +6359,10 @@
       <jump line="58" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="598" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="648" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="248" column="22" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
+      <jump line="762" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="445" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
+      <jump line="450" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6404,7 +6404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>actions_and_obs</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7835,22 +7835,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>actions_and_obs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpb25zX2FuZF9vYnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tSCcsIHR5cGU9aW50LCBkZWZhdWx0PTEwMCwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTWF4IGxlbmd0aCBvZiByb2xsb3V0JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidG90YWwgOnt9Ii5mb3JtYXQodG90YWwpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNfcHl0b3JjaCA9IHB0dS5ucF90b192YXIob2JzLCByZXF1aXJlc19ncmFkPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hcHBlbmQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4X3RvcmNoID0gcHR1Lm5wX3RvX3Zhcih4LCByZXF1aXJlc19ncmFkPVRydWUpCiAgICAgICAgYWN0aW9uc19hbmRfb2JzID0gc2VsZi5zcGxpdCh4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7902,7 +7902,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4X3RvcmNoID0gcHR1Lm5wX3RvX3Zhcih4LCByZXF1aXJlc19ncmFkPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHhbc3RhcnRfaCtzZWxmLmFjdGlvbl9kaW06c3RhcnRfaCtzZWxmLmFvX2RpbV0sCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7962,28 +7962,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4Xwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geC52aWV3KHNlbGYucGxhbm5pbmdfaG9yaXpvbiwgLTEpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0geDogCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IGN1cnJlbnRfc3RhdGVbTm9uZV0K</text>
+        <text encoding="base64">ICAgIGRlZiB1bmZsYXR0ZW4oc2VsZiwgeCk6CiAgICAgICAgcmV0dXJuIHgudmlldyhzZWxmLnBsYW5uaW5nX2hvcml6b24sIC0xKQoK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3N0YXRlID0gY3VycmVudF9zdGF0ZS51bnNxdWVlemUoMCkK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25zX2FuZF9vYnMgPSBbXQogICAgICAgIGZvciBoIGluIHJhbmdlKHNlbGYucGxhbm5pbmdfaG9yaXpvbik6CiAgICAgICAgICAgIHN0YXJ0X2ggPSBoICogc2VsZi5hb19kaW0KICAgICAgICAgICAgYWN0aW9uc19hbmRfb2JzLmFwcGVuZCgoCiAgICAgICAgICAgICAgICB4W3N0YXJ0X2g6c3RhcnRfaCtzZWxmLmFjdGlvbl9kaW1dLAogICAgICAgICAgICAgICAgeFtzdGFydF9oK3NlbGYuYWN0aW9uX2RpbTpzdGFydF9oK3NlbGYuYW9fZGltXSwKICAgICAgICAgICAgKSkKICAgICAgICByZXR1cm4gYWN0aW9uc19hbmRfb2JzCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uLmFwcGVuZChzZWxmLmVudi5hY3Rpb25fc3BhY2Uuc2FtcGxlKCkpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICB1bmZsYXR0ZW4geCBpbnRvIGBzZWxmLnBsYW5uaW5nIAogICAgICAgICIiIg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8022,7 +8022,6 @@
         <entry encoding="base64">XDxhY3Rpb25zX2FuZF9vYnNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>124</entry>
         <entry>297</entry>
         <entry>192</entry>
         <entry>%s/params/kwargs/g</entry>
@@ -8041,6 +8040,7 @@
         <entry>607</entry>
         <entry>579</entry>
         <entry>653</entry>
+        <entry>bp|bd #</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
