@@ -2906,10 +2906,10 @@
       <file name="$USER_HOME$/git/railrl/railrl/launchers/memory_bptt_launchers.py" timestamp="1515203145008">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" timestamp="1519082087038">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" timestamp="1520631816016">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="167" column="12" />
+        <mark key="]" line="11" column="44" />
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
@@ -3892,6 +3892,12 @@
         <mark key="]" line="106" column="47" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="106" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" timestamp="1520631820295">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/profile.py" timestamp="1511572585761">
         <mark key="'" line="46" column="23" />
@@ -6291,8 +6297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="38" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/sac_tdm_collocation_launch.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="80" column="4" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/collocation_with_tdm.py" />
       <jump line="413" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
       <jump line="396" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/mpc/collocation/collocation_mpc_controller.py" />
@@ -6391,6 +6395,8 @@
       <jump line="93" column="29" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/sac_tdm_collocation_launch.py" />
       <jump line="175" column="12" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/sac_tdm_collocation_launch.py" />
       <jump line="158" column="36" filename="$USER_HOME$/git/railrl/experiments/state_distance/collocation/sac_tdm_collocation_launch.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6432,7 +6438,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>Ddpg</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7863,13 +7869,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>Ddpg</text>
       </register>
       <register name="/" type="4">
         <text>none</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NxdWFyZWRfZGlmZmVyZW5jZScsCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QKCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgdG9yY2gKCmltcG9ydCByYWlscmwudG9yY2gucHl0b3JjaF91dGlsIGFzIHB0dQpmcm9tIHJhaWxybC5taXNjLmV2YWxfdXRpbCBpbXBvcnQgY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdApmcm9tIHJhaWxybC5zdGF0ZV9kaXN0YW5jZS50ZG0gaW1wb3J0IFRlbXBvcmFsRGlmZmVyZW5jZU1vZGVsCmZyb20gcmFpbHJsLnRvcmNoLmRkcGcuZGRwZyBpbXBvcnQgRERQRwoKCmNsYXNzIFRkbURkcGcoVGVtcG9yYWxEaWZmZXJlbmNlTW9kZWwsIEREUEcpOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHZfdGFyZ2V0ID0gcV9uZXdfYWN0aW9ucwo=</text>
