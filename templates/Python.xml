@@ -42,4 +42,9 @@
     </context>
   </template>
   <template name="load" value="import argparse&#10;import joblib&#10;&#10;&#10;def main(args):&#10;    data = joblib.load(args.file)&#10;&#10;&#10;if __name__ == &quot;__main__&quot;:&#10;    parser = argparse.ArgumentParser()&#10;    parser.add_argument('file', type=str, help='path to the snapshot file')&#10;    args = parser.parse_args()&#10;&#10;    main(args)" description="load joblib file" toReformat="false" toShortenFQNames="true" />
+  <template name="loadd" value="import argparse&#10;&#10;import joblib&#10;&#10;if __name__ == &quot;__main__&quot;:&#10;&#10;    parser = argparse.ArgumentParser()&#10;    parser.add_argument('file', type=str,&#10;                        help='path to the snapshot file')&#10;    parser.add_argument('--pause', action='store_true')&#10;    args = parser.parse_args()&#10;    if args.pause:&#10;        import ipdb; ipdb.set_trace()&#10;&#10;    data = joblib.load(args.file)" description="Load data" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
