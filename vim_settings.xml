@@ -4116,12 +4116,12 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521096575855">
+      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521099044677">
         <mark key="'" line="56" column="33" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="72" />
-        <mark key="." line="120" column="24" />
-        <mark key="^" line="120" column="24" />
+        <mark key="[" line="85" column="67" />
+        <mark key="]" line="86" column="23" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="23" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_path.py" timestamp="1508279791816">
         <mark key="'" line="8" column="0" />
@@ -6112,8 +6112,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAiYmV0YS1sZWFybmluZy11d2FsbC1zYXZlLXJiLWFuZC1naXZlLWdvYWwtdG8tYnVmLWZpeGVkIgo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7544,7 +7544,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>get_ac</text>
