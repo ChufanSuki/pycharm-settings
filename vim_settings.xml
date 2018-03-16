@@ -2450,12 +2450,12 @@
         <mark key="." line="25" column="59" />
         <mark key="^" line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1521220810415">
-        <mark key="'" line="313" column="8" />
-        <mark key="[" line="310" column="22" />
-        <mark key="]" line="310" column="51" />
-        <mark key="." line="310" column="51" />
-        <mark key="^" line="310" column="51" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1521222812373">
+        <mark key="'" line="197" column="17" />
+        <mark key="[" line="197" column="48" />
+        <mark key="]" line="197" column="53" />
+        <mark key="." line="197" column="53" />
+        <mark key="^" line="197" column="53" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/tests/test_one_char_memory.py" timestamp="1493228045310">
         <mark key="'" line="125" column="0" />
@@ -4248,8 +4248,8 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1521221475738">
-        <mark key="'" line="138" column="25" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1521222700511">
+        <mark key="'" line="138" column="17" />
         <mark key="[" line="145" column="36" />
         <mark key="]" line="145" column="37" />
         <mark key="." line="145" column="37" />
@@ -5968,14 +5968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="35" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="293" column="54" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="298" column="17" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="192" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="301" column="17" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="302" column="18" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="300" column="14" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="167" column="58" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="127" column="30" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="96" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
@@ -5985,7 +5977,6 @@
       <jump line="59" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="67" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="276" column="20" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="95" column="34" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="277" column="44" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="242" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="311" column="13" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
@@ -6067,7 +6058,16 @@
       <jump line="46" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="47" column="18" filename="$USER_HOME$/git/railrl/railrl/events/test_launch.py" />
       <jump line="313" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="138" column="25" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
+      <jump line="138" column="17" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
+      <jump line="138" column="4" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="58" column="21" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="87" column="17" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="94" column="43" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="95" column="35" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="60" column="25" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="186" column="29" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="197" column="17" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6108,8 +6108,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9icyA9ICgxLCAxKQogICAgZ29hbCA9ICgwLCA0KQogICAgcGx0LmZpZ3VyZSgpCiAgICBwbHQudGl0bGUoInBvcyB7fS4gZ29hbCB7fSIuZm9ybWF0KG9icywgZ29hbCkpCiAgICBoZWF0bWFwID0gbWFrZV9oZWF0X21hcChjcmVhdGVfYmV0YV9ldmFsKG9icywgZ29hbCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbLTEsIDFdLCBbLTEsIDFdLCByZXNvbHV0aW9uPTUwKQogICAgcGxvdF9oZWF0bWFwKGhlYXRtYXApCg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7540,22 +7540,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
-        <text>cost</text>
+        <text>final_prob</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9icyA9ICgxLCAxKQogICAgZ29hbCA9ICgwLCA0KQogICAgcGx0LmZpZ3VyZSgpCiAgICBwbHQudGl0bGUoInBvcyB7fS4gZ29hbCB7fSIuZm9ybWF0KG9icywgZ29hbCkpCiAgICBoZWF0bWFwID0gbWFrZV9oZWF0X21hcChjcmVhdGVfYmV0YV9ldmFsKG9icywgZ29hbCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbLTEsIDFdLCBbLTEsIDFdLCByZXNvbHV0aW9uPTUwKQogICAgcGxvdF9oZWF0bWFwKGhlYXRtYXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiLWV4cGwtZml4ZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxfcHJvYiA9IHRvcmNoLnByb2QocHJvYmFiaWxpdGllcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bV9zdGVwc19sZWZ0ID0gbnAuYXJyYXkoW1sxXV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiLWV4cGwtZml4ZWQiCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -7607,7 +7607,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGlzIGltcGxlbWVudGF0aW9uIGlzIHRoZSBzYW1lLCBidXQgSSBhZGRlZCBhIGZldzoKICAgICAgICBgYGAKICAgICAgICBzZWxmLl9pdF9zdW1baV0gPSBzZWxmLl9tYXhfcHJpb3JpdHkgKiogc2VsZi5fYWxwaGEKICAgICAgICBzZWxmLl9pdF9taW5baV0gPSBzZWxmLl9tYXhfcHJpb3JpdHkgKiogc2VsZi5fYWxwaGEKICAgICAgICBgYGAKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIG51bV9zdGVwc19sZWZ0ID0gbnAuYXJyYXkoW1sxXV0pCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -7667,37 +7667,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGlzIGltcGxlbWVudGF0aW9uIGlzIHRoZSBzYW1lLCBidXQgSSBhZGRlZCBhIGZldzoKICAgICAgICBgYGAKICAgICAgICBzZWxmLl9pdF9zdW1baV0gPSBzZWxmLl9tYXhfcHJpb3JpdHkgKiogc2VsZi5fYWxwaGEKICAgICAgICBzZWxmLl9pdF9taW5baV0gPSBzZWxmLl9tYXhfcHJpb3JpdHkgKiogc2VsZi5fYWxwaGEKICAgICAgICBgYGAKICAgICAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHRoaXMgZGVmaW5pdGVseSBnZXRzIGZsYXR0ZW5lZCBzb21ldGltZXMuLi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdmCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHRoaXMgZGVmaW5pdGVseSBnZXRzIGZsYXR0ZW5lZCBzb21ldGltZXMuLi4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgYmV0YV92X2xvc3MgPSBzZWxmLnZfY3JpdGVyaW9uKAogICAgICAgICAgICBzZWxmLmJldGFfdihuZXh0X29icywgZ29hbHMsIG51bV9zdGVwc19sZWZ0KSwgICNUT0RPOiBkZWNyZW1lbnQKICAgICAgICAgICAgdGFyZ2V0cwogICAgICAgICkKICAgICAgICBzZWxmLmJldGFfdl9vcHRpbWl6ZXIuemVyb19ncmFkKCkKICAgICAgICBiZXRhX3ZfbG9zcy5iYWNrd2FyZCgpCiAgICAgICAgc2VsZi5iZXRhX3Zfb3B0aW1pemVyLnN0ZXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sZWFybmVkX2FjdGlvbnNbMDoxXSwK</text>
+        <text encoding="base64">CiAgICAgICAgYmV0YV92X2xvc3MgPSBzZWxmLnZfY3JpdGVyaW9uKAogICAgICAgICAgICBzZWxmLmJldGFfdihuZXh0X29icywgZ29hbHMsIG51bV9zdGVwc19sZWZ0KSwgICNUT0RPOiBkZWNyZW1lbnQKICAgICAgICAgICAgdGFyZ2V0cwogICAgICAgICkKICAgICAgICBzZWxmLmJldGFfdl9vcHRpbWl6ZXIuemVyb19ncmFkKCkKICAgICAgICBiZXRhX3ZfbG9zcy5iYWNrd2FyZCgpCiAgICAgICAgc2VsZi5iZXRhX3Zfb3B0aW1pemVyLnN0ZXAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cost</last-search>
+      <last-search>final_prob</last-search>
       <last-offset />
-      <last-pattern>cost</last-pattern>
+      <last-pattern>final_prob</last-pattern>
       <last-replace>100</last-replace>
       <last-substitute>300</last-substitute>
       <last-dir>1</last-dir>
@@ -7705,8 +7705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plotter</entry>
-        <entry>q_new_ac</entry>
         <entry encoding="base64">XDxxX25ld19hY3Rpb25zXD4=</entry>
         <entry>v_pred</entry>
         <entry>92</entry>
@@ -7725,6 +7723,8 @@
         <entry>ipdb</entry>
         <entry encoding="base64">XDxxX291dHB1dFw+</entry>
         <entry>cost</entry>
+        <entry>max_cost</entry>
+        <entry>final_prob</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
