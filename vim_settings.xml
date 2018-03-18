@@ -543,9 +543,6 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/core.py" timestamp="1521094490999">
-        <mark key="'" line="33" column="28" />
-      </file>
       <file name="$USER_HOME$/git/public-railrl/docker/rlkit/Dockerfile" timestamp="1516840192386">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="64" column="25" />
@@ -1183,9 +1180,6 @@
         <mark key="]" line="5658" column="32" />
         <mark key="^" line="5658" column="32" />
         <mark key="." line="5658" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_wall.py" timestamp="1521220543016">
-        <mark key="'" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/railrl/experiments/sac/cheetah.py" timestamp="1511588476444">
         <mark key="'" line="67" column="8" />
@@ -2197,9 +2191,6 @@
         <mark key="]" line="109" column="12" />
         <mark key="." line="109" column="12" />
         <mark key="^" line="94" column="57" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" timestamp="1521180195991">
-        <mark key="'" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/git/softqlearning-private/examples/half-cheetah-sac.py" timestamp="1511577385678">
         <mark key="'" line="5" column="28" />
@@ -4039,12 +4030,6 @@
         <mark key="." line="95" column="57" />
         <mark key="^" line="95" column="57" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d.py" timestamp="1521180320058">
-        <mark key="'" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/baselines/baselines/deepq/build_graph.py" timestamp="1520923357840">
-        <mark key="'" line="403" column="16" />
-      </file>
       <file name="$USER_HOME$/git/rail-rl/scripts/vpg_generate_baseline_data.py" timestamp="1484173663633">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="33" column="24" />
@@ -4793,8 +4778,8 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1519199386498">
-        <mark key="'" line="301" column="30" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" timestamp="1521349089152">
+        <mark key="'" line="70" column="8" />
         <mark key="[" line="301" column="28" />
         <mark key="]" line="301" column="28" />
         <mark key="." line="301" column="30" />
@@ -6404,10 +6389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="52" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="367" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/git/railrl/railrl/events/test_launch.py" />
-      <jump line="339" column="29" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="284" column="0" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="327" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
@@ -6504,6 +6485,10 @@
       <jump line="49" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="282" column="16" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="289" column="20" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="353" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_7dof.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7979,7 +7964,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>reward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmF4MiA9IE5vbmUK</text>
@@ -8131,9 +8116,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>reward</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>reward</last-pattern>
       <last-replace>100</last-replace>
       <last-substitute>300</last-substitute>
       <last-dir>1</last-dir>
@@ -8141,12 +8126,9 @@
     </search>
     <history>
       <history-search>
-        <entry>loss</entry>
-        <entry>def eval</entry>
         <entry>handle_step</entry>
         <entry>get_ac</entry>
         <entry>_can_train</entry>
-        <entry>reward</entry>
         <entry>args</entry>
         <entry>last_path</entry>
         <entry>debug</entry>
@@ -8161,6 +8143,9 @@
         <entry>render</entry>
         <entry>optimal</entry>
         <entry>print</entry>
+        <entry>Goal</entry>
+        <entry>_step</entry>
+        <entry>reward</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
