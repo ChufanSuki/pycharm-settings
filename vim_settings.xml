@@ -263,7 +263,7 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/fanova/visualizer.py" timestamp="1519080433804">
         <mark key="'" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/networks.py" timestamp="1521252620068">
+      <file name="$USER_HOME$/git/railrl/railrl/events/networks.py" timestamp="1521579453433">
         <mark key="'" line="34" column="3" />
         <mark key="[" line="35" column="8" />
         <mark key="]" line="35" column="27" />
@@ -389,8 +389,8 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1521516606286">
-        <mark key="'" line="394" column="31" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1521579306940">
+        <mark key="'" line="193" column="22" />
         <mark key="[" line="401" column="32" />
         <mark key="]" line="401" column="32" />
         <mark key="." line="401" column="42" />
@@ -451,8 +451,8 @@
         <mark key="]" line="211" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1521517718908">
-        <mark key="'" line="39" column="6" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1521579263382">
+        <mark key="'" line="230" column="8" />
         <mark key="[" line="330" column="12" />
         <mark key="]" line="330" column="30" />
         <mark key="." line="111" column="23" />
@@ -639,12 +639,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/torch/collocation/mpc_collocation_controller.py" timestamp="1517372106197">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1521514417521">
-        <mark key="'" line="145" column="8" />
-        <mark key="[" line="153" column="23" />
-        <mark key="]" line="153" column="24" />
-        <mark key="." line="153" column="24" />
-        <mark key="^" line="153" column="24" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1521579772851">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/git/rllab-rail/sandbox/rocky/tf/algos/trpo.py" timestamp="1519175910550">
         <mark key="'" line="6" column="12" />
@@ -745,16 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="15" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
-      <jump line="300" column="17" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="303" column="43" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="313" column="49" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="314" column="53" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="326" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="380" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="308" column="29" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="317" column="79" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="319" column="77" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="321" column="83" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="323" column="76" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
@@ -845,6 +835,16 @@
       <jump line="443" column="26" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="39" column="6" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="63" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="279" column="36" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="414" column="18" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="185" column="20" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="347" column="26" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="226" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="230" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="193" column="22" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="159" column="22" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
+      <jump line="24" column="27" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -885,8 +885,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2317,22 +2317,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>best_obs_seq</text>
       </register>
       <register name="/" type="4">
-        <text>warm_start</text>
+        <text encoding="base64">XDxiZXN0X29ic19zZXFcPg==</text>
       </register>
       <register name="0" type="4">
         <text>oracle_qmax_action=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBweWdhbWUuZHJhdy5hCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBweWdhbWUuZHJhdy5hCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -2444,37 +2444,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3JbM10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3JbM10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yc19pbnQgPSAoaW50KGMgKiAyNTYpIGZvciBjIGluIGNvbG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGxhc21hX2NtKGZsb2F0KGkpIC8gbnVtX2dvYWxzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yc19pbnQgPSAoaW50KGMgKiAyNTYpIGZvciBjIGluIGNvbG9yKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhc21hX2NtID0gcGx0LmdldF9jbWFwKCdwbGFzbWEnKQogICAgICAgICAgICBudW1fZ29hbHMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGxhc21hX2NtKGZsb2F0KGkpIC8gbnVtX2dvYWxzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhc21hX2NtID0gcGx0LmdldF9jbWFwKCdwbGFzbWEnKQogICAgICAgICAgICBudW1fZ29hbHMgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>warm_start</last-search>
+      <last-search encoding="base64">XDxiZXN0X29ic19zZXFcPg==</last-search>
       <last-offset />
-      <last-pattern>warm_start</last-pattern>
+      <last-pattern encoding="base64">XDxiZXN0X29ic19zZXFcPg==</last-pattern>
       <last-replace>100</last-replace>
       <last-substitute>300</last-substitute>
       <last-dir>1</last-dir>
@@ -2482,11 +2482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self._last_obs</entry>
-        <entry encoding="base64">XDxfc3RhcnRfbmV3X3JvbGxvdXRcPg==</entry>
-        <entry>self._last_ob</entry>
-        <entry>_start_new_roll</entry>
-        <entry>terminal</entry>
         <entry encoding="base64">XDxfZ2V0X2FjdGlvbl9hbmRfaW5mb1w+</entry>
         <entry>done</entry>
         <entry encoding="base64">XDxtb2RlXD4=</entry>
@@ -2496,12 +2491,17 @@
         <entry>best_ob_seq</entry>
         <entry>best_obs_seq</entry>
         <entry encoding="base64">XDxmdWxsX29ic19zZXFcPg==</entry>
-        <entry encoding="base64">XDxiZXN0X29ic19zZXFcPg==</entry>
         <entry>plot</entry>
         <entry encoding="base64">XDxwbGFzbWFfY21cPg==</entry>
         <entry>debug</entry>
         <entry>warm_Start</entry>
         <entry>warm_start</entry>
+        <entry encoding="base64">XDxiZXRhX3FcPg==</entry>
+        <entry encoding="base64">XDxsb3NzX25wXD4=</entry>
+        <entry encoding="base64">XDxncmFkaWVudF9ucFw+</entry>
+        <entry>beta_v</entry>
+        <entry>qwer</entry>
+        <entry encoding="base64">XDxiZXN0X29ic19zZXFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>332</entry>
