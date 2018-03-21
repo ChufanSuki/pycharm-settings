@@ -618,8 +618,8 @@
         <mark key="]" line="370" column="0" />
         <mark key="." line="370" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1521365263628">
-        <mark key="'" line="122" column="36" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1521600095225">
+        <mark key="'" line="97" column="8" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="50" />
         <mark key="." line="128" column="48" />
@@ -745,7 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="77" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="321" column="83" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="323" column="76" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="309" column="34" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
@@ -845,6 +844,7 @@
       <jump line="159" column="22" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
       <jump line="24" column="27" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
       <jump line="16" column="16" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
+      <jump line="97" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2320,7 +2320,7 @@
         <text>best_obs_seq</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZXN0X29ic19zZXFcPg==</text>
+        <text>log_pi</text>
       </register>
       <register name="0" type="4">
         <text>oracle_qmax_action=</text>
@@ -2472,9 +2472,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZXN0X29ic19zZXFcPg==</last-search>
+      <last-search>log_pi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZXN0X29ic19zZXFcPg==</last-pattern>
+      <last-pattern>log_pi</last-pattern>
       <last-replace>100</last-replace>
       <last-substitute>300</last-substitute>
       <last-dir>1</last-dir>
@@ -2482,7 +2482,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X2FjdGlvbl9hbmRfaW5mb1w+</entry>
         <entry>done</entry>
         <entry encoding="base64">XDxtb2RlXD4=</entry>
         <entry>render</entry>
@@ -2502,6 +2501,7 @@
         <entry>beta_v</entry>
         <entry>qwer</entry>
         <entry encoding="base64">XDxiZXN0X29ic19zZXFcPg==</entry>
+        <entry>log_pi</entry>
       </history-search>
       <history-cmd>
         <entry>332</entry>
