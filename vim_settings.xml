@@ -246,12 +246,12 @@
       <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/torch/distributions.py" timestamp="1519951245064">
         <mark key="'" line="177" column="25" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1521666575196">
-        <mark key="'" line="226" column="28" />
-        <mark key="[" line="212" column="44" />
-        <mark key="]" line="212" column="45" />
-        <mark key="." line="212" column="45" />
-        <mark key="^" line="212" column="47" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1521667902789">
+        <mark key="'" line="210" column="20" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="126" column="47" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/policies/torch.py" timestamp="1515204485625">
         <mark key="'" line="333" column="55" />
@@ -377,12 +377,12 @@
         <mark key="]" line="285" column="15" />
         <mark key="." line="285" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521666715310">
+      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521667937376">
         <mark key="'" line="78" column="17" />
-        <mark key="[" line="146" column="27" />
-        <mark key="]" line="146" column="28" />
-        <mark key="." line="146" column="28" />
-        <mark key="^" line="126" column="45" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="66" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/functional.py" timestamp="1520928454159">
         <mark key="'" line="1142" column="4" />
@@ -521,8 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="16" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
-      <jump line="506" column="12" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="519" column="12" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="189" column="42" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
@@ -621,6 +619,8 @@
       <jump line="275" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" />
       <jump line="36" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d.py" />
       <jump line="441" column="15" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="61" column="27" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="205" column="20" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -662,7 +662,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiLXJhbmRvbS1nb2Fscy1tdGF1LTIiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2093,22 +2093,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>beta_q</text>
+        <text>smart-her-wall-random-exploration&quot; \</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJldGFfcV9vdXRwdXQgPSBzZWxmLmJldGFfcSgKICAgICAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbnM9b2JzLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbnM9cG9saWN5X2FjdGlvbnMsCiAgICAgICAgICAgICAgICAgICAgZ29hbHM9Z29hbHMsCiAgICAgICAgICAgICAgICAgICAgbnVtX3N0ZXBzX2xlZnQ9bnVtX3N0ZXBzX2xlZnQsCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAnZXNfa3dhcmdzLmVwc2lsb24nOiBbVHJ1ZSwgRmFsc2VdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiLXJhbmRvbS1nb2Fscy1tdGF1LTIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgICAgICBdKToK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -2160,7 +2160,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tX2JldGE9Tm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2220,37 +2220,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbmltYXRlZDoKICAgICAgICAgICAgZW52LnJlbmRlcihkZWJ1Z19pbmZvPWFnZW50X2luZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXBsYXlfYnVmZmVyLnJhbmRvbV9iYXRjaCgKICAgICAgICAgICAgICAgIHNlbGYuYmF0Y2hfc2l6ZSwKICAgICAgICAgICAgICAgIGJldGE9YmV0YSwKICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbmltYXRlZDoKICAgICAgICAgICAgZW52LnJlbmRlcihkZWJ1Z19pbmZvPWFnZW50X2luZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVudl9jbGFzcz1NdWx0aXRhc2tQb2ludDJERW52LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXBsYXlfYnVmZmVyLm1vc3RfcmVjZW50X3BhdGhfYmF0Y2goYmV0YT1iZXRhKSwK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VudF9pbmZvWydiZXN0X2FjdGlvbl9zZXEnXVswXVs6XSA9IGFjdGlvbls6XQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIHNlbGYuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb2xsb3V0X2dvYWwgPSBzZWxmLmVudi5zYW1wbGVfZ29hbF9mb3Jfcm9sbG91dCgpCiAgICAgICAgc2VsZi50cmFpbmluZ19lbnYuc2V0X2dvYWwoc2VsZi5fcm9sbG91dF9nb2FsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tX2JldGE9Tm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace>100</last-replace>
       <last-substitute>300</last-substitute>
       <last-dir>1</last-dir>
@@ -2258,7 +2258,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beta_v</entry>
         <entry>qwer</entry>
         <entry encoding="base64">XDxiZXN0X29ic19zZXFcPg==</entry>
         <entry>log_pi</entry>
@@ -2278,6 +2277,7 @@
         <entry>policy_loss</entry>
         <entry encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</entry>
         <entry>ipdb</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
