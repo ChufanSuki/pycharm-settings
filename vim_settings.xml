@@ -246,12 +246,12 @@
       <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/torch/distributions.py" timestamp="1519951245064">
         <mark key="'" line="177" column="25" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1521674278898">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="89" column="28" />
-        <mark key="]" line="89" column="32" />
-        <mark key="." line="89" column="32" />
-        <mark key="^" line="89" column="32" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1521676987182">
+        <mark key="'" line="191" column="16" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="122" column="66" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/policies/torch.py" timestamp="1515204485625">
         <mark key="'" line="333" column="55" />
@@ -378,12 +378,12 @@
         <mark key="]" line="285" column="15" />
         <mark key="." line="285" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521674307755">
+      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521675902014">
         <mark key="'" line="39" column="6" />
-        <mark key="[" line="154" column="22" />
-        <mark key="]" line="154" column="23" />
-        <mark key="." line="154" column="23" />
-        <mark key="^" line="58" column="39" />
+        <mark key="[" line="147" column="39" />
+        <mark key="]" line="147" column="42" />
+        <mark key="." line="147" column="42" />
+        <mark key="^" line="147" column="42" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/functional.py" timestamp="1520928454159">
         <mark key="'" line="1142" column="4" />
@@ -526,15 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="33" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/pygame_viewer.py" />
-      <jump line="161" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" />
-      <jump line="168" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" />
-      <jump line="32" column="6" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/29663820/pygame/color.py" />
-      <jump line="167" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" />
-      <jump line="140" column="15" filename="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/pygame/__init__.py" />
-      <jump line="193" column="40" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
-      <jump line="172" column="33" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" />
       <jump line="57" column="18" filename="$USER_HOME$/git/railrl/railrl/events/test_launch.py" />
       <jump line="443" column="26" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="39" column="6" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
@@ -626,6 +617,15 @@
       <jump line="39" column="6" filename="$USER_HOME$/git/railrl/railrl/events/test_launch.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="2" column="10" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="203" column="36" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="60" column="15" filename="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/torch/nn/utils/weight_norm.py" />
+      <jump line="238" column="28" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="219" column="28" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="183" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="181" column="34" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="314" column="21" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="104" column="13" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="191" column="16" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -666,8 +666,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2098,22 +2098,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>learning_rate</text>
+        <text>norm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Vfb3JhY2xlX2FyZ21heF9wb2xpY3k9VHJ1ZSwK</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlX2dyYWRpZW50X25vcm0oc2VsZiwgZ3JhZGllbnQpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9ubHlfdXNlX3Rlcm1pbmFsX2Vudl9sb3NzPUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -2165,7 +2165,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2225,37 +2225,37 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VfbWF4X2Nvc3Q9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcHJpbnQoZ3JhZGllbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAnUG9saWN5IEFjdCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVzZV9tYXhfY29zdD1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGZvbyhpbnB1dCk6CiAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAgICAgICAgcHJpbnQoaW5wdXQpCg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjdGlvbiA9IG9yYWNsZV9xbWF4X2FjdGlvbgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGRlZiBmb28oc2VsZiwgaW5wdXQsIG91dHB1dCk6CiAgICAgICAgICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgICAgICAgICAgcHJpbnQoaW5wdXQpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29zdF9mdW5jdGlvbihmdWxsX3NvbHV0aW9uLCBjdXJyZW50X29iLCB2ZXJib3NlPVRydWUpCg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVmIGZvbyhzZWxmLCBpbnB1dCwgb3V0cHV0KToKICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcHJpbnQoaW5wdXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRfaW5fcGxhbiA+IDM6CiAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvbGljeS5mYzEucmVnaXN0ZXJfYmFja3dhcmRfaG9vayhmb28pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>learning_rate</last-search>
+      <last-search>norm</last-search>
       <last-offset />
-      <last-pattern>learning_rate</last-pattern>
+      <last-pattern>norm</last-pattern>
       <last-replace>100</last-replace>
       <last-substitute>300</last-substitute>
       <last-dir>1</last-dir>
@@ -2263,11 +2263,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXhfdGltZV90b19uZXh0X2dvYWxcPg==</entry>
-        <entry>ogla</entry>
-        <entry>goal</entry>
-        <entry>128</entry>
-        <entry>oracle</entry>
         <entry encoding="base64">XDxnZXRfb3JhY2xlX3FtYXhfYWN0aW9uXD4=</entry>
         <entry>self.all_action</entry>
         <entry encoding="base64">XDxsZWFybmVkX3BvbGljeVw+</entry>
@@ -2283,6 +2278,11 @@
         <entry>use_arg</entry>
         <entry>lr</entry>
         <entry>learning_rate</entry>
+        <entry encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</entry>
+        <entry encoding="base64">XDxwb2xpY3lfYWN0aW9uc1w+</entry>
+        <entry>foo</entry>
+        <entry encoding="base64">XDxleHRyYV9ldmFsX3N0YXRpc3RpY3NcPg==</entry>
+        <entry>norm</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
