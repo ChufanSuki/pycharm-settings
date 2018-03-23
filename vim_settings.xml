@@ -502,8 +502,8 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/discrete_q_learning.py" timestamp="1521795222477">
-        <mark key="'" line="129" column="35" />
+      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/discrete_q_learning.py" timestamp="1521829575158">
+        <mark key="'" line="79" column="21" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="28" />
         <mark key="." line="168" column="0" />
@@ -614,7 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="0" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="558" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="147" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="685" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
@@ -714,6 +713,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/torch/ddpg_sweep.py" />
       <jump line="39" column="22" filename="$USER_HOME$/git/railrl/railrl/finite_q_learning/launch_finite_dqn.py" />
       <jump line="56" column="19" filename="$USER_HOME$/git/railrl/railrl/finite_q_learning/launch_finite_dqn.py" />
+      <jump line="79" column="21" filename="$USER_HOME$/git/railrl/railrl/finite_q_learning/discrete_q_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2189,7 +2189,7 @@
         <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>algo_params</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnZGV2Jwo=</text>
@@ -2341,9 +2341,9 @@
       </register>
     </registers>
     <search>
-      <last-search>algo_params</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>algo_params</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -2351,8 +2351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exploration_policy</entry>
-        <entry>self.q_nets</entry>
         <entry>q_net</entry>
         <entry>y_pred</entry>
         <entry>y_target</entry>
@@ -2371,6 +2369,8 @@
         <entry>self.eval</entry>
         <entry>InPlace</entry>
         <entry>algo_params</entry>
+        <entry>t</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
