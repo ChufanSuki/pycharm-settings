@@ -5,7 +5,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="sweep" value="    search_space = {&#10;    }&#10;    sweeper = hyp.DeterministicHyperparameterSweeper(&#10;        search_space, default_parameters=variant,&#10;    )&#10;    for exp_id, variant in enumerate(sweeper.iterate_hyperparameters()):&#10;" description="add sweeper" toReformat="true" toShortenFQNames="true">
+  <template name="sweep" value="    n_seeds = 1&#10;    mode = 'local'&#10;    exp_prefix = 'dev'&#10;&#10;    n_seeds = 3&#10;    mode = 'ec2'&#10;    exp_prefix = 'name'&#10;&#10;    search_space = {&#10;    }&#10;    sweeper = hyp.DeterministicHyperparameterSweeper(&#10;        search_space, default_parameters=variant,&#10;    )&#10;    for exp_id, variant in enumerate(sweeper.iterate_hyperparameters()):&#10;        for _ in range(n_seeds):&#10;            run_experiment(&#10;                experiment,&#10;                exp_prefix=exp_prefix,&#10;                mode=mode,&#10;                variant=variant,&#10;            )" description="add sweeper" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
@@ -56,6 +56,11 @@
   </template>
   <template name="ssv" value="**variant['$variable$']" description="**variant['variable']" toReformat="false" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mode" value="    n_seeds = 1&#10;    mode = 'local'&#10;    exp_prefix = 'dev'&#10;&#10;    n_seeds = 3&#10;    mode = 'ec2'&#10;    exp_prefix = 'name'" description="set mode, nseeds, etc." toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
