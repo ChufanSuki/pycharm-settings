@@ -780,6 +780,9 @@
       <file name="$USER_HOME$/git/rllab-rail/rllab/envs/mujoco/humanoid_env.py" timestamp="1521251959762">
         <mark key="'" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vaes/vae.py" timestamp="1522882495388">
+        <mark key="'" line="144" column="36" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/torch/nn/modules/loss.py" timestamp="1521000766809">
         <mark key="'" line="328" column="17" />
         <mark key="[" line="370" column="0" />
@@ -864,9 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
-      <jump line="20" column="12" filename="$USER_HOME$/git/railrl/examples/tdm/7dof_reacher.py" />
-      <jump line="92" column="20" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
       <jump line="87" column="0" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
       <jump line="108" column="4" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
       <jump line="147" column="18" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
@@ -964,6 +964,9 @@
       <jump line="291" column="34" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="429" column="27" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="204" column="31" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="93" column="21" filename="$USER_HOME$/git/railrl/experiments/vaes/vae.py" />
+      <jump line="121" column="8" filename="$USER_HOME$/git/railrl/experiments/vaes/vae.py" />
+      <jump line="144" column="36" filename="$USER_HOME$/git/railrl/experiments/vaes/vae.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2439,7 +2442,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxsX3NvbHV0aW9uXD4=</text>
+        <text encoding="base64">XDxkZWNvZGVyX291dHB1dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDEsIDIuOCwK</text>
@@ -2595,9 +2598,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdWxsX3NvbHV0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxkZWNvZGVyX291dHB1dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxsX3NvbHV0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWNvZGVyX291dHB1dFw+</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -2605,8 +2608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kwargs</entry>
-        <entry>params</entry>
         <entry encoding="base64">XDxwb3NzaWJsZV9uZXh0X3N0YXRlXD4=</entry>
         <entry>32</entry>
         <entry>train_offline</entry>
@@ -2625,6 +2626,8 @@
         <entry>ipdb</entry>
         <entry>custom</entry>
         <entry encoding="base64">XDxmdWxsX3NvbHV0aW9uXD4=</entry>
+        <entry>decoder</entry>
+        <entry encoding="base64">XDxkZWNvZGVyX291dHB1dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
