@@ -119,6 +119,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/optim/adam.py" timestamp="1518213384472">
         <mark key="'" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/examples/tdm/7dof_reacher.py" timestamp="1522891646018">
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="74" column="42" />
+        <mark key="^" line="74" column="42" />
+        <mark key="." line="74" column="42" />
+      </file>
       <file name="$USER_HOME$/git/public-railrl/railrl/launchers/launcher_util.py" timestamp="1516838290245">
         <mark key="'" line="100" column="4" />
         <mark key="[" line="13" column="0" />
@@ -201,9 +207,6 @@
         <mark key="]" line="125" column="8" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1521855754925">
-        <mark key="'" line="96" column="8" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1515611934158">
         <mark key="'" line="29" column="41" />
       </file>
@@ -233,6 +236,12 @@
       </file>
       <file name="$USER_HOME$/git/railrl/visualization/state_distance_q_learning/analyze_reacher_critic.py" timestamp="1517343068056">
         <mark key="'" line="49" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/finite_nfqca.py" timestamp="1522802139927">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" timestamp="1521664585284">
         <mark key="[" line="148" column="9" />
@@ -266,6 +275,9 @@
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/data_management/replay_buffer.py" timestamp="1515203866195">
         <mark key="'" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1522890892015">
+        <mark key="'" line="92" column="5" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/finite_ddpg.py" timestamp="1522802493368">
         <mark key="'" line="184" column="47" />
@@ -323,8 +335,8 @@
         <mark key="^" line="128" column="48" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" timestamp="1522809748423">
-        <mark key="'" line="25" column="8" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" timestamp="1522891260701">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/discrete_q_learning.py" timestamp="1522802501840">
         <mark key="'" line="0" column="0" />
@@ -350,13 +362,6 @@
       </file>
       <file name="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/vectorized_sdql.py" timestamp="1522861639243">
         <mark key="'" line="19" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d_wall.py" timestamp="1521856137662">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="189" column="67" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/dqn/double_dqn.py" timestamp="1521853243256">
         <mark key="'" line="19" column="0" />
@@ -399,12 +404,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/torch/networks.py" timestamp="1522802574964">
         <mark key="'" line="109" column="16" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" timestamp="1522886005609">
-        <mark key="'" line="27" column="28" />
-        <mark key="[" line="185" column="25" />
-        <mark key="]" line="185" column="25" />
-        <mark key="." line="185" column="25" />
-        <mark key="^" line="185" column="25" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" timestamp="1522891051530">
+        <mark key="'" line="199" column="16" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/eval_util.py" timestamp="1516251492083">
         <mark key="'" line="12" column="4" />
@@ -427,11 +432,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/reacher_env.py" timestamp="1518585204012">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1522862370231">
-        <mark key="'" line="184" column="21" />
-      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1522862370231" />
       <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/29663820/torch/_C/__init__.py" timestamp="1521000804272">
         <mark key="'" line="4649" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/core/logger.py" timestamp="1522890897897">
+        <mark key="'" line="95" column="12" />
       </file>
       <file name="$USER_HOME$/git/public-railrl/examples/naf.py" timestamp="1516838434801">
         <mark key="'" line="53" column="12" />
@@ -537,6 +543,12 @@
         <mark key="]" line="90" column="29" />
         <mark key="." line="47" column="49" />
         <mark key="^" line="70" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/launch_finite_dqn.py" timestamp="1522802063833">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="57" column="28" />
+        <mark key="^" line="47" column="58" />
+        <mark key="." line="57" column="28" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/sac/twin_sac.py" timestamp="1521685453077">
         <mark key="'" line="138" column="44" />
@@ -677,12 +689,12 @@
         <mark key="]" line="211" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1522886588193">
+      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1522890710073">
         <mark key="'" line="634" column="34" />
-        <mark key="[" line="692" column="15" />
-        <mark key="]" line="692" column="20" />
-        <mark key="." line="692" column="20" />
-        <mark key="^" line="692" column="20" />
+        <mark key="[" line="661" column="0" />
+        <mark key="]" line="661" column="0" />
+        <mark key="." line="661" column="0" />
+        <mark key="^" line="703" column="22" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" timestamp="1522797597142">
         <mark key="'" line="51" column="18" />
@@ -726,6 +738,12 @@
       <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/torch/nn/modules/module.py" timestamp="1520926006672">
         <mark key="'" line="92" column="13" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/events/test_launch.py" timestamp="1521705720027">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="73" />
+        <mark key="." line="107" column="72" />
+        <mark key="^" line="107" column="72" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/functional.py" timestamp="1520928454159">
         <mark key="'" line="1142" column="4" />
       </file>
@@ -759,6 +777,12 @@
       </file>
       <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/mujoco_py/__init__.py" timestamp="1521853145575">
         <mark key="'" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" timestamp="1522891362401">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/__init__.py" timestamp="1519199876657">
         <mark key="'" line="9" column="11" />
@@ -799,8 +823,8 @@
       <file name="$USER_HOME$/git/railrl/railrl/torch/collocation/mpc_collocation_controller.py" timestamp="1517372106197">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1522886200268">
-        <mark key="'" line="92" column="37" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1522890200947">
+        <mark key="'" line="144" column="25" />
         <mark key="[" line="92" column="56" />
         <mark key="]" line="92" column="59" />
         <mark key="^" line="92" column="59" />
@@ -834,10 +858,6 @@
       <file name="$USER_HOME$/git/railrl/railrl/launchers/memory_bptt_launchers.py" timestamp="1515203145008">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm_ddpg.py" timestamp="1522809745954">
-        <mark key="'" line="23" column="18" />
-        <mark key="^" line="39" column="31" />
-      </file>
       <file name="$USER_HOME$/git/classes/spring2018/cs267_hw1/dgemm-opt.c" timestamp="1517957498489">
         <mark key="'" line="32" column="5" />
       </file>
@@ -856,17 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="35" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl-tmp/experiments/state_distance/vectorized_train_q.py" />
-      <jump line="19" column="25" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/vectorized_sdql.py" />
-      <jump line="323" column="60" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="30" column="6" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="215" column="32" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="39" column="16" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="40" column="26" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="79" column="17" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
-      <jump line="211" column="0" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="286" column="33" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="288" column="18" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
       <jump line="296" column="37" filename="$USER_HOME$/git/railrl-tmp/railrl/algos/state_distance/state_distance_q_learning.py" />
@@ -956,6 +965,17 @@
       <jump line="92" column="37" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
       <jump line="279" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
       <jump line="634" column="34" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="144" column="25" filename="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" />
+      <jump line="199" column="16" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
+      <jump line="92" column="5" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="48" column="1" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="49" column="1" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="50" column="1" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="95" column="12" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="45" column="46" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -997,7 +1017,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(current_ob == np.zeros(2)).all():</text>
+        <text>5</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2428,22 +2448,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>(current_ob == np.zeros(2)).all():</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRfb2IgPT0gbnAuemVyb3MoMikpLmFsbCgpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxLCAxLAogICAgICAgICAgICAgICAgICAgIDEuNSwgMS41LAogICAgICAgICAgICAgICAgICAgIDEuNSwgMiwKICAgICAgICAgICAgICAgICAgICAxLCAzLAogICAgICAgICAgICAgICAgICAgIDAsIDQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRfb2IgPT0gbnAuemVyb3MoMikpLmFsbCgpOgogICAgICAgICAgICAgICAgZnVsbF9zb2x1dGlvbiA9IG5wLmFycmF5KFsKICAgICAgICAgICAgICAgICAgICAxLCAxLAogICAgICAgICAgICAgICAgICAgIDEsIDEuOCwKICAgICAgICAgICAgICAgICAgICAxLCAyLjgsCiAgICAgICAgICAgICAgICAgICAgMSwgMy44LAogICAgICAgICAgICAgICAgICAgIDAsIDQsCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRfb2IgPT0gbnAuemVyb3MoMikpLmFsbCgpOgogICAgICAgICAgICAgICAgZnVsbF9zb2x1dGlvbiA9IG5wLmFycmF5KFsKICAgICAgICAgICAgICAgICAgICAxLCAxLAogICAgICAgICAgICAgICAgICAgIDEsIDEuOCwKICAgICAgICAgICAgICAgICAgICAxLCAyLjgsCiAgICAgICAgICAgICAgICAgICAgMSwgMy44LAogICAgICAgICAgICAgICAgICAgIDAsIDQsCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsIDAuOCwKICAgICAgICAgICAgICAgIDEsIDEuOCwKICAgICAgICAgICAgICAgIDEuNSwgMi44LAogICAgICAgICAgICAgICAgMSwgMy44LAogICAgICAgICAgICAgICAgMCwgNCwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -2495,7 +2515,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ljbGVfdGF1c19mb3Jfcm9sbG91dD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5sYXN0X3NvbHV0aW9uCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2555,32 +2575,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsIDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEsIDEsCiAgICAgICAgICAgICAgICAxLCAxLjgsCiAgICAgICAgICAgICAgICAxLCAyLjgsCiAgICAgICAgICAgICAgICAxLCAzLjgsCiAgICAgICAgICAgICAgICAwLCA0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoMSwgMCksCiAgICAgICAgKDEsIDAuNSksCiAgICAgICAgKDEsIDAuNzUpLAogICAgICAgICgxLCAxLjUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsIDEuOCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoMC41LCAwKSwgKDAuNSwgMC41KSwKICAgICAgICAoMC41LCAwLjc1KSwKICAgICAgICAoMC41LCAxLjUpLAogICAgICAgICgwLjUsIDEuNzUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
       </register>
-      <register name="7" type="8">
-        <text>1
-1
-1
-1
-1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRfb2IgPT0gbnAuemVyb3MoMikpLmFsbCgpOgogICAgICAgICAgICAgICAgZnVsbF9zb2x1dGlvbiA9IG5wLmFycmF5KFsKICAgICAgICAgICAgICAgICAgICAxLCAxLAogICAgICAgICAgICAgICAgICAgIDEsIDEuOCwKICAgICAgICAgICAgICAgICAgICAxLCAyLjgsCiAgICAgICAgICAgICAgICAgICAgMSwgMy44LAogICAgICAgICAgICAgICAgICAgIDAsIDQsCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoMCwgMS43NSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRfb2IgPT0gbnAuemVyb3MoMikpLmFsbCgpOgogICAgICAgICAgICAgICAgZnVsbF9zb2x1dGlvbiA9IG5wLmFycmF5KFsKICAgICAgICAgICAgICAgICAgICAxLCAxLAogICAgICAgICAgICAgICAgICAgIDEsIDEuOCwKICAgICAgICAgICAgICAgICAgICAxLCAyLjgsCiAgICAgICAgICAgICAgICAgICAgMSwgMy44LAogICAgICAgICAgICAgICAgICAgIDAsIDQsCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ljbGVfdGF1c19mb3Jfcm9sbG91dD1UcnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2597,8 +2613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gt</entry>
-        <entry>gt\.</entry>
         <entry>beta_v</entry>
         <entry>asdf</entry>
         <entry encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</entry>
@@ -2616,6 +2630,8 @@
         <entry>controller_kwags</entry>
         <entry>controller</entry>
         <entry encoding="base64">XDxjb250cm9sbGVyX2t3YXJnc1w+</entry>
+        <entry>snapshot</entry>
+        <entry>use_</entry>
         <entry>ipdb</entry>
       </history-search>
       <history-cmd>
