@@ -78,13 +78,6 @@
       <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/1593649292/scipy/optimize/_lbfgsb.py" timestamp="1519945505034">
         <mark key="'" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523030116224">
-        <mark key="'" line="35" column="17" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="58" />
-        <mark key="." line="61" column="32" />
-        <mark key="^" line="61" column="32" />
-      </file>
       <file name="$USER_HOME$/git/sandbox/cython/fib.c" timestamp="1518486927495">
         <mark key="'" line="0" column="0" />
       </file>
@@ -388,7 +381,7 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/assets/half_cheetah.xml" timestamp="1516252369760">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/networks.py" timestamp="1523030134804">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/networks.py" timestamp="1523030626724">
         <mark key="'" line="109" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" timestamp="1523029814483">
@@ -420,7 +413,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1522961291221">
-        <mark key="'" line="562" column="8" />
+        <mark key="'" line="561" column="8" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="66" />
         <mark key="." line="63" column="0" />
@@ -474,6 +467,9 @@
         <mark key="^" line="1208" column="96" />
         <mark key="." line="1208" column="96" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/policies/base.py" timestamp="1523032093762">
+        <mark key="'" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/exploration_strategies/partial_strategy.py" timestamp="1516230750047">
         <mark key="'" line="26" column="14" />
       </file>
@@ -486,6 +482,13 @@
       </file>
       <file name="$USER_HOME$/git/railrl/examples/create_tensorboard_graph.py" timestamp="1515206135453">
         <mark key="'" line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" timestamp="1523033536595">
+        <mark key="'" line="162" column="23" />
+        <mark key="[" line="148" column="23" />
+        <mark key="]" line="148" column="27" />
+        <mark key="." line="148" column="27" />
+        <mark key="^" line="148" column="27" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/core/serializable.py" timestamp="1521794999833">
         <mark key="'" line="58" column="8" />
@@ -566,7 +569,7 @@
       <file name="$USER_HOME$/git/railrl/railrl/events/visualize_beta_v.py" timestamp="1522960467085">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="115" column="13" />
+        <mark key="]" line="85" column="13" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/reacher_7dof.xml" timestamp="1518492574641">
         <mark key="'" line="19" column="13" />
@@ -636,6 +639,9 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1523033533970">
+        <mark key="'" line="159" column="16" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/policies/torch.py" timestamp="1515204485625">
         <mark key="'" line="333" column="55" />
       </file>
@@ -667,6 +673,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="211" column="13" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/events/controllers.py" timestamp="1523033035211">
+        <mark key="'" line="235" column="34" />
+        <mark key="[" line="263" column="48" />
+        <mark key="]" line="263" column="77" />
+        <mark key="^" line="263" column="77" />
+        <mark key="." line="263" column="77" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" timestamp="1522797597142">
         <mark key="'" line="51" column="18" />
@@ -797,15 +810,18 @@
       <file name="$USER_HOME$/git/railrl/examples/model_based_dagger.py" timestamp="1516223894965">
         <mark key="'" line="40" column="11" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/state_distance/policies.py" timestamp="1523032092007">
+        <mark key="'" line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/collocation/mpc_collocation_controller.py" timestamp="1517372106197">
         <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/events/optimal_control_with_beta.py" timestamp="1522890200947">
-        <mark key="'" line="144" column="25" />
-        <mark key="[" line="92" column="56" />
-        <mark key="]" line="92" column="59" />
-        <mark key="^" line="92" column="59" />
-        <mark key="." line="92" column="59" />
+        <mark key="'" line="145" column="25" />
+        <mark key="[" line="93" column="56" />
+        <mark key="]" line="93" column="59" />
+        <mark key="^" line="93" column="59" />
+        <mark key="." line="93" column="59" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1522800637269">
         <mark key="'" line="9" column="36" />
@@ -848,52 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="12" filename="$USER_HOME$/git/railrl/examples/tdm/ant_position_and_velocity.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/git/railrl/examples/tdm/7dof_reacher.py" />
-      <jump line="701" column="16" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="678" column="45" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="648" column="33" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
-      <jump line="25" column="13" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="30" column="21" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="34" column="35" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="39" column="54" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="83" column="40" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="93" column="7" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="77" column="4" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="75" column="4" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="71" column="44" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="90" column="19" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="109" column="4" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="65" column="37" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="97" column="20" filename="$USER_HOME$/git/railrl/railrl/misc/visualization_util.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/git/railrl/railrl/misc/visualization_util.py" />
-      <jump line="103" column="21" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_q.py" />
-      <jump line="136" column="11" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="198" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="303" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="22" column="27" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="47" column="22" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="287" column="8" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="67" column="62" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="103" column="25" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="202" column="13" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="210" column="13" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="257" column="21" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="53" column="39" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="98" column="43" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="59" column="36" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="60" column="36" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="277" column="16" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="51" column="18" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_v.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/events/visualize_beta_v.py" />
-      <jump line="28" column="36" filename="$USER_HOME$/git/railrl/railrl/events/visualize_replay_buffer_priorities.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
-      <jump line="84" column="27" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="98" column="34" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="103" column="39" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
       <jump line="127" column="11" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
@@ -937,7 +907,6 @@
       <jump line="123" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="146" column="28" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="157" column="8" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
-      <jump line="159" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="166" column="25" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="154" column="34" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="45" column="46" filename="$USER_HOME$/git/railrl/railrl/events/train_betas_offline.py" />
@@ -948,6 +917,53 @@
       <jump line="46" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="35" column="17" filename="$USER_HOME$/git/railrl/examples/ddpg.py" />
       <jump line="35" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="679" column="8" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="716" column="46" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="121" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="279" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="289" column="24" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="311" column="17" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="417" column="16" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="507" column="31" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="656" column="16" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="70" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="97" column="40" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="319" column="16" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="488" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="516" column="40" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="573" column="4" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="16" column="22" filename="$USER_HOME$/git/railrl/railrl/state_distance/policies.py" />
+      <jump line="20" column="24" filename="$USER_HOME$/git/railrl/railrl/policies/base.py" />
+      <jump line="3" column="12" filename="$USER_HOME$/git/railrl/railrl/policies/base.py" />
+      <jump line="467" column="28" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="673" column="23" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="71" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="102" column="42" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="101" column="25" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="401" column="28" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="453" column="0" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="489" column="24" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="519" column="41" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="61" column="5" filename="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" />
+      <jump line="35" column="57" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="98" column="29" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="306" column="6" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="94" column="13" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="67" column="28" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="95" column="49" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="233" column="34" filename="$USER_HOME$/git/railrl/railrl/events/controllers.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" />
+      <jump line="99" column="29" filename="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" />
+      <jump line="144" column="12" filename="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" />
+      <jump line="28" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="53" column="15" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="72" column="26" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="159" column="16" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="121" column="26" filename="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" />
+      <jump line="162" column="23" filename="$USER_HOME$/git/railrl/railrl/events/launch_beta_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -988,8 +1004,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwX3ByZWZpeD0nc29mdC12cy1oYXJkLWNoZWV0YWgtZGRwZy1leGFtcGxlJywK</text>
+      <register name="&quot;" type="4">
+        <text>use_oracle_policy</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2420,22 +2436,22 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>use_oracle_policy</text>
       </register>
       <register name="/" type="4">
-        <text>use_s</text>
+        <text encoding="base64">XDx0cmFpbl93aXRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2hhcmRfdXBkYXRlX3BlcmlvZD0xMDAwLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZV9vcmFjbGVfcG9saWN5ID0gdXNlX29yYWNsZV9wb2xpY3kK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYub3JhY2xlX3BvbGljeS5nZXRfYWN0aW9uKGN1cnJlbnRfb2IsIGdvYWwsIDApWzBdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAuY2xpcChnb2FsIC0gY3VycmVudF9vYiwgLTEsIDEpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -2487,7 +2503,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAuY2xpcChnb2FsIC0gY3VycmVudF9vYiwgLTEsIDEpCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2547,13 +2563,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJtZWFuIiwgcHJpb3JpdGllcy5tZWFuKCkpCiAgICAgICAgICAgICAgICBwcmludCgibWF4IiwgcHJpb3JpdGllcy5tYXgoKSkKICAgICAgICAgICAgICAgIHByaW50KCJtaW4iLCBwcmlvcml0aWVzLm1pbigpKQogICAgICAgICAgICAgICAgcHJpbnQoInN0ZCIsIHByaW9yaXRpZXMuc3RkKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcmV0dXJuIG5wLmNsaXAoZ29hbCAtIGN1cnJlbnRfb2IsIC0xLCAxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHhfdmFsdWVzID0gbnAubGluc3BhY2UoKnhfYm91bmRzLCBudW09cmVzb2x1dGlvbikKICAgIHlfdmFsdWVzID0gbnAubGluc3BhY2UoKnlfYm91bmRzLCBudW09cmVzb2x1dGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>wbvw~wxr=</text>
@@ -2565,19 +2581,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQmV0YU11bHRpZ29hbExiZmdzKEJldGFRTXVsdGlnb2FsTGJmZ3MpOgogICAgIiIiVGVtcG9yYXJ5IGZvciBpbXBvcnRzIHRvIHdvcmsiIiIKICAgIHBhc3MKCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>use_s</last-search>
+      <last-search encoding="base64">XDx0cmFpbl93aXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>use_s</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbl93aXRoXD4=</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -2585,15 +2601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replay_buffer</entry>
-        <entry>save_replay</entry>
-        <entry encoding="base64">XDxnZXRfZXh0cmFfZGF0YV90b19zYXZlXD4=</entry>
-        <entry>prioritized</entry>
-        <entry>loss</entry>
-        <entry>prioroti</entry>
-        <entry>print</entry>
-        <entry>wei</entry>
-        <entry>weight</entry>
         <entry>weig</entry>
         <entry>get_weight</entry>
         <entry>prior</entry>
@@ -2603,8 +2610,17 @@
         <entry>batch</entry>
         <entry encoding="base64">XDxiZXRhXD4=</entry>
         <entry>alpha</entry>
-        <entry>ipdb</entry>
         <entry>use_s</entry>
+        <entry>ipdb</entry>
+        <entry encoding="base64">XDxsYXN0X3NvbHV0aW9uXD4=</entry>
+        <entry>use_oracle</entry>
+        <entry>eval</entry>
+        <entry encoding="base64">XDxvcmFjbGVfYXJnbWF4X3BvbGljeVw+</entry>
+        <entry>oracle</entry>
+        <entry encoding="base64">XDx1c2Vfb3JhY2xlX2FyZ21heF9wb2xpY3lcPg==</entry>
+        <entry encoding="base64">XDxnZXRfb3JhY2xlX3FtYXhfYWN0aW9uXD4=</entry>
+        <entry>use</entry>
+        <entry encoding="base64">XDx0cmFpbl93aXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>612</entry>
@@ -2624,9 +2640,9 @@
         <entry>vsp</entry>
         <entry>106</entry>
         <entry>9</entry>
-        <entry>q</entry>
         <entry>b test</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
