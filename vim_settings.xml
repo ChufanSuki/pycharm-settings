@@ -2409,7 +2409,7 @@
         <text>code</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</text>
+        <text>mj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBlbnYuYWN0aW9uX3NwYWNlLnNhbXBsZSgpIC8gMwo=</text>
@@ -2561,9 +2561,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</last-search>
+      <last-search>mj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</last-pattern>
+      <last-pattern>mj</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -2571,9 +2571,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXN0X3NvbHV0aW9uXD4=</entry>
-        <entry>use_oracle</entry>
-        <entry encoding="base64">XDxvcmFjbGVfYXJnbWF4X3BvbGljeVw+</entry>
         <entry>oracle</entry>
         <entry encoding="base64">XDx1c2Vfb3JhY2xlX2FyZ21heF9wb2xpY3lcPg==</entry>
         <entry encoding="base64">XDxnZXRfb3JhY2xlX3FtYXhfYWN0aW9uXD4=</entry>
@@ -2591,6 +2588,9 @@
         <entry>policy</entry>
         <entry>v_target</entry>
         <entry encoding="base64">XDxiZXRhX3Ffb3V0cHV0XD4=</entry>
+        <entry>mujoco</entry>
+        <entry>mujo</entry>
+        <entry>mj</entry>
       </history-search>
       <history-cmd>
         <entry>612</entry>
