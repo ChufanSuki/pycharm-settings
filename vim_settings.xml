@@ -266,8 +266,8 @@
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjsim.pyx" timestamp="1518494175002">
         <mark key="'" line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/misc/hyperparameter.py" timestamp="1519006134372">
-        <mark key="'" line="192" column="16" />
+      <file name="$USER_HOME$/git/railrl/railrl/misc/hyperparameter.py" timestamp="1523314902715">
+        <mark key="'" line="167" column="15" />
       </file>
       <file name="$USER_HOME$/git/rlkit/rlkit/exploration_strategies/base.py" timestamp="1520650565828">
         <mark key="'" line="30" column="8" />
@@ -680,8 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/gym/__init__.py" />
-      <jump line="51" column="5" filename="$USER_HOME$/git/selfsupervised/experiments/point_img/goalimg_conv.py" />
       <jump line="12" column="39" filename="$USER_HOME$/git/selfsupervised/ss/remote/doodad/arglauncher.py" />
       <jump line="4" column="0" filename="$USER_HOME$/anaconda2/envs/selfsupervised/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="82" column="31" filename="$USER_HOME$/anaconda2/envs/selfsupervised/lib/python3.5/site-packages/mujoco_py/builder.py" />
@@ -780,6 +778,8 @@
       <jump line="123" column="17" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" />
       <jump line="150" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" />
       <jump line="23" column="0" filename="$USER_HOME$/git/selfsupervised/requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/misc/hyperparameter.py" />
+      <jump line="167" column="15" filename="$USER_HOME$/git/railrl/railrl/misc/hyperparameter.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2255,7 +2255,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>self.vf</text>
+        <text>scikit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxZl9rd2FyZ3M9ZGljdCgKICAgICAgICAgICAgaGlkZGVuX3NpemVzPVs0MDAsIDMwMF0sCiAgICAgICAgKSwK</text>
@@ -2407,9 +2407,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.vf</last-search>
+      <last-search>scikit</last-search>
       <last-offset />
-      <last-pattern>self.vf</last-pattern>
+      <last-pattern>scikit</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -2417,7 +2417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_nvidia</entry>
         <entry>glewegl</entry>
         <entry>render_onscreen</entry>
         <entry>params</entry>
@@ -2437,6 +2436,7 @@
         <entry>algo_params</entry>
         <entry encoding="base64">XDxvcHRfYWN0aW9uc1w+</entry>
         <entry>self.vf</entry>
+        <entry>scikit</entry>
       </history-search>
       <history-cmd>
         <entry>'w</entry>
