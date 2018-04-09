@@ -615,10 +615,10 @@
       <file name="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/torch/autograd/variable.py" timestamp="1519942805136">
         <mark key="'" line="183" column="54" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_ashvin.py" timestamp="1523155782172">
-        <mark key="'" line="3" column="6" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_ashvin.py" timestamp="1523236695315">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="385" column="30" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/launch_fhddpg.py" timestamp="1522809066589">
@@ -968,7 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="53" column="15" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="72" column="26" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
       <jump line="159" column="16" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
@@ -1068,6 +1067,7 @@
       <jump line="67" column="56" filename="$USER_HOME$/anaconda2/envs/selfsupervised/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="68" column="51" filename="$USER_HOME$/anaconda2/envs/selfsupervised/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="24" column="4" filename="$USER_HOME$/anaconda2/envs/selfsupervised/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/point2d_ashvin.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1109,7 +1109,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4dGVuc2lvbi5saWJyYXJpZXMuZXh0ZW5kKFsnZ2xld29zbWVzYScsICdPU01lc2EnLCAnR0wnXSkK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2549,13 +2549,13 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmV4dGVuc2lvbi5saWJyYXJpZXMuZXh0ZW5kKFsnZ2xld29zbWVzYScsICdPU01lc2EnLCAnR0wnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4dGVuc2lvbi5saWJyYXJpZXMuZXh0ZW5kKFsnT1NNZXNhJywgJ2dsZXdvc21lc2EnXSkK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZGVmIF9zdGVwKHNlbGYsIGEpOgogICAgICAgICMgSSBjaGVja2VkIHRoYXQgImdvYWwiIGdpdmVzIHRoZSBzYW1lIGFzIHNlbGYuX2Rlc2lyZWRfeHl6Cj4+Pj4+Pj4gZGV2LXZpdGNoeXIK</text>
+        <text encoding="base64">ZnJvbSBzcy5lbnZzLnB5Z2FtZS5weWdhbWVfdmlld2VyIGltcG9ydCBQeWdhbWVWaWV3ZXIKZnJvbSBzcy5lbnZzLnB5Z2FtZS53YWxscyBpbXBvcnQgVmVydGljYWxXYWxsLCBIb3Jpem9udGFsV2FsbAojIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKaW1wb3J0IG1hdHBsb3RsaWIuY20gYXMgY20KCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -2607,7 +2607,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4dGVuc2lvbi5saWJyYXJpZXMuZXh0ZW5kKFsnT1NNZXNhJywgJ2dsZXdvc21lc2EnXSkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2667,10 +2667,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKPj4+Pj4+PiBkZXYtdml0Y2h5cgo=</text>
+        <text encoding="base64">PT09PT09PQogICAgZGVmIF9zdGVwKHNlbGYsIGEpOgogICAgICAgICMgSSBjaGVja2VkIHRoYXQgImdvYWwiIGdpdmVzIHRoZSBzYW1lIGFzIHNlbGYuX2Rlc2lyZWRfeHl6Cj4+Pj4+Pj4gZGV2LXZpdGNoeXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKPj4+Pj4+PiBkZXYtdml0Y2h5cgo=</text>
@@ -2685,10 +2685,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIK</text>
+        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKPj4+Pj4+PiBkZXYtdml0Y2h5cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
