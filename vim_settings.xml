@@ -612,6 +612,11 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
+      <file name="$USER_HOME$/git/selfsupervised/requirements.txt" timestamp="1523313527068">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/discrete_reacher.py" timestamp="1521856171815">
         <mark key="'" line="68" column="3" />
         <mark key="[" line="86" column="0" />
@@ -675,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/pygame/point2d.py" />
       <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/gym/__init__.py" />
       <jump line="51" column="5" filename="$USER_HOME$/git/selfsupervised/experiments/point_img/goalimg_conv.py" />
       <jump line="12" column="39" filename="$USER_HOME$/git/selfsupervised/ss/remote/doodad/arglauncher.py" />
@@ -775,6 +779,7 @@
       <jump line="46" column="12" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" />
       <jump line="123" column="17" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" />
       <jump line="150" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/git/selfsupervised/requirements.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -815,8 +820,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGVuc29yZmxvdz09MS4zLjAK</text>
       </register>
       <register name="b" type="4">
         <keys>
