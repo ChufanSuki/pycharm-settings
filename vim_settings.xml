@@ -3,12 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1523390788182">
+        <mark key="'" line="402" column="29" />
+      </file>
       <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523389825121">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="64" column="4" />
         <mark key="]" line="68" column="18" />
         <mark key="." line="68" column="18" />
         <mark key="^" line="68" column="18" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1523391274918">
+        <mark key="[" line="106" column="34" />
+        <mark key="]" line="106" column="35" />
+        <mark key="." line="106" column="35" />
+        <mark key="^" line="106" column="37" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1523391207139" />
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1523389297792">
+        <mark key="'" line="282" column="37" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523389303517">
         <mark key="'" line="45" column="16" />
@@ -32,6 +48,13 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="25" column="29" />
       </file>
+      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1523391237553">
+        <mark key="'" line="51" column="21" />
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+      </file>
       <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1523389775027">
         <mark key="'" line="70" column="25" />
       </file>
@@ -39,12 +62,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1523389297792">
-        <mark key="'" line="282" column="37" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1523384243522">
         <mark key="[" line="27" column="54" />
@@ -139,47 +156,54 @@
       <jump line="70" column="25" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="18" column="6" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/examples/ddpg.py" />
+      <jump line="39" column="32" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="7" column="53" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="402" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="12" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="49" column="16" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
+      <jump line="51" column="21" filename="$USER_HOME$/git/railrl/tmp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>run_Experime</text>
+        <text>500</text>
       </register>
       <register name="-" type="4">
-        <text>run_Experime</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text>verbose</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OyBUaGlzIG9uZSBpcyByYWlscmwtdml0Y2h5ci00LWVuYS1lbmFibGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGgsIGhlaWdodCA9IDUwMCwgNTAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlPUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnYucmVuZGVyKG1vZGU9J3JnYl9hcnJheScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkcnk9VHJ1ZSwK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkcnk9VHJ1ZSwKICAgICAgICB2ZXJib3NlPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyYm9zZT1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlPUZhbHNlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBkcnk9VHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmdWxsX2NtZCkK</text>
+        <text encoding="base64">ICAgICAgICBkcnk9VHJ1ZSwKICAgICAgICB2ZXJib3NlPVRydWUsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-        variant</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmVyYm9zZT1UcnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZW52X2t3YXJncy5yYW5kb21pemVfZ29hbHMnOiBbRmFsc2UsIFRydWVdLAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlPVRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAncHVzaGVyLTJkLXN0YXRlLWJhc2VsaW5lcy1oMTAwLW11bHRpdGFzaycK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmdWxsX2NtZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
