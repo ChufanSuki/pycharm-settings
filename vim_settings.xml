@@ -13,6 +13,12 @@
         <mark key="]" line="143" column="23" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1523338305668">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="0" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/sac.py" />
@@ -25,13 +31,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZnVsbF9jbWQpCg==</text>
+        <text encoding="base64">RE9PREFEX0RPQ0tFUl9JTUFHRSA9ICd2aXRjaHlyL3JhaWxybC12aXRjaHlyJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAncHVzaGVyLTJkLXN0YXRlLWJhc2VsaW5lcy1oMTAwJwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZnVsbF9jbWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>vitchyr/railrl-vitchyr'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2Vwc2lsb24nLAo=</text>
@@ -40,7 +46,10 @@
         <text encoding="base64">ICAgIGVudiA9IFB1c2hlcjJERW52KCoqdmFyaWFudFsnZW52X2t3YXJncyddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>246</text>
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>vitchyr/railrl-vitchyr'</text>
       </register>
       <register name="/" type="4">
         <text>command</text>
@@ -59,9 +68,9 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>128</entry>
         <entry>246</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -84,6 +93,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
