@@ -65,8 +65,8 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523341159141">
-        <mark key="'" line="291" column="31" />
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523402691198">
+        <mark key="'" line="70" column="13" />
       </file>
       <file name="$USER_HOME$/git/doodad/aws_config/config.ini" timestamp="1523389266570">
         <mark key="[" line="25" column="29" />
@@ -74,10 +74,11 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1523401761019">
+      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1523402364087">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" timestamp="1523401386424">
         <mark key="'" line="4" column="44" />
@@ -88,11 +89,6 @@
       </file>
       <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1523389775027">
         <mark key="'" line="70" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/td3.py" timestamp="1523342830537">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_ddpg.py" timestamp="1523401627356">
         <mark key="'" line="32" column="19" />
@@ -112,11 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="15" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/td3.py" />
-      <jump line="92" column="9" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/td3.py" />
-      <jump line="23" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
-      <jump line="122" column="19" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="160" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="127" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="158" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="288" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
@@ -212,6 +203,11 @@
       <jump line="0" column="5" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
       <jump line="59" column="31" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
       <jump line="60" column="36" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
+      <jump line="130" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="69" column="56" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="70" column="13" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="90" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,7 +217,7 @@
         <text>while</text>
       </register>
       <register name="/" type="4">
-        <text>nvi</text>
+        <text encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2hpbGUgVHJ1ZToK</text>
@@ -258,15 +254,14 @@
       </register>
     </registers>
     <search>
-      <last-search>nvi</last-search>
+      <last-search encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</last-search>
       <last-offset />
-      <last-pattern>nvi</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>command</entry>
         <entry>if verbose</entry>
         <entry>docker run</entry>
         <entry encoding="base64">XDxnZXRfZG9ja2VyX2NtZFw+</entry>
@@ -286,6 +281,7 @@
         <entry>cuda</entry>
         <entry>cudnn</entry>
         <entry>nvi</entry>
+        <entry encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
