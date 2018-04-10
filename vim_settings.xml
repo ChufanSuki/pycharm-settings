@@ -7,6 +7,9 @@
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/sac.py" timestamp="1523335215499">
         <mark key="'" line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523341159141">
+        <mark key="'" line="291" column="31" />
+      </file>
       <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1523335844296">
         <mark key="'" line="54" column="30" />
         <mark key="[" line="143" column="0" />
@@ -28,6 +31,9 @@
       <jump line="88" column="0" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/sac.py" />
       <jump line="48" column="24" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="54" column="30" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="223" column="40" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="281" column="63" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
+      <jump line="291" column="31" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -46,31 +52,32 @@
         <text encoding="base64">ICAgIGVudiA9IFB1c2hlcjJERW52KCoqdmFyaWFudFsnZW52X2t3YXJncyddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>128</text>
       </register>
       <register name="-" type="4">
         <text>vitchyr/railrl-vitchyr'</text>
       </register>
       <register name="/" type="4">
-        <text>command</text>
+        <text>gcc</text>
       </register>
     </registers>
     <search>
-      <last-search>command</last-search>
+      <last-search>gcc</last-search>
       <last-offset />
-      <last-pattern>command</last-pattern>
+      <last-pattern>gcc</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>command</entry>
+        <entry>gcc</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>128</entry>
         <entry>246</entry>
         <entry>w</entry>
+        <entry>128</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -96,6 +103,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
