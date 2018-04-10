@@ -42,6 +42,9 @@
       <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/1593649292/scipy/optimize/_lbfgsb.py" timestamp="1519945505034">
         <mark key="'" line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1523318515947">
+        <mark key="'" line="43" column="16" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1523317351147">
         <mark key="'" line="111" column="79" />
         <mark key="[" line="125" column="26" />
@@ -687,7 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="8" filename="$USER_HOME$/anaconda2/envs/tmp/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
       <jump line="7" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="17" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
       <jump line="23" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
@@ -787,6 +789,7 @@
       <jump line="384" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="108" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="111" column="79" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="43" column="16" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2262,7 +2265,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>model.data</text>
+        <text>-v</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ21vY2FwJywK</text>
@@ -2414,9 +2417,9 @@
       </register>
     </registers>
     <search>
-      <last-search>model.data</last-search>
+      <last-search>-v</last-search>
       <last-offset />
-      <last-pattern>model.data</last-pattern>
+      <last-pattern>-v</last-pattern>
       <last-replace>algo_kwargs</last-replace>
       <last-substitute>algo_params</last-substitute>
       <last-dir>1</last-dir>
@@ -2424,7 +2427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scikit</entry>
         <entry encoding="base64">XDxKT0lOVF9BTkdMRVNfSElHSFw+</entry>
         <entry encoding="base64">XDxKT0lOVF9WQUxVRV9ISUdIXD4=</entry>
         <entry>step</entry>
@@ -2444,6 +2446,7 @@
         <entry>action_space</entry>
         <entry>eq_data</entry>
         <entry>model.data</entry>
+        <entry>-v</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
