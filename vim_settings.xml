@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" timestamp="1523484231082">
+        <mark key="[" line="205" column="31" />
+        <mark key="]" line="205" column="32" />
+        <mark key="." line="205" column="32" />
+        <mark key="^" line="205" column="32" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" timestamp="1523468378821">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -75,9 +81,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523389825121">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" timestamp="1523467714808">
         <mark key="'" line="71" column="10" />
         <mark key="[" line="85" column="8" />
@@ -91,9 +94,6 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1523429691108">
-        <mark key="'" line="333" column="12" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1523467200331">
         <mark key="'" line="360" column="12" />
@@ -114,9 +114,6 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1523468889726">
         <mark key="'" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523406783595">
-        <mark key="'" line="261" column="35" />
-      </file>
       <file name="$USER_HOME$/git/doodad/aws_config/config.ini" timestamp="1523429949857">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="21" />
@@ -129,8 +126,8 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" timestamp="1523469679426">
-        <mark key="'" line="79" column="12" />
+      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" timestamp="1523484064388">
+        <mark key="'" line="56" column="11" />
         <mark key="[" line="84" column="35" />
         <mark key="]" line="84" column="40" />
         <mark key="^" line="84" column="40" />
@@ -151,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="51" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="24" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="71" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="261" column="35" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
@@ -251,61 +247,61 @@
       <jump line="6" column="12" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
       <jump line="14" column="19" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
       <jump line="13" column="14" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
+      <jump line="56" column="11" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>take2</text>
+        <text>, use_gpu=None):</text>
       </register>
       <register name="-" type="4">
-        <text>take2</text>
+        <text>, use_gpu=None):</text>
       </register>
       <register name="/" type="4">
-        <text>cv2</text>
+        <text encoding="base64">XDxncHVfZW5hYmxlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnaGVyLXRkMy1wdXNoZXIyZC10YWtlMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN2Mi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
+        <text encoding="base64">ICAgIGlmIHVzZV9ncHUgPT0gJ2F1dG8nOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
+        <text encoding="base64">ICAgIGlmIHVzZV9ncHUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgIGN2Mi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBneW0uc3BhY2VzIGltcG9ydCBEaXNjcmV0ZQo=</text>
+        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjYWNoZWRfcHJvcGVydHkgaW1wb3J0IGNhY2hlZF9wcm9wZXJ0eQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIHJhaWxybC5lbnZzLm11am9jby5tdWpvY29fZW52IGltcG9ydCBNdWpvY29FbnYK</text>
+        <text encoding="base64">ZnJvbSBneW0uc3BhY2VzIGltcG9ydCBEaXNjcmV0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfb2JzX2xzdC5hcHBlbmQob2JzKQo=</text>
+        <text encoding="base64">ZnJvbSBjYWNoZWRfcHJvcGVydHkgaW1wb3J0IGNhY2hlZF9wcm9wZXJ0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsbF9vYnMgPSBucC52c3RhY2soYWxsX29ic19sc3QpCg==</text>
+        <text encoding="base64">IyBmcm9tIHJhaWxybC5lbnZzLm11am9jby5tdWpvY29fZW52IGltcG9ydCBNdWpvY29FbnYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cv2</last-search>
+      <last-search encoding="base64">XDxncHVfZW5hYmxlZFw+</last-search>
       <last-offset />
-      <last-pattern>cv2</last-pattern>
+      <last-pattern encoding="base64">XDxncHVfZW5hYmxlZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>num_steps_left</entry>
         <entry>num_steps</entry>
         <entry encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</entry>
         <entry>egl</entry>
@@ -325,6 +321,7 @@
         <entry>HEAD</entry>
         <entry encoding="base64">XDxtdWpvY29fcHlcPg==</entry>
         <entry>cv2</entry>
+        <entry encoding="base64">XDxncHVfZW5hYmxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
@@ -386,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
