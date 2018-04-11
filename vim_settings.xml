@@ -3,32 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1523406163175">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/dqn/classic_envs.py" timestamp="1523423526462">
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="35" />
-        <mark key="." line="88" column="35" />
-        <mark key="^" line="88" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/examples/td3.py" timestamp="1523406635025">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523429324657">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" timestamp="1523468378821">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-        <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" timestamp="1523404113255">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1523467213655">
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="452" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" timestamp="1523469151936">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="72" column="11" />
+        <mark key="]" line="72" column="66" />
+        <mark key="." line="72" column="66" />
+        <mark key="^" line="72" column="66" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523466404783">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="44" />
+        <mark key="^" line="67" column="44" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" timestamp="1523421155355">
         <mark key="'" line="88" column="36" />
@@ -37,11 +33,15 @@
         <mark key="^" line="88" column="22" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1523402364087">
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" timestamp="1523467643783">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="51" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1523468637785">
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="]" line="60" column="35" />
         <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" timestamp="1523420134826">
         <mark key="'" line="61" column="37" />
@@ -63,39 +63,27 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1523390788182">
-        <mark key="'" line="402" column="29" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1523468846113">
+        <mark key="'" line="10" column="49" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1523468385984">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523389825121">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" timestamp="1523406615596">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="56" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1523405117247">
-        <mark key="'" line="512" column="23" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="499" column="13" />
-        <mark key="^" line="515" column="77" />
-        <mark key="." line="498" column="54" />
-      </file>
-      <file name="/4" timestamp="1523405011469">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1523391274918">
-        <mark key="[" line="106" column="34" />
-        <mark key="]" line="106" column="35" />
-        <mark key="." line="106" column="35" />
-        <mark key="^" line="106" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" timestamp="1523401685333">
-        <mark key="'" line="60" column="36" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" timestamp="1523467714808">
+        <mark key="'" line="71" column="10" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="85" column="12" />
+        <mark key="^" line="80" column="28" />
       </file>
       <file name="$USER_HOME$/git/railrl/.gitignore" timestamp="1523400131791">
         <mark key="'" line="13" column="0" />
@@ -104,40 +92,27 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" timestamp="1523406325450">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="81" column="44" />
-      </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1523429691108">
         <mark key="'" line="333" column="12" />
-        <mark key="[" line="295" column="16" />
-        <mark key="]" line="295" column="22" />
-        <mark key="." line="295" column="22" />
-        <mark key="^" line="295" column="22" />
       </file>
-      <file name="/" timestamp="1523405011465">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1523467200331">
+        <mark key="'" line="360" column="12" />
+        <mark key="[" line="447" column="0" />
+        <mark key="]" line="459" column="32" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl/railrl-env.yml" timestamp="1523418730149">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" timestamp="1523467890945">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1523401563335">
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="433" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" timestamp="1523406643162">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.dev.txt" timestamp="1523399102407">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+        <mark key="]" line="97" column="12" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/finite_horizon_dqn.py" timestamp="1523467290352">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="144" column="8" />
+        <mark key="." line="144" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1523468889726">
+        <mark key="'" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523406783595">
         <mark key="'" line="261" column="35" />
@@ -147,6 +122,20 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" timestamp="1523469455547">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" timestamp="1523469679426">
+        <mark key="'" line="79" column="12" />
+        <mark key="[" line="84" column="35" />
+        <mark key="]" line="84" column="40" />
+        <mark key="^" line="84" column="40" />
+        <mark key="." line="84" column="40" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_ddpg.py" timestamp="1523406155351">
         <mark key="'" line="34" column="19" />
         <mark key="[" line="4" column="9" />
@@ -154,84 +143,14 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/env_replay_buffer.py" timestamp="1523405095122">
-        <mark key="'" line="32" column="25" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/dqn/dqn.py" timestamp="1523423456937">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/dqn/dqn.py" timestamp="1523468309347">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/railrl-env.yml" timestamp="1523399436413">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="14" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
-      <jump line="12" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/git/railrl/tmp.py" />
-      <jump line="49" column="16" filename="$USER_HOME$/git/railrl/tmp.py" />
-      <jump line="101" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="51" column="21" filename="$USER_HOME$/git/railrl/tmp.py" />
-      <jump line="336" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="455" column="17" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="8" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="453" column="44" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="193" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="379" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="148" column="24" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="508" column="50" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="495" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="3" column="9" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" />
-      <jump line="56" column="34" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="59" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/railrl/.gitignore" />
-      <jump line="64" column="34" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="28" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="14" column="19" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_ddpg.py" />
-      <jump line="17" column="16" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
-      <jump line="0" column="5" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
-      <jump line="59" column="31" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
-      <jump line="60" column="36" filename="$USER_HOME$/git/railrl/docker/railrl_gpu/Dockerfile" />
-      <jump line="130" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
-      <jump line="90" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
-      <jump line="22" column="19" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="26" column="79" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="27" column="32" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="43" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="48" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="51" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="53" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="42" column="19" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="478" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="458" column="4" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="467" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="489" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="496" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="44" column="14" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="351" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="514" column="17" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/env_replay_buffer.py" />
-      <jump line="515" column="19" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="32" column="25" filename="$USER_HOME$/git/railrl/railrl/data_management/env_replay_buffer.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" />
-      <jump line="513" column="23" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="85" column="4" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="67" column="21" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="30" column="43" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="88" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="21" column="21" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="81" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="50" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/examples/td3.py" />
-      <jump line="69" column="56" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="70" column="51" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="24" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
       <jump line="71" column="23" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" />
@@ -268,70 +187,124 @@
       <jump line="450" column="40" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="332" column="12" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="22" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
+      <jump line="42" column="39" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="47" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="75" column="22" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="15" column="10" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="478" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="442" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="402" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="81" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
+      <jump line="444" column="37" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="498" column="4" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="360" column="12" filename="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" />
+      <jump line="29" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="449" column="0" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
+      <jump line="74" column="57" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="73" column="57" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="0" column="17" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="38" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="132" column="40" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="96" column="37" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="106" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="71" column="10" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
+      <jump line="462" column="33" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="433" column="4" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="522" column="26" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/simple_replay_buffer.py" />
+      <jump line="521" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="34" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="100" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="98" column="18" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="96" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/her/test_launch_her_td3.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
+      <jump line="424" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="9" column="34" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="13" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
+      <jump line="13" column="23" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="322" column="49" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="8" column="22" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
+      <jump line="56" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="10" column="49" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="6" column="34" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="12" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
+      <jump line="14" column="19" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W2F3c19pbWFnZV9pZHNdCmFwLW5vcnRoZWFzdC0xPWFtaS1jNDI2ODlhNQphcC1ub3J0aGVhc3QtMj1hbWktODY1YjhmZTgKYXAtc291dGgtMT1hbWktZWE5ZmViODUKYXAtc291dGhlYXN0LTE9YW1pLWM3NGFlYWE0CmFwLXNvdXRoZWFzdC0yPWFtaS0wNzkyYWU2NApldS1jZW50cmFsLTE9YW1pLWY2NTJhOTk5CmV1LXdlc3QtMT1hbWktOGMwYTVkZmYKc2EtZWFzdC0xPWFtaS0zZjJjYjA1Mwo7IFRoaXMgb25lIGlzIHJhaWxybC12aXRjaHlyLTQtMTAtMjAxOAp1cy1lYXN0LTE9YW1pLWJjYWI3NWMzCg==</text>
+      <register name="&quot;" type="4">
+        <text>take2</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>take2</text>
       </register>
       <register name="/" type="4">
-        <text>verbose</text>
+        <text>cv2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RE9PREFEX0RPQ0tFUl9JTUFHRSA9ICd2aXRjaHlyL3JhaWxybC12aXRjaHlyLXYyJwpJTlNUQU5DRV9UWVBFID0gJ2M1LmxhcmdlJwpTUE9UX1BSSUNFID0gMC4wNAoKR1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAndml0Y2h5ci9yYWlscmwtdml0Y2h5ci1ncHUtdjItMicKR1BVX0lOU1RBTkNFX1RZUEUgPSAnZzIuMnhsYXJnZScKR1BVX1NQT1RfUFJJQ0UgPSAwLjQKUkVHSU9OX1RPX0dQVV9BV1NfSU1BR0VfSUQgPSB7CiAgICAndXMtd2VzdC0xJzogImFtaS04NzQzNzhlNyIsCiAgICAjICd1cy1lYXN0LTEnOiAiYW1pLTBlZjFiMzc0IiwKICAgICd1cy1lYXN0LTEnOiAiYW1pLWNlNzNhZGIxIiwKfQo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnaGVyLXRkMy1wdXNoZXIyZC10YWtlMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBET09EQURfRE9DS0VSX0lNQUdFID0gJzcwMTg0ZjUxZTMzZicK</text>
+        <text encoding="base64">ICAgIGN2Mi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlPUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbWRfbGlzdC5hcHBlbmQoJ2V4cG9ydCBNVUpPQ09fUFlfRk9SQ0VfQ1BVPXRydWUnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ01VSk9DT19QWV9GT1JDRV9DUFUnXSA9ICd0cnVlJwo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OyBUaGlzIG9uZSBpcyByYWlscmwtdml0Y2h5ci00LTEwLTIwMTgKdXMtd2VzdC0xPWFtaS1iY2FiNzVjMwo=</text>
+        <text encoding="base64">ZnJvbSBneW0uc3BhY2VzIGltcG9ydCBEaXNjcmV0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">O3VzLXdlc3QtMT1hbWktZWZiNWZmOGYgT3JpZ2luYWwK</text>
+        <text encoding="base64">ZnJvbSBjYWNoZWRfcHJvcGVydHkgaW1wb3J0IGNhY2hlZF9wcm9wZXJ0eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OyBDdXN0b20gYW1pIGZvciB1cy1lYXN5LTE6IHRoaXMgaXMgcmFpbHJsLTQKO3VzLWVhc3QtMT1hbWktNjFkMjk1MWIKOyBUaGlzIGlzIHJhaWxybC12aXRjaHlyLTQtZW5hLWVuYWJsZWQKO3VzLWVhc3QtMT1hbWktNzg5NmQ1MDIK</text>
+        <text encoding="base64">IyBmcm9tIHJhaWxybC5lbnZzLm11am9jby5tdWpvY29fZW52IGltcG9ydCBNdWpvY29FbnYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OyBUaGlzIG9uZSBpcyByYWlscmwtdml0Y2h5ci00LTEwLTIwMTgKdXMtZWFzdC0xPWFtaS1iY2FiNzVjMwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfb2JzX2xzdC5hcHBlbmQob2JzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaW8ud3JpdGUoJ2V4cG9ydCBNVUpPQ09fUFlfVVNFX0NQVT10cnVlXG4nKQo=</text>
+        <text encoding="base64">ICAgIGFsbF9vYnMgPSBucC52c3RhY2soYWxsX29ic19sc3QpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>verbose</last-search>
+      <last-search>cv2</last-search>
       <last-offset />
-      <last-pattern>verbose</last-pattern>
+      <last-pattern>cv2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cmake</entry>
-        <entry>nvidia</entry>
-        <entry>cuda</entry>
-        <entry>cudnn</entry>
-        <entry>nvi</entry>
-        <entry>3.6</entry>
-        <entry>glfq</entry>
-        <entry>Cython</entry>
-        <entry>copy</entry>
-        <entry>COPY</entry>
         <entry>num_steps_left</entry>
         <entry>num_steps</entry>
         <entry encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</entry>
@@ -342,6 +315,16 @@
         <entry>terminate</entry>
         <entry>terminat</entry>
         <entry>verbose</entry>
+        <entry>qpos</entry>
+        <entry>current_Goal</entry>
+        <entry>get_ac</entry>
+        <entry encoding="base64">XDxzdGVwXD4=</entry>
+        <entry>goals</entry>
+        <entry>path_length</entry>
+        <entry>ipdb</entry>
+        <entry>HEAD</entry>
+        <entry encoding="base64">XDxtdWpvY29fcHlcPg==</entry>
+        <entry>cv2</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
@@ -350,8 +333,13 @@
         <entry>x</entry>
         <entry>14</entry>
         <entry>bp|bd #</entry>
-        <entry>w</entry>
+        <entry>74</entry>
+        <entry>422</entry>
+        <entry>439</entry>
+        <entry>192</entry>
         <entry>q</entry>
+        <entry>85</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -395,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F1</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
