@@ -6,17 +6,23 @@
       <file name="/a.dummy" timestamp="1523406163175">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/dqn/classic_envs.py" timestamp="1523423526462">
+        <mark key="[" line="88" column="22" />
+        <mark key="]" line="88" column="35" />
+        <mark key="." line="88" column="35" />
+        <mark key="^" line="88" column="35" />
+      </file>
       <file name="$USER_HOME$/git/railrl/examples/td3.py" timestamp="1523406635025">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="66" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523422415734">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="51" column="44" />
-        <mark key="^" line="51" column="44" />
-        <mark key="." line="51" column="44" />
+      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523424090183">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="58" column="29" />
+        <mark key="]" line="58" column="35" />
+        <mark key="." line="58" column="35" />
+        <mark key="^" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" timestamp="1523404113255">
         <mark key="[" line="2" column="0" />
@@ -146,14 +152,15 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="46" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/dqn/dqn.py" timestamp="1523423456937">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu/railrl-env.yml" timestamp="1523399436413">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="34" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="195" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="214" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="234" column="30" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="557" column="27" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
@@ -252,61 +259,62 @@
       <jump line="34" column="41" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
       <jump line="88" column="36" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
       <jump line="201" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dqn/dqn.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>term</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>term</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>joblib</text>
+        <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd1cy1lYXN0LTEnOiAiYW1pLTBlZjFiMzc0IiwK</text>
+        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PSJlYzItdGVzdC1ncHUtdjItMi1uZXctYW1pLTIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGU9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGU9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAnNTM1MGVmZmI1Y2M4Jwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbiAtYyAnaW1wb3J0IG11am9jb19weScK</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGU9RmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAnNTM1MGVmZmI1Y2M4Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZSBhcHQtZ2V0IC15IGluc3RhbGwgbnZpZGlhLTM4NDsgZXhpdCAwCkVOViBMRF9MSUJSQVJZX1BBVEggJHtMRF9MSUJSQVJZX1BBVEh9Oi91c3IvbGliL252aWRpYS0zODQK</text>
+        <text encoding="base64">UlVOIHB5dGhvbiAtYyAnaW1wb3J0IG11am9jb19weScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlPSdsb2NhbCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PSJsb2NhbC1kb2NrZXItdGVzdCIsCg==</text>
+        <text encoding="base64">UlVOIERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZSBhcHQtZ2V0IC15IGluc3RhbGwgbnZpZGlhLTM4NDsgZXhpdCAwCkVOViBMRF9MSUJSQVJZX1BBVEggJHtMRF9MSUJSQVJZX1BBVEh9Oi91c3IvbGliL252aWRpYS0zODQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL211am9jby1weS5naXQKV09SS0RJUiAvcm9vdC9tdWpvY28tcHkKUlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL211am9jby1weS5naXQK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlPSdsb2NhbCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gudG9yY2hfcmxfYWxnb3JpdGhtIGltcG9ydCBUb3JjaFJMQWxnb3JpdGhtCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PSJsb2NhbC1kb2NrZXItdGVzdCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>joblib</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern>joblib</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>verbose</entry>
         <entry>goal</entry>
         <entry>i</entry>
         <entry>ENTRY</entry>
@@ -326,6 +334,7 @@
         <entry encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</entry>
         <entry>egl</entry>
         <entry>joblib</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
@@ -334,6 +343,7 @@
         <entry>x</entry>
         <entry>14</entry>
         <entry>q</entry>
+        <entry>bp|bd #</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -375,6 +385,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
