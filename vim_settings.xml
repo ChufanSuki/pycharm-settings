@@ -11,12 +11,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="66" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523421225334">
+      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523422415734">
         <mark key="'" line="45" column="16" />
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="23" />
-        <mark key="^" line="42" column="23" />
-        <mark key="." line="42" column="23" />
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="51" column="44" />
+        <mark key="^" line="51" column="44" />
+        <mark key="." line="51" column="44" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" timestamp="1523404113255">
         <mark key="[" line="2" column="0" />
@@ -44,11 +44,11 @@
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1523421185149">
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="58" />
-        <mark key="." line="27" column="58" />
-        <mark key="^" line="27" column="58" />
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1523422399749">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1523390788182">
         <mark key="'" line="402" column="29" />
@@ -94,6 +94,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" timestamp="1523406325450">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="81" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1523422015057">
+        <mark key="'" line="201" column="29" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="28" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="/" timestamp="1523405011465">
         <mark key="[" line="0" column="0" />
@@ -146,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="16" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="184" column="34" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="195" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="214" column="7" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
@@ -246,46 +251,47 @@
       <jump line="24" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
       <jump line="34" column="41" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
       <jump line="88" column="36" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
+      <jump line="201" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ami</text>
+        <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>ami</text>
+        <text>term</text>
       </register>
       <register name="/" type="4">
         <text>joblib</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbiAtYyAnaW1wb3J0IG11am9jb19weScK</text>
+        <text encoding="base64">ICAgICd1cy1lYXN0LTEnOiAiYW1pLTBlZjFiMzc0IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAnNTM1MGVmZmI1Y2M4Jwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGU9RmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbiAtYyAnaW1wb3J0IG11am9jb19weScK</text>
+        <text encoding="base64">R1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAnNTM1MGVmZmI1Y2M4Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHB5dGhvbiAtYyAnaW1wb3J0IG11am9jb19weScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZSBhcHQtZ2V0IC15IGluc3RhbGwgbnZpZGlhLTM4NDsgZXhpdCAwCkVOViBMRF9MSUJSQVJZX1BBVEggJHtMRF9MSUJSQVJZX1BBVEh9Oi91c3IvbGliL252aWRpYS0zODQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlPSdsb2NhbCcsCg==</text>
+        <text encoding="base64">UlVOIERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZSBhcHQtZ2V0IC15IGluc3RhbGwgbnZpZGlhLTM4NDsgZXhpdCAwCkVOViBMRF9MSUJSQVJZX1BBVEggJHtMRF9MSUJSQVJZX1BBVEh9Oi91c3IvbGliL252aWRpYS0zODQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PSJsb2NhbC1kb2NrZXItdGVzdCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlPSdsb2NhbCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL211am9jby1weS5naXQKV09SS0RJUiAvcm9vdC9tdWpvY28tcHkKUlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL211am9jby1weS5naXQK</text>
+        <text encoding="base64">ICAgICAgICBleHBfcHJlZml4PSJsb2NhbC1kb2NrZXItdGVzdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gudG9yY2hfcmxfYWxnb3JpdGhtIGltcG9ydCBUb3JjaFJMQWxnb3JpdGhtCg==</text>
+        <text encoding="base64">UlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL211am9jby1weS5naXQKV09SS0RJUiAvcm9vdC9tdWpvY28tcHkKUlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL211am9jby1weS5naXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25zID0gYmF0Y2hbJ2FjdGlvbnMnXQo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gudG9yY2hfcmxfYWxnb3JpdGhtIGltcG9ydCBUb3JjaFJMQWxnb3JpdGhtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
