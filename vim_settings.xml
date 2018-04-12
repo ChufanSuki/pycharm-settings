@@ -20,7 +20,7 @@
         <mark key="[" line="449" column="0" />
         <mark key="]" line="452" column="8" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523466404783">
+      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523501853967">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="67" column="37" />
         <mark key="]" line="67" column="44" />
@@ -51,6 +51,9 @@
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1523501905784">
+        <mark key="'" line="180" column="14" />
+      </file>
       <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1523429329343">
         <mark key="'" line="450" column="40" />
         <mark key="[" line="88" column="0" />
@@ -64,11 +67,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1523468846113">
-        <mark key="'" line="10" column="49" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1523502084663">
+        <mark key="'" line="199" column="15" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="12" />
+        <mark key="." line="203" column="12" />
+        <mark key="^" line="202" column="25" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" timestamp="1523499861066">
         <mark key="'" line="10" column="36" />
@@ -76,6 +80,9 @@
         <mark key="]" line="13" column="33" />
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523389825121">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" timestamp="1523491373392">
         <mark key="'" line="71" column="10" />
@@ -89,6 +96,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1523429691108">
+        <mark key="'" line="333" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/docker/railrl/railrl-env.yml" timestamp="1523418730149">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1523467200331">
         <mark key="'" line="360" column="12" />
@@ -113,6 +126,9 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523406783595">
+        <mark key="'" line="261" column="35" />
       </file>
       <file name="$USER_HOME$/git/doodad/aws_config/config.ini" timestamp="1523429949857">
         <mark key="[" line="8" column="0" />
@@ -148,13 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="61" column="37" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="34" column="41" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="88" column="36" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
-      <jump line="201" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/dqn/dqn.py" />
       <jump line="10" column="0" filename="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" />
       <jump line="471" column="24" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="227" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
@@ -248,62 +257,67 @@
       <jump line="14" column="11" filename="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" />
       <jump line="403" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
       <jump line="10" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/pusher2d.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="180" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="38" column="21" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="180" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="199" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="272" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HER-TD3',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>HER-TD3',</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncHVfZW5hYmxlZFw+</text>
+        <text encoding="base64">XDx6ZXJvc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGdvcml0aG09J0hFUi1URDMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBsZW4oYWN0aW9uX3NwYWNlLnNoYXBlKSA9PSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZV9ncHUgPT0gJ2F1dG8nOgo=</text>
+        <text encoding="base64">ICAgICAgICBmbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZV9ncHUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN2Mi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBsZW4oYWN0aW9uX3NwYWNlLnNoYXBlKSA9PSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgIGlmIHVzZV9ncHUgPT0gJ2F1dG8nOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgIGlmIHVzZV9ncHUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBneW0uc3BhY2VzIGltcG9ydCBEaXNjcmV0ZQo=</text>
+        <text encoding="base64">ICAgIGN2Mi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncHVfZW5hYmxlZFw+</last-search>
+      <last-search encoding="base64">XDx6ZXJvc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncHVfZW5hYmxlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx6ZXJvc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>num_steps</entry>
-        <entry encoding="base64">XDxnZXRfbnZpZGlhX2xpYl9kaXJcPg==</entry>
         <entry>egl</entry>
         <entry>joblib</entry>
         <entry>render</entry>
@@ -322,6 +336,8 @@
         <entry encoding="base64">XDxtdWpvY29fcHlcPg==</entry>
         <entry>cv2</entry>
         <entry encoding="base64">XDxncHVfZW5hYmxlZFw+</entry>
+        <entry>mocap</entry>
+        <entry encoding="base64">XDx6ZXJvc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
