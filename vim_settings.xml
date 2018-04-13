@@ -52,12 +52,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1523572514643">
-        <mark key="'" line="103" column="31" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="151" column="56" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1523577492464">
+        <mark key="[" line="153" column="56" />
+        <mark key="]" line="153" column="57" />
+        <mark key="." line="153" column="57" />
+        <mark key="^" line="153" column="68" />
       </file>
       <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523389825121">
         <mark key="'" line="0" column="0" />
@@ -149,12 +148,12 @@
       <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523501853967">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1523572623256">
-        <mark key="'" line="38" column="35" />
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="39" column="42" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1523577554471">
+        <mark key="'" line="182" column="47" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="186" column="29" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_sac.py" timestamp="1523565998050">
         <mark key="'" line="77" column="8" />
@@ -214,12 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="139" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="108" column="27" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="111" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="130" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="101" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="177" column="19" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="91" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -235,7 +228,6 @@
       <jump line="81" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="202" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="206" column="71" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="70" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="74" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="44" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -298,7 +290,6 @@
       <jump line="144" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="149" column="67" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="47" column="5" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
-      <jump line="183" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" />
       <jump line="35" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
       <jump line="182" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
@@ -314,63 +305,68 @@
       <jump line="136" column="59" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="103" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="38" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="166" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="301" column="10" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="146" column="56" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="1548" column="4" filename="$USER_HOME$/.PyCharm2018.1/system/python_stubs/1918714723/numpy/random/mtrand.py" />
+      <jump line="179" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="183" column="47" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>leftclaw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Y2FtZXJhIG5hbWU9ImhlYWRjYW0iIG1vZGU9ImZpeGVkIiAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>leftclaw</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWZ0Y2xhd1w+</text>
+        <text>headcam</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8d2VsZCBib2R5MT0ibW9jYXAiIGJvZHkyPSJsZWZ0Y2xhdyI+PC93ZWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhLnNldF9tb2NhcF9xdWF0KCdtb2NhcCcsIG5wLmFycmF5KFsxLCAwLCAxLCAwXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8Y2FtZXJhIG5hbWU9ImhlYWRjYW0iIG1vZGU9ImZpeGVkIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHdlbGQgYm9keTE9Im1vY2FwIiBib2R5Mj0iY2xhdyI+PC93ZWxkPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Ym9keSBtb2NhcD0idHJ1ZSIgbmFtZT0ibW9jYXAiIHBvcz0iMCAwIDAiPgo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NfZGVsdGFbMCwgMV0gKz0gbnAucmFuZG9tLm5vcm1hbCgxKSAvIDEwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCEtLXNpemU9IjAuMDUgMC4wNSAwLjA1Ii0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRhdGEuc2V0X21vY2FwX3F1YXQoJ21vY2FwJywgbnAuYXJyYXkoWzEsIDAsIDEsIDBdKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NfZGVsdGFbMCwgMV0gKz0gbnAucmFuZG9tLm5vcm1hbCgxKSAvIDEwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbW9jYXAgeHl6Jywgc2VsZi5kYXRhLm1vY2FwX3BvcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1ID0gbnAuemVyb3MoKDEsIDMpKQogICAgICAgIHVbMCwgOl0gPSBhY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRhdGEuc2V0X21vY2FwX3F1YXQoJ21vY2FwJywgbnAuYXJyYXkoWzEsIDAsIDEsIDBdKSkKICAgICAgICAgICAgIyBzZWxmLmRhdGEuc2V0X21vY2FwX3F1YXQoJ21vY2FwJywgbnAuYXJyYXkoWzAsIDAsIDAsIDBdKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLnJlc2V0X21vY2FwMmJvZHlfeHBvcygpCiAgICAgICAgICAgICMgc2VsZi5kYXRhLnNldF9tb2NhcF9wb3MoJ21vY2FwJywgcG9zX2RlbHRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3NfZGVsdGEgPSBucC5hcnJheShbMCwgMC41LCAwLjJdKSArIG5wLnJhbmRvbS5ub3JtYWwoc2l6ZT0oMSwzKSkgLyAxMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWZ0Y2xhd1w+</last-search>
+      <last-search>headcam</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWZ0Y2xhd1w+</last-pattern>
+      <last-pattern>headcam</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.cam</entry>
-        <entry>rgba =</entry>
-        <entry>rgba</entry>
         <entry>name=</entry>
         <entry>cam_dist</entry>
         <entry>range</entry>
@@ -388,6 +384,9 @@
         <entry>leftclaw</entry>
         <entry>ipdb</entry>
         <entry encoding="base64">XDxsZWZ0Y2xhd1w+</entry>
+        <entry>reset</entry>
+        <entry>weld</entry>
+        <entry>headcam</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
@@ -458,6 +457,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
