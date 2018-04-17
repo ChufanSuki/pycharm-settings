@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" timestamp="1523571825124">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/sac.py" timestamp="1524007866858">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" timestamp="1523404113255">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -84,6 +90,13 @@
       <file name="/" timestamp="1523405011465">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/td3.py" timestamp="1524007842377">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="25" />
+        <mark key="^" line="97" column="40" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_sac.py" timestamp="1523565332811">
         <mark key="'" line="10" column="42" />
         <mark key="[" line="7" column="30" />
@@ -128,6 +141,16 @@
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/td3.py" timestamp="1524007733964">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="122" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/sac.py" timestamp="1524007819346">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="99" column="12" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_state/td3.py" timestamp="1523566055607">
         <mark key="[" line="15" column="10" />
@@ -215,14 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
-      <jump line="44" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
-      <jump line="45" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
-      <jump line="52" column="21" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="55" column="32" filename="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" />
-      <jump line="143" column="87" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
-      <jump line="34" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="187" column="48" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="134" column="47" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="138" column="48" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="186" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -315,61 +330,68 @@
       <jump line="34" column="33" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test_render.py" />
       <jump line="2" column="9" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
       <jump line="21" column="0" filename="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_img/test.py" />
+      <jump line="35" column="26" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/td3.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/td3.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/td3.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/sac.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/sac.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/td3.py" />
+      <jump line="14" column="10" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/sac.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/td3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtdWpvY29fcHkuYnVpbGRlciBpbXBvcnQgY3ltago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9taXplX2dvYWxzPVRydWUsCiAgICAgICAgICAgIHVzZV9oYW5kX3RvX29ial9yZXdhcmQ9RmFsc2UsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>clip</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlb20gY29uYWZmaW5pdHk9IjAiIGNvbnR5cGU9IjAiIHBvcz0iMCAwIDAiIHJnYmE9IjAuNSAwLjUgMC41IDEuMCIgc2l6ZT0iMC4xIDAuMDIgMC4wMiIgdHlwZT0iYm94Ij48L2dlb20+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtdWpvY29fcHkuYnVpbGRlciBpbXBvcnQgY3ltago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9taXplX2dvYWxzPVRydWUsCiAgICAgICAgICAgIHVzZV9oYW5kX3RvX29ial9yZXdhcmQ9RmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzYXd5ZXItbXVqb2NvLWVudgo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAncHVzaGVyLTJkLXN0YXRlLWJhc2VsaW5lcy1oMTAwLW11bHRpdGFzay1sZXNzLXNoYXBlZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxhc3RfcmV3YXJkX3QgPSAwCiAgICByZXR1cm5zID0gMAogICAgZm9yIHQgaW4gcmFuZ2UoMTAwKToKICAgICAgICBhY3Rpb24gPSBlbnYuYWN0aW9uX3NwYWNlLnNhbXBsZSgpCiAgICAgICAgYWN0aW9uID0gbnAuaHN0YWNrKFthY3Rpb24sIG5wLmFycmF5KFswXSldKQogICAgICAgIG9icywgcmV3YXJkLCBkb25lLCBpbmZvID0gZW52LnN0ZXAoYWN0aW9uKQogICAgICAgICMgZW52LnJlbmRlcigpCiAgICAgICAgaW1nID0gbnAuY29uY2F0ZW5hdGUoKAogICAgICAgICAgICBvYnNbOjotMSwgOiwgMjozXSwKICAgICAgICAgICAgb2JzWzo6LTEsIDosIDE6Ml0sCiAgICAgICAgICAgIG9ic1s6Oi0xLCA6LCAwOjFdLAo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnYgPSBQdXNoZXIyREVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmZyb20gcmFpbHJsLmVudnMud3JhcHBlcnMgaW1wb3J0IEltYWdlRW52CmltcG9ydCBjdjIKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gbXVqb2NvX3B5LmJ1aWxkZXIgaW1wb3J0IGN5bWoKaW1wb3J0IG11am9jb19weQoKcHJpbnQoIm1ha2luZyBlbnYiKQpzYXd5ZXIgPSBTYXd5ZXJYWVpFbnYoKQpzaW0gPSBzYXd5ZXIuc2ltCnZpZXdlciA9IG11am9jb19weS5NalJlbmRlckNvbnRleHRPZmZzY3JlZW4oc2ltLCBkZXZpY2VfaWQ9LTEpCnZpZXdlci5jYW0udHJhY2tib2R5aWQgPSAwCnZpZXdlci5jYW0uZGlzdGFuY2UgPSAxLjAKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGlmIHZhcmlhbnRbJ211bHRpdGFzayddOgogICAgICAgIGVudiA9IEN5bGluZGVyWFlQdXNoZXIyREVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkKICAgICAgICBlbnYgPSBNdWx0aXRhc2tUb0ZsYXRFbnYoZW52KQogICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVmlld2VyKGN5bWouTWpSZW5kZXJDb250ZXh0V2luZG93KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzaW0pOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oc2ltKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlX2hhbmRfdG9fb2JqX3Jld2FyZD1GYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzYXd5ZXItbXVqb2NvLWVudgoKIyByb2JvdCB2aWV3CiMgcm90YXRpb25fYW5nbGUgPSA5MAojIGNhbV9kaXN0ID0gMQojIGNhbV9wb3MgPSBucC5hcnJheShbMCwgMC41LCAwLjIsIGNhbV9kaXN0LCAtNDUsIHJvdGF0aW9uX2FuZ2xlXSkKCiMgM3JkIHBlcnNvbiB2aWV3CmNhbV9kaXN0ID0gMC4yCnJvdGF0aW9uX2FuZ2xlID0gMjcwCmNhbV9wb3MgPSBucC5hcnJheShbMCwgMS4wLCAwLjUsIGNhbV9kaXN0LCAtNDUsIHJvdGF0aW9uX2FuZ2xlXSkKCmZvciBpIGluIHJhbmdlKDMpOgogICAgdmlld2VyLmNhbS5sb29rYXRbaV0gPSBjYW1fcG9zW2ldCnZpZXdlci5jYW0uZGlzdGFuY2UgPSBjYW1fcG9zWzNdCnZpZXdlci5jYW0uZWxldmF0aW9uID0gY2FtX3Bvc1s0XQp2aWV3ZXIuY2FtLmF6aW11dGggPSBjYW1fcG9zWzVdCnZpZXdlci5jYW0udHJhY2tib2R5aWQgPSAtMQpzaW0uYWRkX3JlbmRlcl9jb250ZXh0KHZpZXdlcikKZW52ID0gSW1hZ2VFbnYoc2F3eWVyLCBpbXNpemU9NDAwKQoKY2xhc3MgVmlld2VyKGN5bWouTWpSZW5kZXJDb250ZXh0V2luZG93KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzaW0pOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oc2ltKQoKaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9taXplX2dvYWxzPVRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZnJvbSBtdWpvY29fcHkuYnVpbGRlciBpbXBvcnQgY3ltago=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBzYXd5ZXItbXVqb2NvLWVudgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgYWN0aW9uID0gZW52LmFjdGlvbl9zcGFjZS5zYW1wbGUoKQogICAgICAgIGFjdGlvbiA9IG5wLmhzdGFjayhbYWN0aW9uLCBucC5hcnJheShbMF0pXSkKICAgICAgICBhY3Rpb25bMF0gLT0gMC41Cj09PT09PT0K</text>
+        <text encoding="base64">ICAgIGxhc3RfcmV3YXJkX3QgPSAwCiAgICByZXR1cm5zID0gMAogICAgZm9yIHQgaW4gcmFuZ2UoMTAwKToKICAgICAgICBhY3Rpb24gPSBlbnYuYWN0aW9uX3NwYWNlLnNhbXBsZSgpCiAgICAgICAgYWN0aW9uID0gbnAuaHN0YWNrKFthY3Rpb24sIG5wLmFycmF5KFswXSldKQogICAgICAgIG9icywgcmV3YXJkLCBkb25lLCBpbmZvID0gZW52LnN0ZXAoYWN0aW9uKQogICAgICAgICMgZW52LnJlbmRlcigpCiAgICAgICAgaW1nID0gbnAuY29uY2F0ZW5hdGUoKAogICAgICAgICAgICBvYnNbOjotMSwgOiwgMjozXSwKICAgICAgICAgICAgb2JzWzo6LTEsIDosIDE6Ml0sCiAgICAgICAgICAgIG9ic1s6Oi0xLCA6LCAwOjFdLAo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clip</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern>clip</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>leftclaw</entry>
         <entry>ipdb</entry>
         <entry encoding="base64">XDxsZWZ0Y2xhd1w+</entry>
         <entry>weld</entry>
@@ -389,6 +411,7 @@
         <entry>limited</entry>
         <entry>size</entry>
         <entry>clip</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
@@ -401,7 +424,6 @@
         <entry>192</entry>
         <entry>85</entry>
         <entry>24</entry>
-        <entry>vsp</entry>
         <entry>102</entry>
         <entry>197</entry>
         <entry>e</entry>
@@ -409,6 +431,7 @@
         <entry>189</entry>
         <entry>128</entry>
         <entry>76</entry>
+        <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
