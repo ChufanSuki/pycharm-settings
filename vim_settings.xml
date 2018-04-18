@@ -3,17 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/railrl/scripts/sim_policy.py" timestamp="1524073901354">
+        <mark key="'" line="44" column="22" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/her_ddpg.py" timestamp="1524022222684">
         <mark key="'" line="57" column="21" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="38" />
         <mark key="^" line="100" column="61" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1524021756180">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/env_utils.py" timestamp="1523566206119">
         <mark key="[" line="7" column="39" />
@@ -46,8 +44,8 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" timestamp="1523421155355">
-        <mark key="'" line="88" column="36" />
+      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" timestamp="1524073411592">
+        <mark key="'" line="47" column="5" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="^" line="88" column="22" />
@@ -58,12 +56,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" timestamp="1524028166279">
-        <mark key="'" line="27" column="16" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="40" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" timestamp="1524073977076">
+        <mark key="'" line="29" column="26" />
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="29" column="60" />
+        <mark key="." line="29" column="60" />
+        <mark key="^" line="29" column="59" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" timestamp="1523420134826">
         <mark key="'" line="61" column="37" />
@@ -72,6 +70,9 @@
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
       </file>
+      <file name="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" timestamp="1524073155059">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1523429795502">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="22" column="0" />
@@ -79,18 +80,18 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1524028587782">
-        <mark key="'" line="156" column="12" />
-        <mark key="[" line="109" column="18" />
-        <mark key="]" line="112" column="36" />
-        <mark key="." line="112" column="36" />
-        <mark key="^" line="112" column="36" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1524074295572">
+        <mark key="'" line="290" column="4" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" timestamp="1524029010604">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" timestamp="1524074410939">
         <mark key="'" line="26" column="29" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="77" column="17" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="51" />
+        <mark key="." line="86" column="0" />
         <mark key="^" line="77" column="20" />
       </file>
       <file name="$USER_HOME$/git/railrl/examples/ddpg.py" timestamp="1523389825121">
@@ -118,10 +119,13 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/finite_horizon_dqn.py" timestamp="1523467290352">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="144" column="8" />
-        <mark key="." line="144" column="9" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1523468889726">
+        <mark key="'" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/exploration_strategies/ou_strategy.py" timestamp="1523491118665">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_sac.py" timestamp="1524022126984">
         <mark key="'" line="6" column="19" />
@@ -173,6 +177,11 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/samplers/util.py" timestamp="1524073944000">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/examples/td3.py" timestamp="1524001835741">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="0" />
@@ -195,12 +204,12 @@
         <mark key="." line="93" column="49" />
         <mark key="^" line="93" column="49" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1524002553135">
-        <mark key="'" line="196" column="12" />
-        <mark key="[" line="184" column="76" />
-        <mark key="]" line="184" column="76" />
-        <mark key="." line="184" column="76" />
-        <mark key="^" line="182" column="44" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1524074361271">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="205" column="29" />
+        <mark key="]" line="205" column="29" />
+        <mark key="." line="205" column="29" />
+        <mark key="^" line="204" column="44" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_sac.py" timestamp="1523565998050">
         <mark key="'" line="77" column="8" />
@@ -239,19 +248,19 @@
         <mark key="'" line="0" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/td3.py" timestamp="1524028792201">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/td3.py" timestamp="1524074395121">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="99" column="44" />
-        <mark key="]" line="99" column="49" />
-        <mark key="^" line="99" column="49" />
-        <mark key="." line="99" column="49" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="51" />
+        <mark key="^" line="97" column="50" />
+        <mark key="." line="97" column="50" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_td3.py" timestamp="1524028995073">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_td3.py" timestamp="1524074405552">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="48" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="51" />
         <mark key="^" line="65" column="26" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/her_sac.py" timestamp="1524022191371">
         <mark key="'" line="37" column="17" />
@@ -286,11 +295,6 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523567386631">
         <mark key="'" line="455" column="10" />
       </file>
-      <file name="$USER_HOME$/git/doodad/aws_config/config.ini" timestamp="1523429949857">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" timestamp="1523565433789">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="72" column="0" />
@@ -301,47 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="11" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="254" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="16" column="8" filename="$USER_HOME$/git/railrl/railrl/core/serializable.py" />
-      <jump line="255" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="262" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="261" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="128" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="17" column="33" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_img/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_img/test.py" />
-      <jump line="9" column="45" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_img/test_render.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_img/test_render.py" />
-      <jump line="233" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="316" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="331" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="55" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="172" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="125" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="279" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="319" column="43" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="248" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="195" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="288" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="176" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="275" column="38" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="280" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="386" column="26" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="73" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="171" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="278" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="352" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="118" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="173" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="78" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="250" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="271" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="273" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="72" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="104" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="299" column="26" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="26" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" />
@@ -401,70 +364,101 @@
       <jump line="3" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_td3.py" />
       <jump line="14" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_ddpg.py" />
       <jump line="26" column="29" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" />
+      <jump line="47" column="5" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" />
+      <jump line="179" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="27" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="45" column="117" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="60" column="67" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="64" column="97" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="69" column="46" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="74" column="50" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="79" column="54" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="83" column="80" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="97" column="54" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="102" column="58" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="108" column="62" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="113" column="66" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="121" column="70" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="183" column="22" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="132" column="74" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="30" column="87" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="29" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="33" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="140" column="58" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="143" column="82" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="148" column="81" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="151" column="90" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="25" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="42" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="67" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="105" column="44" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="115" column="54" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="188" column="77" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="195" column="76" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="49" column="56" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/scripts/sim_policy.py" />
+      <jump line="44" column="22" filename="$USER_HOME$/git/railrl/scripts/sim_policy.py" />
+      <jump line="28" column="26" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" />
+      <jump line="290" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="21" column="40" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="204" column="44" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS1wdXNoLXN0YXRlJwo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS1wdXNoLXN0YXRlLW5ldy14bWwtdjInCg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>only-block-to-goal'</text>
       </register>
       <register name="/" type="4">
-        <text>True</text>
+        <text>gravi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFNhd3llclB1c2hFbnYoKip2YXJpYW50WydlbnZfa3dhcmdzJ10pCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS1wdXNoLXN0YXRlLW5ldy14bWwtdjInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFNhd3llclhZWkVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS1wdXNoLXN0YXRlLW9ubHktYmxvY2stdG8tZ29hbCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFNhd3llclhZWkVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLSBibG9ja190b19nb2FsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLSBibG9ja190b19nb2FsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAncmVwbGF5X2J1ZmZlcl9rd2FyZ3MubnVtX2dvYWxzX3RvX3NhbXBsZSc6IFswLCA0LCA4XSwKICAgICAgICAnYWxnb19rd2FyZ3MubnVtX3VwZGF0ZXNfcGVyX2Vudl9zdGVwJzogWzEsIDVdLAo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gKwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncmVwbGF5X2J1ZmZlcl9rd2FyZ3MubnVtX2dvYWxzX3RvX3NhbXBsZSc6IFswLCA0LCA4XSwKICAgICAgICAnYWxnb19rd2FyZ3MubnVtX3VwZGF0ZXNfcGVyX2Vudl9zdGVwJzogWzEsIDVdLAo=</text>
+        <text encoding="base64">ICAgIGVudiA9IFNhd3llclhZWkVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS14eXotc3RhdGUnCg==</text>
+        <text encoding="base64">ICAgIGVudiA9IFNhd3llclhZWkVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS14eXotc3RhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS14eXotc3RhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>True</last-search>
+      <last-search>gravi</last-search>
       <last-offset />
-      <last-pattern>True</last-pattern>
+      <last-pattern>gravi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sample_goal_xyz</entry>
-        <entry encoding="base64">XDxzYW1wbGVfZ29hbF94eXpcPg==</entry>
-        <entry>random_goals</entry>
-        <entry>randomize_goal</entry>
-        <entry encoding="base64">XDxnb2FsX2RpbVw+</entry>
-        <entry encoding="base64">XDxjb21wdXRlX3Jld2FyZFw+</entry>
-        <entry>set_Goal</entry>
-        <entry>set_goal</entry>
-        <entry encoding="base64">XDxtdWx0aXRhc2tfZ29hbFw+</entry>
-        <entry encoding="base64">XDxzZXRfYmxvY2tfeHl6XD4=</entry>
         <entry>clip</entry>
         <entry>sample_block_xyz</entry>
         <entry>compute_reward</entry>
@@ -475,9 +469,18 @@
         <entry>sample_Goal</entry>
         <entry encoding="base64">XDxzYW1wbGVfZ29hbF9mb3Jfcm9sbG91dFw+</entry>
         <entry>True</entry>
+        <entry>COPY</entry>
+        <entry>conaffinity</entry>
+        <entry>block</entry>
+        <entry>class='1</entry>
+        <entry>class</entry>
+        <entry>arm</entry>
+        <entry>contype</entry>
+        <entry>goal</entry>
+        <entry>gravitry</entry>
+        <entry>gravi</entry>
       </history-search>
       <history-cmd>
-        <entry>bp|bd #</entry>
         <entry>74</entry>
         <entry>422</entry>
         <entry>439</entry>
@@ -495,6 +498,7 @@
         <entry>500</entry>
         <entry>191</entry>
         <entry>vsp</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
