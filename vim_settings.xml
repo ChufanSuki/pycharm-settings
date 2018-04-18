@@ -13,6 +13,20 @@
         <mark key="^" line="100" column="61" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1524085853058">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" timestamp="1524021756180">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/env_utils.py" timestamp="1523566206119">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1523567002375">
         <mark key="'" line="33" column="17" />
       </file>
@@ -26,17 +40,18 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" timestamp="1523571825124">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" timestamp="1523404113255">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" timestamp="1524073411592">
         <mark key="'" line="47" column="5" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="^" line="88" column="22" />
         <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_img/test.py" timestamp="1524025429799">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" timestamp="1524076495617">
         <mark key="'" line="29" column="26" />
@@ -86,6 +101,9 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="/" timestamp="1523405011465">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_ddpg.py" timestamp="1524028998191">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="17" column="0" />
@@ -100,13 +118,13 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/finite_q_learning/finite_horizon_dqn.py" timestamp="1523467290352">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="144" column="8" />
+        <mark key="." line="144" column="9" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1523468889726">
         <mark key="'" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/exploration_strategies/ou_strategy.py" timestamp="1523491118665">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_sac.py" timestamp="1524022126984">
         <mark key="'" line="6" column="19" />
@@ -114,6 +132,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="17" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.dev.txt" timestamp="1523399102407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/cython/viewer.pyx" timestamp="1523569540075">
         <mark key="'" line="282" column="37" />
@@ -129,32 +153,29 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/td3.py" timestamp="1524007733964">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="122" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/her/her.py" timestamp="1524021590794">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/her/her.py" timestamp="1524085286027">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="101" column="45" />
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="55" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/pusher2d_state/sac.py" timestamp="1524007819346">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="99" column="12" />
+      <file name="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_state/td3.py" timestamp="1523566055607">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/samplers/util.py" timestamp="1524073944000">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="46" />
+      <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1524086180762">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/samplers/util.py" timestamp="1524084783707">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="74" column="4" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/examples/td3.py" timestamp="1524001835741">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/mjviewer.py" timestamp="1523568839224">
         <mark key="'" line="33" column="56" />
@@ -165,6 +186,12 @@
       </file>
       <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1523501853967">
         <mark key="'" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" timestamp="1524085728351">
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="28" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="85" column="28" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" timestamp="1524028783599">
         <mark key="'" line="17" column="26" />
@@ -187,11 +214,6 @@
         <mark key="." line="103" column="45" />
         <mark key="^" line="103" column="45" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/td3.py" timestamp="1523566042145">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="122" column="12" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/sac.py" timestamp="1524028955323">
         <mark key="'" line="77" column="16" />
         <mark key="[" line="79" column="0" />
@@ -199,16 +221,15 @@
         <mark key="." line="77" column="17" />
         <mark key="^" line="82" column="49" />
       </file>
+      <file name="/4" timestamp="1523405011469">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1523568358158">
         <mark key="'" line="114" column="11" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="121" column="30" />
         <mark key="." line="106" column="35" />
         <mark key="^" line="106" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_img/test_render.py" timestamp="1524026255824">
-        <mark key="'" line="0" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/td3.py" timestamp="1524074395121">
         <mark key="'" line="3" column="0" />
@@ -241,37 +262,22 @@
       <file name="$USER_HOME$/git/railrl/docker/railrl/railrl-env.yml" timestamp="1523418730149">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/events/beta_learning.py" timestamp="1523467200331">
-        <mark key="'" line="360" column="12" />
-        <mark key="[" line="447" column="0" />
-        <mark key="]" line="459" column="32" />
-      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/__init__.py" timestamp="1523567807877">
         <mark key="'" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/sac.py" timestamp="1524001829493">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="75" column="22" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523567386631">
         <mark key="'" line="455" column="10" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" timestamp="1523565433789">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="75" column="9" />
+      <file name="$USER_HOME$/git/doodad/aws_config/config.ini" timestamp="1523429949857">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_env.py" timestamp="1524022677064">
         <mark key="'" line="200" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="38" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="40" column="6" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" />
-      <jump line="53" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" />
-      <jump line="25" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
       <jump line="19" column="27" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/td3.py" />
       <jump line="60" column="8" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/td3.py" />
       <jump line="91" column="36" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" />
@@ -367,61 +373,65 @@
       <jump line="162" column="19" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="216" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="227" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="44" column="22" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/railrl/samplers/util.py" />
+      <jump line="13" column="49" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" />
+      <jump line="69" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>goals_on_table=True)</text>
+        <text>;memoryview)</text>
       </register>
       <register name="-" type="4">
-        <text>goals_on_table=True)</text>
+        <text>;memoryview)</text>
       </register>
       <register name="/" type="4">
-        <text>touch_distance</text>
+        <text>filename</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGpvaW50IG5hbWU9ImJsb2Nram9pbnQtdCIgdHlwZT0ic2xpZGUiIGxpbWl0ZWQ9J2ZhbHNlJyBwb3M9IjAgMCAwIgogICAgICAgICAgICAgICAgICAgYXhpcz0iMSAwIDAgIgo=</text>
+        <text encoding="base64">ZGVmIHJvbGxvdXQoZW52LCBhZ2VudCwgbWF4X3BhdGhfbGVuZ3RoPW5wLmluZiwgYW5pbWF0ZWQ9RmFsc2UpOgogICAgIiIiCiAgICBUaGUgZm9sbG93aW5nIHZhbHVlIGZvciB0aGUgZm9sbG93aW5nIGtleXMgd2lsbCBiZSBhIDJEIGFycmF5LCB3aXRoIHRoZQogICAgZmlyc3QgZGltZW5zaW9uIGNvcnJlc3BvbmRpbmcgdG8gdGhlIHRpbWUgZGltZW5zaW9uLgogICAgIC0gb2JzZXJ2YXRpb25zCiAgICAgLSBhY3Rpb25zCiAgICAgLSByZXdhcmRzCiAgICAgLSBuZXh0X29ic2VydmF0aW9ucwogICAgIC0gdGVybWluYWxzCgogICAgVGhlIG5leHQgdHdvIGVsZW1lbnRzIHdpbGwgYmUgbGlzdHMgb2YgZGljdGlvbmFyaWVzLCB3aXRoIHRoZSBpbmRleCBpbnRvCiAgICB0aGUgbGlzdCBiZWluZyB0aGUgaW5kZXggaW50byB0aGUgdGltZQogICAgIC0gYWdlbnRfaW5mb3MKICAgICAtIGVudl9pbmZvcwoKICAgIDpwYXJhbSBlbnY6CiAgICA6cGFyYW0gYWdlbnQ6CiAgICA6cGFyYW0gbWF4X3BhdGhfbGVuZ3RoOgogICAgOnBhcmFtIGFuaW1hdGVkOgogICAgOnJldHVybjoKICAgICIiIgogICAgb2JzZXJ2YXRpb25zID0gW10KICAgIGFjdGlvbnMgPSBbXQogICAgcmV3YXJkcyA9IFtdCiAgICB0ZXJtaW5hbHMgPSBbXQogICAgYWdlbnRfaW5mb3MgPSBbXQogICAgZW52X2luZm9zID0gW10KICAgIG8gPSBlbnYucmVzZXQoKQogICAgYWdlbnQucmVzZXQoKQogICAgbmV4dF9vID0gTm9uZQogICAgcGF0aF9sZW5ndGggPSAwCiAgICBpZiBhbmltYXRlZDoKICAgICAgICBlbnYucmVuZGVyKCkKICAgIHdoaWxlIHBhdGhfbGVuZ3RoIDwgbWF4X3BhdGhfbGVuZ3RoOgogICAgICAgIGEsIGFnZW50X2luZm8gPSBhZ2VudC5nZXRfYWN0aW9uKG8pCiAgICAgICAgYSA9IGEgKyBucC5yYW5kb20ubm9ybWFsKGEuc2hhcGUpIC8gMTAKICAgICAgICBuZXh0X28sIHIsIGQsIGVudl9pbmZvID0gZW52LnN0ZXAoYSkKICAgICAgICBvYnNlcnZhdGlvbnMuYXBwZW5kKG8pCiAgICAgICAgcmV3YXJkcy5hcHBlbmQocikKICAgICAgICB0ZXJtaW5hbHMuYXBwZW5kKGQpCiAgICAgICAgYWN0aW9ucy5hcHBlbmQoYSkKICAgICAgICBhZ2VudF9pbmZvcy5hcHBlbmQoYWdlbnRfaW5mbykKICAgICAgICBlbnZfaW5mb3MuYXBwZW5kKGVudl9pbmZvKQogICAgICAgIHBhdGhfbGVuZ3RoICs9IDEKICAgICAgICBpZiBkOgogICAgICAgICAgICBicmVhawogICAgICAgIG8gPSBuZXh0X28KICAgICAgICBpZiBhbmltYXRlZDoKICAgICAgICAgICAgZW52LnJlbmRlcigpCgogICAgYWN0aW9ucyA9IG5wLmFycmF5KGFjdGlvbnMpCiAgICBpZiBsZW4oYWN0aW9ucy5zaGFwZSkgPT0gMToKICAgICAgICBhY3Rpb25zID0gbnAuZXhwYW5kX2RpbXMoYWN0aW9ucywgMSkKICAgIG9ic2VydmF0aW9ucyA9IG5wLmFycmF5KG9ic2VydmF0aW9ucykKICAgIGlmIGxlbihvYnNlcnZhdGlvbnMuc2hhcGUpID09IDE6CiAgICAgICAgb2JzZXJ2YXRpb25zID0gbnAuZXhwYW5kX2RpbXMob2JzZXJ2YXRpb25zLCAxKQogICAgICAgIG5leHRfbyA9IG5wLmFycmF5KFtuZXh0X29dKQogICAgbmV4dF9vYnNlcnZhdGlvbnMgPSBucC52c3RhY2soCiAgICAgICAgKAogICAgICAgICAgICBvYnNlcnZhdGlvbnNbMTosIDpdLAogICAgICAgICAgICBucC5leHBhbmRfZGltcyhuZXh0X28sIDApCiAgICAgICAgKQogICAgKQogICAgcmV0dXJuIGRpY3QoCiAgICAgICAgb2JzZXJ2YXRpb25zPW9ic2VydmF0aW9ucywKICAgICAgICBhY3Rpb25zPWFjdGlvbnMsCiAgICAgICAgcmV3YXJkcz1ucC5hcnJheShyZXdhcmRzKS5yZXNoYXBlKC0xLCAxKSwKICAgICAgICBuZXh0X29ic2VydmF0aW9ucz1uZXh0X29ic2VydmF0aW9ucywKICAgICAgICB0ZXJtaW5hbHM9bnAuYXJyYXkodGVybWluYWxzKS5yZXNoYXBlKC0xLCAxKSwKICAgICAgICBhZ2VudF9pbmZvcz1hZ2VudF9pbmZvcywKICAgICAgICBlbnZfaW5mb3M9ZW52X2luZm9zLAogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS1wdXNoLXN0YXRlLW9ubHktYmxvY2stdG8tZ29hbCcK</text>
+        <text encoding="base64">ICAgIGlmICdldmFsX3BvbGljeScgaW4gZGF0YToKICAgICAgICBwb2xpY3kgPSBkYXRhWydldmFsX3BvbGljeSddCiAgICBlbGlmICdwb2xpY3knIGluIGRhdGE6CiAgICBlbGlmICdleHBsb3JhdGlvbl9wb2xpY3knIGluIGRhdGE6CiAgICAgICAgcG9saWN5ID0gZGF0YVsnZXhwbG9yYXRpb25fcG9saWN5J10KICAgIGVsaWYgJ25hZl9wb2xpY3knIGluIGRhdGE6CiAgICAgICAgcG9saWN5ID0gZGF0YVsnbmFmX3BvbGljeSddCiAgICBlbGlmICdvcHRpbWl6YWJsZV9xZnVuY3Rpb24nIGluIGRhdGE6CiAgICAgICAgcWYgPSBkYXRhWydvcHRpbWl6YWJsZV9xZnVuY3Rpb24nXQogICAgICAgIHBvbGljeSA9IHFmLmltcGxpY2l0X3BvbGljeQogICAgZWxzZToKICAgICAgICByYWlzZSBFeGNlcHRpb24oIk5vIHBvbGljeSBmb3VuZCBpbiBsb2FkZWQgZGljdC4gS2V5czoge30iLmZvcm1hdCgKICAgICAgICAgICAgZGF0YS5rZXlzKCkKICAgICAgICApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLSBibG9ja190b19nb2FsCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBkYXRhWydwb2xpY3knXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLSBibG9ja190b19nb2FsCg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgVGhlIGZvbGxvd2luZyB2YWx1ZSBmb3IgdGhlIGZvbGxvd2luZyBrZXlzIHdpbGwgYmUgYSAyRCBhcnJheSwgd2l0aCB0aGUKICAgIGZpcnN0IGRpbWVuc2lvbiBjb3JyZXNwb25kaW5nIHRvIHRoZSB0aW1lIGRpbWVuc2lvbi4KICAgICAtIG9ic2VydmF0aW9ucwogICAgIC0gYWN0aW9ucwogICAgIC0gcmV3YXJkcwogICAgIC0gbmV4dF9vYnNlcnZhdGlvbnMKICAgICAtIHRlcm1pbmFscwoKICAgIFRoZSBuZXh0IHR3byBlbGVtZW50cyB3aWxsIGJlIGxpc3RzIG9mIGRpY3Rpb25hcmllcywgd2l0aCB0aGUgaW5kZXggaW50bwogICAgdGhlIGxpc3QgYmVpbmcgdGhlIGluZGV4IGludG8gdGhlIHRpbWUKICAgICAtIGFnZW50X2luZm9zCiAgICAgLSBlbnZfaW5mb3MKCiAgICA6cGFyYW0gZW52OgogICAgOnBhcmFtIGFnZW50OgogICAgOnBhcmFtIG1heF9wYXRoX2xlbmd0aDoKICAgIDpwYXJhbSBhbmltYXRlZDoKICAgIDpyZXR1cm46CiAgICAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFNhd3llclhZWkVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
+        <text encoding="base64">ZmlsZW5hbWUgPSBzdHIodXVpZC51dWlkNCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFNhd3llclhZWkVudigqKnZhcmlhbnRbJ2Vudl9rd2FyZ3MnXSkK</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXNpbS1wdXNoLXN0YXRlLW9ubHktYmxvY2stdG8tZ29hbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLSBibG9ja190b19nb2FsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdub3JtYWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLSBibG9ja190b19nb2FsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>touch_distance</last-search>
+      <last-search>filename</last-search>
       <last-offset />
-      <last-pattern>touch_distance</last-pattern>
+      <last-pattern>filename</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>multiask</entry>
         <entry>multitask</entry>
         <entry>sample_Goal</entry>
         <entry encoding="base64">XDxzYW1wbGVfZ29hbF9mb3Jfcm9sbG91dFw+</entry>
@@ -441,6 +451,7 @@
         <entry encoding="base64">XDxhbmdsZXNcPg==</entry>
         <entry>reward</entry>
         <entry>touch_distance</entry>
+        <entry>filename</entry>
       </history-search>
       <history-cmd>
         <entry>102</entry>
