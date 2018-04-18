@@ -62,8 +62,8 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1524077831440">
-        <mark key="'" line="172" column="10" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1524082916677">
+        <mark key="'" line="227" column="13" />
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="53" />
         <mark key="." line="17" column="53" />
@@ -267,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="302" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="25" column="38" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="40" column="6" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" />
@@ -367,6 +365,8 @@
       <jump line="14" column="29" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test.py" />
       <jump line="0" column="25" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test.py" />
       <jump line="162" column="19" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="216" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="227" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -376,7 +376,7 @@
         <text>goals_on_table=True)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmdsZXNcPg==</text>
+        <text>touch_distance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGpvaW50IG5hbWU9ImJsb2Nram9pbnQtdCIgdHlwZT0ic2xpZGUiIGxpbWl0ZWQ9J2ZhbHNlJyBwb3M9IjAgMCAwIgogICAgICAgICAgICAgICAgICAgYXhpcz0iMSAwIDAgIgo=</text>
@@ -413,16 +413,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmdsZXNcPg==</last-search>
+      <last-search>touch_distance</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmdsZXNcPg==</last-pattern>
+      <last-pattern>touch_distance</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>next_ob</entry>
-        <entry>frame</entry>
         <entry>multiask</entry>
         <entry>multitask</entry>
         <entry>sample_Goal</entry>
@@ -441,6 +439,8 @@
         <entry>asdf</entry>
         <entry>slide</entry>
         <entry encoding="base64">XDxhbmdsZXNcPg==</entry>
+        <entry>reward</entry>
+        <entry>touch_distance</entry>
       </history-search>
       <history-cmd>
         <entry>102</entry>
