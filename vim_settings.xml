@@ -26,8 +26,10 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1523567002375">
         <mark key="'" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" timestamp="1524199440993">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" timestamp="1524208977141">
+        <mark key="'" line="83" column="12" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/test_render.py" timestamp="1524186033688">
         <mark key="'" line="6" column="10" />
@@ -76,6 +78,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" timestamp="1524208403143">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_ddpg.py" timestamp="1524028998191">
         <mark key="'" line="14" column="0" />
@@ -222,12 +229,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" timestamp="1523484231082">
-        <mark key="[" line="205" column="31" />
-        <mark key="]" line="205" column="32" />
-        <mark key="." line="205" column="32" />
-        <mark key="^" line="205" column="32" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_ddpg.py" timestamp="1524104339427">
         <mark key="'" line="82" column="12" />
         <mark key="[" line="83" column="0" />
@@ -247,6 +248,13 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" timestamp="1524209265825">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" timestamp="1523571825124">
         <mark key="'" line="0" column="0" />
@@ -281,11 +289,12 @@
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/gl/glshim.h" timestamp="1524193967006">
         <mark key="'" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" timestamp="1524207012138">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="43" />
+      <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" timestamp="1524209403995">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="$USER_HOME$/git/railrl/.gitignore" timestamp="1523400131791">
         <mark key="'" line="13" column="0" />
@@ -424,22 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="41" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="350" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="58" column="25" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/sac.py" />
-      <jump line="78" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/ddpg.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/td3.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_ddpg.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_sac.py" />
-      <jump line="4" column="48" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_td3.py" />
-      <jump line="82" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_ddpg.py" />
-      <jump line="117" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/td3.py" />
-      <jump line="111" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/ddpg.py" />
-      <jump line="96" column="29" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/sac.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="6" column="10" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/test_render.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/numpy/__init__.py" />
-      <jump line="89" column="37" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
       <jump line="60" column="25" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
       <jump line="72" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
       <jump line="289" column="17" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
@@ -516,7 +509,6 @@
       <jump line="249" column="23" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/launchers/launcher_util.py" />
       <jump line="490" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/launchers/launcher_util.py" />
       <jump line="119" column="4" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/launchers/launcher_util.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/launcher.py" />
       <jump line="16" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/config.py" />
       <jump line="19" column="7" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/config.py" />
       <jump line="53" column="8" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/launcher.py" />
@@ -524,63 +516,77 @@
       <jump line="187" column="13" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/launcher.py" />
       <jump line="10" column="10" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/test_doodad.py" />
       <jump line="50" column="16" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/launcher.py" />
+      <jump line="4" column="35" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="25" column="7" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" />
+      <jump line="15" column="14" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/launcher.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="6" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="13" column="32" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="83" column="12" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>br</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHByaW50KCdmb28nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>br</text>
+        <text>true_img</text>
       </register>
       <register name="/" type="4">
-        <text>use_gpu</text>
+        <text>def read</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZWxsbyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidHJ1ZSBpbWc6IikKICAgICAgICBwcmludCh0cnVlX2ltZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHByaW50KCdmb28nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBneW0uZW52cy5tdWpvY28gaW1wb3J0IEhhbGZDaGVldGFoRW52Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZWxsbyIpCg==</text>
+        <text encoding="base64">ZnJvbSBtdWpvY29fdG9yY2guY29yZS5icmlkZ2UgaW1wb3J0IE1qQ3VkYVJlbmRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmcm9tIG11am9jb190b3JjaC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgcnVuX2V4cGVyaW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHljdWRhLmRyaXZlciBhcyBjdWRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZWxvIikK</text>
+        <text encoding="base64">ZnJvbSBtdWpvY29fdG9yY2guY29yZS5icmlkZ2UgaW1wb3J0IE1qQ3VkYVJlbmRlcgpmcm9tIG11am9jb190b3JjaC5kb29kYWQubGF1bmNoZXIgaW1wb3J0ICBydW5fZXhwZXJpbWVudAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZWxsbyIpCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5Y3VkYS5kcml2ZXIgYXMgY3VkYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">R1BVX0RPT0RBRF9ET0NLRVJfSU1BR0UgPSAndml0Y2h5ci9yYWlscmwtdml0Y2h5ci1ncHUnCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtdWpvY29fcHkgYXMgbXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>use_gpu</last-search>
+      <last-search>def read</last-search>
       <last-offset />
-      <last-pattern>use_gpu</last-pattern>
+      <last-pattern>def read</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNalJlbmRlckNvbnRleHRPZmZzY3JlZW5cPg==</entry>
-        <entry encoding="base64">XDxyZWFkXD4=</entry>
-        <entry encoding="base64">XDxfY3VkYV9yZ2JfcHRyXD4=</entry>
         <entry>def map</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxtYWtlX2NvbnRleHRcPg==</entry>
@@ -598,6 +604,9 @@
         <entry>DOCKER</entry>
         <entry>ipdb</entry>
         <entry>use_gpu</entry>
+        <entry>unmap</entry>
+        <entry>read()</entry>
+        <entry>def read</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
@@ -610,15 +619,15 @@
         <entry>34</entry>
         <entry>w'</entry>
         <entry>165</entry>
-        <entry>vsp</entry>
         <entry>288</entry>
         <entry>242</entry>
         <entry>66</entry>
         <entry>147</entry>
-        <entry>q</entry>
         <entry>532</entry>
         <entry>542</entry>
         <entry>bp|bd #</entry>
+        <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
