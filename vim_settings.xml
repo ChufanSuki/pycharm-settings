@@ -20,8 +20,12 @@
         <mark key="^" line="100" column="61" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" timestamp="1524197983834">
-        <mark key="'" line="167" column="8" />
+      <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" timestamp="1524264298130">
+        <mark key="'" line="54" column="34" />
+        <mark key="[" line="40" column="94" />
+        <mark key="]" line="40" column="93" />
+        <mark key="^" line="40" column="93" />
+        <mark key="." line="40" column="93" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1523567002375">
         <mark key="'" line="33" column="17" />
@@ -50,6 +54,13 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/tmp.py" timestamp="1524264276005">
+        <mark key="'" line="29" column="25" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="29" column="59" />
       </file>
       <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1524200747794">
         <mark key="'" line="450" column="40" />
@@ -434,13 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="35" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
-      <jump line="90" column="30" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
-      <jump line="15" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/td3.py" />
-      <jump line="5" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" />
-      <jump line="14" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="32" column="13" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="27" column="30" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
       <jump line="10" column="14" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/__init__.py" />
       <jump line="14" column="23" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
       <jump line="82" column="36" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
@@ -534,16 +538,23 @@
       <jump line="132" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="243" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
       <jump line="167" column="34" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/git/railrl/tmp.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/__init__.py" />
+      <jump line="25" column="30" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
+      <jump line="150" column="38" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
+      <jump line="195" column="75" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
+      <jump line="36" column="28" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
+      <jump line="54" column="34" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHByaW50KCdmb28nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>true_img</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>Proxy</text>
+        <text>self._cam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgidHJ1ZSBpbWc6IikKICAgICAgICBwcmludCh0cnVlX2ltZykK</text>
@@ -580,17 +591,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Proxy</last-search>
+      <last-search>self._cam</last-search>
       <last-offset />
-      <last-pattern>Proxy</last-pattern>
+      <last-pattern>self._cam</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry encoding="base64">XDxtYWtlX2NvbnRleHRcPg==</entry>
-        <entry encoding="base64">XDxDVURBX0VOQUJMRV9HTFw+</entry>
         <entry>read_pixels</entry>
         <entry encoding="base64">XDxyZWFkX3BpeGVsc1w+</entry>
         <entry>rgb_img</entry>
@@ -608,6 +616,9 @@
         <entry>read()</entry>
         <entry>def read</entry>
         <entry>Proxy</entry>
+        <entry>camera_name</entry>
+        <entry>name</entry>
+        <entry>self._cam</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
