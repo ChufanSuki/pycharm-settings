@@ -51,6 +51,9 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" timestamp="1524189780336">
+        <mark key="'" line="97" column="29" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/test_render.py" timestamp="1524186033688">
         <mark key="'" line="6" column="10" />
         <mark key="[" line="32" column="22" />
@@ -339,19 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="10" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="14" column="29" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test.py" />
-      <jump line="0" column="25" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test.py" />
-      <jump line="162" column="19" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="216" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="227" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="44" column="22" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/railrl/railrl/samplers/util.py" />
-      <jump line="13" column="49" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" />
-      <jump line="69" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
-      <jump line="366" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="37" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="169" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="337" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -439,6 +429,19 @@
       <jump line="40" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="6" column="10" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/test_render.py" />
       <jump line="198" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/numpy/__init__.py" />
+      <jump line="89" column="37" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="60" column="25" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="86" column="11" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="92" column="8" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="272" column="20" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="232" column="17" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="93" column="8" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="289" column="17" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="109" column="38" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="99" column="35" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="90" column="30" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
+      <jump line="97" column="29" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -448,7 +451,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmFtZV9za2lwXD4=</text>
+        <text encoding="base64">XDxSZWdpc3RlcmVkQnVmZmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICdzYXd5ZXItc2ltLXB1c2gteHktc3RhdGUtZWFzaWVyJwo=</text>
@@ -485,20 +488,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmFtZV9za2lwXD4=</last-search>
+      <last-search encoding="base64">XDxSZWdpc3RlcmVkQnVmZmVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmFtZV9za2lwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSZWdpc3RlcmVkQnVmZmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reset</entry>
-        <entry>mocap</entry>
-        <entry>action</entry>
-        <entry>anfles =</entry>
-        <entry>angles</entry>
-        <entry encoding="base64">ICA=</entry>
         <entry encoding="base64">ICAg</entry>
         <entry>asdf</entry>
         <entry>sample</entry>
@@ -513,6 +510,12 @@
         <entry>env_kwa</entry>
         <entry encoding="base64">XDxvbmx5X3Jld2FyZF9ibG9ja190b19nb2FsXD4=</entry>
         <entry encoding="base64">XDxmcmFtZV9za2lwXD4=</entry>
+        <entry>dr</entry>
+        <entry>drv</entry>
+        <entry encoding="base64">XDxfY3VkYV9yZ2JfcHRyXD4=</entry>
+        <entry>ptr</entry>
+        <entry encoding="base64">XDxfY3VkYV9yZ2JfcGJvXD4=</entry>
+        <entry encoding="base64">XDxSZWdpc3RlcmVkQnVmZmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
