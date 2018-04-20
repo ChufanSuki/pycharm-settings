@@ -26,6 +26,7 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/half_cheetah.py" timestamp="1523567002375">
         <mark key="'" line="33" column="17" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" timestamp="1524256869424" />
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" timestamp="1524208977141">
         <mark key="'" line="83" column="12" />
         <mark key="[" line="39" column="0" />
@@ -308,8 +309,8 @@
         <mark key="[" line="534" column="0" />
         <mark key="]" line="539" column="40" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1523468889726">
-        <mark key="'" line="6" column="34" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1524256976312">
+        <mark key="'" line="167" column="34" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_sac.py" timestamp="1524022126984">
         <mark key="'" line="6" column="19" />
@@ -433,10 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="25" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
-      <jump line="72" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
-      <jump line="289" column="17" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
-      <jump line="109" column="38" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
       <jump line="99" column="35" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
       <jump line="90" column="30" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
       <jump line="15" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/td3.py" />
@@ -533,6 +530,10 @@
       <jump line="10" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
       <jump line="17" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
+      <jump line="285" column="40" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="132" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="243" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
+      <jump line="167" column="34" filename="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -542,7 +543,7 @@
         <text>true_img</text>
       </register>
       <register name="/" type="4">
-        <text>def read</text>
+        <text>Proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgidHJ1ZSBpbWc6IikKICAgICAgICBwcmludCh0cnVlX2ltZykK</text>
@@ -579,15 +580,14 @@
       </register>
     </registers>
     <search>
-      <last-search>def read</last-search>
+      <last-search>Proxy</last-search>
       <last-offset />
-      <last-pattern>def read</last-pattern>
+      <last-pattern>Proxy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>def map</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxtYWtlX2NvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxDVURBX0VOQUJMRV9HTFw+</entry>
@@ -607,6 +607,7 @@
         <entry>unmap</entry>
         <entry>read()</entry>
         <entry>def read</entry>
+        <entry>Proxy</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
