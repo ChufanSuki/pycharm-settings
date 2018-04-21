@@ -130,6 +130,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/policies/state_distance.py" timestamp="1524276463029">
+        <mark key="[" line="664" column="0" />
+        <mark key="]" line="664" column="0" />
+        <mark key="." line="664" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" timestamp="1524193437335">
         <mark key="'" line="5" column="36" />
       </file>
@@ -221,9 +226,11 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/__init__.py" timestamp="1524193448266">
         <mark key="'" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1524274878444">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="110" />
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1524276918798">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="77" />
+        <mark key="^" line="23" column="156" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/sac.py" timestamp="1524001829493">
         <mark key="'" line="52" column="0" />
@@ -252,6 +259,10 @@
         <mark key="]" line="75" column="43" />
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/cheetah_results.py" timestamp="1524277013773">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="142" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test.py" timestamp="1524087544950">
         <mark key="'" line="0" column="25" />
@@ -331,11 +342,12 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" timestamp="1524275720591">
+      <file name="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" timestamp="1524276342835">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="45" />
+        <mark key="." line="39" column="45" />
+        <mark key="^" line="39" column="45" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/test_doodad.py" timestamp="1524206723343">
         <mark key="'" line="10" column="10" />
@@ -529,7 +541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCgo=</text>
+        <text encoding="base64">IyBvdXJfcGF0aCA9ICIvaG9tZS92aXRjaHlyL2dpdC9ybGxhYi1yYWlsL3JhaWxybC9kYXRhL2xvY2FsLzEwLTI2LXNkcWwtY2hlZXRhaC14dmVsLzEwLTI2LXNkcWwtY2hlZXRhaC14dmVsXzIwMTdfMTBfMjZfMTZfMTFfNDJfMDAwMC0tcy01MDExLyIK</text>
       </register>
       <register name="-" type="4">
         <text>ip</text>
@@ -541,31 +553,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgidHJ1ZSBpbWc6IikKICAgICAgICBwcmludCh0cnVlX2ltZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCgo=</text>
+        <text encoding="base64">IyBNYWtlIHN1cmUgdG8gbG9hZCBkYXRhWydleHBsb3JhdGlvbl9wb2xpY3knXS5wb2xpY3kgYW5kIG5vdCBkYXRhWydwb2xpY3knXS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHByaW50KCdmb28nKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBneW0uZW52cy5tdWpvY28gaW1wb3J0IEhhbGZDaGVldGFoRW52Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtdWpvY29fdG9yY2guY29yZS5icmlkZ2UgaW1wb3J0IE1qQ3VkYVJlbmRlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBvbGljeSA9IGRhdGFbJ2V4cGxvcmF0aW9uX3BvbGljeSddCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHByaW50KCdmb28nKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHljdWRhLmRyaXZlciBhcyBjdWRhCg==</text>
+        <text encoding="base64">ZnJvbSBneW0uZW52cy5tdWpvY28gaW1wb3J0IEhhbGZDaGVldGFoRW52Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtdWpvY29fdG9yY2guY29yZS5icmlkZ2UgaW1wb3J0IE1qQ3VkYVJlbmRlcgpmcm9tIG11am9jb190b3JjaC5kb29kYWQubGF1bmNoZXIgaW1wb3J0ICBydW5fZXhwZXJpbWVudAoK</text>
+        <text encoding="base64">ZnJvbSBtdWpvY29fdG9yY2guY29yZS5icmlkZ2UgaW1wb3J0IE1qQ3VkYVJlbmRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHB5Y3VkYS5kcml2ZXIgYXMgY3VkYQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHljdWRhLmRyaXZlciBhcyBjdWRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
