@@ -247,8 +247,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1524376877230">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1524378376410">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_td3.py" timestamp="1524104326234">
         <mark key="'" line="4" column="48" />
@@ -418,7 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
       <jump line="573" column="9" filename="$USER_HOME$/git/mujoco-py/mujoco_py/pxd/mujoco.pxd" />
       <jump line="170" column="24" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
       <jump line="168" column="46" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" />
@@ -518,6 +517,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" />
       <jump line="15" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/ant.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -527,7 +527,7 @@
         <text>0.5</text>
       </register>
       <register name="/" type="4">
-        <text>camera</text>
+        <text>origin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnZpZXdlci5jYW0uZGlzdGFuY2UgPSBzZWxmLm1vZGVsLnN0YXQuZXh0ZW50ICogMC41Cg==</text>
@@ -564,15 +564,14 @@
       </register>
     </registers>
     <search>
-      <last-search>camera</last-search>
+      <last-search>origin</last-search>
       <last-offset />
-      <last-pattern>camera</last-pattern>
+      <last-pattern>origin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rgb_img</entry>
         <entry>cuda</entry>
         <entry>drv</entry>
         <entry encoding="base64">XDxfY3VkYV9jb250ZXh0XD4=</entry>
@@ -592,6 +591,7 @@
         <entry>self._cam</entry>
         <entry>timestep</entry>
         <entry>camera</entry>
+        <entry>origin</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
