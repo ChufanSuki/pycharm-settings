@@ -261,9 +261,6 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/3link_gripper_push_2d.xml" timestamp="1523571825124">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/docker/vendor/pycuda/setup.py" timestamp="1524197815165">
-        <mark key="'" line="81" column="16" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" timestamp="1524076495617">
         <mark key="'" line="29" column="26" />
         <mark key="[" line="29" column="60" />
@@ -277,9 +274,6 @@
         <mark key="]" line="100" column="28" />
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl/Dockerfile" timestamp="1524073155059">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/gl/glshim.h" timestamp="1524193967006">
         <mark key="'" line="0" column="8" />
@@ -301,8 +295,10 @@
       <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1524201684746">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/core.py" timestamp="1524362198717">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/core.py" timestamp="1524362805509">
         <mark key="'" line="46" column="10" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_sac.py" timestamp="1524022126984">
         <mark key="'" line="6" column="19" />
@@ -394,9 +390,6 @@
         <mark key="." line="53" column="20" />
         <mark key="^" line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjsim.pyx" timestamp="1524195803871">
-        <mark key="'" line="150" column="37" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_td3.py" timestamp="1523565433789">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="72" column="0" />
@@ -407,9 +400,6 @@
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_env.py" timestamp="1524022677064">
         <mark key="'" line="200" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/td3.py" timestamp="1524185949493">
-        <mark key="'" line="119" column="16" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/config.py" timestamp="1524201805729">
         <mark key="'" line="19" column="7" />
@@ -522,8 +512,8 @@
       <jump line="46" column="10" filename="$USER_HOME$/git/railrl/railrl/torch/core.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zdGF0ZV9kaWN0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -532,7 +522,7 @@
         <text>self._cam</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zdGF0ZV9kaWN0KCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBNYWtlIHN1cmUgdG8gbG9hZCBkYXRhWydleHBsb3JhdGlvbl9wb2xpY3knXS5wb2xpY3kgYW5kIG5vdCBkYXRhWydwb2xpY3knXS4K</text>
