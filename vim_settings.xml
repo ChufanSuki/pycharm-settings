@@ -304,8 +304,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1524378376410">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1524605951177">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_ddpg.py" timestamp="1524104339427">
         <mark key="'" line="82" column="12" />
@@ -467,12 +469,12 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1524519725655">
-        <mark key="'" line="168" column="46" />
-        <mark key="[" line="209" column="72" />
-        <mark key="]" line="209" column="72" />
-        <mark key="." line="209" column="72" />
-        <mark key="^" line="209" column="72" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1524606025486">
+        <mark key="'" line="183" column="30" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_sac.py" timestamp="1523565998050">
         <mark key="'" line="77" column="8" />
@@ -512,17 +514,14 @@
         <mark key="]" line="38" column="52" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" timestamp="1524537167248">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-        <mark key="^" line="31" column="58" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" timestamp="1524606266480">
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="35" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
-      <jump line="25" column="7" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
       <jump line="14" column="8" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
       <jump line="14" column="16" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" />
@@ -620,63 +619,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/viskit/viskit/core.py" />
       <jump line="10" column="54" filename="$USER_HOME$/git/viskit/viskit/core.py" />
       <jump line="415" column="55" filename="$USER_HOME$/git/viskit/viskit/frontend.py" />
+      <jump line="182" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="32" column="26" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ext\.</text>
+        <text>integrator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGZsYXR0ZW4oeHMpOgogICAgcmV0dXJuIFt4IGZvciB5IGluIHhzIGZvciB4IGluIHldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdGhyZWFkaW5nLCB3ZWJicm93c2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5taXNjIGltcG9ydCBleHQK</text>
+        <text encoding="base64">IyBpbXBvcnQgdGhyZWFkaW5nLCB3ZWJicm93c2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAppbXBvcnQgcGlja2xlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBpbXBvcnQgaXB5d2lkZ2V0cwojIGltcG9ydCBJUHl0aG9uLmRpc3BsYXkKIyBpbXBvcnQgcGxvdGx5Lm9mZmxpbmUgYXMgcG8KIyBpbXBvcnQgcGxvdGx5LmdyYXBoX29ianMgYXMgZ28KaW1wb3J0IHBkYgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQXR0ckRpY3QoZGljdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzdXBlcihBdHRyRGljdCwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuX19kaWN0X18gPSBzZWxmCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5taXNjLmV4dCBpbXBvcnQgZmxhdHRlbgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBybGxhYi5taXNjIGltcG9ydCBleHQK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAppbXBvcnQgcGlja2xlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBpbXBvcnQgaXB5d2lkZ2V0cwojIGltcG9ydCBJUHl0aG9uLmRpc3BsYXkKIyBpbXBvcnQgcGxvdGx5Lm9mZmxpbmUgYXMgcG8KIyBpbXBvcnQgcGxvdGx5LmdyYXBoX29ianMgYXMgZ28KaW1wb3J0IHBkYgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgQXR0ckRpY3QoZGljdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzdXBlcihBdHRyRGljdCwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuX19kaWN0X18gPSBzZWxmCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBybGxhYi5taXNjLmV4dCBpbXBvcnQgZmxhdHRlbgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhdHRybmFtZSA9PSAnX3dyYXBwZWRfZW52JzoKICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcHJpbnQoc2VsZikKICAgICAgICAgICAgcHJpbnQodHlwZShzZWxmKSkKICAgICAgICAgICAgcHJpbnQoImRvb28iKQogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHByaW50KGF0dHJuYW1lKQo=</text>
+        <text encoding="base64">ZnJvbSBybGxhYi5taXNjIGltcG9ydCBleHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgQXR0cmlidXRlRXJyb3IoJ193cmFwcGVkX2VudicpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhdHRybmFtZSA9PSAnX3dyYXBwZWRfZW52JzoKICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcHJpbnQoc2VsZikKICAgICAgICAgICAgcHJpbnQodHlwZShzZWxmKSkKICAgICAgICAgICAgcHJpbnQoImRvb28iKQogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHByaW50KGF0dHJuYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ext\.</last-search>
+      <last-search>integrator</last-search>
       <last-offset />
-      <last-pattern>ext\.</last-pattern>
+      <last-pattern>integrator</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>self._cam</entry>
-        <entry>timestep</entry>
         <entry>origin</entry>
         <entry encoding="base64">XDxzYW1wbGVfZ29hbF94eXpcPg==</entry>
         <entry>def sample_goal_xyz</entry>
@@ -694,6 +694,8 @@
         <entry>flatten(</entry>
         <entry>def flatten</entry>
         <entry>ext\.</entry>
+        <entry>timestep</entry>
+        <entry>integrator</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
