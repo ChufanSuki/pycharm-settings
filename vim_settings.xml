@@ -304,8 +304,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1524605951177">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" timestamp="1524608672413">
+        <mark key="'" line="11" column="10" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="45" />
       </file>
@@ -469,11 +469,11 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1524606025486">
-        <mark key="'" line="183" column="30" />
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" timestamp="1524608683020">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
         <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/nips2018/pusher2d_state/her_sac.py" timestamp="1523565998050">
@@ -514,18 +514,13 @@
         <mark key="]" line="38" column="52" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" timestamp="1524606266480">
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" timestamp="1524608795940">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="8" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" />
-      <jump line="14" column="16" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_doodad.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" />
       <jump line="15" column="14" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" />
       <jump line="44" column="4" filename="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/doodad/launcher.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git/mujoco-py/mujoco_py/mjbatchrenderer.pyx" />
@@ -622,61 +617,64 @@
       <jump line="182" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
       <jump line="32" column="26" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
+      <jump line="44" column="60" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="11" column="10" filename="$USER_HOME$/git/railrl/railrl/envs/assets/low_gear_ratio_ant.xml" />
+      <jump line="171" column="39" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25bMF0gPSAtMQogICAgICAgIGFjdGlvblsxXSA9IC0xCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>integrator</text>
+        <text>solimp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZsYXR0ZW4oeHMpOgogICAgcmV0dXJuIFt4IGZvciB5IGluIHhzIGZvciB4IGluIHldCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25bMF0gPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25bMF0gPSAtMQogICAgICAgIGFjdGlvblsxXSA9IC0xCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdGhyZWFkaW5nLCB3ZWJicm93c2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5taXNjIGltcG9ydCBleHQK</text>
+        <text encoding="base64">IyBpbXBvcnQgdGhyZWFkaW5nLCB3ZWJicm93c2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAppbXBvcnQgcGlja2xlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBpbXBvcnQgaXB5d2lkZ2V0cwojIGltcG9ydCBJUHl0aG9uLmRpc3BsYXkKIyBpbXBvcnQgcGxvdGx5Lm9mZmxpbmUgYXMgcG8KIyBpbXBvcnQgcGxvdGx5LmdyYXBoX29ianMgYXMgZ28KaW1wb3J0IHBkYgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQXR0ckRpY3QoZGljdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzdXBlcihBdHRyRGljdCwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuX19kaWN0X18gPSBzZWxmCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBybGxhYi5taXNjLmV4dCBpbXBvcnQgZmxhdHRlbgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBybGxhYi5taXNjIGltcG9ydCBleHQK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAppbXBvcnQgcGlja2xlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBpbXBvcnQgaXB5d2lkZ2V0cwojIGltcG9ydCBJUHl0aG9uLmRpc3BsYXkKIyBpbXBvcnQgcGxvdGx5Lm9mZmxpbmUgYXMgcG8KIyBpbXBvcnQgcGxvdGx5LmdyYXBoX29ianMgYXMgZ28KaW1wb3J0IHBkYgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQXR0ckRpY3QoZGljdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzdXBlcihBdHRyRGljdCwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuX19kaWN0X18gPSBzZWxmCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBybGxhYi5taXNjLmV4dCBpbXBvcnQgZmxhdHRlbgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhdHRybmFtZSA9PSAnX3dyYXBwZWRfZW52JzoKICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcHJpbnQoc2VsZikKICAgICAgICAgICAgcHJpbnQodHlwZShzZWxmKSkKICAgICAgICAgICAgcHJpbnQoImRvb28iKQogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHByaW50KGF0dHJuYW1lKQo=</text>
+        <text encoding="base64">ZnJvbSBybGxhYi5taXNjIGltcG9ydCBleHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>integrator</last-search>
+      <last-search>solimp</last-search>
       <last-offset />
-      <last-pattern>integrator</last-pattern>
+      <last-pattern>solimp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self._cam</entry>
         <entry>origin</entry>
         <entry encoding="base64">XDxzYW1wbGVfZ29hbF94eXpcPg==</entry>
         <entry>def sample_goal_xyz</entry>
@@ -696,6 +694,7 @@
         <entry>ext\.</entry>
         <entry>timestep</entry>
         <entry>integrator</entry>
+        <entry>solimp</entry>
       </history-search>
       <history-cmd>
         <entry>500</entry>
