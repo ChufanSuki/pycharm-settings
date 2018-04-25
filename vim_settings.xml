@@ -73,6 +73,13 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1524627915002">
+        <mark key="'" line="416" column="45" />
+        <mark key="[" line="416" column="12" />
+        <mark key="]" line="416" column="12" />
+        <mark key="." line="416" column="12" />
+        <mark key="^" line="423" column="26" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" timestamp="1524074410939">
         <mark key="'" line="26" column="29" />
         <mark key="[" line="86" column="0" />
@@ -472,18 +479,15 @@
         <mark key="^" line="262" column="103" />
         <mark key="." line="263" column="77" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" timestamp="1524623423359">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-        <mark key="^" line="59" column="33" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" timestamp="1524627762520">
+        <mark key="'" line="43" column="17" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="73" column="52" />
+        <mark key="." line="73" column="52" />
+        <mark key="^" line="73" column="52" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/sac.py" />
-      <jump line="17" column="11" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/ddpg.py" />
-      <jump line="393" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="428" column="23" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="6" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap.xml" />
       <jump line="73" column="26" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/ddpg.py" />
@@ -493,7 +497,6 @@
       <jump line="40" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_kitchen.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/kitchen/sawyer_kitchen.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="38" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="34" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_kitchen.py" />
       <jump line="9" column="68" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_kitchen.py" />
@@ -581,62 +584,64 @@
       <jump line="184" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="215" column="34" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="95" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="43" column="17" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/test_render.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
+      <jump line="416" column="45" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkX3B5dG9yaGMgPSBzdXBvZXI5KS4K</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>char_to_action.get(char, None)</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfcXBvc1w+</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjdGlvbiA9IGNoYXJfdG9fYWN0aW9uLmdldChjaGFyLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWzAuMiwgMC43LCAwLjAyXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkX3B5dG9yaGMgPSBzdXBvZXI5KS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWzAuMiwgMC43LCAwLjAyXSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBkX3B5dG9yaGMgPSBzdXBvZXI5KS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEuc2V0X21wCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWN0aW9uID0gbnAuYXJyYXkoWzAgLCAwICwgMCAsIDBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEuc2V0X21wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBucC5hcnJheShbMCAsIDAgLCAwICwgMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWN0aW9uID0gbnAuYXJyYXkoWzAgLCAwICwgMCAsIDBdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBweWdhbWUuY2UK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBucC5hcnJheShbMCAsIDAgLCAwICwgMF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBub3QgZXZlbnRfaGFwcGVuZWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBweWdhbWUuY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ3aG9vcCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBub3QgZXZlbnRfaGFwcGVuZWQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIm5vcGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ3aG9vcCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfcXBvc1w+</last-search>
+      <last-search>e</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfcXBvc1w+</last-pattern>
+      <last-pattern>e</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drawer</entry>
-        <entry>Drawer</entry>
         <entry>def _get_ob</entry>
         <entry>doorjoint</entry>
         <entry>qpos</entry>
@@ -655,6 +660,8 @@
         <entry>distance</entry>
         <entry>get_qpos</entry>
         <entry encoding="base64">XDxnZXRfcXBvc1w+</entry>
+        <entry>init_angle</entry>
+        <entry>e</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
