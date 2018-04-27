@@ -41,12 +41,12 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" timestamp="1524847209414">
-        <mark key="'" line="47" column="15" />
-        <mark key="[" line="176" column="44" />
-        <mark key="]" line="176" column="46" />
-        <mark key="^" line="176" column="46" />
-        <mark key="." line="176" column="46" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" timestamp="1524848901199">
+        <mark key="'" line="185" column="9" />
+        <mark key="[" line="180" column="65" />
+        <mark key="]" line="180" column="68" />
+        <mark key="^" line="180" column="68" />
+        <mark key="." line="180" column="68" />
       </file>
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/mjrendercontext.pyx" timestamp="1524541392327">
         <mark key="'" line="54" column="34" />
@@ -109,11 +109,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1524846802996">
-        <mark key="'" line="50" column="13" />
-        <mark key="[" line="149" column="46" />
-        <mark key="]" line="149" column="46" />
-        <mark key="." line="149" column="46" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1524848828149">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="143" column="47" />
+        <mark key="]" line="144" column="8" />
+        <mark key="." line="144" column="8" />
+        <mark key="^" line="144" column="8" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1524796149253">
         <mark key="'" line="553" column="12" />
@@ -567,15 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="36" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
-      <jump line="124" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sim_vae_policy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sim_vae_policy.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sim_vae_policy.py" />
-      <jump line="3" column="38" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sim_vae_policy.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
-      <jump line="479" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="83" column="21" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
-      <jump line="390" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="73" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="498" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -649,7 +641,6 @@
       <jump line="154" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="31" column="22" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="7" column="4" filename="$USER_HOME$/git/railrl/railrl/misc/asset_loader.py" />
-      <jump line="56" column="27" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
       <jump line="9" column="23" filename="$USER_HOME$/git/railrl/railrl/misc/asset_loader.py" />
       <jump line="148" column="26" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
       <jump line="162" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
@@ -664,43 +655,53 @@
       <jump line="159" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="149" column="45" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="115" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="40" column="80" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="50" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/Dockerfile" />
+      <jump line="56" column="14" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="233" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="141" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="272" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="144" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="67" column="44" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
+      <jump line="157" column="9" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
+      <jump line="185" column="9" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/rl_with_pretrained_vae.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnZGV2LXJsLXdpdGgtcHJldHJhaW5lZC12YWUnCg==</text>
+      <register name="&quot;" type="4">
+        <text>toggle-goal-sync-to-tmp-5'</text>
       </register>
       <register name="-" type="4">
-        <text>-ld'</text>
+        <text>toggle-goal-sync-to-tmp-5'</text>
       </register>
       <register name="/" type="4">
-        <text>torch</text>
+        <text>track_qpos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnZGV2LXJsLXdpdGgtcHJldHJhaW5lZC12YWUnCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb252ZXJ0X29ic190b19nb2FscyhzZWxmLCBvYnMpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbW9kZSA9ICdsb2NhbF9kb2NrZXInCg==</text>
+        <text encoding="base64">CiAgICBkZWYgY29udmVydF9vYnNfdG9fZ29hbHMoc2VsZiwgb2JzKToKICAgICAgICBwYXNzCiAgICAKICAgIEBwcm9wZXJ0eQogICAgZGVmIGdvYWxfZGltKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlX3ZhZV9nb2Fscz1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICMgbW9kZSA9ICdsb2NhbF9kb2NrZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVzZV92YWVfZ29hbHMgPSB1c2VfdmFlX2dvYWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlX3ZhZV9nb2Fscz1GYWxzZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4dHJhX2RhdGEgPSBqb2JsaWIubG9hZChleHRyYV9kYXRhX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZV92YWVfZ29hbHMgPSB1c2VfdmFlX2dvYWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">ICAgIGV4dHJhX2RhdGEgPSBqb2JsaWIubG9hZChleHRyYV9kYXRhX3BhdGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VfdmFlX29icz1UcnVlLAogICAgICAgIHVzZV92YWVfcmV3YXJkPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>$USER_HOME$/git/railrl/data/local/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VfdmFlX29icz1UcnVlLAogICAgICAgIHVzZV92YWVfcmV3YXJkPVRydWUsCg==</text>
       </register>
       <register name="8" type="8">
         <text>$USER_HOME$/git/railrl/data/local/</text>
@@ -713,16 +714,14 @@
       </register>
     </registers>
     <search>
-      <last-search>torch</last-search>
+      <last-search>track_qpos</last-search>
       <last-offset />
-      <last-pattern>torch</last-pattern>
+      <last-pattern>track_qpos</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
-        <entry>def step</entry>
         <entry>action_space</entry>
         <entry>ipdb</entry>
         <entry>print</entry>
@@ -741,6 +740,8 @@
         <entry>use_env_goals</entry>
         <entry>use_vae_goals</entry>
         <entry>torch</entry>
+        <entry>self.vae</entry>
+        <entry>track_qpos</entry>
       </history-search>
       <history-cmd>
         <entry>bp|bd #</entry>
