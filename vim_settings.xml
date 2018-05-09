@@ -309,6 +309,12 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/__init__.py" timestamp="1524193448266">
         <mark key="'" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/git/rlkit/examples/sac.py" timestamp="1525818175382">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/builder.py" timestamp="1523567386631">
         <mark key="'" line="455" column="10" />
       </file>
@@ -359,12 +365,12 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="50" column="23" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_mocap.xml" timestamp="1525844019721">
-        <mark key="'" line="230" column="28" />
-        <mark key="[" line="228" column="32" />
-        <mark key="]" line="228" column="32" />
-        <mark key="^" line="228" column="32" />
-        <mark key="." line="228" column="32" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_mocap.xml" timestamp="1525885993060">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="231" column="33" />
+        <mark key="]" line="231" column="33" />
+        <mark key="^" line="231" column="33" />
+        <mark key="." line="231" column="33" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/state_distance/baselines/ddpg.py" timestamp="1524540100346">
         <mark key="'" line="1" column="0" />
@@ -453,11 +459,10 @@
         <mark key="^" line="21" column="50" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/her_td3.py" timestamp="1525849293034">
-        <mark key="'" line="27" column="23" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="0" />
-        <mark key="^" line="62" column="33" />
+        <mark key="^" line="61" column="33" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1525849714926">
         <mark key="'" line="37" column="8" />
@@ -613,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="11" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/test_render.py" />
       <jump line="80" column="43" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/keyboard_control.py" />
       <jump line="93" column="20" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/keyboard_control.py" />
       <jump line="94" column="20" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/keyboard_control.py" />
@@ -713,6 +717,7 @@
       <jump line="337" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
       <jump line="88" column="22" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
       <jump line="675" column="70" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_mocap.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -722,7 +727,7 @@
         <text>ob</text>
       </register>
       <register name="/" type="4">
-        <text>computer</text>
+        <text>box</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoYW5kX3h5ID0gbmV4dF9vYls6Ml0K</text>
@@ -759,15 +764,14 @@
       </register>
     </registers>
     <search>
-      <last-search>computer</last-search>
+      <last-search>box</last-search>
       <last-offset />
-      <last-pattern>computer</last-pattern>
+      <last-pattern>box</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJfZHVyaW5nX2V2YWxcPg==</entry>
         <entry>blockbox</entry>
         <entry>blocxk</entry>
         <entry>block</entry>
@@ -787,6 +791,7 @@
         <entry>compute_rew</entry>
         <entry>ipdb</entry>
         <entry>computer</entry>
+        <entry>box</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
