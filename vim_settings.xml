@@ -102,8 +102,8 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526102415686">
-        <mark key="'" line="154" column="30" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526149070144">
+        <mark key="'" line="203" column="57" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="^" line="203" column="59" />
@@ -252,7 +252,7 @@
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/pxd/mujoco.pxd" timestamp="1524193616732">
         <mark key="'" line="573" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" timestamp="1526115811966">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" timestamp="1526149008553">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="48" />
@@ -450,8 +450,8 @@
         <mark key="." line="81" column="22" />
         <mark key="^" line="81" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1526117135940">
-        <mark key="'" line="125" column="22" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1526149055514">
+        <mark key="'" line="137" column="39" />
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="35" />
         <mark key="." line="28" column="35" />
@@ -657,13 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="45" column="35" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/keyboard_control.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="229" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="341" column="56" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="346" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="174" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="348" column="3" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="339" column="14" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
@@ -757,6 +750,13 @@
       <jump line="80" column="23" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_push_and_reach_easy/vae_dense.py" />
       <jump line="45" column="15" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push_and_reach/her_td3.py" />
       <jump line="69" column="34" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_push_and_reach_easy/vae_dense.py" />
+      <jump line="59" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" />
+      <jump line="137" column="39" filename="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" />
+      <jump line="104" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="154" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="188" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="191" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="203" column="57" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -766,7 +766,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>training_mode</text>
+        <text>sample_goal_for_rollout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICB2YXJpYW50WydyZXBsYXlfYnVmZmVyX2t3YXJncyddWydmcmFjdGlvbl9nb2Fsc19hcmVfcm9sbG91dF9nb2FscyddID09IDEuMAogICAgICAgICAgICAgICAgYW5kIHZhcmlhbnRbJ3JlcGxheV9idWZmZXJfa3dhcmdzJ11bJ2ZyYWN0aW9uX2dvYWxzX2FyZV9lbnZfZ29hbHMnXSA9PSAwLjUKICAgICAgICApOgogICAgICAgICAgICAjIHJlZHVuZGFudAogICAgICAgICAgICBjb250aW51ZQo=</text>
@@ -799,13 +799,13 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>training_mode</last-search>
+      <last-search>sample_goal_for_rollout</last-search>
       <last-offset />
-      <last-pattern>training_mode</last-pattern>
+      <last-pattern>sample_goal_for_rollout</last-pattern>
       <last-replace>puck</last-replace>
       <last-substitute>block</last-substitute>
       <last-dir>1</last-dir>
@@ -813,7 +813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def reset</entry>
         <entry encoding="base64">XDxzYW1wbGVfcHVja194eVw+</entry>
         <entry>def sample_blo</entry>
         <entry>shaped</entry>
@@ -833,6 +832,7 @@
         <entry>use_env_goals</entry>
         <entry encoding="base64">XDx1c2VfdmFlX2dvYWxzXD4=</entry>
         <entry>training_mode</entry>
+        <entry>sample_goal_for_rollout</entry>
       </history-search>
       <history-cmd>
         <entry>352</entry>
@@ -851,10 +851,10 @@
         <entry>154</entry>
         <entry>w'</entry>
         <entry>2w</entry>
-        <entry>vsp</entry>
         <entry>splt</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
