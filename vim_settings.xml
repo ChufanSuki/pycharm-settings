@@ -102,12 +102,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526149070144">
+      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526154628889">
         <mark key="'" line="203" column="57" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
+        <mark key="[" line="203" column="80" />
+        <mark key="]" line="203" column="81" />
         <mark key="^" line="203" column="59" />
-        <mark key="." line="170" column="0" />
+        <mark key="." line="203" column="80" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1526115840024">
         <mark key="'" line="34" column="37" />
@@ -776,11 +776,11 @@
       <jump line="53" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogbWF5YmUgdGFrZSBpbiBwYXRoIHRvIGFuIGVudiBpbiB0aGUgdmFyaWFudCBkaXJlY3RseQo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sample_goal_for_rollout</text>
