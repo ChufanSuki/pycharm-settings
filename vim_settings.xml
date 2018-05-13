@@ -102,12 +102,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526185587146">
-        <mark key="'" line="143" column="36" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="283" column="24" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526188207756">
+        <mark key="'" line="282" column="31" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="290" column="41" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1526115840024">
         <mark key="'" line="34" column="37" />
@@ -259,12 +259,12 @@
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/pxd/mujoco.pxd" timestamp="1524193616732">
         <mark key="'" line="573" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" timestamp="1526186287884">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="54" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="18" column="54" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" timestamp="1526188237245">
+        <mark key="'" line="69" column="24" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="55" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1524795852459">
         <mark key="'" line="18" column="8" />
@@ -463,8 +463,8 @@
         <mark key="." line="81" column="22" />
         <mark key="^" line="81" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1526184398488">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1526187906137">
+        <mark key="'" line="54" column="30" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -678,14 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/keyboard_control.py" />
-      <jump line="258" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/keyboard_control.py" />
-      <jump line="18" column="41" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push_and_reach/her_td3.py" />
-      <jump line="192" column="46" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="142" column="55" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap_goal_hidden.xml" />
       <jump line="28" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
       <jump line="53" column="45" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
       <jump line="12" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
@@ -745,11 +737,9 @@
       <jump line="258" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="152" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="268" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="68" column="21" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="148" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="140" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="272" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="265" column="18" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="280" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="281" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
@@ -777,56 +767,66 @@
       <jump line="89" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="143" column="36" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="722" column="24" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" />
+      <jump line="54" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" />
+      <jump line="267" column="18" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="272" column="48" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="19" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" />
+      <jump line="69" column="24" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reach/vae_dense.py" />
+      <jump line="243" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="283" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXJlYWNoLXZhZS1ybC1sb2ctcHJvYi1yZXdhcmRzJwo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXJlYWNoLXZhZS1ybC1sb2ctcHJvYi1yZXdhcmRzLTInCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, None],</text>
       </register>
       <register name="/" type="4">
-        <text>logbar</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAncmRpbSc6IFsyLCA0LCA4LCAxNl0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgPSBucC5leHAocHR1LmdldF9udW1weShsb2d2YXIpLmZsYXR0ZW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9ndmFyX25wID0gcHR1LmdldF9udQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5yZXdhcmRfdHlwZSA9PSAic3BhcnNlIjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9ndmFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJld2FyZCA9IC1kaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX3ZpZGVvPUZhbHNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnVzZV92YWVfcmV3YXJkOgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLndyYXBwZWRfZW52LmNvbXB1dGVfaGVyX3Jld2FyZF9ucCgKICAgICAgICAgICAgICAgIG9ic2VydmF0aW9uLAogICAgICAgICAgICAgICAgYWN0aW9uLAogICAgICAgICAgICAgICAgbmV4dF9vYnNlcnZhdGlvbiwKICAgICAgICAgICAgICAgIGdvYWwsCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gVmFyaWFibGUocHR1LmZyb21fbnVtcHkob2JzZXJ2YXRpb24pKQogICAgICAgICAgICBpZiBwdHUuZ3B1X2VuYWJsZWQoKToKICAgICAgICAgICAgICAgIHNlbGYudmFlLmN1ZGEoKQogICAgICAgICAgICBtdSwgbG9ndmFyID0gc2VsZi52YWUuZW5jb2RlKGltZykKICAgICAgICAgICAgb2JzZXJ2YXRpb24gPSBwdHUuZ2V0X251bXB5KG11KS5mbGF0dGVuKCkKICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgPSBucC5leHAocHR1LmdldF9udW1weShsb2d2YXIpLmZsYXR0ZW4oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ndmFyX25wID0gcHR1LmdldF9udQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ndmFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logbar</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>logbar</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>puck</last-replace>
       <last-substitute>block</last-substitute>
       <last-dir>1</last-dir>
@@ -834,8 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>min_num</entry>
-        <entry>init_cam</entry>
         <entry>camera_name</entry>
         <entry>init_ca</entry>
         <entry>viewier</entry>
@@ -854,6 +852,8 @@
         <entry>self._actions</entry>
         <entry>save_video</entry>
         <entry>logbar</entry>
+        <entry>reward_params</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
