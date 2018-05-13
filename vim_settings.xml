@@ -81,12 +81,6 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.txt" timestamp="1523404113255">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" timestamp="1524073411592">
         <mark key="'" line="47" column="5" />
         <mark key="[" line="90" column="0" />
@@ -108,11 +102,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526176716229">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="^" line="280" column="24" />
-        <mark key="." line="281" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1526182075690">
+        <mark key="'" line="183" column="8" />
+        <mark key="[" line="271" column="23" />
+        <mark key="]" line="272" column="36" />
+        <mark key="^" line="272" column="36" />
+        <mark key="." line="272" column="36" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" timestamp="1526115840024">
         <mark key="'" line="34" column="37" />
@@ -178,12 +173,6 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.dev.txt" timestamp="1523399102407">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/point2d_with_pretrained_vae.py" timestamp="1524692713068">
         <mark key="'" line="0" column="0" />
@@ -460,12 +449,6 @@
       <file name="$USER_HOME$/git/mujoco-py/mujoco_py/gl/glshim.h" timestamp="1524193967006">
         <mark key="'" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_easy_env.py" timestamp="1526108420152">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="74" />
-        <mark key="^" line="15" column="74" />
-        <mark key="." line="15" column="74" />
-      </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" timestamp="1524209403995">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="26" column="0" />
@@ -583,12 +566,6 @@
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v3/Dockerfile" timestamp="1524863810080">
         <mark key="'" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/nips2018/sawyer_sim_state/td3.py" timestamp="1523566055607">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch_env.py" timestamp="1525821222399">
         <mark key="'" line="172" column="14" />
         <mark key="[" line="25" column="100" />
@@ -616,12 +593,6 @@
         <mark key="]" line="92" column="46" />
         <mark key="." line="92" column="46" />
         <mark key="^" line="92" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_env.py" timestamp="1524085728351">
-        <mark key="[" line="85" column="28" />
-        <mark key="]" line="85" column="28" />
-        <mark key="^" line="85" column="28" />
-        <mark key="." line="85" column="28" />
       </file>
       <file name="$USER_HOME$/git/rlkit/docker/rlkit_gpu/Dockerfile" timestamp="1525819508669">
         <mark key="'" line="47" column="0" />
@@ -703,9 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="38" column="31" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="347" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
       <jump line="36" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
       <jump line="181" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="159" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
@@ -803,19 +771,22 @@
       <jump line="265" column="18" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="280" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="281" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="127" column="32" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="183" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvWyJ2YWVfbWRpc3QiXSA9IG1kaXN0CiAgICAgICAgaW5mb1sidmFlX3N1Y2Nlc3MiXSA9IDEgaWYgbWRpc3QgPCBzZWxmLmVwc2lsb24gZWxzZSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gVmFyaWFibGUocHR1LmZyb21fbnVtcHkob2JzZXJ2YXRpb24pKQogICAgICAgICAgICBpZiBwdHUuZ3B1X2VuYWJsZWQoKToKICAgICAgICAgICAgICAgIHNlbGYudmFlLmN1ZGEoKQogICAgICAgICAgICBtdSwgbG9ndmFyID0gc2VsZi52YWUuZW5jb2RlKGltZykKICAgICAgICAgICAgb2JzZXJ2YXRpb24gPSBwdHUuZ2V0X251bXB5KG11KS5mbGF0dGVuKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>vae_goal</text>
+        <text>observation</text>
       </register>
       <register name="/" type="4">
-        <text>mdist</text>
+        <text>logvar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzdCA9IHNlbGYudmFlX2dvYWwgLSBvYnNlcnZhdGlvbgogICAgICAgICAgICB2YXIgPSBucC5leHAocHR1LmdldF9udW1weShsb2d2YXIpLmZsYXR0ZW4oKSkKICAgICAgICAgICAgZXJyID0gZGlzdCAqIGRpc3QgLyAyIC8gdmFyCiAgICAgICAgICAgIG1kaXN0ID0gbnAuc3VtKGVycikgIyBtYWhhbGFub2JpcyBkaXN0YW5jZQogICAgICAgICAgICBpZiBzZWxmLnJld2FyZF90eXBlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByZXdhcmQgPSAtbWRpc3QKICAgICAgICAgICAgZWxpZiBzZWxmLnJld2FyZF90eXBlID09ICJzcGFyc2UiOgogICAgICAgICAgICAgICAgcmV3YXJkID0gMCBpZiBtZGlzdCA8IHNlbGYuZXBzaWxvbiBlbHNlIC0xCiAgICAgICAgICAgIGluZm9bInZhZV9tZGlzdCJdID0gbWRpc3QKICAgICAgICAgICAgaW5mb1sidmFlX3N1Y2Nlc3MiXSA9IDEgaWYgbWRpc3QgPCBzZWxmLmVwc2lsb24gZWxzZSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gVmFyaWFibGUocHR1LmZyb21fbnVtcHkob2JzZXJ2YXRpb24pKQogICAgICAgICAgICBpZiBwdHUuZ3B1X2VuYWJsZWQoKToKICAgICAgICAgICAgICAgIHNlbGYudmFlLmN1ZGEoKQogICAgICAgICAgICBtdSwgbG9ndmFyID0gc2VsZi52YWUuZW5jb2RlKGltZykKICAgICAgICAgICAgb2JzZXJ2YXRpb24gPSBwdHUuZ2V0X251bXB5KG11KS5mbGF0dGVuKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbmZvWyJ2YWVfbWRpc3QiXSA9IG1kaXN0CiAgICAgICAgaW5mb1sidmFlX3N1Y2Nlc3MiXSA9IDEgaWYgbWRpc3QgPCBzZWxmLmVwc2lsb24gZWxzZSAwCg==</text>
@@ -849,9 +820,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mdist</last-search>
+      <last-search>logvar</last-search>
       <last-offset />
-      <last-pattern>mdist</last-pattern>
+      <last-pattern>logvar</last-pattern>
       <last-replace>puck</last-replace>
       <last-substitute>block</last-substitute>
       <last-dir>1</last-dir>
@@ -859,8 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shaped</entry>
-        <entry>success</entry>
         <entry>Should</entry>
         <entry>RK4</entry>
         <entry encoding="base64">XDxtaW5fbnVtX3N0ZXBzX2JlZm9yZV90cmFpbmluZ1w+</entry>
@@ -879,6 +848,8 @@
         <entry>sample_goal_for_rollout</entry>
         <entry>reward =</entry>
         <entry>mdist</entry>
+        <entry>log_pro</entry>
+        <entry>logvar</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
