@@ -357,11 +357,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_td3.py" timestamp="1526329688914">
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="76" column="47" />
-        <mark key="^" line="76" column="47" />
-        <mark key="." line="76" column="47" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_td3.py" timestamp="1526329795453">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="11" />
+        <mark key="^" line="84" column="11" />
+        <mark key="." line="84" column="11" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push_and_reach/keyboard_control.py" timestamp="1526110231312">
         <mark key="'" line="50" column="0" />
@@ -692,12 +693,12 @@
         <mark key="." line="53" column="20" />
         <mark key="^" line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" timestamp="1526329635660">
-        <mark key="'" line="113" column="12" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" timestamp="1526329805510">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="23" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="56" column="23" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/ashvin/vae/fixed3/pusher2d/vae_dense2.py" timestamp="1525933111678">
         <mark key="'" line="73" column="18" />
@@ -736,8 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="17" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
-      <jump line="160" column="12" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
       <jump line="157" column="12" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
       <jump line="139" column="22" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
       <jump line="138" column="24" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
@@ -836,46 +835,48 @@
       <jump line="124" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" />
       <jump line="1" column="39" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" />
       <jump line="113" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_td3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>example-7dof-reacher&quot;</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>example-7dof-reacher&quot;</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>TdmDdpg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxZjE9cWYxLAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9U2F3eWVyWFlFbnYsCiAgICAgICAgZW52X2t3YXJncz1kaWN0KAogICAgICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRkbVRkMwo=</text>
+        <text encoding="base64">ICAgIGVudiA9IE5vcm1hbGl6ZWRCb3hFbnYoUmVhY2hlcjdEb2ZHb2FsU3RhdGVFdmVyeXRoaW5nKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKG5fc2VlZHMpOgogICAgICAgIHJ1bl9leHBlcmltZW50KAogICAgICAgICAgICBleHBlcmltZW50LAogICAgICAgICAgICBtb2RlPW1vZGUsCiAgICAgICAgICAgIGV4cF9wcmVmaXg9ZXhwX3ByZWZpeCwKICAgICAgICAgICAgdmFyaWFudD12YXJpYW50LAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIFRkbVRkMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5fc2VlZHMgPSAxCiAgICBtb2RlID0gJ2xvY2FsJwogICAgZXhwX3ByZWZpeCA9ICdkZXYnCgogICAgbl9zZWVkcyA9IDMKICAgIG1vZGUgPSAnZWMyJwogICAgZXhwX3ByZWZpeCA9ICduYW1lJwo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKG5fc2VlZHMpOgogICAgICAgIHJ1bl9leHBlcmltZW50KAogICAgICAgICAgICBleHBlcmltZW50LAogICAgICAgICAgICBtb2RlPW1vZGUsCiAgICAgICAgICAgIGV4cF9wcmVmaXg9ZXhwX3ByZWZpeCwKICAgICAgICAgICAgdmFyaWFudD12YXJpYW50LAogICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG5fc2VlZHMgPSAxCiAgICBtb2RlID0gJ2xvY2FsJwogICAgZXhwX3ByZWZpeCA9ICdkZXYnCgogICAgbl9zZWVkcyA9IDMKICAgIG1vZGUgPSAnZWMyJwogICAgZXhwX3ByZWZpeCA9ICduYW1lJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJhaWxybC5taXNjLmh5cGVycGFyYW1ldGVyIGFzIGh5cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwuc3RhdGVfZGlzdGFuY2UudGRtX3RkMyBpbXBvcnQgVGRtVGQzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJhaWxybC5taXNjLmh5cGVycGFyYW1ldGVyIGFzIGh5cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwuc3RhdGVfZGlzdGFuY2UudGRtX3RkMyBpbXBvcnQgVGRtVGQzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByYWlscmwuZW52cy5tdWx0aXRhc2sucmVhY2hlcl83ZG9mIGltcG9ydCAoCiAgICBSZWFjaGVyN0RvZkdvYWxTdGF0ZUV2ZXJ5dGhpbmcsCiAgICBSZWFjaGVyN0RvZkZ1bGxHb2FsLAopCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRkbVRkMwo=</text>
+        <text encoding="base64">ZnJvbSByYWlscmwuZW52cy5tdWx0aXRhc2sucmVhY2hlcl83ZG9mIGltcG9ydCAoCiAgICBSZWFjaGVyN0RvZkdvYWxTdGF0ZUV2ZXJ5dGhpbmcsCiAgICBSZWFjaGVyN0RvZkZ1bGxHb2FsLAopCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
