@@ -165,10 +165,10 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1526419891893">
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" timestamp="1526421837063">
         <mark key="'" line="118" column="41" />
-        <mark key="[" line="717" column="0" />
-        <mark key="]" line="717" column="75" />
+        <mark key="[" line="702" column="25" />
+        <mark key="]" line="702" column="51" />
         <mark key="." line="716" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" timestamp="1526361987570">
@@ -938,8 +938,8 @@
       <jump line="79" column="32" filename="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3Jld2FyZCA9IHNlbGYucmV3YXJkX3NjYWxlICogc2VsZi5lbnYuY29tcHV0ZV9oZXJfcmV3YXJkX25wKAo=</text>
+      <register name="&quot;" type="4">
+        <text>num_goals_are_from_rollout]</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
