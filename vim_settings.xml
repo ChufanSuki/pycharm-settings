@@ -217,12 +217,12 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/plots/plot_sim_sawyer_reach.py" timestamp="1526328429655">
-        <mark key="'" line="46" column="39" />
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="41" />
-        <mark key="." line="46" column="41" />
-        <mark key="^" line="46" column="41" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/plots/plot_sim_sawyer_reach.py" timestamp="1526349457834">
+        <mark key="'" line="13" column="39" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5/requirements.dev.txt" timestamp="1523399102407">
         <mark key="[" line="0" column="0" />
@@ -828,7 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" />
       <jump line="122" column="54" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" />
       <jump line="341" column="21" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" />
       <jump line="96" column="56" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" />
@@ -928,55 +927,58 @@
       <jump line="237" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
       <jump line="19" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque_goal_hidden.xml" />
       <jump line="61" column="9" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_torque_reach/her_td3.py" />
+      <jump line="13" column="39" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/plots/plot_sim_sawyer_reach.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnZnVsbC1zdGF0ZS1zYXd5ZXItdG9ycXVlLXJlYWNoJwo=</text>
+      <register name="&quot;" type="8">
+        <text>rithm
+rithm</text>
       </register>
       <register name="-" type="4">
-        <text>0.5,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>def step</text>
+        <text>state_trials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMC41LAo=</text>
+        <text encoding="base64">ICAgICdhbGdvcml0aG1fa3dhcmdzLmJhc2Vfa3dhcmdzLm51bV91cGRhdGVzX3Blcl9lbnZfc3RlcCc6IDEwLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVudl9jbGFzcz1TYXd5ZXJSZWFjaFhZRW52LAo=</text>
+      <register name="1" type="8">
+        <text>rithm
+rithm</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9U2F3eWVyUmVhY2hUb3JxdWVFbnYsCg==</text>
+        <text encoding="base64">ICAgICAgICBhLnQubWF4X3RhdT01JzoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYWN0aW9uX3NwYWNlID0gQm94KAogICAgICAgICMgICAgIG5wLmFycmF5KFstMSwgLTEsIC0xXSksCiAgICAgICAgIyAgICAgbnAuYXJyYXkoWzEsIDEsIDFdKSwKICAgICAgICAjICkKCiAgICAgICAgIyBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KAogICAgICAgICMgICAgIG5wLmhzdGFjaygoc2VsZi5vYnNlcnZhdGlvbl9zcGFjZS5sb3csIG5wLmFycmF5KFstMC4yLCAwLjUsIDBdKSkpLAogICAgICAgICMgICAgIG5wLmhzdGFjaygoc2VsZi5vYnNlcnZhdGlvbl9zcGFjZS5oaWdoLCBucC5hcnJheShbMC4yLCAwLjcsIDAuNV0pKSksCiAgICAgICAgIyApCg==</text>
+        <text encoding="base64">ICAgIGdyb3VwIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2V0X3RvX2dvYWwoc2VsZiwgZ29hbCk6CiAgICAgICAgc2VsZi5fc2V0X2hhbmRfeHl6KGdvYWwpCgogICAgZGVmIF9zZXRfaGFuZF94eXooc2VsZiwgeHl6KToKICAgICAgICBmb3IgXyBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcG9zKCdtb2NhcCcsIG5wLmFycmF5KHh5eikpCiAgICAgICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcXVhdCgnbW9jYXAnLCBucC5hcnJheShbMSwgMCwgMSwgMF0pKQogICAgICAgICAgICB1ID0gbnAuemVyb3MoNykKICAgICAgICAgICAgc2VsZi5kb19zaW11bGF0aW9uKHUsIHNlbGYuZnJhbWVfc2tpcCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGVudl9jbGFzcz1TYXd5ZXJSZWFjaFhZRW52LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNsYXNzIFNhd3llclJlYWNoWFlFbnYoU2F3eWVyUmVhY2hYWVpFbnYpOgogICAgIiIiCiAgICBPbmx5IG1vdmUgYWxvbmcgWFktYXhpcy4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgc2VsZi5xdWlja19pbml0KGxvY2FscygpKQogICAgICAgIHN1cGVyKCkuX19pbml0X18oKiprd2FyZ3MpCgogICAgICAgIHNlbGYuYWN0aW9uX3NwYWNlID0gQm94KAogICAgICAgICAgICBucC5hcnJheShbLTEsIC0xXSksCiAgICAgICAgICAgIG5wLmFycmF5KFsxLCAxXSksCiAgICAgICAgKQoKICAgIGRlZiBzYW1wbGVfZ29hbF94eXooc2VsZik6CiAgICAgICAgcG9zID0gbnAucmFuZG9tLnVuaWZvcm0oCiAgICAgICAgICAgIG5wLmFycmF5KFstMC4xLCAwLjUsIDAuMDJdKSwKICAgICAgICAgICAgbnAuYXJyYXkoWzAuMSwgMC43LCAwLjAyXSksCiAgICAgICAgKQogICAgICAgIHJldHVybiBwb3MKCiAgICBkZWYgc3RlcChzZWxmLCBhKToKICAgICAgICBhID0gbnAuY2xpcChhLCAtMSwgMSkKICAgICAgICBtb2NhcF9kZWx0YV96ID0gMC4wNiAtIHNlbGYuZGF0YS5tb2NhcF9wb3NbMCwgMl0KICAgICAgICBuZXdfbW9jYXBfYWN0aW9uID0gbnAuaHN0YWNrKCgKICAgICAgICAgICAgYSwKICAgICAgICAgICAgbnAuYXJyYXkoW21vY2FwX2RlbHRhX3pdKQogICAgICAgICkpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuc3RlcChuZXdfbW9jYXBfYWN0aW9uKQoKICAgIGRlZiBtb2NhcF9zZXRfYWN0aW9uKHNlbGYsIGFjdGlvbiwgcmVsYXRpdmU9VHJ1ZSk6CiAgICAgICAgcG9zX2RlbHRhID0gYWN0aW9uW05vbmVdCgogICAgICAgIGlmIHJlbGF0aXZlOgogICAgICAgICAgICBzZWxmLnJlc2V0X21vY2FwMmJvZHlfeHBvcygpCiAgICAgICAgICAgIG5ld19tb2NhcF9wb3MgPSBzZWxmLmRhdGEubW9jYXBfcG9zICsgcG9zX2RlbHRhCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV3X21vY2FwX3BvcyA9IHBvc19kZWx0YQogICAgICAgIG5ld19tb2NhcF9wb3NbMCwgMF0gPSBucC5jbGlwKAogICAgICAgICAgICBuZXdfbW9jYXBfcG9zWzAsIDBdLAogICAgICAgICAgICAtMC4xLAogICAgICAgICAgICAwLjEsCiAgICAgICAgKQogICAgICAgIG5ld19tb2NhcF9wb3NbMCwgMV0gPSBucC5jbGlwKAogICAgICAgICAgICBuZXdfbW9jYXBfcG9zWzAsIDFdLAogICAgICAgICAgICAtMC4xICsgMC42LAogICAgICAgICAgICAwLjEgKyAwLjYsCiAgICAgICAgICAgICkKICAgICAgICBuZXdfbW9jYXBfcG9zWzAsIDJdID0gbnAuY2xpcCgKICAgICAgICAgICAgMC4wNiwKICAgICAgICAgICAgMCwKICAgICAgICAgICAgMC41LAogICAgICAgICkKICAgICAgICBzZWxmLmRhdGEuc2V0X21vY2FwX3BvcygnbW9jYXAnLCBuZXdfbW9jYXBfcG9zKQogICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcXVhdCgnbW9jYXAnLCBucC5hcnJheShbMSwgMCwgMSwgMF0pKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZfY2xhc3M9U2F3eWVyUmVhY2hUb3JxdWVFbnYsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2V0X21vY2FwX3dlbGRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYWN0aW9uX3NwYWNlID0gQm94KAogICAgICAgICMgICAgIG5wLmFycmF5KFstMSwgLTEsIC0xXSksCiAgICAgICAgIyAgICAgbnAuYXJyYXkoWzEsIDEsIDFdKSwKICAgICAgICAjICkKCiAgICAgICAgIyBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KAogICAgICAgICMgICAgIG5wLmhzdGFjaygoc2VsZi5vYnNlcnZhdGlvbl9zcGFjZS5sb3csIG5wLmFycmF5KFstMC4yLCAwLjUsIDBdKSkpLAogICAgICAgICMgICAgIG5wLmhzdGFjaygoc2VsZi5vYnNlcnZhdGlvbl9zcGFjZS5oaWdoLCBucC5hcnJheShbMC4yLCAwLjcsIDAuNV0pKSksCiAgICAgICAgIyApCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNldF9tb2NhcF93ZWxkcyhzZWxmKToKICAgICAgICAiIiJSZXNldHMgdGhlIG1vY2FwIHdlbGRzIHRoYXQgd2UgdXNlIGZvciBhY3R1YXRpb24uIiIiCiAgICAgICAgc2ltID0gc2VsZi5zaW0KICAgICAgICBpZiBzaW0ubW9kZWwubm1vY2FwID4gMCBhbmQgc2ltLm1vZGVsLmVxX2RhdGEgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKHNpbS5tb2RlbC5lcV9kYXRhLnNoYXBlWzBdKToKICAgICAgICAgICAgICAgIGlmIHNpbS5tb2RlbC5lcV90eXBlW2ldID09IG11am9jb19weS5jb25zdC5FUV9XRUxEOgogICAgICAgICAgICAgICAgICAgIHNpbS5tb2RlbC5lcV9kYXRhW2ksIDpdID0gbnAuYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgIFswLiwgMC4sIDAuLCAxLiwgMC4sIDAuLCAwLl0pCiAgICAgICAgc2ltLmZvcndhcmQoKQoKICAgIGRlZiByZXNldF9tb2NhcDJib2R5X3hwb3Moc2VsZik6CiAgICAgICAgIyBtb3ZlIG1vY2FwIHRvIHdlbGQgam9pbnQKICAgICAgICBzZWxmLmRhdGEuc2V0X21vY2FwX3BvcygKICAgICAgICAgICAgJ21vY2FwJywKICAgICAgICAgICAgbnAuYXJyYXkoW3NlbGYuZGF0YS5ib2R5X3hwb3Nbc2VsZi5lbmRlZmZfaWRdXSksCiAgICAgICAgKQogICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcXVhdCgKICAgICAgICAgICAgJ21vY2FwJywKICAgICAgICAgICAgbnAuYXJyYXkoW3NlbGYuZGF0YS5ib2R5X3hxdWF0W3NlbGYuZW5kZWZmX2lkXV0pLAogICAgICAgICkKCiAgICBkZWYgbW9jYXBfc2V0X2FjdGlvbihzZWxmLCBhY3Rpb24sIHJlbGF0aXZlPVRydWUpOgogICAgICAgIHBvc19kZWx0YSA9IGFjdGlvbltOb25lXQoKICAgICAgICBpZiByZWxhdGl2ZToKICAgICAgICAgICAgc2VsZi5yZXNldF9tb2NhcDJib2R5X3hwb3MoKQogICAgICAgICAgICBuZXdfbW9jYXBfcG9zID0gc2VsZi5kYXRhLm1vY2FwX3BvcyArIHBvc19kZWx0YQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5ld19tb2NhcF9wb3MgPSBwb3NfZGVsdGEKICAgICAgICBuZXdfbW9jYXBfcG9zWzAsIDBdID0gbnAuY2xpcCgKICAgICAgICAgICAgbmV3X21vY2FwX3Bvc1swLCAwXSwKICAgICAgICAgICAgLTAuMSwKICAgICAgICAgICAgMC4xLAogICAgICAgICkKICAgICAgICBuZXdfbW9jYXBfcG9zWzAsIDFdID0gbnAuY2xpcCgKICAgICAgICAgICAgbmV3X21vY2FwX3Bvc1swLCAxXSwKICAgICAgICAgICAgLTAuMSArIDAuNiwKICAgICAgICAgICAgMC4xICsgMC42LAogICAgICAgICkKICAgICAgICBuZXdfbW9jYXBfcG9zWzAsIDJdID0gbnAuY2xpcCgKICAgICAgICAgICAgbmV3X21vY2FwX3Bvc1swLCAyXSwKICAgICAgICAgICAgMCwKICAgICAgICAgICAgMC41LAogICAgICAgICkKICAgICAgICBzZWxmLmRhdGEuc2V0X21vY2FwX3BvcygnbW9jYXAnLCBuZXdfbW9jYXBfcG9zKQogICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcXVhdCgnbW9jYXAnLCBucC5hcnJheShbMSwgMCwgMSwgMF0pKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgc2V0X3RvX2dvYWwoc2VsZiwgZ29hbCk6CiAgICAgICAgc2VsZi5fc2V0X2hhbmRfeHl6KGdvYWwpCgogICAgZGVmIF9zZXRfaGFuZF94eXooc2VsZiwgeHl6KToKICAgICAgICBmb3IgXyBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcG9zKCdtb2NhcCcsIG5wLmFycmF5KHh5eikpCiAgICAgICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcXVhdCgnbW9jYXAnLCBucC5hcnJheShbMSwgMCwgMSwgMF0pKQogICAgICAgICAgICB1ID0gbnAuemVyb3MoNykKICAgICAgICAgICAgc2VsZi5kb19zaW11bGF0aW9uKHUsIHNlbGYuZnJhbWVfc2tpcCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def step</last-search>
+      <last-search>state_trials</last-search>
       <last-offset />
-      <last-pattern>def step</last-pattern>
+      <last-pattern>state_trials</last-pattern>
       <last-replace>puck</last-replace>
       <last-substitute>block</last-substitute>
       <last-dir>1</last-dir>
@@ -984,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>velocities</entry>
         <entry>ipdb</entry>
         <entry>sample_goal_for_rollout</entry>
         <entry encoding="base64">XDxfc2V0X2hhbmRfeHl6XD4=</entry>
@@ -1004,6 +1005,7 @@
         <entry>BLOCK</entry>
         <entry>mocap</entry>
         <entry>def step</entry>
+        <entry>state_trials</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
