@@ -152,11 +152,11 @@
         <mark key="." line="276" column="0" />
         <mark key="^" line="597" column="3" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" timestamp="1526328524315">
-        <mark key="'" line="243" column="23" />
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="." line="281" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" timestamp="1526445202607">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="234" column="30" />
+        <mark key="]" line="234" column="31" />
+        <mark key="." line="234" column="31" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" timestamp="1524074410939">
         <mark key="'" line="26" column="29" />
@@ -267,8 +267,8 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" timestamp="1526361946104">
-        <mark key="'" line="199" column="4" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" timestamp="1526445143911">
+        <mark key="'" line="102" column="20" />
         <mark key="[" line="335" column="0" />
         <mark key="]" line="335" column="0" />
         <mark key="^" line="186" column="74" />
@@ -886,9 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="21" filename="$USER_HOME$/git/railrl/railrl/torch/vae/tdm_td3_vae_experiment.py" />
-      <jump line="596" column="3" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="151" column="10" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="444" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="531" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="132" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -986,6 +983,9 @@
       <jump line="291" column="23" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="81" column="23" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reacher/goal_conditioned_td3.py" />
+      <jump line="67" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
+      <jump line="102" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
+      <jump line="61" column="17" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -995,7 +995,7 @@
         <text>conditioned</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzXD4=</text>
+        <text>get_obs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAndGJkLWdvYWwtY29uZGl0aW9uZWQtdGQzLXNhd3llci1yZWFjaC12YWUtcmwnCg==</text>
@@ -1032,9 +1032,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzXD4=</last-search>
+      <last-search>get_obs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzXD4=</last-pattern>
+      <last-pattern>get_obs</last-pattern>
       <last-replace>td3</last-replace>
       <last-substitute>ddpg</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1042,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnb2FsX29ic1w+</entry>
         <entry>self.goal_decoded</entry>
         <entry>self.true_goal_obs</entry>
         <entry>def reset</entry>
@@ -1062,6 +1061,7 @@
         <entry>save_vid</entry>
         <entry>epsilon</entry>
         <entry encoding="base64">XDxmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzXD4=</entry>
+        <entry>get_obs</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
