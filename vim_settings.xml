@@ -10,11 +10,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/scripts/sim_policy.py" timestamp="1526418152691">
-        <mark key="'" line="56" column="15" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="26" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/sac.py" timestamp="1524104961898">
         <mark key="'" line="98" column="29" />
         <mark key="[" line="50" column="0" />
@@ -258,6 +253,11 @@
         <mark key="^" line="81" column="26" />
         <mark key="." line="81" column="26" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reach_from_vae.py" timestamp="1526277878363">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="62" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/mjviewer.py" timestamp="1523568839224">
         <mark key="'" line="33" column="56" />
         <mark key="[" line="24" column="0" />
@@ -347,10 +347,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" timestamp="1526418343291">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="46" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" timestamp="1526450122041">
+        <mark key="'" line="126" column="44" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="40" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push/ddpg.py" timestamp="1525848717780">
         <mark key="'" line="26" column="9" />
@@ -358,11 +358,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="59" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/state_distance/iclr2018/pusher_results.py" timestamp="1526238303869">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="82" column="9" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_td3.py" timestamp="1526329795453">
         <mark key="'" line="20" column="4" />
@@ -427,6 +422,11 @@
         <mark key="]" line="19" column="40" />
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/old/sawyer_push/keyboard_control.py" timestamp="1526332087908">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/resample_strategy_td3.py" timestamp="1526433921009">
         <mark key="[" line="19" column="0" />
@@ -543,6 +543,11 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1526254440208">
+        <mark key="'" line="300" column="27" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="358" column="71" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_push_new.py" timestamp="1526063179619">
         <mark key="'" line="13" column="41" />
@@ -791,7 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="531" column="9" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="132" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="57" column="21" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_torque_reach/tdm_td3.py" />
@@ -891,10 +895,11 @@
       <jump line="67" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="102" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="61" column="17" filename="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" />
+      <jump line="126" column="44" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAndGJkLWFibGF0aW9uLXJlc2FtcGxpbmctc3RyYXQtdGQzLXNhd3llci1yZWFjaC12YWUtcmwnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X3BvbGljeV9ub2lzZT0wLjIsCiAgICAgICAgICAgIHRhcmdldF9wb2xpY3lfbm9pc2VfY2xpcD0wLjUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>conditioned</text>
