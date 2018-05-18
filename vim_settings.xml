@@ -50,12 +50,12 @@
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/ae_vs_vae/ae.py" timestamp="1526611709221">
-        <mark key="'" line="62" column="21" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="75" column="30" />
-        <mark key="." line="75" column="30" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/ae_vs_vae/ae.py" timestamp="1526613390030">
+        <mark key="'" line="66" column="21" />
+        <mark key="[" line="64" column="20" />
+        <mark key="]" line="64" column="22" />
+        <mark key="^" line="64" column="22" />
+        <mark key="." line="64" column="22" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/test_render.py" timestamp="1524186033688">
         <mark key="'" line="6" column="10" />
@@ -228,6 +228,13 @@
         <mark key="]" line="89" column="51" />
         <mark key="^" line="65" column="26" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_reach_data.py" timestamp="1526613323789">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="30" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="47" column="21" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" timestamp="1526497184288">
         <mark key="'" line="126" column="44" />
@@ -532,12 +539,6 @@
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/td3.py" timestamp="1524185949493">
         <mark key="'" line="119" column="16" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/networks.py" timestamp="1526531919553">
-        <mark key="'" line="298" column="24" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/point2d.py" timestamp="1524636725538">
         <mark key="'" line="11" column="10" />
         <mark key="[" line="0" column="0" />
@@ -805,11 +806,12 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_reacher.py" timestamp="1526609843713">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_reacher.py" timestamp="1526613452288">
+        <mark key="'" line="12" column="49" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="51" />
+        <mark key="." line="45" column="51" />
+        <mark key="^" line="45" column="51" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" timestamp="1524209265825">
         <mark key="'" line="14" column="14" />
@@ -933,12 +935,6 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_gripper_mocap_goal_hidden.xml" timestamp="1526335916577">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="229" column="33" />
-        <mark key="]" line="229" column="34" />
-        <mark key="." line="229" column="34" />
-      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_torque_reach/tdm_td3.py" timestamp="1526362429925">
         <mark key="'" line="105" column="9" />
         <mark key="[" line="105" column="0" />
@@ -1029,8 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="61" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_pusher/reward_type/tdm_td3.py" />
-      <jump line="70" column="49" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_pusher/reward_type/her_td3.py" />
       <jump line="296" column="35" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="484" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="624" column="26" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
@@ -1129,55 +1123,57 @@
       <jump line="211" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="237" column="16" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="243" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="12" column="49" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_reacher.py" />
+      <jump line="44" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_reach_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAncmVhY2hlci1hZS12cy12YWUtdGVzdCcK</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXZhZS1yZWFjaGVyLXRyYWluLXdpdGgtMTAwJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
-        <text>use_vae_goals</text>
+        <text>dataset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlLmRhdGEudmlldyg2NCwgc2VsZi5pbnB1dF9jaGFubmVscywgc2VsZi5pbXNpemUsIHNlbGYuaW1zaXplKSwK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uPSdhZS0zMCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiLWJldGEtaXMtbm90LXplcm8vMDUtMTctc2F3eWVyLXZhZS1yZWFjaGVyLWJldGEtaXMtbm90IgogICAgICAgICAgICAgICItemVyb18yMDE4XzA1XzE3XzE4XzU5XzQwXzAwMDAtLXMtMTYwNC1yMTYvcGFyYW1zLnBrbCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2hvdzoKICAgICAgICAgICAgICAgIGN2Mi5pbXNob3coJ2ltZycsIGltZy5yZXNoYXBlKDMsIDg0LCA4NCkudHJhbnNwb3NlKCkpCiAgICAgICAgICAgICAgICBjdjIud2FpdEtleSgxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXZhZS1yZWFjaGVyLWJldGEtNScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiLWJldGEtaXMtbm90LXplcm8vMDUtMTctc2F3eWVyLXZhZS1yZWFjaGVyLWJldGEtaXMtbm90IgogICAgICAgICAgICAgICItemVyb18yMDE4XzA1XzE3XzE4XzU5XzQwXzAwMDAtLXMtMTYwNC1yMTYvcGFyYW1zLnBrbCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICB2YXJpYW50WydyZXBsYXlfa3dhcmdzJ11bJ2ZyYWN0aW9uX2dvYWxzX2FyZV9yb2xsb3V0X2dvYWxzJ10gPT0gMS4wCiAgICAgICAgICAgICAgICBhbmQgdmFyaWFudFsncmVwbGF5X2t3YXJncyddWydmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzJ10gPT0gMC41CiAgICAgICAgKToKICAgICAgICAgICAgIyByZWR1bmRhbnQgc2V0dGluZwogICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnc2F3eWVyLXZhZS1yZWFjaGVyLWJldGEtNScK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICB2YXJpYW50WydyZXBsYXlfa3dhcmdzJ11bJ2ZyYWN0aW9uX2dvYWxzX2FyZV9yb2xsb3V0X2dvYWxzJ10gPT0gMS4wCiAgICAgICAgICAgICAgICBhbmQgdmFyaWFudFsncmVwbGF5X2t3YXJncyddWydmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzJ10gPT0gMC41CiAgICAgICAgKToKICAgICAgICAgICAgIyByZWR1bmRhbnQgc2V0dGluZwogICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiLWJldGEtaXMtemVyby8wNS0xNy1zYXd5ZXItdmFlLXJlYWNoZXItYmV0YS1pcyIKICAgICAgICAgICAgICAiLXplcm9fMjAxOF8wNV8xN18xOF81OV8xNl8wMDAwLS1zLTkyNzYzLXIxNi9wYXJhbXMucGtsIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICB2YXJpYW50WydyZXBsYXlfa3dhcmdzJ11bJ2ZyYWN0aW9uX2dvYWxzX2FyZV9yb2xsb3V0X2dvYWxzJ10gPT0gMS4wCiAgICAgICAgICAgICAgICBhbmQgdmFyaWFudFsncmVwbGF5X2t3YXJncyddWydmcmFjdGlvbl9nb2Fsc19hcmVfZW52X2dvYWxzJ10gPT0gMC41CiAgICAgICAgKToKICAgICAgICAgICAgIyByZWR1bmRhbnQgc2V0dGluZwogICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICIyIjogIjA1LTExLXNhd3llci12YWUtcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzLzA1LTExLXNhd3llci12YWUiCiAgICAgICAgIyAgICAgICItcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzXzIwMThfMDVfMTFfMDFfMThfMDlfMDAwMC0tcy0zMzIzOS1yMiIKICAgICAgICAjICAgICAgIi9wYXJhbXMucGtsIiwKICAgICAgICAjICI0IjogIjA1LTExLXNhd3llci12YWUtcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzLzA1LTExLXNhd3llci12YWUiCiAgICAgICAgIyAgICAgICItcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzXzIwMThfMDVfMTFfMDFfMjFfNDdfMDAwMC0tcy03NDc0MS1yNCIKICAgICAgICAjICAgICAgIi9wYXJhbXMucGtsIiwKICAgICAgICAjICI4IjogIjA1LTExLXNhd3llci12YWUtcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzLzA1LTExLXNhd3llci12YWUiCiAgICAgICAgIyAgICAgICItcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzXzIwMThfMDVfMTFfMDFfMjVfMjJfMDAwMC0tcy04MjMyMi1yOCIKICAgICAgICAjICAgICAgIi9wYXJhbXMucGtsIiwKICAgICAgICAjICIxNiI6ICIwNS0xMS1zYXd5ZXItdmFlLXJlYWNoZXItcmVjcmVhdGUtcmVzdWx0cy8wNS0xMS1zYXd5ZXItdmFlIgogICAgICAgICMgICAgICAgIi1yZWFjaGVyLXJlY3JlYXRlLXJlc3VsdHNfMjAxOF8wNV8xMV8wMV8yOF81Ml8wMDAwLS1zLTU3MC1yMTYiCiAgICAgICAgIyAgICAgICAiL3BhcmFtcy5wa2wiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiLWJldGEtaXMtemVyby8wNS0xNy1zYXd5ZXItdmFlLXJlYWNoZXItYmV0YS1pcyIKICAgICAgICAgICAgICAiLXplcm9fMjAxOF8wNV8xN18xOF81OV8xNl8wMDAwLS1zLTkyNzYzLXIxNi9wYXJhbXMucGtsIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbnNvciA9IHNhbXBsZXMuY3B1KCkK</text>
+        <text encoding="base64">ICAgICAgICAjICIyIjogIjA1LTExLXNhd3llci12YWUtcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzLzA1LTExLXNhd3llci12YWUiCiAgICAgICAgIyAgICAgICItcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzXzIwMThfMDVfMTFfMDFfMThfMDlfMDAwMC0tcy0zMzIzOS1yMiIKICAgICAgICAjICAgICAgIi9wYXJhbXMucGtsIiwKICAgICAgICAjICI0IjogIjA1LTExLXNhd3llci12YWUtcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzLzA1LTExLXNhd3llci12YWUiCiAgICAgICAgIyAgICAgICItcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzXzIwMThfMDVfMTFfMDFfMjFfNDdfMDAwMC0tcy03NDc0MS1yNCIKICAgICAgICAjICAgICAgIi9wYXJhbXMucGtsIiwKICAgICAgICAjICI4IjogIjA1LTExLXNhd3llci12YWUtcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzLzA1LTExLXNhd3llci12YWUiCiAgICAgICAgIyAgICAgICItcmVhY2hlci1yZWNyZWF0ZS1yZXN1bHRzXzIwMThfMDVfMTFfMDFfMjVfMjJfMDAwMC0tcy04MjMyMi1yOCIKICAgICAgICAjICAgICAgIi9wYXJhbXMucGtsIiwKICAgICAgICAjICIxNiI6ICIwNS0xMS1zYXd5ZXItdmFlLXJlYWNoZXItcmVjcmVhdGUtcmVzdWx0cy8wNS0xMS1zYXd5ZXItdmFlIgogICAgICAgICMgICAgICAgIi1yZWFjaGVyLXJlY3JlYXRlLXJlc3VsdHNfMjAxOF8wNV8xMV8wMV8yOF81Ml8wMDAwLS1zLTU3MC1yMTYiCiAgICAgICAgIyAgICAgICAiL3BhcmFtcy5wa2wiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltLnNhdmUoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHRlbnNvciA9IHNhbXBsZXMuY3B1KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZT1ub3JtYWxpemUsIHJhbmdlPXJhbmdlLCBzY2FsZV9lYWNoPXNjYWxlX2VhY2gpCg==</text>
+        <text encoding="base64">ICAgIGltLnNhdmUoZmlsZW5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>use_vae_goals</last-search>
+      <last-search>dataset</last-search>
       <last-offset />
-      <last-pattern>use_vae_goals</last-pattern>
+      <last-pattern>dataset</last-pattern>
       <last-replace>td3</last-replace>
       <last-substitute>ddpg</last-substitute>
       <last-dir>1</last-dir>
@@ -1185,7 +1181,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_goal</entry>
         <entry>compute_her_re</entry>
         <entry>image_env_dict</entry>
         <entry>goal_dim</entry>
@@ -1205,6 +1200,7 @@
         <entry>train_mode</entry>
         <entry>mode</entry>
         <entry>use_vae_goals</entry>
+        <entry>dataset</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
