@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -32,6 +33,10 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="WelcomeScreen.OpenSelected">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="latex.align_center" />
   <action id="latex.align_left" />
   <action id="latex.align_right" />
