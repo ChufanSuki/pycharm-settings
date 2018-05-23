@@ -541,6 +541,13 @@
         <mark key="." line="53" column="20" />
         <mark key="^" line="53" column="7" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" timestamp="1527043245317">
+        <mark key="'" line="60" column="37" />
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="52" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/ashvin/vae/fixed3/pusher2d/vae_dense2.py" timestamp="1525933111678">
         <mark key="'" line="73" column="18" />
         <mark key="[" line="10" column="0" />
@@ -709,12 +716,12 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reset_free_push/grill.py" timestamp="1527034920532">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reset_free_push/grill.py" timestamp="1527043580994">
         <mark key="'" line="82" column="17" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="39" />
+        <mark key="^" line="66" column="39" />
+        <mark key="." line="66" column="39" />
       </file>
       <file name="$USER_HOME$/git/rlkit/README.md" timestamp="1525819924080">
         <mark key="'" line="45" column="0" />
@@ -753,10 +760,12 @@
       <file name="$USER_HOME$/git/railrl/experiments/ashvin/vae/fixed3/pusher2d/state_both.py" timestamp="1525849137295">
         <mark key="'" line="75" column="25" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" timestamp="1527029900611">
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" timestamp="1527043278077">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="346" column="0" />
-        <mark key="]" line="351" column="49" />
+        <mark key="[" line="303" column="13" />
+        <mark key="]" line="303" column="15" />
+        <mark key="." line="303" column="15" />
+        <mark key="^" line="303" column="15" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/pusher2d.py" timestamp="1524193437335">
         <mark key="'" line="5" column="36" />
@@ -886,11 +895,6 @@
         <mark key="]" line="75" column="43" />
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/old/sawyer_push/keyboard_control.py" timestamp="1527031262078">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/experiments/vitchyr/multitask.py" timestamp="1526335109675">
         <mark key="[" line="18" column="0" />
@@ -1151,9 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="22" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
-      <jump line="65" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
-      <jump line="95" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
       <jump line="208" column="18" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
       <jump line="24" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" />
       <jump line="300" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
@@ -1251,46 +1252,49 @@
       <jump line="125" column="33" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
       <jump line="130" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
       <jump line="14" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
+      <jump line="30" column="29" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" />
+      <jump line="37" column="23" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" />
+      <jump line="60" column="37" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFNhd3llclJlYWNoVG9ycXVlRW52KGhpZGVfZ29hbD1UcnVlKQogICAgIyBlbnYgPSBTYXd5ZXJSZWFjaFhZRW52KCkKICAgIGVudiA9IE11bHRpdGFza1RvRmxhdEVudihlbnYpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, 1e-4],</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>, 1e-4],</text>
       </register>
       <register name="/" type="4">
         <text>joint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVsb2NpdGllcyA9IHNlbGYuZGF0YS5xdmVsLmNvcHkoKQogICAgICAgICAgICBhbmdsZXMgPSBucC5hcnJheShzZWxmLmluaXRfYW5nbGVzKQogICAgICAgICAgICBzZWxmLnNldF9zdGF0ZShhbmdsZXMuZmxhdHRlbigpLCB2ZWxvY2l0aWVzLmZsYXR0ZW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3B1Y2tfZGlzdGFuY2UnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAncmVwbGF5X2t3YXJncy5mcmFjdGlvbl9yZXNhbXBsZWRfZ29hbHNfYXJlX2Vudl9nb2Fscyc6IFswLjVdLAogICAgICAgICdyZXBsYXlfa3dhcmdzLmZyYWN0aW9uX2dvYWxzX2FyZV9yb2xsb3V0X2dvYWxzJzogWzAuMl0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJhY3Rpb25fZ29hbHNfYXJlX2Vudl9nb2Fscz0wLjUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiLWVhc3ktM18yMDE4XzA1XzEyXzAyXzMzXzU0XzAwMDAtLXMtMTkzNy1yMTYvcGFyYW1zLnBrbCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlX29yYWNsZV92YWVfZGF0YXNldCg1MDAsIHVzZV9jYWNoZWQ9RmFsc2UsIHNob3c9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAncmVwbGF5X2t3YXJncy5mcmFjdGlvbl9yZXNhbXBsZWRfZ29hbHNfYXJlX2Vudl9nb2Fscyc6IFswLjVdLAogICAgICAgICdyZXBsYXlfa3dhcmdzLmZyYWN0aW9uX2dvYWxzX2FyZV9yb2xsb3V0X2dvYWxzJzogWzAuMl0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdlbmVyYXRlX29yYWNsZV92YWVfZGF0YXNldCgKICAgICAgICBOPTEwMDAwLCB0ZXN0X3A9MC45LCB1c2VfY2FjaGVkPVRydWUsIGltc2l6ZT04NCwgc2hvdz1GYWxzZSwKICAgICAgICBpbml0X2NhbWVyYT1zYXd5ZXJfaW5pdF9jYW1lcmFfem9vbWVkX2luLAogICAgICAgIGRhdGFzZXRfcGF0aD1Ob25lLAopOgogICAgIiIiCiAgICBPcmFjbGUgbWVhbnMgdGhhdCB3ZSB1c2UgYHNldF90b19nb2FsYCByYXRoZXIgdGhhbiBkb2luZyByYW5kb20gcm9sbG91dHMuCiAgICAiIiIKICAgIGZpbGVuYW1lID0gIi90bXAvb3JhY2xlX3Nhd3llcl9wdXNoX25ld19lYXN5e31fe30ubnB5Ii5mb3JtYXQoCiAgICAgICAgc3RyKE4pLAogICAgICAgIGluaXRfY2FtZXJhLl9fbmFtZV9fLAogICAgKQogICAgaW5mbyA9IHt9CiAgICBpZiBkYXRhc2V0X3BhdGggaXMgbm90IE5vbmU6CiAgICAgICAgZmlsZW5hbWUgPSBsb2NhbF9wYXRoX2Zyb21fczNfb3JfbG9jYWxfcGF0aChkYXRhc2V0X3BhdGgpCiAgICAgICAgZGF0YXNldCA9IG5wLmxvYWQoZmlsZW5hbWUpCiAgICAgICAgTiA9IGRhdGFzZXQuc2hhcGVbMF0KICAgIGVsaWYgdXNlX2NhY2hlZCBhbmQgb3NwLmlzZmlsZShmaWxlbmFtZSk6CiAgICAgICAgZGF0YXNldCA9IG5wLmxvYWQoZmlsZW5hbWUpCiAgICAgICAgcHJpbnQoImxvYWRlZCBkYXRhIGZyb20gc2F2ZWQgZmlsZSIsIGZpbGVuYW1lKQogICAgZWxzZToKICAgICAgICBub3cgPSB0aW1lLnRpbWUoKQogICAgICAgIGVudiA9IFNhd3llclB1c2hYWUVudihoaWRlX2dvYWw9VHJ1ZSkKICAgICAgICBlbnYgPSBJbWFnZU11am9jb0VudigKICAgICAgICAgICAgZW52LCBpbXNpemUsCiAgICAgICAgICAgIHRyYW5zcG9zZT1UcnVlLAogICAgICAgICAgICBpbml0X2NhbWVyYT1pbml0X2NhbWVyYSwKICAgICAgICAgICAgbm9ybWFsaXplPVRydWUsCiAgICAgICAgKQogICAgICAgIGluZm9bJ2VudiddID0gZW52CgogICAgICAgIGRhdGFzZXQgPSBucC56ZXJvcygoTiwgaW1zaXplICogaW1zaXplICogMykpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTik6CiAgICAgICAgICAgIGdvYWwgPSBlbnYuc2FtcGxlX2dvYWxfZm9yX3JvbGxvdXQoKQogICAgICAgICAgICBoYW5kX3BvcyA9IGVudi5zYW1wbGVfaGFuZF94eSgpCiAgICAgICAgICAgIHByaW50KGhhbmRfcG9zKQogICAgICAgICAgICBlbnYuc2V0X3RvX2dvYWwoZ29hbCkKICAgICAgICAgICAgZW52LnNldF9oYW5kX3h5KGhhbmRfcG9zKQogICAgICAgICAgICBpbWcgPSBlbnYucmVzZXQocmVzZXRfaGFuZD1GYWxzZSkKICAgICAgICAgICAgZGF0YXNldFtpLCA6XSA9IGltZwogICAgICAgICAgICBpZiBzaG93OgogICAgICAgICAgICAgICAgY3YyLmltc2hvdygnaW1nJywgaW1nLnJlc2hhcGUoMywgODQsIDg0KS50cmFuc3Bvc2UoKSkKICAgICAgICAgICAgICAgIGN2Mi53YWl0S2V5KDEpCiAgICAgICAgcHJpbnQoImRvbmUgbWFraW5nIHRyYWluaW5nIGRhdGEiLCBmaWxlbmFtZSwgdGltZS50aW1lKCkgLSBub3cpCiAgICAgICAgbnAuc2F2ZShmaWxlbmFtZSwgZGF0YXNldCkKCiAgICBuID0gaW50KE4gKiB0ZXN0X3ApCiAgICB0cmFpbl9kYXRhc2V0ID0gZGF0YXNldFs6biwgOl0KICAgIHRlc3RfZGF0YXNldCA9IGRhdGFzZXRbbjosIDpdCiAgICByZXR1cm4gdHJhaW5fZGF0YXNldCwgdGVzdF9kYXRhc2V0LCBpbmZvCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJhY3Rpb25fZ29hbHNfYXJlX2Vudl9nb2Fscz0wLjUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyX2RlY29kZWQ9cmVuZGVyLAo=</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlX29yYWNsZV92YWVfZGF0YXNldCg1MDAsIHVzZV9jYWNoZWQ9RmFsc2UsIHNob3c9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXdhcmRfaW5mbz1kaWN0KAogICAgICAgICAgICAjICAgICB0eXBlPSJzaGFwZWQiLAogICAgICAgICAgICAjICksCg==</text>
+        <text encoding="base64">ZGVmIGdlbmVyYXRlX29yYWNsZV92YWVfZGF0YXNldCgKICAgICAgICBOPTEwMDAwLCB0ZXN0X3A9MC45LCB1c2VfY2FjaGVkPVRydWUsIGltc2l6ZT04NCwgc2hvdz1GYWxzZSwKICAgICAgICBpbml0X2NhbWVyYT1zYXd5ZXJfaW5pdF9jYW1lcmFfem9vbWVkX2luLAogICAgICAgIGRhdGFzZXRfcGF0aD1Ob25lLAopOgogICAgIiIiCiAgICBPcmFjbGUgbWVhbnMgdGhhdCB3ZSB1c2UgYHNldF90b19nb2FsYCByYXRoZXIgdGhhbiBkb2luZyByYW5kb20gcm9sbG91dHMuCiAgICAiIiIKICAgIGZpbGVuYW1lID0gIi90bXAvb3JhY2xlX3Nhd3llcl9wdXNoX25ld19lYXN5e31fe30ubnB5Ii5mb3JtYXQoCiAgICAgICAgc3RyKE4pLAogICAgICAgIGluaXRfY2FtZXJhLl9fbmFtZV9fLAogICAgKQogICAgaW5mbyA9IHt9CiAgICBpZiBkYXRhc2V0X3BhdGggaXMgbm90IE5vbmU6CiAgICAgICAgZmlsZW5hbWUgPSBsb2NhbF9wYXRoX2Zyb21fczNfb3JfbG9jYWxfcGF0aChkYXRhc2V0X3BhdGgpCiAgICAgICAgZGF0YXNldCA9IG5wLmxvYWQoZmlsZW5hbWUpCiAgICAgICAgTiA9IGRhdGFzZXQuc2hhcGVbMF0KICAgIGVsaWYgdXNlX2NhY2hlZCBhbmQgb3NwLmlzZmlsZShmaWxlbmFtZSk6CiAgICAgICAgZGF0YXNldCA9IG5wLmxvYWQoZmlsZW5hbWUpCiAgICAgICAgcHJpbnQoImxvYWRlZCBkYXRhIGZyb20gc2F2ZWQgZmlsZSIsIGZpbGVuYW1lKQogICAgZWxzZToKICAgICAgICBub3cgPSB0aW1lLnRpbWUoKQogICAgICAgIGVudiA9IFNhd3llclB1c2hYWUVudihoaWRlX2dvYWw9VHJ1ZSkKICAgICAgICBlbnYgPSBJbWFnZU11am9jb0VudigKICAgICAgICAgICAgZW52LCBpbXNpemUsCiAgICAgICAgICAgIHRyYW5zcG9zZT1UcnVlLAogICAgICAgICAgICBpbml0X2NhbWVyYT1pbml0X2NhbWVyYSwKICAgICAgICAgICAgbm9ybWFsaXplPVRydWUsCiAgICAgICAgKQogICAgICAgIGluZm9bJ2VudiddID0gZW52CgogICAgICAgIGRhdGFzZXQgPSBucC56ZXJvcygoTiwgaW1zaXplICogaW1zaXplICogMykpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTik6CiAgICAgICAgICAgIGdvYWwgPSBlbnYuc2FtcGxlX2dvYWxfZm9yX3JvbGxvdXQoKQogICAgICAgICAgICBoYW5kX3BvcyA9IGVudi5zYW1wbGVfaGFuZF94eSgpCiAgICAgICAgICAgIHByaW50KGhhbmRfcG9zKQogICAgICAgICAgICBlbnYuc2V0X3RvX2dvYWwoZ29hbCkKICAgICAgICAgICAgZW52LnNldF9oYW5kX3h5KGhhbmRfcG9zKQogICAgICAgICAgICBpbWcgPSBlbnYucmVzZXQocmVzZXRfaGFuZD1GYWxzZSkKICAgICAgICAgICAgZGF0YXNldFtpLCA6XSA9IGltZwogICAgICAgICAgICBpZiBzaG93OgogICAgICAgICAgICAgICAgY3YyLmltc2hvdygnaW1nJywgaW1nLnJlc2hhcGUoMywgODQsIDg0KS50cmFuc3Bvc2UoKSkKICAgICAgICAgICAgICAgIGN2Mi53YWl0S2V5KDEpCiAgICAgICAgcHJpbnQoImRvbmUgbWFraW5nIHRyYWluaW5nIGRhdGEiLCBmaWxlbmFtZSwgdGltZS50aW1lKCkgLSBub3cpCiAgICAgICAgbnAuc2F2ZShmaWxlbmFtZSwgZGF0YXNldCkKCiAgICBuID0gaW50KE4gKiB0ZXN0X3ApCiAgICB0cmFpbl9kYXRhc2V0ID0gZGF0YXNldFs6biwgOl0KICAgIHRlc3RfZGF0YXNldCA9IGRhdGFzZXRbbjosIDpdCiAgICByZXR1cm4gdHJhaW5fZGF0YXNldCwgdGVzdF9kYXRhc2V0LCBpbmZvCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICdpbml0X2NhbWVyYSc6IFtzYXd5ZXJfaW5pdF9jYW1lcmFfem9vbWVkX2luLCBzYXd5ZXJfaW5pdF9jYW1lcmFdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyX2RlY29kZWQ9cmVuZGVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICdpbml0X2NhbWVyYSc6IFtzYXd5ZXJfaW5pdF9jYW1lcmFfem9vbWVkX2luLCBzYXd5ZXJfaW5pdF9jYW1lcmFdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZXdhcmRfaW5mbz1kaWN0KAogICAgICAgICAgICAjICAgICB0eXBlPSJzaGFwZWQiLAogICAgICAgICAgICAjICksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHZhcmlhbnRbJ2luaXRfY2FtZXJhJ10gPT0gc2F3eWVyX2luaXRfY2FtZXJhX3pvb21lZF9pbjoKICAgICAgICAjICAgICB2YXJpYW50Wyd2YWVfcGF0aHMnXVsnMTYnXSA9IHpvb21lZF9pbl9wYXRoCiAgICAgICAgIyBlbGlmIHZhcmlhbnRbJ2luaXRfY2FtZXJhJ10gPT0gc2F3eWVyX2luaXRfY2FtZXJhOgogICAgICAgICMgICAgIHZhcmlhbnRbJ3ZhZV9wYXRocyddWycxNiddID0gem9vbWVkX291dF9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAjICdpbml0X2NhbWVyYSc6IFtzYXd5ZXJfaW5pdF9jYW1lcmFfem9vbWVkX2luLCBzYXd5ZXJfaW5pdF9jYW1lcmFdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1329,7 +1333,6 @@
         <entry>joint</entry>
       </history-search>
       <history-cmd>
-        <entry>113</entry>
         <entry>256</entry>
         <entry>101</entry>
         <entry>773</entry>
@@ -1348,6 +1351,7 @@
         <entry>228</entry>
         <entry>28</entry>
         <entry>q</entry>
+        <entry>bp|bd #</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
