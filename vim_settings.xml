@@ -124,10 +124,10 @@
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" timestamp="1526361987570">
-        <mark key="'" line="100" column="4" />
-        <mark key="[" line="199" column="33" />
-        <mark key="]" line="199" column="34" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" timestamp="1527041248382">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="233" column="32" />
         <mark key="^" line="199" column="34" />
         <mark key="." line="199" column="34" />
       </file>
@@ -874,10 +874,10 @@
         <mark key="^" line="73" column="25" />
         <mark key="." line="106" column="49" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" timestamp="1526343740361">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" timestamp="1527041060985">
+        <mark key="'" line="130" column="37" />
         <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
+        <mark key="]" line="212" column="14" />
         <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_td3.py" timestamp="1524104326234">
@@ -1151,18 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
-      <jump line="345" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="213" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="96" column="26" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
-      <jump line="221" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="197" column="4" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="219" column="18" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
-      <jump line="88" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
-      <jump line="40" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" />
-      <jump line="105" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" />
       <jump line="97" column="22" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
       <jump line="65" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
       <jump line="95" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
@@ -1251,16 +1239,28 @@
       <jump line="59" column="31" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_data.py" />
       <jump line="58" column="49" filename="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" />
       <jump line="120" column="12" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
+      <jump line="26" column="51" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="39" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="85" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="86" column="21" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="92" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="110" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="111" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="114" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="119" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="125" column="33" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="130" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reach_torque.xml" />
+      <jump line="14" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnZ3JpbGwtc2F3eWVyLXJlc2V0LWZyZWUnCg==</text>
+        <text encoding="base64">ICAgIGVudiA9IFNhd3llclJlYWNoVG9ycXVlRW52KGhpZGVfZ29hbD1UcnVlKQogICAgIyBlbnYgPSBTYXd5ZXJSZWFjaFhZRW52KCkKICAgIGVudiA9IE11bHRpdGFza1RvRmxhdEVudihlbnYpCg==</text>
       </register>
       <register name="-" type="4">
         <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>true_goal_obs</text>
+        <text>joint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmVsb2NpdGllcyA9IHNlbGYuZGF0YS5xdmVsLmNvcHkoKQogICAgICAgICAgICBhbmdsZXMgPSBucC5hcnJheShzZWxmLmluaXRfYW5nbGVzKQogICAgICAgICAgICBzZWxmLnNldF9zdGF0ZShhbmdsZXMuZmxhdHRlbigpLCB2ZWxvY2l0aWVzLmZsYXR0ZW4oKSkK</text>
@@ -1297,9 +1297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>true_goal_obs</last-search>
+      <last-search>joint</last-search>
       <last-offset />
-      <last-pattern>true_goal_obs</last-pattern>
+      <last-pattern>joint</last-pattern>
       <last-replace>td3</last-replace>
       <last-substitute>ddpg</last-substitute>
       <last-dir>1</last-dir>
@@ -1318,7 +1318,6 @@
         <entry>new_mocap_action</entry>
         <entry>action</entry>
         <entry>ipdb</entry>
-        <entry>joint</entry>
         <entry>goal</entry>
         <entry>def reset</entry>
         <entry>reset</entry>
@@ -1327,6 +1326,7 @@
         <entry>replay</entry>
         <entry>true_Goal_obs</entry>
         <entry>true_goal_obs</entry>
+        <entry>joint</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
