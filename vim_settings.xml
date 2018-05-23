@@ -309,12 +309,12 @@
         <mark key="." line="29" column="59" />
         <mark key="^" line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/git/railrl/scripts/make_motion_capture.py" timestamp="1527110720611">
-        <mark key="'" line="136" column="8" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="246" column="7" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/git/railrl/scripts/make_motion_capture.py" timestamp="1527111839326">
+        <mark key="'" line="148" column="51" />
+        <mark key="[" line="249" column="18" />
+        <mark key="]" line="249" column="22" />
+        <mark key="^" line="249" column="22" />
+        <mark key="." line="249" column="22" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/experiments/vitchyr/td3.py" timestamp="1525841616448">
         <mark key="'" line="16" column="8" />
@@ -1076,7 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
       <jump line="332" column="21" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="175" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="111" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
@@ -1176,19 +1175,20 @@
       <jump line="215" column="4" filename="$USER_HOME$/git/railrl/scripts/make_motion_capture.py" />
       <jump line="233" column="4" filename="$USER_HOME$/git/railrl/scripts/make_motion_capture.py" />
       <jump line="136" column="8" filename="$USER_HOME$/git/railrl/scripts/make_motion_capture.py" />
+      <jump line="148" column="51" filename="$USER_HOME$/git/railrl/scripts/make_motion_capture.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlucHV0X2ZpbGVfbmFtZSA9IGFyZ3MuZmlsZS5zcGxpdCgiLyIpWy0xXS5zcGxpdCgiLiIpWzBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>args.file.split(&quot;/&quot;)[-1].split(&quot;.&quot;)[0]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>dirname</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlucHV0X2ZpbGVfbmFtZSA9IGFyZ3MuZmlsZS5zcGxpdCgiLyIpWy0xXS5zcGxpdCgiLiIpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXJuYW1lPU5vbmUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0X2ZpbGVfbmFtZSA9IGFyZ3MuZmlsZS5zcGxpdCgiLyIpWy0xXS5zcGxpdCgiLiIpWzBdCg==</text>
