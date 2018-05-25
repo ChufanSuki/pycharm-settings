@@ -92,12 +92,12 @@
         <mark key="." line="54" column="21" />
         <mark key="^" line="54" column="21" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/waes/wae.py" timestamp="1527224807649">
-        <mark key="'" line="3" column="35" />
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="3" />
-        <mark key="." line="93" column="3" />
-        <mark key="^" line="93" column="3" />
+      <file name="$USER_HOME$/git/railrl/experiments/waes/wae.py" timestamp="1527232197719">
+        <mark key="'" line="52" column="16" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="56" column="17" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="54" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_base.py" timestamp="1527098710466">
         <mark key="'" line="94" column="54" />
@@ -317,6 +317,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/notebooks/vae.ipynb" timestamp="1527229376609" />
       <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1527212744148">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="102" column="0" />
@@ -432,6 +433,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="59" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/waes/vae.py" timestamp="1527230906028">
+        <mark key="'" line="83" column="16" />
+        <mark key="[" line="83" column="16" />
+        <mark key="]" line="83" column="16" />
+        <mark key="^" line="83" column="16" />
+        <mark key="." line="83" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_td3.py" timestamp="1526329795453">
         <mark key="'" line="20" column="4" />
@@ -970,25 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="32" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="105" column="8" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="107" column="15" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="125" column="27" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="229" column="16" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="238" column="18" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="242" column="18" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="259" column="66" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="216" column="29" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
-      <jump line="267" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="350" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="246" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="269" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="103" column="42" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="551" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="718" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="44" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_push/tdm_td3.py" />
       <jump line="33" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
@@ -1070,55 +1059,74 @@
       <jump line="91" column="10" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="95" column="17" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="3" column="35" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="148" column="12" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="137" column="11" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="86" column="13" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="170" column="4" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="178" column="19" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="139" column="4" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/vae.py" />
+      <jump line="144" column="19" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="59" column="13" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="58" column="21" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="78" column="17" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="119" column="36" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="83" column="16" filename="$USER_HOME$/git/railrl/experiments/waes/vae.py" />
+      <jump line="52" column="16" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgbG9zc2VzLmFwcGVuZChsb3NzLmRhdGEubnVtcHkoKSkKICAgICAgICBrbHMuYXBwZW5kKGtsLm1lYW4oKS5kYXRhLm51bXB5KCkpCiAgICAgICAgbG9nX3Byb2JzLmFwcGVuZChyZWNvbnN0cnVjdGlvbl9sb2dfcHJvYi5tZWFuKCkuZGF0YS5udW1weSgpKQo=</text>
+        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTU1EX1dFSUdIVCA9IDEwMDAwMCAgIyBsYW1iZGEgaW4gdGhlIHBhcGVyCkxBVEVOVF9ESU0gPSAyCkMgPSAyICogTEFURU5UX0RJTQo=</text>
       </register>
       <register name="-" type="4">
-        <text>alpha</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhX2dlblw+</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBubi5SZUxVKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGJvID0gLSBrbCArIHJlY29uc3RydWN0aW9uX2xvZ19wcm9iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgbG9zc2VzLmFwcGVuZChsb3NzLmRhdGEubnVtcHkoKSkKICAgICAgICBrbHMuYXBwZW5kKGtsLm1lYW4oKS5kYXRhLm51bXB5KCkpCiAgICAgICAgbG9nX3Byb2JzLmFwcGVuZChyZWNvbnN0cnVjdGlvbl9sb2dfcHJvYi5tZWFuKCkuZGF0YS5udW1weSgpKQo=</text>
+        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTEFURU5UX0RJTSA9IDIKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVyX291dHB1dCA9IGRlY29kZXIobGF0ZW50cykKICAgICAgICBkZWNvZGVyX21lYW5zID0gZGVjb2Rlcl9vdXRwdXRbOiwgMDoyXQogICAgICAgIGRlY29kZXJfbG9nX3N0ZHMgPSBkZWNvZGVyX291dHB1dFs6LCAyOjRdCiAgICAgICAgZGlzdHJpYnV0aW9uID0gTm9ybWFsKGRlY29kZXJfbWVhbnMsIGRlY29kZXJfbG9nX3N0ZHMuZXhwKCkpCiAgICAgICAgcmVjb25zdHJ1Y3Rpb25fbG9nX3Byb2IgPSBkaXN0cmlidXRpb24ubG9nX3Byb2IoYmF0Y2gpLnN1bShkaW09MSkKCiAgICAgICAgZWxibyA9IC0ga2wgKyByZWNvbnN0cnVjdGlvbl9sb2dfcHJvYgoKICAgICAgICBsb3NzID0gLSBlbGJvLm1lYW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2hvdWxkIHRha2UgYWJvdXQgMjAgc2Vjb25kcyB0byBydW4uIFRoZSBHYXVzc2lhbiBhbmQgRmxvd2VyIGRhdGFzZXRzIHdvcmssCmJ1dCBub3QgdGhlIHN3aXJsIG9uZS4K</text>
+        <text encoding="base64">QyA9IDIgKiBMQVRFTlRfRElNCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlbnRzLCBtZWFucywgbG9nX3N0ZHMsIHN0ZHMgPSBlbmNvZGVyLmdldF9lbmNvZGluZ19hbmRfc3VmZl9zdGF0cygKICAgICAgICAgICAgZGF0YQogICAgICAgICkKICAgICAgICBrbCA9IGtsX3RvX3ByaW9yKG1lYW5zLCBsb2dfc3Rkcywgc3RkcykKCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWYXJpYWJsZSh0b3JjaC5yYW5kbigqbGF0ZW50cy5zaGFwZSkpCiAgICApLmRhdGEubnVtcHkoKQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5kaXN0cmlidXRpb25zIGltcG9ydCBOb3JtYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">bGFtYiA9IDEwICAjIGxhbWJkYSBpbiBwYXBlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBubi5MaW5lYXIoMzIsIDMyKSwK</text>
+        <text encoding="base64">IyBCUyA9IDIKIyBOX0JBVENIRVMgPSAxMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhX2dlblw+</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhX2dlblw+</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>generate_vae_dataset_kwargs</last-replace>
       <last-substitute>get_data_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -1126,13 +1134,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdfcmV3YXJkc1w+</entry>
-        <entry>replay</entry>
-        <entry>compute_her_reward</entry>
-        <entry>compute_rewar</entry>
-        <entry>comput</entry>
-        <entry>compute_her</entry>
-        <entry>def step</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
         <entry>dist</entry>
         <entry>compute_rewards</entry>
@@ -1140,12 +1141,19 @@
         <entry>handle_step</entry>
         <entry>reward</entry>
         <entry encoding="base64">XDxjb21wdXRlX3Jld2FyZFw+</entry>
-        <entry>ipdb</entry>
         <entry>10</entry>
         <entry>prior</entry>
         <entry>batche</entry>
         <entry>batch</entry>
         <entry encoding="base64">XDxkYXRhX2dlblw+</entry>
+        <entry>generated_sample</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZWRfc2FtcGxlc1w+</entry>
+        <entry>kls</entry>
+        <entry>lambda</entry>
+        <entry>lamb</entry>
+        <entry>ipdb</entry>
+        <entry>decoder</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
@@ -1165,8 +1173,8 @@
         <entry>648</entry>
         <entry>202</entry>
         <entry>719</entry>
-        <entry>q</entry>
         <entry>160</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
