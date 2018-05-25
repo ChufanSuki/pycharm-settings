@@ -92,12 +92,12 @@
         <mark key="." line="54" column="21" />
         <mark key="^" line="54" column="21" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/waes/wae.py" timestamp="1527271243786">
-        <mark key="'" line="52" column="15" />
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="^" line="54" column="14" />
+      <file name="$USER_HOME$/git/railrl/experiments/waes/wae.py" timestamp="1527272668615">
+        <mark key="'" line="60" column="49" />
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+        <mark key="^" line="52" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_base.py" timestamp="1527098710466">
         <mark key="'" line="94" column="54" />
@@ -978,8 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_push/tdm_td3.py" />
-      <jump line="33" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
       <jump line="225" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
       <jump line="66" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reset_free_push/tdm_grill.py" />
       <jump line="115" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reset_free_push/tdm_grill.py" />
@@ -1078,13 +1076,15 @@
       <jump line="71" column="32" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="144" column="4" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="52" column="15" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="53" column="10" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="60" column="49" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>latents</text>
