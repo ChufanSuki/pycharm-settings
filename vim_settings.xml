@@ -92,12 +92,12 @@
         <mark key="." line="54" column="21" />
         <mark key="^" line="54" column="21" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/waes/wae.py" timestamp="1527232197719">
-        <mark key="'" line="52" column="16" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="56" column="17" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="54" column="16" />
+      <file name="$USER_HOME$/git/railrl/experiments/waes/wae.py" timestamp="1527271243786">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_base.py" timestamp="1527098710466">
         <mark key="'" line="94" column="54" />
@@ -978,7 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="718" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="44" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_push/tdm_td3.py" />
       <jump line="33" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
       <jump line="225" column="30" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
@@ -1067,7 +1066,6 @@
       <jump line="139" column="4" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/vae.py" />
-      <jump line="144" column="19" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="37" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="47" column="0" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="59" column="13" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
@@ -1077,56 +1075,58 @@
       <jump line="78" column="17" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="119" column="36" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
       <jump line="83" column="16" filename="$USER_HOME$/git/railrl/experiments/waes/vae.py" />
-      <jump line="52" column="16" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="71" column="32" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="144" column="4" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
+      <jump line="52" column="15" filename="$USER_HOME$/git/railrl/experiments/waes/wae.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTU1EX1dFSUdIVCA9IDEwMDAwMCAgIyBsYW1iZGEgaW4gdGhlIHBhcGVyCkxBVEVOVF9ESU0gPSAyCkMgPSAyICogTEFURU5UX0RJTQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>latents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGJvID0gLSBrbCArIHJlY29uc3RydWN0aW9uX2xvZ19wcm9iCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTEFURU5UX0RJTSA9IDIKCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTEFURU5UX0RJTSA9IDIKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QyA9IDIgKiBMQVRFTlRfRElNCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QyA9IDIgKiBMQVRFTlRfRElNCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5kaXN0cmlidXRpb25zIGltcG9ydCBOb3JtYWwK</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFtYiA9IDEwICAjIGxhbWJkYSBpbiBwYXBlcgo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5kaXN0cmlidXRpb25zIGltcG9ydCBOb3JtYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">bGFtYiA9IDEwICAjIGxhbWJkYSBpbiBwYXBlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBCUyA9IDIKIyBOX0JBVENIRVMgPSAxMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>latents</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>latents</last-pattern>
       <last-replace>generate_vae_dataset_kwargs</last-replace>
       <last-substitute>get_data_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -1134,7 +1134,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
         <entry>dist</entry>
         <entry>compute_rewards</entry>
         <entry>add_path</entry>
@@ -1154,6 +1153,7 @@
         <entry>ipdb</entry>
         <entry>decoder</entry>
         <entry>asdf</entry>
+        <entry>latents</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
