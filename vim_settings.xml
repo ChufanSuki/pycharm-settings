@@ -344,8 +344,8 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1527019764774">
-        <mark key="'" line="82" column="35" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1527207232842">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -807,6 +807,9 @@
         <mark key="]" line="210" column="34" />
         <mark key="." line="210" column="34" />
       </file>
+      <file name="$USER_HOME$/git/railrl/scripts/sim_tdm_policy.py" timestamp="1527207427087">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/state_distance/sim_universal_policy.py" timestamp="1526419663823">
         <mark key="[" line="26" column="42" />
         <mark key="]" line="26" column="52" />
@@ -1081,9 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="41" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_joint_limited_mocap.xml" />
-      <jump line="151" column="45" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_joint_limited_mocap.xml" />
-      <jump line="215" column="13" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_joint_limited_mocap.xml" />
       <jump line="212" column="38" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
       <jump line="82" column="17" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
       <jump line="17" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
@@ -1181,6 +1181,9 @@
       <jump line="16" column="14" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/tdm_td3.py" />
       <jump line="20" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/tdm_td3.py" />
       <jump line="117" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/tdm_td3.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/railrl/scripts/sim_tdm_policy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1190,7 +1193,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>decoded</text>
+        <text>enable_render</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZWxhYmVsaW5nX2Vudi5kaXNhYmxlX3JlbmRlcigpCg==</text>
@@ -1227,9 +1230,9 @@
       </register>
     </registers>
     <search>
-      <last-search>decoded</last-search>
+      <last-search>enable_render</last-search>
       <last-offset />
-      <last-pattern>decoded</last-pattern>
+      <last-pattern>enable_render</last-pattern>
       <last-replace>generate_vae_dataset_kwargs</last-replace>
       <last-substitute>get_data_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -1237,7 +1240,6 @@
     </search>
     <history>
       <history-search>
-        <entry>args.file</entry>
         <entry>dirname</entry>
         <entry>mode</entry>
         <entry>set_to_goal</entry>
@@ -1257,6 +1259,7 @@
         <entry>max_ta</entry>
         <entry>render_decoded</entry>
         <entry>decoded</entry>
+        <entry>enable_render</entry>
       </history-search>
       <history-cmd>
         <entry>79</entry>
