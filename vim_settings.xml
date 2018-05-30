@@ -295,7 +295,7 @@
         <mark key="^" line="172" column="30" />
         <mark key="." line="172" column="30" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_push/her_td3.py" timestamp="1527222448672">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_push/her_td3.py" timestamp="1527712862999">
         <mark key="'" line="31" column="30" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="54" />
@@ -475,6 +475,10 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/git/doodad/aws_config/config.ini" timestamp="1527713575498">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco-torch/launchers/config.py" timestamp="1524198915751">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -610,6 +614,12 @@
         <mark key="]" line="60" column="33" />
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1527713528140">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="54" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_reach/tdm_td3.py" timestamp="1526360357067">
         <mark key="'" line="52" column="17" />
@@ -847,8 +857,8 @@
         <mark key="." line="229" column="34" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/sac/sac.py" timestamp="1527290063429" />
-      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" timestamp="1527290382570">
-        <mark key="'" line="284" column="8" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" timestamp="1527712898583">
+        <mark key="'" line="98" column="31" />
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
@@ -999,10 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="22" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="195" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
-      <jump line="196" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="336" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="382" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="387" column="22" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -1099,16 +1105,20 @@
       <jump line="134" column="69" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
       <jump line="43" column="8" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="68" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
+      <jump line="98" column="31" filename="$USER_HOME$/git/railrl/railrl/torch/ddpg/ddpg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhdT0wLjA1Cg==</text>
+        <text encoding="base64">dXMtZWFzdC0xPWFtaS1iY2FiNzVjMwo=</text>
       </register>
       <register name="-" type="4">
         <text>local</text>
       </register>
       <register name="/" type="4">
-        <text>goal</text>
+        <text encoding="base64">XDx1c2Vfc29mdF91cGRhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
@@ -1145,9 +1155,9 @@
       </register>
     </registers>
     <search>
-      <last-search>goal</last-search>
+      <last-search encoding="base64">XDx1c2Vfc29mdF91cGRhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>goal</last-pattern>
+      <last-pattern encoding="base64">XDx1c2Vfc29mdF91cGRhdGVcPg==</last-pattern>
       <last-replace>generate_vae_dataset_kwargs</last-replace>
       <last-substitute>get_data_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -1155,7 +1165,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
         <entry>prior</entry>
         <entry>batche</entry>
         <entry>batch</entry>
@@ -1175,6 +1184,7 @@
         <entry encoding="base64">XDxwb2xpY3lfYW5kX3RhcmdldF91cGRhdGVfcGVyaW9kXD4=</entry>
         <entry>self.tau</entry>
         <entry>goal</entry>
+        <entry encoding="base64">XDx1c2Vfc29mdF91cGRhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
