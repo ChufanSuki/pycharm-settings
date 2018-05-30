@@ -322,8 +322,12 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/notebooks/vae.ipynb" timestamp="1527229376609" />
-      <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1527700761622">
-        <mark key="'" line="33" column="4" />
+      <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1527703655166">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/ae_vs_vae/vae.py" timestamp="1526611697383">
         <mark key="'" line="86" column="8" />
@@ -809,12 +813,11 @@
         <mark key="." line="80" column="37" />
         <mark key="^" line="76" column="61" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reset_free_push/tdm_grill.py" timestamp="1527701337657">
-        <mark key="'" line="116" column="16" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="43" column="23" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reset_free_push/tdm_grill.py" timestamp="1527703480822">
+        <mark key="'" line="115" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_mocap_goal_hidden.xml" timestamp="1527046503267">
         <mark key="'" line="0" column="0" />
@@ -1005,7 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
       <jump line="71" column="22" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_torque_env.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="195" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
@@ -1105,55 +1107,56 @@
       <jump line="55" column="47" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
       <jump line="134" column="69" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/td3/td3.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhdT0wLjA1Cg==</text>
       </register>
       <register name="-" type="4">
         <text>local</text>
       </register>
       <register name="/" type="4">
-        <text>self.tau</text>
+        <text>goal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVkPXNlZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhdT0wLjA1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHFmX2xvc3MgPSByYXdfcWZfbG9zcwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWVkPXNlZWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnJlc2lkdWFsX2dyYWRpZW50X3dlaWdodCA+IDA6CiAgICAgICAgICAgIHJlc2lkdWFsX25leHRfYWN0aW9ucyA9IHNlbGYucG9saWN5KG5leHRfb2JzKQogICAgICAgICAgICAjIHNwZWVkIHVwIGNvbXB1dGF0aW9uIGJ5IG5vdCBiYWNrcHJvcHBpbmcgdGhlc2UgZ3JhZGllbnRzCiAgICAgICAgICAgIHJlc2lkdWFsX25leHRfYWN0aW9ucy5kZXRhY2goKQogICAgICAgICAgICByZXNpZHVhbF90YXJnZXRfcV92YWx1ZXMgPSBzZWxmLnFmKAogICAgICAgICAgICAgICAgbmV4dF9vYnMsCiAgICAgICAgICAgICAgICByZXNpZHVhbF9uZXh0X2FjdGlvbnMsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzaWR1YWxfcV90YXJnZXQgPSAoCiAgICAgICAgICAgICAgICByZXdhcmRzCiAgICAgICAgICAgICAgICArICgxLiAtIHRlcm1pbmFscykgKiBzZWxmLmRpc2NvdW50ICogcmVzaWR1YWxfdGFyZ2V0X3FfdmFsdWVzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzaWR1YWxfYmVsbG1hbl9lcnJvcnMgPSAocV9wcmVkIC0gcmVzaWR1YWxfcV90YXJnZXQpICoqIDIKICAgICAgICAgICAgIyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwogICAgICAgICAgICByZXNpZHVhbF9xZl9sb3NzID0gcmVzaWR1YWxfYmVsbG1hbl9lcnJvcnMubWVhbigpCiAgICAgICAgICAgIHJhd19xZl9sb3NzID0gKAogICAgICAgICAgICAgICAgICAgIHNlbGYucmVzaWR1YWxfZ3JhZGllbnRfd2VpZ2h0ICogcmVzaWR1YWxfcWZfbG9zcwogICAgICAgICAgICAgICAgICAgICsgKDEgLSBzZWxmLnJlc2lkdWFsX2dyYWRpZW50X3dlaWdodCkgKiByYXdfcWZfbG9zcwogICAgICAgICAgICApCgogICAgICAgIGlmIHNlbGYucWZfd2VpZ2h0X2RlY2F5ID4gMDoKICAgICAgICAgICAgcmVnX2xvc3MgPSBzZWxmLnFmX3dlaWdodF9kZWNheSAqIHN1bSgKICAgICAgICAgICAgICAgIHRvcmNoLnN1bShwYXJhbSAqKiAyKQogICAgICAgICAgICAgICAgZm9yIHBhcmFtIGluIHNlbGYucWYucmVndWxhcml6YWJsZV9wYXJhbWV0ZXJzKCkKICAgICAgICAgICAgKQogICAgICAgICAgICBxZl9sb3NzID0gcmF3X3FmX2xvc3MgKyByZWdfbG9zcwogICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHFmX2xvc3MgPSByYXdfcWZfbG9zcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBvbGljeV9wcmVfYWN0aXZhdGlvbl93ZWlnaHQgPiAwOgogICAgICAgICAgICBwb2xpY3lfYWN0aW9ucywgcHJlX3RhbmhfdmFsdWUgPSBzZWxmLnBvbGljeSgKICAgICAgICAgICAgICAgIG9icywgcmV0dXJuX3ByZWFjdGl2YXRpb25zPVRydWUsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJlX2FjdGl2YXRpb25fcG9saWN5X2xvc3MgPSAoCiAgICAgICAgICAgICAgICAocHJlX3RhbmhfdmFsdWUgKiogMikuc3VtKGRpbT0xKS5tZWFuKCkKICAgICAgICAgICAgKQogICAgICAgICAgICBxX291dHB1dCA9IHNlbGYucWYob2JzLCBwb2xpY3lfYWN0aW9ucykKICAgICAgICAgICAgcmF3X3BvbGljeV9sb3NzID0gLSBxX291dHB1dC5tZWFuKCkKICAgICAgICAgICAgcG9saWN5X2xvc3MgPSAoCiAgICAgICAgICAgICAgICAgICAgcmF3X3BvbGljeV9sb3NzICsKICAgICAgICAgICAgICAgICAgICBwcmVfYWN0aXZhdGlvbl9wb2xpY3lfbG9zcyAqIHNlbGYucG9saWN5X3ByZV9hY3RpdmF0aW9uX3dlaWdodAogICAgICAgICAgICApCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnJlc2lkdWFsX2dyYWRpZW50X3dlaWdodCA+IDA6CiAgICAgICAgICAgIHJlc2lkdWFsX25leHRfYWN0aW9ucyA9IHNlbGYucG9saWN5KG5leHRfb2JzKQogICAgICAgICAgICAjIHNwZWVkIHVwIGNvbXB1dGF0aW9uIGJ5IG5vdCBiYWNrcHJvcHBpbmcgdGhlc2UgZ3JhZGllbnRzCiAgICAgICAgICAgIHJlc2lkdWFsX25leHRfYWN0aW9ucy5kZXRhY2goKQogICAgICAgICAgICByZXNpZHVhbF90YXJnZXRfcV92YWx1ZXMgPSBzZWxmLnFmKAogICAgICAgICAgICAgICAgbmV4dF9vYnMsCiAgICAgICAgICAgICAgICByZXNpZHVhbF9uZXh0X2FjdGlvbnMsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzaWR1YWxfcV90YXJnZXQgPSAoCiAgICAgICAgICAgICAgICByZXdhcmRzCiAgICAgICAgICAgICAgICArICgxLiAtIHRlcm1pbmFscykgKiBzZWxmLmRpc2NvdW50ICogcmVzaWR1YWxfdGFyZ2V0X3FfdmFsdWVzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzaWR1YWxfYmVsbG1hbl9lcnJvcnMgPSAocV9wcmVkIC0gcmVzaWR1YWxfcV90YXJnZXQpICoqIDIKICAgICAgICAgICAgIyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwogICAgICAgICAgICByZXNpZHVhbF9xZl9sb3NzID0gcmVzaWR1YWxfYmVsbG1hbl9lcnJvcnMubWVhbigpCiAgICAgICAgICAgIHJhd19xZl9sb3NzID0gKAogICAgICAgICAgICAgICAgICAgIHNlbGYucmVzaWR1YWxfZ3JhZGllbnRfd2VpZ2h0ICogcmVzaWR1YWxfcWZfbG9zcwogICAgICAgICAgICAgICAgICAgICsgKDEgLSBzZWxmLnJlc2lkdWFsX2dyYWRpZW50X3dlaWdodCkgKiByYXdfcWZfbG9zcwogICAgICAgICAgICApCgogICAgICAgIGlmIHNlbGYucWZfd2VpZ2h0X2RlY2F5ID4gMDoKICAgICAgICAgICAgcmVnX2xvc3MgPSBzZWxmLnFmX3dlaWdodF9kZWNheSAqIHN1bSgKICAgICAgICAgICAgICAgIHRvcmNoLnN1bShwYXJhbSAqKiAyKQogICAgICAgICAgICAgICAgZm9yIHBhcmFtIGluIHNlbGYucWYucmVndWxhcml6YWJsZV9wYXJhbWV0ZXJzKCkKICAgICAgICAgICAgKQogICAgICAgICAgICBxZl9sb3NzID0gcmF3X3FmX2xvc3MgKyByZWdfbG9zcwogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBvbGljeV9wcmVfYWN0aXZhdGlvbl93ZWlnaHQgPiAwOgogICAgICAgICAgICBwb2xpY3lfYWN0aW9ucywgcHJlX3RhbmhfdmFsdWUgPSBzZWxmLnBvbGljeSgKICAgICAgICAgICAgICAgIG9icywgcmV0dXJuX3ByZWFjdGl2YXRpb25zPVRydWUsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJlX2FjdGl2YXRpb25fcG9saWN5X2xvc3MgPSAoCiAgICAgICAgICAgICAgICAocHJlX3RhbmhfdmFsdWUgKiogMikuc3VtKGRpbT0xKS5tZWFuKCkKICAgICAgICAgICAgKQogICAgICAgICAgICBxX291dHB1dCA9IHNlbGYucWYob2JzLCBwb2xpY3lfYWN0aW9ucykKICAgICAgICAgICAgcmF3X3BvbGljeV9sb3NzID0gLSBxX291dHB1dC5tZWFuKCkKICAgICAgICAgICAgcG9saWN5X2xvc3MgPSAoCiAgICAgICAgICAgICAgICAgICAgcmF3X3BvbGljeV9sb3NzICsKICAgICAgICAgICAgICAgICAgICBwcmVfYWN0aXZhdGlvbl9wb2xpY3lfbG9zcyAqIHNlbGYucG9saWN5X3ByZV9hY3RpdmF0aW9uX3dlaWdodAogICAgICAgICAgICApCiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTEFURU5UX0RJTSA9IDIKCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">QlMgPSAxMjgKTl9CQVRDSEVTID0gMTAwMDAKTl9WSVMgPSAxMDAKTEFURU5UX0RJTSA9IDIKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QyA9IDIgKiBMQVRFTlRfRElNCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">QyA9IDIgKiBMQVRFTlRfRElNCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.tau</last-search>
+      <last-search>goal</last-search>
       <last-offset />
-      <last-pattern>self.tau</last-pattern>
+      <last-pattern>goal</last-pattern>
       <last-replace>generate_vae_dataset_kwargs</last-replace>
       <last-substitute>get_data_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -1161,7 +1164,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wdXRlX3Jld2FyZFw+</entry>
         <entry>10</entry>
         <entry>prior</entry>
         <entry>batche</entry>
@@ -1181,6 +1183,7 @@
         <entry>nvidia</entry>
         <entry encoding="base64">XDxwb2xpY3lfYW5kX3RhcmdldF91cGRhdGVfcGVyaW9kXD4=</entry>
         <entry>self.tau</entry>
+        <entry>goal</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
