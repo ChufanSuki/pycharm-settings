@@ -161,10 +161,12 @@
         <mark key="^" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1527801310640" />
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_push_new_easy.py" timestamp="1527616091548">
-        <mark key="[" line="94" column="17" />
-        <mark key="]" line="94" column="17" />
-        <mark key="." line="94" column="17" />
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1527809765282">
+        <mark key="'" line="141" column="44" />
+        <mark key="[" line="450" column="110" />
+        <mark key="]" line="450" column="109" />
+        <mark key="^" line="450" column="109" />
+        <mark key="." line="450" column="109" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_variable_data.py" timestamp="1527117743079">
         <mark key="'" line="11" column="39" />
@@ -670,8 +672,8 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1527722744662">
-        <mark key="'" line="562" column="4" />
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1527809537585">
+        <mark key="'" line="481" column="21" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_reacher_mocap_goal_hidden.xml" timestamp="1526332335814">
         <mark key="'" line="81" column="49" />
@@ -1006,18 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="32" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
-      <jump line="262" column="54" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="294" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="198" column="41" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
-      <jump line="716" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
-      <jump line="646" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
-      <jump line="110" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
-      <jump line="128" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
-      <jump line="147" column="29" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
-      <jump line="44" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
       <jump line="53" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
       <jump line="241" column="40" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
       <jump line="221" column="0" filename="$USER_HOME$/git/railrl/railrl/state_distance/tdm.py" />
@@ -1106,6 +1096,18 @@
       <jump line="18" column="28" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_gripper_env.py" />
       <jump line="316" column="37" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" />
       <jump line="233" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reset_free_push_env.py" />
+      <jump line="481" column="21" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="104" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="109" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="112" column="68" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="114" column="64" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="198" column="70" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="450" column="109" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="77" column="39" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="96" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="141" column="44" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1115,7 +1117,7 @@
         <text>local</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text>mnt_args</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHRpbWUKCmZyb20gcmFpbHJsLmNvcmUgaW1wb3J0IGxvZ2dlcgpmcm9tIHJhaWxybC5sYXVuY2hlcnMubGF1bmNoZXJfdXRpbCBpbXBvcnQgcnVuX2V4cGVyaW1lbnQKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBweXR6IGltcG9ydCB0aW1lem9uZQppbXBvcnQgcHl0egoKCmRlZiBleGFtcGxlKHZhcmlhbnQpOgogICAgaW1wb3J0IHRvcmNoCiAgICBsb2dnZXIubG9nKHRvcmNoLl9fdmVyc2lvbl9fKQogICAgZGF0ZV9mb3JtYXQgPSAnJW0vJWQvJVkgJUg6JU06JVMgJVonCiAgICBkYXRlID0gZGF0ZXRpbWUubm93KHR6PXB5dHoudXRjKQogICAgbG9nZ2VyLmxvZygic3RhcnQiKQogICAgbG9nZ2VyLmxvZygnQ3VycmVudCBkYXRlICYgdGltZSBpczoge30nLmZvcm1hdChkYXRlLnN0cmZ0aW1lKGRhdGVfZm9ybWF0KSkpCiAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgIHggPSB0b3JjaC5yYW5kbigzKQogICAgICAgIGxvZ2dlci5sb2coc3RyKHguY3VkYSgpKSkKCiAgICBkYXRlID0gZGF0ZS5hc3RpbWV6b25lKHRpbWV6b25lKCdVUy9QYWNpZmljJykpCiAgICBsb2dnZXIubG9nKCdMb2NhbCBkYXRlICYgdGltZSBpczoge30nLmZvcm1hdChkYXRlLnN0cmZ0aW1lKGRhdGVfZm9ybWF0KSkpCiAgICBmb3IgaSBpbiByYW5nZSh2YXJpYW50WydudW1fc2Vjb25kcyddKToKICAgICAgICBsb2dnZXIubG9nKCJUaWNrLCB7fSIuZm9ybWF0KGkpKQogICAgICAgIHRpbWUuc2xlZXAoMSkKICAgIGxvZ2dlci5sb2coImVuZCIpCiAgICBsb2dnZXIubG9nKCdMb2NhbCBkYXRlICYgdGltZSBpczoge30nLmZvcm1hdChkYXRlLnN0cmZ0aW1lKGRhdGVfZm9ybWF0KSkpCgogICAgbG9nZ2VyLmxvZygic3RhcnQgbXVqb2NvIikKICAgIGZyb20gZ3ltLmVudnMubXVqb2NvIGltcG9ydCBIYWxmQ2hlZXRhaEVudgogICAgZSA9IEhhbGZDaGVldGFoRW52KCkKICAgIGltZyA9IGUuc2ltLnJlbmRlcigzMiwgMzIpCiAgICBsb2dnZXIubG9nKHN0cihzdW0oaW1nKSkpCiAgICBsb2dnZXIubG9nKCJlbmQgbXVqb2NveSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKICAgIGRhdGVfZm9ybWF0ID0gJyVtLyVkLyVZICVIOiVNOiVTICVaJwogICAgZGF0ZSA9IGRhdGV0aW1lLm5vdyh0ej1weXR6LnV0YykKICAgIGxvZ2dlci5sb2coInN0YXJ0IikKICAgIHZhcmlhbnQgPSBkaWN0KAogICAgICAgIG51bV9zZWNvbmRzPTEwLAogICAgICAgIGxhdW5jaF90aW1lPXN0cihkYXRlLnN0cmZ0aW1lKGRhdGVfZm9ybWF0KSksCiAgICApCiAgICBydW5fZXhwZXJpbWVudCgKICAgICAgICBleGFtcGxlLAogICAgICAgIGV4cF9wcmVmaXg9ImVjMi1ncHUtdGVzdC1tai1hbmQtdG9yY2giLAogICAgICAgIG1vZGU9J2VjMicsCiAgICAgICAgdmFyaWFudD12YXJpYW50LAogICAgICAgIHVzZV9ncHU9VHJ1ZSwKICAgICkK</text>
@@ -1152,9 +1154,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search>mnt_args</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
+      <last-pattern>mnt_args</last-pattern>
       <last-replace>generate_vae_dataset_kwargs</last-replace>
       <last-substitute>get_data_kwargs</last-substitute>
       <last-dir>1</last-dir>
@@ -1162,9 +1164,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batch</entry>
-        <entry encoding="base64">XDxkYXRhX2dlblw+</entry>
-        <entry>generated_sample</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZWRfc2FtcGxlc1w+</entry>
         <entry>kls</entry>
         <entry>lambda</entry>
@@ -1182,6 +1181,9 @@
         <entry encoding="base64">XDx1c2Vfc29mdF91cGRhdGVcPg==</entry>
         <entry>setup_lo</entry>
         <entry>Image</entry>
+        <entry>Docker</entry>
+        <entry>extra_args</entry>
+        <entry>mnt_args</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
