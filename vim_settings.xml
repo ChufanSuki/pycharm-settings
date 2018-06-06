@@ -521,10 +521,10 @@
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1527892950602">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="32" column="57" />
-        <mark key="]" line="32" column="57" />
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/config.py" timestamp="1528301534737">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="0" />
         <mark key="." line="32" column="57" />
         <mark key="^" line="32" column="56" />
       </file>
@@ -871,8 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="301" column="18" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="251" column="9" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="363" column="23" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
@@ -971,10 +969,12 @@
       <jump line="401" column="19" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="488" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="567" column="19" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNhdmVfaW5pdF9wYXJhbXMobG9jYWxzKCkpCg==</text>
+        <text encoding="base64">Q09ERV9ESVJTX1RPX01PVU5UID0gWwogICAgJy9ob21lL3ZpdGNoeXIvZ2l0L3JhaWxybC8nLApdCkRJUl9BTkRfTU9VTlRfUE9JTlRfTUFQUElOR1MgPSBbCiAgICBkaWN0KAogICAgICAgIGxvY2FsX2Rpcj0nL2hvbWUvdml0Y2h5ci8ubXVqb2NvLycsCiAgICAgICAgbW91bnRfcG9pbnQ9Jy9yb290Ly5tdWpvY28nLAogICAgKSwKXQpMT0NBTF9MT0dfRElSID0gJy9ob21lL3ZpdGNoeXIvZ2l0L3JhaWxybC9kYXRhL2Rvb2RhZHMzLycKUlVOX0RPT0RBRF9FWFBFUklNRU5UX1NDUklQVF9QQVRIID0gKAogICAgJy9ob21lL3ZpdGNoeXIvZ2l0L3JhaWxybC9zY3JpcHRzL3J1bl9leHBlcmltZW50X2Zyb21fZG9vZGFkLnB5JwopCkFXU19TM19QQVRIID0gJ3MzOi8vMi0xMi0yMDE3LnJhaWxybC52aXRjaHlyLnJhaWwuYnVja2V0L2Rvb2RhZC9sb2dzLTA0LTI1LTIwMTgnCgojIFRoaXMgcmVhbGx5IHNob3VsZG4ndCBtYXR0ZXIgYW5kIGluIHRoZW9yeSBjb3VsZCBiZSB3aGF0ZXZlcgpPVVRQVVRfRElSX0ZPUl9ET09EQURfVEFSR0VUID0gJy90bXAvZG9vZGFkLW91dHB1dC8nCgojIFlvdSBwcm9iYWJseSBkb24ndCBuZWVkIHRvIGNoYW5nZSB0aGluZ3MgYmVsb3cKIyBTcGVjaWZpY2FsbHksIHRoZSBkb2NrZXIgaW1hZ2UgaXMgbG9va2VkIHVwIG9uIGRvY2tlcmh1Yi5jb20uCkRPT0RBRF9ET0NLRVJfSU1BR0UgPSAndml0Y2h5ci9yYWlscmwtdml0Y2h5ci1ncHUtdjMtMicKSU5TVEFOQ0VfVFlQRSA9ICdjNS5sYXJnZScKU1BPVF9QUklDRSA9IDAuMDQKCkdQVV9ET09EQURfRE9DS0VSX0lNQUdFID0gJ3ZpdGNoeXIvcmFpbHJsLXZpdGNoeXItZ3B1LXYzLTInCkdQVV9JTlNUQU5DRV9UWVBFID0gJ2cyLjJ4bGFyZ2UnCkdQVV9TUE9UX1BSSUNFID0gMC40ClJFR0lPTl9UT19HUFVfQVdTX0lNQUdFX0lEID0gewogICAgJ3VzLXdlc3QtMSc6ICJhbWktODc0Mzc4ZTciLAogICAgJ3VzLWVhc3QtMSc6ICJhbWktY2U3M2FkYjEiLAp9CgpHUFVfU0lOR1VMQVJJVFlfSU1BR0UgPSAnL2hvbWUvdml0Y2h5ci9zaW5ndWxhcml0eS9yYWlscmwtdml0Y2h5ci5pbWcnClNJTkdVTEFSSVRZX1BSRV9DTURTID0gWwogICAgJ2V4cG9ydCBMRF9MSUJSQVJZX1BBVEg9JExEX0xJQlJBUllfUEFUSDokSE9NRS8ubXVqb2NvL21qcHJvMTUwL2JpbicKXQo=</text>
       </register>
       <register name="-" type="4">
         <text>=False</text>
