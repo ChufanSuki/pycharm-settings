@@ -489,11 +489,11 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" timestamp="1528397082047">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" timestamp="1528398507095">
+        <mark key="[" line="84" column="20" />
+        <mark key="]" line="84" column="27" />
+        <mark key="^" line="84" column="27" />
+        <mark key="." line="84" column="27" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reacher.py" timestamp="1526194280834">
         <mark key="'" line="21" column="9" />
@@ -514,12 +514,12 @@
         <mark key="^" line="73" column="25" />
         <mark key="." line="106" column="49" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/core/multitask_env.py" timestamp="1528397128687">
-        <mark key="'" line="56" column="36" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/core/multitask_env.py" timestamp="1528398449448">
+        <mark key="'" line="63" column="36" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state/tdm.py" timestamp="1526328763818">
         <mark key="'" line="33" column="4" />
@@ -1081,44 +1081,44 @@
       <jump line="291" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      <register name="&quot;" type="4">
+        <text>_get_obs</text>
       </register>
       <register name="-" type="4">
-        <text>might break t</text>
+        <text>_get_obs</text>
       </register>
       <register name="/" type="4">
         <text>Ant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBnZXRfZ29hbChzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X29icyhzZWxmKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWy0wLjIsIDAuNSwgLTAuMiwgMC41XSksCiAgICAgICAgICAgIG5wLmFycmF5KFswLjIsIDAuNywgMC4yLCAwLjddKSwK</text>
+        <text encoding="base64">ICAgICAgICBoYW5kX2Rpc3RhbmNlID0gbnAubGluYWxnLm5vcm0oCiAgICAgICAgICAgIHNlbGYuZ2V0X2hhbmRfZ29hbF9wb3MoKSAtIHNlbGYuZ2V0X2VuZGVmZl9wb3MoKQogICAgICAgICkKICAgICAgICBwdWNrX2Rpc3RhbmNlID0gbnAubGluYWxnLm5vcm0oCiAgICAgICAgICAgIHNlbGYuZ2V0X3B1Y2tfZ29hbF9wb3MoKSAtIHNlbGYuZ2V0X3B1Y2tfcG9zKCkpCiAgICAgICAgdG91Y2hfZGlzdGFuY2UgPSBucC5saW5hbGcubm9ybSgKICAgICAgICAgICAgc2VsZi5nZXRfZW5kZWZmX3BvcygpIC0gc2VsZi5nZXRfcHVja19wb3MoKSkKICAgICAgICBpbmZvID0gZGljdCgKICAgICAgICAgICAgaGFuZF9kaXN0YW5jZT1oYW5kX2Rpc3RhbmNlLAogICAgICAgICAgICBwdWNrX2Rpc3RhbmNlPXB1Y2tfZGlzdGFuY2UsCiAgICAgICAgICAgIHN1bV9kaXN0YW5jZT1oYW5kX2Rpc3RhbmNlK3B1Y2tfZGlzdGFuY2UsCiAgICAgICAgICAgIHRvdWNoX2Rpc3RhbmNlPXRvdWNoX2Rpc3RhbmNlLAogICAgICAgICAgICBzdWNjZXNzPWZsb2F0KGhhbmRfZGlzdGFuY2UgKyBwdWNrX2Rpc3RhbmNlIDwgMC4wNiksCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpjbGFzcyBTYXd5ZXJQdXNoQW5kUmVhY2hYWUVhc3lFbnYoU2F3eWVyUHVzaEFuZFJlYWNoWFlFbnYpOgogICAgIiIiCiAgICBBbHdheXMgc3RhcnQgdGhlIGJsb2NrIGluIHRoZSBzYW1lIHBvc2l0aW9uCiAgICAiIiIKICAgIFBVQ0tfR09BTF9MT1cgPSBucC5hcnJheShbLTAuMiwgMC41XSkKICAgIFBVQ0tfR09BTF9ISUdIID0gbnAuYXJyYXkoWzAuMiwgMC43XSkKCiAgICBkZWYgc2FtcGxlX3B1Y2tfeHkoc2VsZik6CiAgICAgICAgcmV0dXJuIG5wLmFycmF5KFswLCAwLjZdKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X29icyhzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaWFnbm9zdGljcyhzZWxmLCBwYXRocywgcHJlZml4PScnKToKICAgICAgICBzdGF0aXN0aWNzID0gT3JkZXJlZERpY3QoKQogICAgICAgIGZvciBzdGF0X25hbWUgaW4gWwogICAgICAgICAgICAnaGFuZF9kaXN0YW5jZScsCiAgICAgICAgICAgICdwdWNrX2Rpc3RhbmNlJywKICAgICAgICAgICAgJ3N1bV9kaXN0YW5jZScsCiAgICAgICAgICAgICd0b3VjaF9kaXN0YW5jZScsCiAgICAgICAgICAgICdzdWNjZXNzJywKICAgICAgICBdOgogICAgICAgICAgICBzdGF0X25hbWUgPSBzdGF0X25hbWUKICAgICAgICAgICAgc3RhdCA9IGdldF9zdGF0X2luX3BhdGhzKHBhdGhzLCAnZW52X2luZm9zJywgc3RhdF9uYW1lKQogICAgICAgICAgICBzdGF0aXN0aWNzLnVwZGF0ZShjcmVhdGVfc3RhdHNfb3JkZXJlZF9kaWN0KAogICAgICAgICAgICAgICAgJyVzJXMnICUgKHByZWZpeCwgc3RhdF9uYW1lKSwKICAgICAgICAgICAgICAgIHN0YXQsCiAgICAgICAgICAgICAgICBhbHdheXNfc2hvd19hbGxfc3RhdHM9VHJ1ZSwKICAgICAgICAgICAgKSkKICAgICAgICAgICAgc3RhdGlzdGljcy51cGRhdGUoY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdCgKICAgICAgICAgICAgICAgICdGaW5hbCAlcyVzJyAlIChwcmVmaXgsIHN0YXRfbmFtZSksCiAgICAgICAgICAgICAgICBbc1stMV0gZm9yIHMgaW4gc3RhdF0sCiAgICAgICAgICAgICAgICBhbHdheXNfc2hvd19hbGxfc3RhdHM9VHJ1ZSwKICAgICAgICAgICAgKSkKICAgICAgICByZXR1cm4gc3RhdGlzdGljcwoK</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWy0wLjIsIDAuNSwgLTAuMiwgMC41XSksCiAgICAgICAgICAgIG5wLmFycmF5KFswLjIsIDAuNywgMC4yLCAwLjddKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcmVzZXRfaGFuZChzZWxmKToKICAgICAgICBzZWxmLnNldF9oYW5kX3h5KCgwLCAwLjUpKQogICAgICAgIAo=</text>
+        <text encoding="base64">CgpjbGFzcyBTYXd5ZXJQdXNoQW5kUmVhY2hYWUVhc3lFbnYoU2F3eWVyUHVzaEFuZFJlYWNoWFlFbnYpOgogICAgIiIiCiAgICBBbHdheXMgc3RhcnQgdGhlIGJsb2NrIGluIHRoZSBzYW1lIHBvc2l0aW9uCiAgICAiIiIKICAgIFBVQ0tfR09BTF9MT1cgPSBucC5hcnJheShbLTAuMiwgMC41XSkKICAgIFBVQ0tfR09BTF9ISUdIID0gbnAuYXJyYXkoWzAuMiwgMC43XSkKCiAgICBkZWYgc2FtcGxlX3B1Y2tfeHkoc2VsZik6CiAgICAgICAgcmV0dXJuIG5wLmFycmF5KFswLCAwLjZdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWxvY2l0aWVzID0gc2VsZi5kYXRhLnF2ZWwuY29weSgpCiAgICAgICAgYW5nbGVzID0gbnAuYXJyYXkoc2VsZi5pbml0X2FuZ2xlcykKICAgICAgICBzZWxmLnNldF9zdGF0ZShhbmdsZXMuZmxhdHRlbigpLCB2ZWxvY2l0aWVzLmZsYXR0ZW4oKSkKICAgICAgICBmb3IgXyBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcG9zKCdtb2NhcCcsIHNlbGYuSU5JVF9IQU5EX1BPUykKICAgICAgICAgICAgc2VsZi5kYXRhLnNldF9tb2NhcF9xdWF0KCdtb2NhcCcsIG5wLmFycmF5KFsxLCAwLCAxLCAwXSkpCiAgICAgICAgIyBzZXRfc3RhdGUgcmVzZXRzIHRoZSBnb2FsIHh5LCBzbyB3ZSBuZWVkIHRvIGV4cGxpY2l0IHNldCBpdCBhZ2Fpbgo=</text>
+        <text encoding="base64">ICAgIGRlZiBkaWFnbm9zdGljcyhzZWxmLCBwYXRocywgcHJlZml4PScnKToKICAgICAgICBzdGF0aXN0aWNzID0gT3JkZXJlZERpY3QoKQogICAgICAgIGZvciBzdGF0X25hbWUgaW4gWwogICAgICAgICAgICAnaGFuZF9kaXN0YW5jZScsCiAgICAgICAgICAgICdwdWNrX2Rpc3RhbmNlJywKICAgICAgICAgICAgJ3N1bV9kaXN0YW5jZScsCiAgICAgICAgICAgICd0b3VjaF9kaXN0YW5jZScsCiAgICAgICAgICAgICdzdWNjZXNzJywKICAgICAgICBdOgogICAgICAgICAgICBzdGF0X25hbWUgPSBzdGF0X25hbWUKICAgICAgICAgICAgc3RhdCA9IGdldF9zdGF0X2luX3BhdGhzKHBhdGhzLCAnZW52X2luZm9zJywgc3RhdF9uYW1lKQogICAgICAgICAgICBzdGF0aXN0aWNzLnVwZGF0ZShjcmVhdGVfc3RhdHNfb3JkZXJlZF9kaWN0KAogICAgICAgICAgICAgICAgJyVzJXMnICUgKHByZWZpeCwgc3RhdF9uYW1lKSwKICAgICAgICAgICAgICAgIHN0YXQsCiAgICAgICAgICAgICAgICBhbHdheXNfc2hvd19hbGxfc3RhdHM9VHJ1ZSwKICAgICAgICAgICAgKSkKICAgICAgICAgICAgc3RhdGlzdGljcy51cGRhdGUoY3JlYXRlX3N0YXRzX29yZGVyZWRfZGljdCgKICAgICAgICAgICAgICAgICdGaW5hbCAlcyVzJyAlIChwcmVmaXgsIHN0YXRfbmFtZSksCiAgICAgICAgICAgICAgICBbc1stMV0gZm9yIHMgaW4gc3RhdF0sCiAgICAgICAgICAgICAgICBhbHdheXNfc2hvd19hbGxfc3RhdHM9VHJ1ZSwKICAgICAgICAgICAgKSkKICAgICAgICByZXR1cm4gc3RhdGlzdGljcwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfaGFuZF94eShzZWxmLCB4eSk6CiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMTApOgogICAgICAgICAgICBzZWxmLmRhdGEuc2V0X21vY2FwX3BvcygnbW9jYXAnLCBucC5hcnJheShbeHlbMF0sIHh5WzFdLCAwLjAyXSkpCiAgICAgICAgICAgIHNlbGYuZGF0YS5zZXRfbW9jYXBfcXVhdCgnbW9jYXAnLCBucC5hcnJheShbMSwgMCwgMSwgMF0pKQogICAgICAgICAgICB1ID0gbnAuemVyb3MoNykKICAgICAgICAgICAgc2VsZi5kb19zaW11bGF0aW9uKHUsIHNlbGYuZnJhbWVfc2tpcCkKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
