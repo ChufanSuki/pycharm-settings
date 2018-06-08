@@ -10,12 +10,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" timestamp="1528426134076">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" timestamp="1528427453924">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="76" />
+        <mark key="." line="18" column="76" />
+        <mark key="^" line="18" column="76" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/sac.py" timestamp="1524104961898">
         <mark key="'" line="98" column="29" />
@@ -217,12 +217,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/state_distance/tdm_td3.py" timestamp="1528153415587">
         <mark key="'" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" timestamp="1528425712237">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="127" column="56" />
-        <mark key="]" line="127" column="59" />
-        <mark key="." line="127" column="59" />
-        <mark key="^" line="127" column="59" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" timestamp="1528427552050">
+        <mark key="'" line="129" column="71" />
+        <mark key="[" line="129" column="74" />
+        <mark key="]" line="129" column="62" />
+        <mark key="^" line="129" column="62" />
+        <mark key="." line="129" column="62" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_ddpg.py" timestamp="1524028998191">
         <mark key="'" line="14" column="0" />
@@ -575,7 +575,7 @@
         <mark key="^" line="56" column="48" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" timestamp="1528425702667">
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" timestamp="1528427631667">
         <mark key="'" line="53" column="57" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="13" column="2" />
@@ -937,9 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="57" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/assets/fetch/robot.xml" />
-      <jump line="43" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/assets/fetch/shared.xml" />
-      <jump line="38" column="28" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/assets/fetch/shared.xml" />
       <jump line="1" column="10" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/assets/fetch/robot.xml" />
       <jump line="177" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" />
@@ -1004,7 +1001,6 @@
       <jump line="29" column="24" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
       <jump line="72" column="25" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
       <jump line="115" column="46" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
-      <jump line="138" column="53" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
       <jump line="2672" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/generated/wrappers.pxi" />
       <jump line="2432" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/generated/wrappers.pxi" />
       <jump line="2433" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/generated/wrappers.pxi" />
@@ -1031,61 +1027,65 @@
       <jump line="51" column="39" filename="$USER_HOME$/git/multiworld/scripts/keyboard_control.py" />
       <jump line="43" column="20" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
       <jump line="129" column="8" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
-      <jump line="53" column="57" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" />
       <jump line="6" column="4" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_puck_push.xml" />
       <jump line="45" column="14" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
       <jump line="13" column="30" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" />
       <jump line="18" column="31" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" />
       <jump line="1831" column="8" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/generated/wrappers.pxi" />
+      <jump line="138" column="43" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
+      <jump line="173" column="10" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
+      <jump line="129" column="71" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
+      <jump line="53" column="57" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChuZXcgc3R1ZmYpCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgcG9zX2RlbHRh</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>sim</text>
+        <text>weld</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfbW9jYXBfcG9zID0gc2VsZi5kYXRhLm1vY2FwX3BvcyArIHBvc19kZWx0YQo=</text>
+        <text encoding="base64">ICAgICAgICA8c2l0ZSBwb3M9IjAgMCAwIiByZ2JhPSIwLjAgMC41IDAuNSAxIiBzaXplPSIwLjAxIiB0eXBlPSJzcGhlcmUiPjwvc2l0ZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChuZXcgc3R1ZmYpCg==</text>
+        <text encoding="base64">ICAgIDxib2R5IG1vY2FwPSJ0cnVlIiBuYW1lPSJtb2NhcCIgcG9zPSIwIDAgMCI+CiAgICAgICAgPCEtLUZvciBkZWJ1Z2dpbmcsIHNldCB0aGUgYWxwaGEgdG8gMS0tPgogICAgICAgIDxnZW9tIGNvbmFmZmluaXR5PSIwIiBjb250eXBlPSIwIiBwb3M9IjAgMCAwIiByZ2JhPSIwLjUgMC41IDAuNSAwIiBzaXplPSIwLjEgMC4wMiAwLjAyIiB0eXBlPSJib3giPjwvZ2VvbT4KICAgIDwvYm9keT4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBlbmRlZmZfaWQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubW9kZWwuYm9keV9uYW1lcy5pbmRleCgnbGVmdGNsYXcnKQo=</text>
+        <text encoding="base64">ICAgIChuZXcgc3R1ZmYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImdvdCBjaGFyOiIsIGNoYXIpCiAgICAgICAgICAgIHByaW50KCJhY3Rpb24iLCBhY3Rpb24pCg==</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBlbmRlZmZfaWQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubW9kZWwuYm9keV9uYW1lcy5pbmRleCgnbGVmdGNsYXcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImdvdCBjaGFyOiIsIGNoYXIpCiAgICAgICAgICAgIHByaW50KCJhY3Rpb24iLCBhY3Rpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMS53ZWlnaHQuZGF0YVs6XSA9IC4uCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZjMS53ZWlnaHQuZGF0YVs6XSA9IC4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ29hbFs6Ml0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxcG9zID0gc2VsZi5kYXRhLnFwb3MuZmxhdC5jb3B5KCkKICAgICAgICBxdmVsID0gc2VsZi5kYXRhLnF2ZWwuZmxhdC5jb3B5KCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHFwb3NbMTQ6MTddID0gbnAuaHN0YWNrKChoYW5kX2dvYWwuY29weSgpLCBucC5hcnJheShbMC4wMl0pKSkKICAgICAgICBxdmVsWzE0OjE3XSA9IFswLCAwLCAwXQogICAgICAgIHFwb3NbMjE6MjRdID0gbnAuaHN0YWNrKChwdWNrX2dvYWwuY29weSgpLCBucC5hcnJheShbMC4wMl0pKSkKICAgICAgICBxdmVsWzIxOjI0XSA9IFswLCAwLCAwXQogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ29hbFs6Ml0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kX2dvYWwgPSBnb2FsWzoyXQogICAgICAgIHB1Y2tfZ29hbCA9IGdvYWxbLTI6XQo=</text>
+        <text encoding="base64">ICAgICAgICBxcG9zID0gc2VsZi5kYXRhLnFwb3MuZmxhdC5jb3B5KCkKICAgICAgICBxdmVsID0gc2VsZi5kYXRhLnF2ZWwuZmxhdC5jb3B5KCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHFwb3NbMTQ6MTddID0gbnAuaHN0YWNrKChoYW5kX2dvYWwuY29weSgpLCBucC5hcnJheShbMC4wMl0pKSkKICAgICAgICBxdmVsWzE0OjE3XSA9IFswLCAwLCAwXQogICAgICAgIHFwb3NbMjE6MjRdID0gbnAuaHN0YWNrKChwdWNrX2dvYWwuY29weSgpLCBucC5hcnJheShbMC4wMl0pKSkKICAgICAgICBxdmVsWzIxOjI0XSA9IFswLCAwLCAwXQogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sim</last-search>
+      <last-search>weld</last-search>
       <last-offset />
-      <last-pattern>sim</last-pattern>
+      <last-pattern>weld</last-pattern>
       <last-replace>action_scale</last-replace>
       <last-substitute>pos_action_scale</last-substitute>
       <last-dir>1</last-dir>
@@ -1093,7 +1093,6 @@
     </search>
     <history>
       <history-search>
-        <entry>six</entry>
         <entry>reset_model</entry>
         <entry encoding="base64">XDx2aWV3ZXJfc2V0dXBcPg==</entry>
         <entry>def reset</entry>
@@ -1110,12 +1109,12 @@
         <entry encoding="base64">XDxuZXdfYWN0aW9uXD4=</entry>
         <entry>ipdb</entry>
         <entry>get_body</entry>
-        <entry>weld</entry>
         <entry>hand</entry>
         <entry>sim</entry>
+        <entry>mocap</entry>
+        <entry>weld</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>344</entry>
         <entry>75</entry>
         <entry>160</entry>
@@ -1134,6 +1133,7 @@
         <entry>102</entry>
         <entry>137</entry>
         <entry>q</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
