@@ -52,8 +52,16 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/core/logger.py" timestamp="1527824101574">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/env_utils.py" timestamp="1528393288863">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/core/logger.py" timestamp="1528480360587">
+        <mark key="'" line="89" column="60" />
+        <mark key="[" line="90" column="7" />
+        <mark key="]" line="90" column="7" />
+        <mark key="^" line="83" column="57" />
+        <mark key="." line="90" column="30" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/reward_type/tdm_td3.py" timestamp="1526527890988">
         <mark key="'" line="128" column="12" />
@@ -78,6 +86,10 @@
         <mark key="]" line="14" column="22" />
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/wrappers.py" timestamp="1528392624725">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="53" column="50" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch/reach.py" timestamp="1528416626993">
         <mark key="'" line="4" column="31" />
@@ -105,6 +117,12 @@
         <mark key="]" line="64" column="22" />
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_push_puck.xml" timestamp="1528394469809">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/test_render.py" timestamp="1524186033688">
         <mark key="'" line="6" column="10" />
@@ -158,8 +176,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_variable_data.py" timestamp="1527117743079">
-        <mark key="'" line="11" column="39" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_push_new_easy.py" timestamp="1528479836937">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="77" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_variable_data.py" timestamp="1528480118623">
+        <mark key="'" line="40" column="15" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="62" column="29" />
         <mark key="." line="54" column="0" />
@@ -167,6 +189,10 @@
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/autograd/variable.py" timestamp="1528431787586">
         <mark key="'" line="113" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/misc/plot_util.py" timestamp="1528322633799">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="244" column="1" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" timestamp="1524074410939">
         <mark key="'" line="26" column="29" />
@@ -188,6 +214,11 @@
         <mark key="]" line="168" column="0" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="168" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/core/serializable.py" timestamp="1528392651704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_pusher/reward_type/sparse_her_td3.py" timestamp="1526532670299">
         <mark key="'" line="99" column="12" />
@@ -272,6 +303,11 @@
         <mark key="^" line="172" column="30" />
         <mark key="." line="172" column="30" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/robot_env.py" timestamp="1528413503878">
+        <mark key="'" line="14" column="20" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="22" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_push/her_td3.py" timestamp="1527712862999">
         <mark key="'" line="31" column="30" />
         <mark key="[" line="18" column="0" />
@@ -286,18 +322,25 @@
         <mark key="." line="59" column="18" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" timestamp="1528477828901">
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_and_reach_env.py" timestamp="1528478422152">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="43" />
         <mark key="^" line="357" column="33" />
         <mark key="." line="257" column="41" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1528424890495">
-        <mark key="'" line="334" column="29" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="401" column="0" />
-        <mark key="." line="401" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1528479637738">
+        <mark key="'" line="250" column="20" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="8" />
+        <mark key="." line="251" column="8" />
+        <mark key="^" line="249" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" timestamp="1528480715505">
+        <mark key="'" line="53" column="33" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/ae_vs_vae/vae.py" timestamp="1526611697383">
         <mark key="'" line="86" column="8" />
@@ -484,6 +527,11 @@
         <mark key="^" line="57" column="29" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/misc/eval_util.py" timestamp="1528396216691">
+        <mark key="'" line="4" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="102" column="4" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/baselines/her_ddpg.py" timestamp="1524631680198">
         <mark key="'" line="74" column="36" />
         <mark key="[" line="100" column="0" />
@@ -505,13 +553,23 @@
         <mark key="^" line="53" column="9" />
         <mark key="." line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/pytorch_util.py" timestamp="1528424895520" />
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_td3.py" timestamp="1524104326234">
         <mark key="'" line="4" column="48" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="43" />
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/keyboard_control.py" timestamp="1528395812858">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/experiments/vitchyr/multitask.py" timestamp="1528320438565">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_reacher.py" timestamp="1526618140100">
         <mark key="'" line="12" column="49" />
@@ -537,11 +595,10 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/generated/wrappers.pxi" timestamp="1528424503678">
-        <mark key="'" line="2590" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" timestamp="1527222338128">
+      <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" timestamp="1528480120107">
         <mark key="'" line="508" column="16" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="487" column="38" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/test_render.py" timestamp="1524076495617">
         <mark key="'" line="29" column="26" />
@@ -578,6 +635,12 @@
         <mark key="^" line="56" column="48" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/git/multiworld/multiworld/core/wrapper_env.py" timestamp="1528392716596">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" timestamp="1528434623070">
         <mark key="'" line="53" column="57" />
         <mark key="[" line="53" column="53" />
@@ -599,12 +662,22 @@
         <mark key="." line="32" column="57" />
         <mark key="^" line="32" column="56" />
       </file>
+      <file name="$USER_HOME$/git/railrl/docker/singularity/Singularity" timestamp="1528168757005">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_reach/tdm_td3.py" timestamp="1526360357067">
         <mark key="'" line="52" column="17" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="36" />
         <mark key="." line="73" column="37" />
         <mark key="^" line="73" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/tdm_td3.py" timestamp="1528479149933">
+        <mark key="'" line="131" column="16" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="74" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/mujoco_torch/core/bridge.py" timestamp="1524209403995">
         <mark key="'" line="3" column="0" />
@@ -613,8 +686,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1528307944995">
-        <mark key="'" line="47" column="32" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" timestamp="1528479058729">
+        <mark key="'" line="171" column="20" />
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
@@ -648,6 +721,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1528480294810">
+        <mark key="'" line="667" column="29" />
+        <mark key="[" line="662" column="0" />
+        <mark key="]" line="662" column="57" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_push_reset_free.py" timestamp="1527118837843">
         <mark key="'" line="25" column="27" />
         <mark key="[" line="51" column="65" />
@@ -668,6 +746,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="17" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/envs/multitask/multitask_env.py" timestamp="1528392173628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="433" column="42" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_reacher/her_td3.py" timestamp="1526622659358">
         <mark key="'" line="33" column="0" />
@@ -798,8 +881,11 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.1/system/python_stubs/1918714723/torch/_C/_VariableBase.py" timestamp="1528432511991">
+      <file name="$USER_HOME$/.PyCharm2018.1/system/python_stubs/1918714723/torch/_C/_VariableBase.py" timestamp="1528478466225">
         <mark key="[" line="663" column="5" />
+        <mark key="]" line="663" column="3" />
+        <mark key="^" line="663" column="3" />
+        <mark key="." line="663" column="3" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/docker/Dockerfile" timestamp="1524196670158">
         <mark key="'" line="6" column="12" />
@@ -807,6 +893,11 @@
         <mark key="]" line="92" column="46" />
         <mark key="." line="92" column="46" />
         <mark key="^" line="92" column="46" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/assets/fetch/push.xml" timestamp="1528394784725">
+        <mark key="'" line="30" column="16" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer3d_reach_data.py" timestamp="1524638099003">
         <mark key="'" line="23" column="22" />
@@ -835,6 +926,10 @@
         <mark key="]" line="100" column="47" />
         <mark key="." line="103" column="45" />
         <mark key="^" line="103" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" timestamp="1528479140283">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="63" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_state_sawyer_reach/tdm_ddpg.py" timestamp="1526343300792">
         <mark key="'" line="73" column="0" />
@@ -913,6 +1008,13 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" timestamp="1528480706434">
+        <mark key="'" line="135" column="30" />
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="93" column="51" />
+        <mark key="^" line="93" column="51" />
+        <mark key="." line="93" column="51" />
+      </file>
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_limited_xy_env.py" timestamp="1527031978206">
         <mark key="'" line="55" column="31" />
         <mark key="[" line="65" column="21" />
@@ -943,40 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
-      <jump line="172" column="10" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
-      <jump line="123" column="64" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base.xml" />
-      <jump line="192" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="49" column="33" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="168" column="64" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="271" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="246" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="244" column="24" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="242" column="25" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="240" column="20" filename="$USER_HOME$/git/railrl/railrl/envs/assets/sawyer_push_and_reach_mocap.xml" />
-      <jump line="101" column="27" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="127" column="8" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="104" column="17" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="95" column="17" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="102" column="75" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="97" column="26" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="105" column="45" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="120" column="25" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="96" column="29" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="103" column="69" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="89" column="23" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="50" column="19" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/core.py" />
-      <jump line="4" column="31" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch/reach.py" />
-      <jump line="10" column="26" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch_env.py" />
-      <jump line="16" column="6" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="7" column="7" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
-      <jump line="64" column="8" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
-      <jump line="83" column="18" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
       <jump line="71" column="8" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
       <jump line="85" column="17" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
       <jump line="125" column="17" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/mujoco_env.py" />
@@ -1043,55 +1111,89 @@
       <jump line="53" column="57" filename="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/shared_config.xml" />
       <jump line="59" column="17" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/autograd/variable.py" />
       <jump line="113" column="21" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/autograd/variable.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="613" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="636" column="11" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="662" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="667" column="29" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="171" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/vae/relabeled_vae_experiment.py" />
+      <jump line="131" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/tdm_td3.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="35" column="9" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="36" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="249" column="4" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="38" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="80" column="11" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="250" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="240" column="29" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="162" column="4" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="171" column="26" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="21" column="14" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_new_easy_data.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" />
+      <jump line="484" column="8" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_variable_data.py" />
+      <jump line="57" column="30" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" />
+      <jump line="40" column="15" filename="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_variable_data.py" />
+      <jump line="486" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_push_env.py" />
+      <jump line="15" column="67" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" />
+      <jump line="129" column="30" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" />
+      <jump line="83" column="57" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="84" column="30" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="89" column="60" filename="$USER_HOME$/git/railrl/railrl/core/logger.py" />
+      <jump line="49" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="53" column="76" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="54" column="33" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, 4, 8],</text>
       </register>
       <register name="/" type="4">
-        <text>weld</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2l0ZSBwb3M9IjAgMCAwIiByZ2JhPSIwLjAgMC41IDAuNSAxIiBzaXplPSIwLjAxIiB0eXBlPSJzcGhlcmUiPjwvc2l0ZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX251bV9zdGVwc19iZWZvcmVfdHJhaW5pbmc9MTAwMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxib2R5IG1vY2FwPSJ0cnVlIiBuYW1lPSJtb2NhcCIgcG9zPSIwIDAgMCI+CiAgICAgICAgPCEtLUZvciBkZWJ1Z2dpbmcsIHNldCB0aGUgYWxwaGEgdG8gMS0tPgogICAgICAgIDxnZW9tIGNvbmFmZmluaXR5PSIwIiBjb250eXBlPSIwIiBwb3M9IjAgMCAwIiByZ2JhPSIwLjUgMC41IDAuNSAwIiBzaXplPSIwLjEgMC4wMiAwLjAyIiB0eXBlPSJib3giPjwvZ2VvbT4KICAgIDwvYm9keT4KCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChuZXcgc3R1ZmYpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBlbmRlZmZfaWQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubW9kZWwuYm9keV9uYW1lcy5pbmRleCgnbGVmdGNsYXcnKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImdvdCBjaGFyOiIsIGNoYXIpCiAgICAgICAgICAgIHByaW50KCJhY3Rpb24iLCBhY3Rpb24pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZyb20gcmFpbHJsLmNvcmUgaW1wb3J0IGxvZ2dlcgogICAgbG9nZ2VyLnJlbW92ZV90YWJ1bGFyX291dHB1dCgncHJvZ3Jlc3MuY3N2JykKICAgIGxvZ2dlci5hZGRfdGFidWxhcl9vdXRwdXQoJ3ZhZV9wcm9ncmVzcy5jc3YnKQogICAgdHJhaW5fdmFlKHZhcmlhbnRbJ3RyYWluX3ZhZV92YXJpYW50J10pCgogICAgbG9nZ2VyLnJlbW92ZV90YWJ1bGFyX291dHB1dCgndmFlX3Byb2dyZXNzLmNzdicpCiAgICBsb2dnZXIuYWRkX3RhYnVsYXJfb3V0cHV0KCdwcm9ncmVzcy5jc3YnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9fc2NhdHRlcnBsb3Q9RmFsc2UsCiAgICAgICAgICAgIGxyPTFlLTMsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWVfcGF0aHM9dmFlX3BhdGhzLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMS53ZWlnaHQuZGF0YVs6XSA9IC4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZXdhcmRfaW5mbz1kaWN0KAogICAgICAgICAgICAjICAgICB0eXBlPSJzaGFwZWQiLAogICAgICAgICAgICAjICksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnLXN3ZWVwLTInCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ29hbFs6Ml0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxcG9zID0gc2VsZi5kYXRhLnFwb3MuZmxhdC5jb3B5KCkKICAgICAgICBxdmVsID0gc2VsZi5kYXRhLnF2ZWwuZmxhdC5jb3B5KCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgICAgIHFwb3NbMTQ6MTddID0gbnAuaHN0YWNrKChoYW5kX2dvYWwuY29weSgpLCBucC5hcnJheShbMC4wMl0pKSkKICAgICAgICBxdmVsWzE0OjE3XSA9IFswLCAwLCAwXQogICAgICAgIHFwb3NbMjE6MjRdID0gbnAuaHN0YWNrKChwdWNrX2dvYWwuY29weSgpLCBucC5hcnJheShbMC4wMl0pKSkKICAgICAgICBxdmVsWzIxOjI0XSA9IFswLCAwLCAwXQogICAgICAgIHNlbGYuc2V0X3N0YXRlKHFwb3MsIHF2ZWwpCg==</text>
+        <text encoding="base64">ICAgICMgem9vbWVkX2luX3BhdGggPSAiMDUtMjItdmFlLXNhd3llci1uZXctcHVzaC1lYXN5LXpvb21lZC1pbi0xMDAwXzIwMThfMDVfMjJfMTNfMDlfMjhfMDAwMC0tcy05ODY4Mi1yMTYvcGFyYW1zLnBrbCIKICAgICMgem9vbWVkX291dF9wYXRoID0gIjA1LTIyLXZhZS1zYXd5ZXItbmV3LXB1c2gtZWFzeS1uby16b29tLTEwMDBfMjAxOF8wNV8yMl8xM18xMF80M18wMDAwLS1zLTMwMDM5LXIxNi9wYXJhbXMucGtsIgogICAgem9vbWVkX2luX3BhdGggPSAiMDUtMjItdmFlLXNhd3llci12YXJpYWJsZS16b29tZWQtaW4vMDUtMjItdmFlLXNhd3llciIgXAogICAgICAgICAgICAgICAgICAgICAiLXZhcmlhYmxlLXpvb21lZC1pbl8yMDE4XzA1XzIyXzIwXzU2XzExXzAwMDAtLXMtMTA2OTAiIFwKICAgICAgICAgICAgICAgICAgICAgIi1yMTYvcGFyYW1zLnBrbCIKICAgICMgem9vbWVkX291dF9wYXRoID0gKAogICAgICAgICMgIjA1LTIyLXZhZS1zYXd5ZXItdmFyaWFibGUtbm8tem9vbV8yMDE4XzA1XzIyXzIxXzQ2XzU0XzAwMDAtLXMtNzY4NDQiCiAgICAgICAgIyAiLXIxNnBhcmFtcy5wa2wiCiAgICAjICkKICAgIHpvb21lZF9vdXRfcGF0aCA9ICgKICAgICAgICAiMDUtMjItdmFlLXNhd3llci12YXJpYWJsZS1uby16b29tLTMwMC1lcG9jaHNfMjAxOF8wNV8yMl8yMV81NV80MV8wMDAwLS1zLTQ4MDUyLXIxNiIKICAgICAgICAiL3BhcmFtcy5wa2wiCiAgICApCgogICAgdmFlX3BhdGhzID0gewogICAgICAgICMgIjQiOiAiMDUtMTItdmFlLXNhd3llci1uZXctcHVzaC1lYXN5LTMvMDUtMTItdmFlLXNhd3llci1uZXctcHVzaC1lYXN5IgogICAgICAgICMgICAgICAgIi0zXzIwMThfMDVfMTJfMDJfMDBfMDFfMDAwMC0tcy05MTUyNC1yNC9wYXJhbXMucGtsIiwKICAgICAgICAjICIxNiI6ICIwNS0xMi12YWUtc2F3eWVyLW5ldy1wdXNoLWVhc3ktMy8wNS0xMi12YWUtc2F3eWVyLW5ldy1wdXNoIgogICAgICAgICAgICAgICMgIi1lYXN5LTNfMjAxOF8wNV8xMl8wMl8zM181NF8wMDAwLS1zLTE5MzctcjE2L3BhcmFtcy5wa2wiLAogICAgICAgICMgIjE2IjogIjA1LTIzLXZhZS1zYXd5ZXItdmFyaWFibGUtem9vbWVkLW91dC1zd2VlcC8wNS0yMy12YWUtc2F3eWVyLXZhcmlhYmxlLXpvb21lZC1vdXQtc3dlZXAtaWQwLXMzMTk1Mi1uSW1nLTEwMDAtLWNhbS1zYXd5ZXJfaW5pdF9jYW1lcmFfem9vbWVkX291dF9maXhlZC9wYXJhbXMucGtsIiwKICAgICAgICAjICIxNiI6ICIwNS0yMy12YWUtc2F3eWVyLXZhcmlhYmxlLXpvb21lZC1vdXQtc3dlZXAvMDUtMjMtdmFlLXNhd3llci12YXJpYWJsZS16b29tZWQtb3V0LXN3ZWVwLWlkMC1zNTI5NTEtbkltZy0xMDAwLS1jYW0tc2F3eWVyX2luaXRfY2FtZXJhX3pvb21lZF9vdXRfZml4ZWQvcGFyYW1zLnBrbCIsCiAgICAgICAgIjE2IjogIjA1LTIzLXZhZS1zYXd5ZXItdmFyaWFibGUtZml4ZWQtMi8wNS0yMy12YWUtc2F3eWVyLXZhcmlhYmxlIgogICAgICAgICAgICAgICItZml4ZWQtMl8yMDE4XzA1XzIzXzE2XzE5XzMzXzAwMDAtLXMtMjkzLW5JbWctMTAwMC0tY2FtLXNhd3llcl9pbml0X2NhbWVyYV96b29tZWRfaW5fZml4ZWQvcGFyYW1zLnBrbCIsCiAgICAgICAgIyAiMTZiIjogem9vbWVkX2luX3BhdGgsCiAgICAgICAgIyAiNjQiOiAiMDUtMTItdmFlLXNhd3llci1uZXctcHVzaC1lYXN5LTMvMDUtMTItdmFlLXNhd3llci1uZXctcHVzaCIKICAgICAgICAjICAgICAgICItZWFzeS0zXzIwMThfMDVfMTJfMDNfMDZfMjBfMDAwMC0tcy0zMzE3Ni1yNjQvcGFyYW1zLnBrbCIsCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>weld</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>weld</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>action_scale</last-replace>
       <last-substitute>pos_action_scale</last-substitute>
       <last-dir>1</last-dir>
@@ -1099,29 +1201,28 @@
     </search>
     <history>
       <history-search>
-        <entry>reset_model</entry>
-        <entry encoding="base64">XDx2aWV3ZXJfc2V0dXBcPg==</entry>
-        <entry>def reset</entry>
-        <entry encoding="base64">XDxzZXRfc3RhdGVcPg==</entry>
-        <entry>do_simulation</entry>
-        <entry>frame_skip</entry>
-        <entry>self.sample_goal</entry>
-        <entry>site</entry>
-        <entry>get_site_xpos</entry>
-        <entry encoding="base64">XDxnZXRfc2l0ZV94cG9zXD4=</entry>
         <entry encoding="base64">XDxfc2l0ZV94cG9zXD4=</entry>
         <entry>pos_delta</entry>
         <entry>action</entry>
         <entry encoding="base64">XDxuZXdfYWN0aW9uXD4=</entry>
-        <entry>ipdb</entry>
         <entry>get_body</entry>
         <entry>hand</entry>
         <entry>sim</entry>
         <entry>mocap</entry>
         <entry>weld</entry>
+        <entry>progress.csv</entry>
+        <entry encoding="base64">XDx0YWJ1bGFyX2xvZ19maWxlXD4=</entry>
+        <entry encoding="base64">XDx0YWJ1bGFyX2xvZ19wYXRoXD4=</entry>
+        <entry encoding="base64">XDxhZGRfdGFidWxhcl9vdXRwdXRcPg==</entry>
+        <entry encoding="base64">XDx0ZG1fdGQzX3ZhZV9leHBlcmltZW50XD4=</entry>
+        <entry>save_</entry>
+        <entry>logger</entry>
+        <entry>save_extr</entry>
+        <entry>save</entry>
+        <entry>relative</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
-        <entry>344</entry>
         <entry>75</entry>
         <entry>160</entry>
         <entry>384</entry>
@@ -1138,8 +1239,9 @@
         <entry>43</entry>
         <entry>102</entry>
         <entry>137</entry>
-        <entry>q</entry>
         <entry>w'</entry>
+        <entry>82</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
