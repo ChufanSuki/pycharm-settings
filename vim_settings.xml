@@ -502,12 +502,12 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" timestamp="1528523435071">
-        <mark key="'" line="229" column="13" />
-        <mark key="[" line="171" column="32" />
-        <mark key="]" line="171" column="35" />
-        <mark key="." line="171" column="35" />
-        <mark key="^" line="171" column="35" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" timestamp="1528525162227">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/vae/sawyer_reacher.py" timestamp="1526194280834">
         <mark key="'" line="21" column="9" />
@@ -674,12 +674,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" timestamp="1528523439454">
-        <mark key="'" line="139" column="32" />
-        <mark key="[" line="120" column="32" />
-        <mark key="]" line="120" column="35" />
-        <mark key="^" line="120" column="35" />
-        <mark key="." line="120" column="35" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" timestamp="1528525138225">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_push_and_reach/her_td3.py" timestamp="1526276432269">
         <mark key="'" line="0" column="0" />
@@ -1017,10 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" />
-      <jump line="7" column="51" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="7" column="51" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
-      <jump line="62" column="25" filename="$USER_HOME$/git/railrl/experiments/torch/td3_sweep.py" />
       <jump line="105" column="3" filename="$USER_HOME$/git/railrl/experiments/torch/td3_sweep.py" />
       <jump line="14" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" />
       <jump line="99" column="12" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/grill.py" />
@@ -1117,16 +1113,20 @@
       <jump line="47" column="35" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="164" column="21" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="229" column="13" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
+      <jump line="196" column="33" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>low</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>low</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>fixed_goal</text>
+        <text>fix_goal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9nb2FsID0gc2VsZi5zYW1wbGVfZ29hbCgpCg==</text>
@@ -1163,9 +1163,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fixed_goal</last-search>
+      <last-search>fix_goal</last-search>
       <last-offset />
-      <last-pattern>fixed_goal</last-pattern>
+      <last-pattern>fix_goal</last-pattern>
       <last-replace>action_scale</last-replace>
       <last-substitute>pos_action_scale</last-substitute>
       <last-dir>1</last-dir>
@@ -1173,8 +1173,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2V0X2dvYWxcPg==</entry>
-        <entry>Ant</entry>
         <entry>forward</entry>
         <entry>site</entry>
         <entry encoding="base64">XDxzZXRfZ29hbFw+</entry>
@@ -1193,6 +1191,8 @@
         <entry>min_num</entry>
         <entry encoding="base64">XDxtaW5fbnVtX3N0ZXBzX2JlZm9yZV90cmFpbmluZ1w+</entry>
         <entry>fixed_goal</entry>
+        <entry>resample</entry>
+        <entry>fix_goal</entry>
       </history-search>
       <history-cmd>
         <entry>51</entry>
