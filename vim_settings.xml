@@ -542,10 +542,10 @@
         <mark key="^" line="73" column="25" />
         <mark key="." line="106" column="49" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/core/multitask_env.py" timestamp="1528609370335">
-        <mark key="'" line="67" column="54" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/core/multitask_env.py" timestamp="1528612922226">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="84" column="8" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="66" />
       </file>
@@ -556,12 +556,11 @@
         <mark key="^" line="53" column="9" />
         <mark key="." line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/README.md" timestamp="1528611375506">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="27" />
-        <mark key="." line="67" column="27" />
-        <mark key="^" line="67" column="27" />
+      <file name="$USER_HOME$/git/multiworld/README.md" timestamp="1528614306998">
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="68" column="21" />
+        <mark key="." line="68" column="21" />
+        <mark key="^" line="68" column="21" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/her_td3.py" timestamp="1524104326234">
         <mark key="'" line="4" column="48" />
@@ -715,8 +714,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" timestamp="1528608515815">
-        <mark key="'" line="131" column="54" />
+      <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" timestamp="1528612895650">
+        <mark key="'" line="10" column="25" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="140" column="63" />
         <mark key="." line="50" column="55" />
@@ -1057,15 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="663" column="44" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="587" column="8" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="569" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="586" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="715" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="671" column="0" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="674" column="22" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="676" column="35" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
-      <jump line="679" column="53" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="696" column="58" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="697" column="49" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
       <jump line="699" column="65" filename="$USER_HOME$/git/railrl/railrl/data_management/her_replay_buffer.py" />
@@ -1157,6 +1147,15 @@
       <jump line="3" column="13" filename="$USER_HOME$/git/multiworld/README.md" />
       <jump line="9" column="0" filename="$USER_HOME$/git/multiworld/README.md" />
       <jump line="36" column="0" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="16" column="9" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="78" column="0" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="10" column="25" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
+      <jump line="4" column="6" filename="$USER_HOME$/git/multiworld/multiworld/core/multitask_env.py" />
+      <jump line="65" column="30" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="27" column="37" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="32" column="33" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="48" column="33" filename="$USER_HOME$/git/multiworld/README.md" />
+      <jump line="119" column="0" filename="$USER_HOME$/git/multiworld/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1171,53 +1170,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Envs</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Envs</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>flat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hhbmRfYW5kX3B1Y2tfZGlzdGFuY2UnLAogICAgICAgICAgICAnaGFuZF9hbmRfcHVja19zdWNjZXNzJywK</text>
+        <text encoding="base64">b2JzID0gZW52LnJlc2V0KCkgICMgaW1hZ2UgKyBsaWRhciBvYnNlcnZhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgJ3N0YXRlX29ic2VydmF0aW9uJzogLi4uLAojICAgICAnc3RhdGVfZGVzaXJlZF9nb2FsJzogLi4uLAojICAgICAnc3RhdGVfYWNoaWV2ZWRfZ29hbCc6IC4uLiwK</text>
+        <text encoding="base64">bmV4dF9vYnMsIHJld2FyZCwgZG9uZSwgaW5mbyA9IGVudi5zdGVwKGFjdGlvbikK</text>
       </register>
-      <register name="2" type="8">
-        <text>_and_puck
-_and_puck</text>
+      <register name="2" type="2">
+        <text encoding="base64">bmV4dF9vYnMsIHJld2FyZCwgZG9uZSwgaW5mbyA9IGVudi5zdGVwKGFjdGlvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXdhcmRfdHlwZT0naGFuZF9kaXN0YW5jZScsCg==</text>
+        <text encoding="base64">bmV4dF9vYnMsIHJld2FyZCwgZG9uZSwgaW5mbyA9IGVudi5zdGVwKGFjdGlvbikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b2JzID0gZW52LnJlc2V0KCkKCg==</text>
+        <text encoding="base64">KFdJUDogY3VycmVudGx5IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WW91IG1pZ2h0IGJlIGludGVyZXN0ZWQgaW4ga25vd2luCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IwojCiMK</text>
+        <text encoding="base64">IyAgICAgJ3N0YXRlX29ic2VydmF0aW9uJzogLi4uLAojICAgICAnc3RhdGVfZGVzaXJlZF9nb2FsJzogLi4uLAojICAgICAnc3RhdGVfYWNoaWV2ZWRfZ29hbCc6IC4uLiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWN0aW9uID0gcG9saWN5KG9icykK</text>
+        <text encoding="base64">IyAgICAgJ3N0YXRlX29ic2VydmF0aW9uJzogLi4uLAojICAgICAnc3RhdGVfZGVzaXJlZF9nb2FsJzogLi4uLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CklmIHlvdSBmaW5kIHRoaXMgdG8gYmUgCgojIyBNdWx0aXRhc2tUb0ZsYXRFbnYKSWYgeW91IHdhbnQgdGhlIGdvYWwgdG8gY2hhbmdlIGF0IGVhY2ggaXRlcgoKT3RoZXJ3aXNlLCAKdGhlIHJld2FyZCBmdW5jdGlvbiBkZXBlbmRzIG9uIGEgZ29hbCwgd2hpY2ggaXMgbm90CmluY2x1ZGVkIGFzIHBhcnQgb2YKdGhlIG9ic2VydmF0aW9uLgoKCgo=</text>
+        <text encoding="base64">ICAgIGFwcGVuZF9nb2FsX3RvX29icz1GYWxzZSwgICMgRmFsc2UgYnkgZGVmYXVsdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>flat</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>flat</last-pattern>
       <last-replace>action_scale</last-replace>
       <last-substitute>pos_action_scale</last-substitute>
       <last-dir>1</last-dir>
@@ -1225,10 +1223,6 @@ _and_puck</text>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>fixed_Goal</entry>
-        <entry>fixed</entry>
-        <entry>_get_obs</entry>
         <entry>get_info</entry>
         <entry>def step</entry>
         <entry encoding="base64">XDxfZ2V0X29ic1w+</entry>
@@ -1245,6 +1239,10 @@ _and_puck</text>
         <entry>puck_goals</entry>
         <entry>touch_distances</entry>
         <entry>ipdb</entry>
+        <entry>get_diag</entry>
+        <entry>FlattenEnv</entry>
+        <entry>flat-obs</entry>
+        <entry>flat</entry>
       </history-search>
       <history-cmd>
         <entry>125</entry>
@@ -1265,8 +1263,8 @@ _and_puck</text>
         <entry>w'</entry>
         <entry>51</entry>
         <entry>191</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
