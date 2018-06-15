@@ -179,10 +179,10 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/__init__.py" timestamp="1528739264068">
         <mark key="'" line="321" column="6" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" timestamp="1529015587921">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="51" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" timestamp="1529095681222">
+        <mark key="'" line="254" column="37" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="301" column="43" />
         <mark key="^" line="91" column="43" />
         <mark key="." line="74" column="16" />
       </file>
@@ -213,12 +213,11 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/torch/her_td3_sweep.py" timestamp="1528788869036">
-        <mark key="'" line="80" column="17" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="57" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="20" column="38" />
+      <file name="$USER_HOME$/git/railrl/experiments/torch/her_td3_sweep.py" timestamp="1529095946812">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="72" />
+        <mark key="." line="50" column="38" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/ddpg.py" timestamp="1524028783599">
         <mark key="'" line="17" column="26" />
@@ -422,12 +421,11 @@
         <mark key="^" line="13" column="54" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" timestamp="1528930438901">
-        <mark key="'" line="97" column="21" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" timestamp="1529095932739">
+        <mark key="'" line="57" column="36" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/her/her_sac.py" timestamp="1524022126984">
         <mark key="'" line="6" column="19" />
@@ -643,13 +641,6 @@
         <mark key="]" line="23" column="18" />
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1529013453171">
-        <mark key="'" line="135" column="25" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="n" line="60" column="31" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_ae_sawyer_push.py" timestamp="1528319515994">
         <mark key="'" line="8" column="72" />
@@ -934,6 +925,13 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/experiments/vitchyr/multiworld.py" timestamp="1529095882171">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="19" column="47" />
+      </file>
       <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" timestamp="1529019949975">
         <mark key="'" line="218" column="17" />
         <mark key="[" line="199" column="0" />
@@ -1141,14 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
-      <jump line="142" column="4" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
-      <jump line="416" column="8" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
-      <jump line="489" column="11" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
-      <jump line="627" column="8" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
-      <jump line="142" column="13" filename="$USER_HOME$/git/railrl/railrl/core/rl_algorithm.py" />
-      <jump line="114" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" />
-      <jump line="305" column="17" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
       <jump line="8" column="18" filename="$USER_HOME$/git/railrl/railrl/torch/her/her_td3.py" />
       <jump line="42" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" />
       <jump line="92" column="4" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" />
@@ -1241,6 +1231,14 @@
       <jump line="35" column="16" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="32" column="35" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="25" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/cameras.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="313" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="299" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="254" column="37" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
+      <jump line="82" column="26" filename="$USER_HOME$/git/railrl/experiments/torch/her_td3_sweep.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/git/railrl/railrl/launchers/experiments/vitchyr/multiworld.py" />
+      <jump line="57" column="36" filename="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" />
+      <jump line="44" column="23" filename="$USER_HOME$/git/railrl/experiments/torch/her_td3_sweep.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1255,52 +1253,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnbXVsdGl3b3JsZC1nb2FsZW52LWZ1bGwtZ3JpbGwtaGVyLXRkMy1wdXNoLWVhc3ktY2FtLXYzJwo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnbXVsdGl3b3JsZC1nb2FsLWVudi1oZXItdGQzLW5ldy1ncmlwcGVyLXN3ZWVwLWRpc2NvdW50Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>25</text>
+        <text>_key</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbWVyYS5sb29rYXRbMF0gPSAwCiAgICBjYW1lcmEubG9va2F0WzFdID0gMQogICAgY2FtZXJhLmxvb2thdFsyXSA9IDAuMwogICAgY2FtZXJhLmRpc3RhbmNlID0gMC4zNQogICAgY2FtZXJhLmVsZXZhdGlvbiA9IC0zNQogICAgY2FtZXJhLmF6aW11dGggPSAyNzAKICAgIGNhbWVyYS50cmFja2JvZHlpZCA9IC0xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGtleSBpbiBzZWxmLm9iX3NwYWNlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhbWVyYS5sb29rYXRbMF0gPSAwCiAgICBjYW1lcmEubG9va2F0WzFdID0gMC44CiAgICBjYW1lcmEubG9va2F0WzJdID0gMC4zCiAgICBjYW1lcmEuZGlzdGFuY2UgPSAwLjMKICAgIGNhbWVyYS5lbGV2YXRpb24gPSAtNjUKICAgIGNhbWVyYS5hemltdXRoID0gMjcwCiAgICBjYW1lcmEudHJhY2tib2R5aWQgPSAtMQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVja19oaWdoPU5vbmUsCg==</text>
+        <text encoding="base64">ICAgIGRlc2lyZWRfZ29hbF9rZXkgPSB2YXJpYW50LmdldCgnZGVzaXJlZF9nb2FsX2tleScsICdkZXNpcmVkX2dvYWwnKQogICAgYWNoaWV2ZWRfZ29hbF9rZXkgPSBkZXNpcmVkX2dvYWxfa2V5LnJlcGxhY2UoImRlc2lyZWQiLCAiYWNoaWV2ZWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhY2hpZXZlZF9nb2FsX2tleT0nYWNoaWV2ZWRfZ29hbF9rZXknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdHJpYWxfZGlyX3N1ZmZpeD0nbjEwMDAte30tLXpvb21lZC17fScuZm9ybWF0KG4xMDAwLCB6b29tZWQpLAo=</text>
+        <text encoding="base64">ICAgIGlmIHZhcmlhbnRbJ25vcm1hbGl6ZSddOgogICAgICAgIGVudiA9IE5vcm1hbGl6ZWRCb3hFbnYoZW52KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICdncmlsbF92YXJpYW50LnRyYWluaW5nX21vZGUnOiBbJ3Rlc3QnXSwKICAgICAgICAjICdncmlsbF92YXJpYW50Lm9ic2VydmF0aW9uX2tleSc6IFsnbGF0ZW50X29ic2VydmF0aW9uJ10sCiAgICAgICAgIyAnZ3JpbGxfdmFyaWFudC5kZXNpcmVkX2dvYWxfa2V5JzogWydzdGF0ZV9kZXNpcmVkX2dvYWwnXSwKICAgICAgICAjICdncmlsbF92YXJpYW50Lm9ic2VydmF0aW9uX2tleSc6IFsnc3RhdGVfb2JzZXJ2YXRpb24nXSwKICAgICAgICAjICdncmlsbF92YXJpYW50LmRlc2lyZWRfZ29hbF9rZXknOiBbJ2xhdGVudF9kZXNpcmVkX2dvYWwnXSwKICAgICAgICAjICdncmlsbF92YXJpYW50LnZhZV9wYXRocyc6IFsKICAgICAgICAjICAgICB7IjE2IjogIi9ob21lL3ZpdGNoeXIvZ2l0L3JhaWxybC9kYXRhL2Rvb2RhZHMzLzA2LTEyLWRldi8wNi0xMiIKICAgICAgICAjICAgICAgICAgICAgIi1kZXZfMjAxOF8wNl8xMl8xOF81N18xNF8wMDAwLS1zLTI4MDUxL3ZhZS5wa2wiLAogICAgICAgICMgICAgICB9CiAgICAgICAgIyBdLAogICAgICAgICMgJ2dyaWxsX3ZhcmlhbnQudmFlX3BhdGgnOiBbCiAgICAgICAgIyAgICAgIi9ob21lL3ZpdGNoeXIvZ2l0L3JhaWxybC9kYXRhL2Rvb2RhZHMzLzA2LTE0LWRldi8wNi0xNC1kZXZfMjAxOF8wNl8xNF8xNV8yMV8yMF8wMDAwLS1zLTY5OTgwL3ZhZS5wa2wiLAogICAgICAgICMgXQo=</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZhdGlvbl9rZXk9b2JzZXJ2YXRpb25fa2V5LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVudl9jbGFzcz1TYXd5ZXJSZWFjaFhZRW52LAogICAgICAgIGVudl9jbGFzcz1TYXd5ZXJQdXNoQW5kUmVhY2hYWUVudiwKICAgICAgICAjIGVudl9jbGFzcz1TYXd5ZXJQaWNrQW5kUGxhY2VFbnYsCiAgICAgICAgZW52X2t3YXJncz1kaWN0KAogICAgICAgICAgICBoaWRlX2dvYWxfbWFya2Vycz1UcnVlLAogICAgICAgICksCiAgICAgICAgaW5pdF9jYW1lcmE9aW5pdF9zYXd5ZXJfY2FtZXJhX3YxLAogICAgICAgIGdyaWxsX3ZhcmlhbnQ9ZGljdCgKICAgICAgICAgICAgYWxnb19rd2FyZ3M9ZGljdCgKICAgICAgICAgICAgICAgIG51bV9lcG9jaHM9NTAwLAogICAgICAgICAgICAgICAgIyBudW1fc3RlcHNfcGVyX2Vwb2NoPTEwMCwKICAgICAgICAgICAgICAgICMgbnVtX3N0ZXBzX3Blcl9ldmFsPTEwMCwKICAgICAgICAgICAgICAgICMgbnVtX2Vwb2Nocz01MDAsCiAgICAgICAgICAgICAgICBudW1fc3RlcHNfcGVyX2Vwb2NoPTEwMDAsCiAgICAgICAgICAgICAgICBudW1fc3RlcHNfcGVyX2V2YWw9MTAwMCwKICAgICAgICAgICAgICAgIHRhdT0xZS0yLAogICAgICAgICAgICAgICAgYmF0Y2hfc2l6ZT0xMjgsCiAgICAgICAgICAgICAgICBtYXhfcGF0aF9sZW5ndGg9MTAwLAogICAgICAgICAgICAgICAgZGlzY291bnQ9MC45OSwKICAgICAgICAgICAgICAgIG51bV91cGRhdGVzX3Blcl9lbnZfc3RlcD00LAogICAgICAgICAgICApLAogICAgICAgICAgICByZXBsYXlfa3dhcmdzPWRpY3QoCiAgICAgICAgICAgICAgICBtYXhfc2l6ZT1pbnQoMWU2KSwKICAgICAgICAgICAgICAgIGZyYWN0aW9uX2dvYWxzX2FyZV9yb2xsb3V0X2dvYWxzPTAuMiwKICAgICAgICAgICAgICAgIGZyYWN0aW9uX3Jlc2FtcGxlZF9nb2Fsc19hcmVfZW52X2dvYWxzPTAuNSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgYWxnb3JpdGhtPSdHUklMTC1IRVItVEQzJywKICAgICAgICAgICAgbm9ybWFsaXplPUZhbHNlLAogICAgICAgICAgICByZW5kZXI9RmFsc2UsCiAgICAgICAgICAgIGV4cGxvcmF0aW9uX25vaXNlPTAuMiwKICAgICAgICAgICAgZXhwbG9yYXRpb25fdHlwZT0nb3UnLAogICAgICAgICAgICB0cmFpbmluZ19tb2RlPSd0cmFpbicsCiAgICAgICAgICAgIHRlc3RpbmdfbW9kZT0ndGVzdCcsCiAgICAgICAgICAgIHJld2FyZF9wYXJhbXM9ZGljdCgKICAgICAgICAgICAgICAgIHR5cGU9J2xhdGVudF9kaXN0YW5jZScsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIG9ic2VydmF0aW9uX2tleT0nbGF0ZW50X29ic2VydmF0aW9uJywKICAgICAgICAgICAgZGVzaXJlZF9nb2FsX2tleT0nbGF0ZW50X2Rlc2lyZWRfZ29hbCcsCiAgICAgICAgKSwKICAgICAgICB0cmFpbl92YWVfdmFyaWFudD1kaWN0KAogICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgIG9ic2VydmF0aW9uX2tleSA9IHZhcmlhbnQuZ2V0KCdvYnNlcnZhdGlvbl9rZXknLCAnb2JzZXJ2YXRpb24nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwcmVzZW50YXRpb25fc2l6ZT0xNiwKICAgICAgICAgICAgYmV0YT01LjAsCiAgICAgICAgICAgIG51bV9lcG9jaHM9NTAwLAogICAgICAgICAgICBnZW5lcmF0ZV92YWVfZGF0YXNldF9rd2FyZ3M9ZGljdCgKICAgICAgICAgICAgICAgIE49MTAwMCwKICAgICAgICAgICAgICAgIG9yYWNsZV9kYXRhc2V0PVRydWUsCiAgICAgICAgICAgICAgICAjIHNob3c9VHJ1ZSwKICAgICAgICAgICAgICAgICMgdXNlX2NhY2hlZD1GYWxzZSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgYWxnb19rd2FyZ3M9ZGljdCgKICAgICAgICAgICAgICAgIGRvX3NjYXR0ZXJwbG90PUZhbHNlLAogICAgICAgICAgICAgICAgbHI9MWUtMywKICAgICAgICAgICAgKSwKICAgICAgICAgICAgYmV0YV9zY2hlZHVsZV9rd2FyZ3M9ZGljdCgKICAgICAgICAgICAgICAgIHhfdmFsdWVzPVswLCAxMDAsIDIwMCwgNTAwXSwKICAgICAgICAgICAgICAgIHlfdmFsdWVzPVswLCAwLCA1LCA1XSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgc2F2ZV9wZXJpb2Q9NSwK</text>
+        <text encoding="base64">ICAgIGNhbWVyYS5sb29rYXRbMF0gPSAwCiAgICBjYW1lcmEubG9va2F0WzFdID0gMC44CiAgICBjYW1lcmEubG9va2F0WzJdID0gMC4zCiAgICBjYW1lcmEuZGlzdGFuY2UgPSAwLjMKICAgIGNhbWVyYS5lbGV2YXRpb24gPSAtNjUKICAgIGNhbWVyYS5hemltdXRoID0gMjcwCiAgICBjYW1lcmEudHJhY2tib2R5aWQgPSAtMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVja19oaWdoPU5vbmUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucmVzZXRfbW9jYXBfd2VsZHMoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>self._state_goal</last-replace>
       <last-substitute encoding="base64">XDxwdWNrX3h5elw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1308,12 +1306,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc19tal9lbnZcPg==</entry>
-        <entry>hide</entry>
-        <entry>def  reset</entry>
-        <entry>def reset_model</entry>
-        <entry>reset</entry>
-        <entry>reset_model</entry>
         <entry encoding="base64">XDxfcmVzZXRfc2ltXD4=</entry>
         <entry>def reset</entry>
         <entry>Sawyer</entry>
@@ -1328,10 +1320,14 @@
         <entry>goal</entry>
         <entry encoding="base64">XDxnb2FsX2xvd1w+</entry>
         <entry>env</entry>
+        <entry>Obs</entry>
+        <entry encoding="base64">XDxvYnNlcnZhdGlvbl9rZXlcPg==</entry>
+        <entry>ob_keys</entry>
+        <entry>replay</entry>
+        <entry encoding="base64">XDxPYnNEaWN0UmVsYWJlbGluZ0J1ZmZlclw+</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
-        <entry>154</entry>
-        <entry>146</entry>
         <entry>197</entry>
         <entry>209</entry>
         <entry>182</entry>
@@ -1349,6 +1345,8 @@
         <entry>52</entry>
         <entry>150</entry>
         <entry>q</entry>
+        <entry>28</entry>
+        <entry>67</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
