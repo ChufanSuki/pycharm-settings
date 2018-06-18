@@ -40,8 +40,8 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/wrappers/time_limit.py" timestamp="1528739407540">
         <mark key="'" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/pick_and_place_vae.py" timestamp="1529021272030">
-        <mark key="'" line="24" column="37" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/pick_and_place_vae.py" timestamp="1529352741464">
+        <mark key="'" line="23" column="24" />
         <mark key="[" line="24" column="38" />
         <mark key="]" line="24" column="39" />
         <mark key="^" line="23" column="36" />
@@ -827,6 +827,13 @@
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/__init__.py" timestamp="1528780724732">
         <mark key="'" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" timestamp="1529353350362">
+        <mark key="'" line="52" column="44" />
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="54" column="27" />
+        <mark key="." line="54" column="27" />
+        <mark key="^" line="54" column="27" />
+      </file>
       <file name="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/cameras.py" timestamp="1529032106213">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="53" column="25" />
@@ -1142,14 +1149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="4" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" />
-      <jump line="91" column="26" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" />
-      <jump line="87" column="20" filename="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
-      <jump line="83" column="20" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch_env.py" />
-      <jump line="138" column="9" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch_env.py" />
-      <jump line="172" column="14" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch_env.py" />
-      <jump line="119" column="21" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
       <jump line="10" column="26" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/fetch_env.py" />
       <jump line="43" column="49" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/base.py" />
       <jump line="64" column="38" filename="$USER_HOME$/git/multiworld/multiworld/core/image_env.py" />
@@ -1242,6 +1241,14 @@
       <jump line="44" column="23" filename="$USER_HOME$/git/railrl/experiments/torch/her_td3_sweep.py" />
       <jump line="49" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="50" column="45" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
+      <jump line="30" column="43" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
+      <jump line="23" column="24" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/pick_and_place_vae.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
+      <jump line="105" column="31" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
+      <jump line="50" column="37" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
+      <jump line="52" column="44" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/visualize/pnp_visualize_vae_latent_distrib.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1255,53 +1262,55 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>just</text>
+      <register name="&quot;" type="8">
+        <text>puck
+puck</text>
       </register>
       <register name="-" type="4">
-        <text>just</text>
+        <text>low</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>puck</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgZXhwX3ByZWZpeCA9ICdtdWx0aXdvcmxkLWdvYWxlbnYtZnVsbC1ncmlsbC1oZXItdGQzLXB1c2gtZWFzeS1jYW0tdjMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52LmhhbmRfYW5kX3B1Y2subG93WzNdLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnbXVsdGl3b3JsZC1nb2FsZW52LWZ1bGwtZ3JpbGwtaGVyLXRkMy1wdXNoLWVhc3ktY2FtLXYzJwo=</text>
+      <register name="1" type="8">
+        <text>puck
+puck</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1Y2tfaGlnaFswXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlc2lyZWRfZ29hbF9rZXkgPSB2YXJpYW50LmdldCgnZGVzaXJlZF9nb2FsX2tleScsICdkZXNpcmVkX2dvYWwnKQogICAgYWNoaWV2ZWRfZ29hbF9rZXkgPSBkZXNpcmVkX2dvYWxfa2V5LnJlcGxhY2UoImRlc2lyZWQiLCAiYWNoaWV2ZWQiKQo=</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICMgY3YyLmltc2hvdyhpbWcpCgoKICAgICMgIC0tLS0tLS0tLS0tLS0tLS0tLSBZIGF4aXMKICAgIGdvYWxzID0gW10KICAgIGZvciB5IGluIG5wLmFyYW5nZShlbnYuaGFuZF9sb3dbMV0sIGVudi5oYW5kX2hpZ2hbMV0sIDAuMDEpOgogICAgICAgIG5ld19oYW5kX3h5eiA9IGhhbmRfeHl6LmNvcHkoKQogICAgICAgIG5ld19oYW5kX3h5elsxXSA9IHkKICAgICAgICBnb2Fscy5hcHBlbmQoCiAgICAgICAgICAgIG5wLmhzdGFjaygobmV3X2hhbmRfeHl6LCBwdWNrX3h5KSkKICAgICAgICApCiAgICBpbWdzLCBsYXRlbnRfbXVzLCBsYXRlbnRfc2lnbWFzID0gZ2V0X2luZm8oZ29hbHMpCgogICAgbXVfc3RkcyA9IG5wLnN0ZChucC52c3RhY2sobGF0ZW50X211cyksIGF4aXM9MCkKICAgIHBsdC5iYXIobnAuYXJhbmdlKGxlbihtdV9zdGRzKSksIG11X3N0ZHMpCiAgICBwbHQudGl0bGUoIlktYXhpcyBhcm0gc3dlZXAiKQogICAgcGx0LnhsYWJlbCgibGF0ZW50IGRpbSIpCiAgICBwbHQueWxhYmVsKCJNZWFuIHN0ZCIpCiAgICBwbHQuc2hvdygpCgogICAgc2lnbWFfc3RkcyA9IG5wLm1lYW4obnAudnN0YWNrKGxhdGVudF9zaWdtYXMpLCBheGlzPTApCiAgICBwbHQuYmFyKG5wLmFyYW5nZShsZW4oc2lnbWFfc3RkcykpLCBzaWdtYV9zdGRzKQogICAgcGx0LnRpdGxlKCJZLWF4aXMgYXJtIHN3ZWVwIikKICAgIHBsdC54bGFiZWwoImxhdGVudCBkaW0iKQogICAgcGx0LnlsYWJlbCgiU2lnbWEgc3RkIikKICAgIHBsdC5zaG93KCkKCiAgICBpbWdzID0gbnAuYXJyYXkoaW1ncykKICAgIGltZ3MgPSBwdHUuRmxvYXRUZW5zb3IoaW1ncykKICAgIGltZyA9IHNhdmVfaW1hZ2UoaW1ncywgJ3ktYXJtLXN3ZWVwLnBuZycpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY2hpZXZlZF9nb2FsX2tleT0nYWNoaWV2ZWRfZ29hbF9rZXknCg==</text>
+        <text encoding="base64">ICAgIGltZyA9IHNhdmVfaW1hZ2UoaW1ncywgJ3gtYXJtLXN3ZWVwLnBuZycpCiAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAjIGN2Mi5pbXNob3coaW1nKQoKCiAgICAjICAtLS0tLS0tLS0tLS0tLS0tLS0gWSBheGlzCiAgICBnb2FscyA9IFtdCiAgICBmb3IgeSBpbiBucC5hcmFuZ2UoZW52LmhhbmRfbG93WzFdLCBlbnYuaGFuZF9oaWdoWzFdLCAwLjAxKToKICAgICAgICBuZXdfaGFuZF94eXogPSBoYW5kX3h5ei5jb3B5KCkKICAgICAgICBuZXdfaGFuZF94eXpbMV0gPSB5CiAgICAgICAgZ29hbHMuYXBwZW5kKAogICAgICAgICAgICBucC5oc3RhY2soKG5ld19oYW5kX3h5eiwgcHVja194eSkpCiAgICAgICAgKQogICAgaW1ncywgbGF0ZW50X211cywgbGF0ZW50X3NpZ21hcyA9IGdldF9pbmZvKGdvYWxzKQoKICAgIG11X3N0ZHMgPSBucC5zdGQobnAudnN0YWNrKGxhdGVudF9tdXMpLCBheGlzPTApCiAgICBwbHQuYmFyKG5wLmFyYW5nZShsZW4obXVfc3RkcykpLCBtdV9zdGRzKQogICAgcGx0LnRpdGxlKCJZLWF4aXMgYXJtIHN3ZWVwIikKICAgIHBsdC54bGFiZWwoImxhdGVudCBkaW0iKQogICAgcGx0LnlsYWJlbCgiTWVhbiBzdGQiKQogICAgcGx0LnNob3coKQoKICAgIHNpZ21hX3N0ZHMgPSBucC5tZWFuKG5wLnZzdGFjayhsYXRlbnRfc2lnbWFzKSwgYXhpcz0wKQogICAgcGx0LmJhcihucC5hcmFuZ2UobGVuKHNpZ21hX3N0ZHMpKSwgc2lnbWFfc3RkcykKICAgIHBsdC50aXRsZSgiWS1heGlzIGFybSBzd2VlcCIpCiAgICBwbHQueGxhYmVsKCJsYXRlbnQgZGltIikKICAgIHBsdC55bGFiZWwoIlNpZ21hIHN0ZCIpCiAgICBwbHQuc2hvdygpCgogICAgaW1ncyA9IG5wLmFycmF5KGltZ3MpCiAgICBpbWdzID0gcHR1LkZsb2F0VGVuc29yKGltZ3MpCiAgICBpbWcgPSBzYXZlX2ltYWdlKGltZ3MsICd5LWFybS1zd2VlcC5wbmcnKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHZhcmlhbnRbJ25vcm1hbGl6ZSddOgogICAgICAgIGVudiA9IE5vcm1hbGl6ZWRCb3hFbnYoZW52KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZhdGlvbl9rZXk9b2JzZXJ2YXRpb25fa2V5LAo=</text>
+        <text encoding="base64">ICAgICMgIC0tLS0tLS0tLS0tLS0tLS0tLSBZIGF4aXMgLSBwdWNrCiAgICBnb2FscyA9IFtdCiAgICBmb3IgeSBpbiBucC5hcmFuZ2UoZW52LnB1Y2tfbG93WzFdLCBlbnYucHVja19oaWdoWzFdLCAwLjAxKToKICAgICAgICBuZXdfb2JqX3h5eiA9IG9ial94eXouY29weSgpCiAgICAgICAgbmV3X29ial94eXpbMV0gPSB5CiAgICAgICAgZ29hbHMuYXBwZW5kKAogICAgICAgICAgICBucC5oc3RhY2soKGhhbmRfeHl6LCBuZXdfb2JqX3h5eikpCiAgICAgICAgKQogICAgaW1ncywgbGF0ZW50X211cywgbGF0ZW50X3NpZ21hcyA9IGdldF9pbmZvKGdvYWxzKQoKICAgIG11X3N0ZHMgPSBucC5zdGQobnAudnN0YWNrKGxhdGVudF9tdXMpLCBheGlzPTApCiAgICBwbHQuYmFyKG5wLmFyYW5nZShsZW4obXVfc3RkcykpLCBtdV9zdGRzKQogICAgcGx0LnRpdGxlKCJZLWF4aXMgcHVjayBzd2VlcCIpCiAgICBwbHQueGxhYmVsKCJsYXRlbnQgZGltIikKICAgIHBsdC55bGFiZWwoIk1lYW4gc3RkIikKICAgIHBsdC5zaG93KCkKCiAgICBzaWdtYV9zdGRzID0gbnAubWVhbihucC52c3RhY2sobGF0ZW50X3NpZ21hcyksIGF4aXM9MCkKICAgIHBsdC5iYXIobnAuYXJhbmdlKGxlbihzaWdtYV9zdGRzKSksIHNpZ21hX3N0ZHMpCiAgICBwbHQudGl0bGUoIlktYXhpcyBwdWNrIHN3ZWVwIikKICAgIHBsdC54bGFiZWwoImxhdGVudCBkaW0iKQogICAgcGx0LnlsYWJlbCgiU2lnbWEgc3RkIikKICAgIHBsdC5zaG93KCkKCiAgICBpbWdzID0gbnAuYXJyYXkoaW1ncykKICAgIGltZ3MgPSBwdHUuRmxvYXRUZW5zb3IoaW1ncykKICAgIHNhdmVfaW1hZ2UoaW1ncywgJ3ktcHVjay1zd2VlcC5wbmcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9ic2VydmF0aW9uX2tleSA9IHZhcmlhbnQuZ2V0KCdvYnNlcnZhdGlvbl9rZXknLCAnb2JzZXJ2YXRpb24nKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdfcHVja194eSA9IHB1Y2tfeHkuY29weSgpCiAgICAgICAgbmV3X3B1Y2tfeHlbMV0gPSB5CiAgICAgICAgZ29hbHMuYXBwZW5kKAogICAgICAgICAgICBucC5oc3RhY2soKGhhbmRfeHl6LCBuZXdfcHVja194eSkpCiAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhbWVyYS5sb29rYXRbMF0gPSAwCiAgICBjYW1lcmEubG9va2F0WzFdID0gMC44CiAgICBjYW1lcmEubG9va2F0WzJdID0gMC4zCiAgICBjYW1lcmEuZGlzdGFuY2UgPSAwLjMKICAgIGNhbWVyYS5lbGV2YXRpb24gPSAtNjUKICAgIGNhbWVyYS5hemltdXRoID0gMjcwCiAgICBjYW1lcmEudHJhY2tib2R5aWQgPSAtMQo=</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAnbXVsdGl3b3JsZC1nb2FsZW52LWZ1bGwtZ3JpbGwtaGVyLXRkMy1wdXNoLWVhc3ktY2FtLXYzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVja19oaWdoPU5vbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>puck</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>puck</last-pattern>
       <last-replace>self._state_goal</last-replace>
       <last-substitute encoding="base64">XDxwdWNrX3h5elw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1309,9 +1318,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVzZXRfc2ltXD4=</entry>
-        <entry>def reset</entry>
-        <entry>Sawyer</entry>
         <entry>set_to_goal</entry>
         <entry>qpos</entry>
         <entry encoding="base64">XDxzZXRfZW52X3N0YXRlXD4=</entry>
@@ -1329,6 +1335,9 @@
         <entry encoding="base64">XDxPYnNEaWN0UmVsYWJlbGluZ0J1ZmZlclw+</entry>
         <entry>ipdb</entry>
         <entry>env</entry>
+        <entry>get_puck</entry>
+        <entry encoding="base64">XDxwdWNrX3h5elw+</entry>
+        <entry>puck</entry>
       </history-search>
       <history-cmd>
         <entry>197</entry>
@@ -1347,9 +1356,9 @@
         <entry>81</entry>
         <entry>52</entry>
         <entry>150</entry>
-        <entry>q</entry>
         <entry>28</entry>
         <entry>67</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
