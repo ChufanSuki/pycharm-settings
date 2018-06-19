@@ -132,6 +132,11 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
+      <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/robotics/robot_env.py" timestamp="1529015366010">
+        <mark key="'" line="78" column="33" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="64" />
+      </file>
       <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_xyz_base_pre_gripper.xml" timestamp="1528699077783">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -143,6 +148,11 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
         <mark key="^" line="96" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" timestamp="1529450442246">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="73" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/mjviewer.py" timestamp="1523568839224">
         <mark key="'" line="33" column="56" />
@@ -495,8 +505,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" timestamp="1529020095797">
-        <mark key="'" line="113" column="27" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" timestamp="1529450429974">
+        <mark key="'" line="97" column="43" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="55" />
         <mark key="." line="42" column="42" />
@@ -515,6 +525,11 @@
         <mark key="]" line="44" column="12" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/scripts/sim_policy.py" timestamp="1528857895079">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="41" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push_xy/sac.py" timestamp="1524104961898">
         <mark key="'" line="98" column="29" />
@@ -591,6 +606,11 @@
         <mark key="]" line="51" column="18" />
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sawyer2d_push_variable_data.py" timestamp="1528779264765">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="68" />
       </file>
       <file name="$USER_HOME$/git/viskit/viskit/core.py" timestamp="1524542376033">
         <mark key="'" line="10" column="54" />
@@ -1068,8 +1088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="15" filename="$USER_HOME$/git/multiworld/multiworld/core/image_env.py" />
-      <jump line="3" column="15" filename="$USER_HOME$/git/multiworld/multiworld/core/wrapper_env.py" />
       <jump line="10" column="6" filename="$USER_HOME$/git/multiworld/multiworld/core/serializable.py" />
       <jump line="66" column="39" filename="$USER_HOME$/git/multiworld/multiworld/core/image_env.py" />
       <jump line="70" column="23" filename="$USER_HOME$/git/multiworld/multiworld/core/image_env.py" />
@@ -1168,6 +1186,8 @@
       <jump line="70" column="2" filename="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v3/Dockerfile" />
       <jump line="148" column="33" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
       <jump line="124" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
+      <jump line="97" column="43" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_vae/sawyer_push_and_reach/full_grill.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1181,8 +1201,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>new_o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSByYWlscmwudG9yY2gudmFlLnRkbV90ZDNfdmFlX2V4cGVyaW1lbnQgaW1wb3J0IHRkbV90ZDNfdmFlX2V4cGVyaW1lbnQK</text>
       </register>
       <register name="-" type="4">
         <text>new_o</text>
