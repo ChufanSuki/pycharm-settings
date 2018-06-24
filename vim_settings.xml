@@ -156,12 +156,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" timestamp="1527218800193">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529805065359">
-        <mark key="'" line="75" column="13" />
-        <mark key="[" line="74" column="34" />
-        <mark key="]" line="74" column="35" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="74" column="35" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529809015910">
+        <mark key="'" line="58" column="9" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
       </file>
       <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1529014413167">
         <mark key="'" line="87" column="20" />
@@ -751,12 +751,12 @@
         <mark key="." line="18" column="54" />
         <mark key="^" line="18" column="54" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1529803839231">
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1529808986796">
         <mark key="'" line="130" column="32" />
-        <mark key="[" line="221" column="35" />
-        <mark key="]" line="221" column="35" />
-        <mark key="." line="221" column="39" />
-        <mark key="^" line="220" column="39" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="207" column="51" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="156" column="13" />
       </file>
       <file name="$USER_HOME$/git/baselines/baselines/her/experiment/train.py" timestamp="1528739289714">
         <mark key="'" line="148" column="30" />
@@ -1151,7 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="156" column="8" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
       <jump line="34" column="38" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" />
@@ -1251,6 +1250,7 @@
       <jump line="130" column="32" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="1142" column="4" filename="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/nn/functional.py" />
       <jump line="75" column="13" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" />
+      <jump line="58" column="9" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1264,17 +1264,17 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluY2x1ZGVfcHJvcHJpbz1GYWxzZSwK</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLnJlY29yZF90YWJ1bGFyKCJ0ZXN0L2ltZyBsb3NzIiwgbnAubWVhbihpbWdfbG9zc2VzKSkKICAgICAgICAgICAgbG9nZ2VyLnJlY29yZF90YWJ1bGFyKCJ0ZXN0L3N0YXRlIGxvc3MiLCBucC5tZWFuKHN0YXRlX2xvc3NlcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX2xvc3Nlcy5hcHBlbmQoaW1nX2xvc3MuZGF0YVswXSkKICAgICAgICAgICAgc3RhdGVfbG9zc2VzLmFwcGVuZChzdGF0ZV9sb3NzLmRhdGFbMF0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIGluY2x1ZGVfcHJvcHJpbz1GYWxzZSwK</text>
