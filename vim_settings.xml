@@ -156,12 +156,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" timestamp="1527218800193">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529796884192">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529799105502">
         <mark key="'" line="17" column="32" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
       </file>
       <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1529014413167">
         <mark key="'" line="87" column="20" />
@@ -751,12 +751,11 @@
         <mark key="." line="18" column="54" />
         <mark key="^" line="18" column="54" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1529796742794">
-        <mark key="'" line="183" column="28" />
-        <mark key="[" line="147" column="50" />
-        <mark key="]" line="147" column="50" />
-        <mark key="." line="147" column="50" />
-        <mark key="^" line="147" column="50" />
+      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1529799062903">
+        <mark key="'" line="82" column="24" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="221" column="75" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="$USER_HOME$/git/baselines/baselines/her/experiment/train.py" timestamp="1528739289714">
         <mark key="'" line="148" column="30" />
@@ -1151,9 +1150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="47" column="33" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="85" column="0" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="343" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="74" column="30" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
@@ -1251,6 +1247,9 @@
       <jump line="46" column="13" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
       <jump line="231" column="13" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_reach.py" />
       <jump line="115" column="51" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
+      <jump line="147" column="50" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="168" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="79" column="24" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1265,52 +1264,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYnNlcnZhdGlvbl9zcGFjZVw+</text>
+        <text>is_au</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcHJpb19vYnNlcnZhdGlvbj1mbGF0X29icywKICAgICAgICAgICAgcHJvcHJpb19kZXNpcmVkX2dvYWw9c2VsZi5fc3RhdGVfZ29hbCwKICAgICAgICAgICAgcHJvcHJpb19hY2hpZXZlZF9nb2FsPWZsYXRfb2JzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLnJlY29yZF90YWJ1bGFyKCJ0ZXN0L2ltZyBsb3NzIiwgbnAubWVhbihpbWdfbG9zc2VzKSkKICAgICAgICAgICAgbG9nZ2VyLnJlY29yZF90YWJ1bGFyKCJ0ZXN0L3N0YXRlIGxvc3MiLCBucC5tZWFuKHN0YXRlX2xvc3NlcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KHNlbGYuaGFuZF9sb3csIHNlbGYuaGFuZF9oaWdoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJjZSA9IHNlbGYubG9ncHJvYihyZWNvbl9iYXRjaCwgZGF0YSwgbXUsIGxvZ3ZhcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KHNlbGYuaGFuZF9sb3csIHNlbGYuaGFuZF9oaWdoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJjZSA9IHNlbGYubG9ncHJvYihyZWNvbl9iYXRjaCwgWCwgbXUsIGxvZ3ZhcikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvbl94X3N0YXRlID0gcmVjb25feC5uYXJyb3coCiAgICAgICAgICAgIHN0YXJ0PXNlbGYuaW1sZW5ndGgsIGxlbmd0aD1zZWxmLnN0YXRlX3NpemUsIGRpbWVuc2lvbj0xCiAgICAgICAgKS5jb250aWd1b3VzKCkudmlldygKICAgICAgICAgICAgLTEsIHNlbGYuc3RhdGVfc2l6ZQogICAgICAgICkKICAgICAgICB4X3N0YXRlID0geC5uYXJyb3coCiAgICAgICAgICAgIHN0YXJ0PXNlbGYuaW1sZW5ndGgsIGxlbmd0aD1zZWxmLnN0YXRlX3NpemUsIGRpbWVuc2lvbj0xCiAgICAgICAgKS5jb250aWd1b3VzKCkudmlldygKICAgICAgICAgICAgLTEsIHNlbGYuc3RhdGVfc2l6ZQogICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXRlX3NpemUgPiAwOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KHNlbGYuaGFuZF9sb3csIHNlbGYuaGFuZF9oaWdoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KHNlbGYuaGFuZF9sb3csIHNlbGYuaGFuZF9oaWdoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfcHJvcHJpbyA9IHZhcmlhbnQuZ2V0KCdpbmNsdWRlX3Byb3ByaW8nLCBGYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICByZWNvbl94X3N0YXRlID0gcmVjb25feC5uYXJyb3coCiAgICAgICAgICAgIHN0YXJ0PXNlbGYuaW1sZW5ndGgsIGxlbmd0aD1zZWxmLnN0YXRlX3NpemUsIGRpbWVuc2lvbj0xCiAgICAgICAgKS5jb250aWd1b3VzKCkudmlldygKICAgICAgICAgICAgLTEsIHNlbGYuc3RhdGVfc2l6ZQogICAgICAgICkKICAgICAgICB4X3N0YXRlID0geC5uYXJyb3coCiAgICAgICAgICAgIHN0YXJ0PXNlbGYuaW1sZW5ndGgsIGxlbmd0aD1zZWxmLnN0YXRlX3NpemUsIGRpbWVuc2lvbj0xCiAgICAgICAgKS5jb250aWd1b3VzKCkudmlldygKICAgICAgICAgICAgLTEsIHNlbGYuc3RhdGVfc2l6ZQogICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAuaHN0YWNrKCgKICAgICAgICAgICAgb2JzWydpbWFnZV9kZXNpcmVkX2dvYWwnXSwKICAgICAgICAgICAgb2JzWydwcm9wcmlvX2Rlc2lyZWRfZ29hbCddLAogICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXRlX3NpemUgPiAwOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYnNlcnZhdGlvbl9zcGFjZVw+</last-search>
+      <last-search>is_au</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYnNlcnZhdGlvbl9zcGFjZVw+</last-pattern>
+      <last-pattern>is_au</last-pattern>
       <last-replace>self._state_goal</last-replace>
       <last-substitute>compute</last-substitute>
       <last-dir>1</last-dir>
@@ -1318,10 +1317,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNvbl9iYXRjaFw+</entry>
-        <entry>data</entry>
-        <entry encoding="base64">XDxkdW1wX3NhbXBsZXNcPg==</entry>
-        <entry>imgs</entry>
         <entry>image_obs</entry>
         <entry>image_</entry>
         <entry>beta</entry>
@@ -1338,6 +1333,10 @@
         <entry encoding="base64">XDxpbmNsdWRlX3Byb3ByaW9cPg==</entry>
         <entry>ipdb</entry>
         <entry encoding="base64">XDxvYnNlcnZhdGlvbl9zcGFjZVw+</entry>
+        <entry>debu</entry>
+        <entry>debug\.</entry>
+        <entry>debug\/</entry>
+        <entry>is_au</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
