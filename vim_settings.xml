@@ -159,11 +159,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" timestamp="1527218800193">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529895522403">
-        <mark key="'" line="24" column="20" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529896813295">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="56" />
+        <mark key="." line="113" column="55" />
+        <mark key="^" line="113" column="55" />
       </file>
       <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1529014413167">
         <mark key="'" line="87" column="20" />
@@ -1271,10 +1272,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVja19sb3c9KC0wLjA1LCAwLjYpLAogICAgICAgICAgICBwdWNrX2hpZ2g9KDAuMDUsIDAuNyksCg==</text>
+        <text encoding="base64">ICAgIGV4cF9wcmVmaXggPSAncHJvcHJpby1jb21wYXJpc29uLXB1c2gtYW5kLXJlYWNoLWhhcmQnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>easy</text>
       </register>
       <register name="/" type="4">
         <text>ipdb</text>
@@ -1283,31 +1284,31 @@
         <text encoding="base64">ICAgICAgICAndHJhaW5fdmFlX3ZhcmlhbnQucmVwcmVzZW50YXRpb25fc2l6ZSc6IFsxNiwgNF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVja19sb3c9KC0wLjA1LCAwLjYpLAogICAgICAgICAgICBwdWNrX2hpZ2g9KDAuMDUsIDAuNyksCg==</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbnVtX3N0ZXBzX3Blcl9lcG9jaD0xMDAsCiAgICAgICAgICAgICAgICAjIG51bV9zdGVwc19wZXJfZXZhbD0xMDAsCiAgICAgICAgICAgICAgICAjIG51bV9lcG9jaHM9NTAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVja19sb3c9KC0wLjA1LCAwLjYpLAogICAgICAgICAgICBwdWNrX2hpZ2g9KDAuMDUsIDAuNyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbnVtX3N0ZXBzX3Blcl9lcG9jaD0xMDAsCiAgICAgICAgICAgICAgICAjIG51bV9zdGVwc19wZXJfZXZhbD0xMDAsCiAgICAgICAgICAgICAgICAjIG51bV9lcG9jaHM9NTAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwLndhaXQoKQogICAgZXhjZXB0IEtleWJvYXJkSW50ZXJydXB0OgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoInRlcm1pbmF0aW5nIikKICAgICAgICAgICAgcC50ZXJtaW5hdGUoKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICBwcmludCgib3MgZXJyb3IhIikKICAgICAgICAgICAgcGFzcwogICAgICAgIHAud2FpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwLndhaXQoKQogICAgZXhjZXB0IEtleWJvYXJkSW50ZXJydXB0OgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoInRlcm1pbmF0aW5nIikKICAgICAgICAgICAgcC50ZXJtaW5hdGUoKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICBwcmludCgib3MgZXJyb3IhIikKICAgICAgICAgICAgcGFzcwogICAgICAgIHAud2FpdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGFzeW5jOgogICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cF9pZD1leHBfaWQsCg==</text>
+        <text encoding="base64">ICAgIGlmIGFzeW5jOgogICAgICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
