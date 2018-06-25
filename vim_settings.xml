@@ -178,11 +178,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1529912362589">
-        <mark key="'" line="212" column="6" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
+      <file name="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" timestamp="1529957212565">
+        <mark key="'" line="214" column="29" />
+        <mark key="[" line="214" column="29" />
+        <mark key="]" line="214" column="32" />
+        <mark key="^" line="214" column="32" />
+        <mark key="." line="214" column="32" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_ae_sawyer_push.py" timestamp="1528319515994">
         <mark key="'" line="8" column="72" />
@@ -359,9 +360,9 @@
         <mark key="'" line="321" column="6" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" timestamp="1529906290037">
-        <mark key="[" line="644" column="0" />
-        <mark key="]" line="644" column="0" />
-        <mark key="." line="644" column="0" />
+        <mark key="[" line="673" column="0" />
+        <mark key="]" line="673" column="0" />
+        <mark key="." line="673" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/ablations_reacher/ae_vs_vae/vae.py" timestamp="1526611697383">
         <mark key="'" line="86" column="8" />
@@ -449,11 +450,10 @@
         <mark key="^" line="18" column="65" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" timestamp="1529950449063">
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="62" />
-        <mark key="." line="124" column="61" />
-        <mark key="^" line="124" column="61" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="62" />
+        <mark key="." line="26" column="61" />
+        <mark key="^" line="26" column="61" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1528416982950">
         <mark key="'" line="25" column="26" />
@@ -803,11 +803,10 @@
         <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1529911651128">
-        <mark key="'" line="389" column="36" />
-        <mark key="[" line="391" column="8" />
-        <mark key="]" line="391" column="9" />
-        <mark key="." line="391" column="9" />
-        <mark key="^" line="391" column="9" />
+        <mark key="[" line="389" column="8" />
+        <mark key="]" line="389" column="9" />
+        <mark key="." line="389" column="9" />
+        <mark key="^" line="389" column="9" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_push_reset_free.py" timestamp="1527118837843">
         <mark key="'" line="25" column="27" />
@@ -824,7 +823,7 @@
         <mark key="." line="13" column="54" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" timestamp="1529906314413">
-        <mark key="'" line="157" column="23" />
+        <mark key="'" line="155" column="23" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -1133,7 +1132,7 @@
         <mark key="^" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/show_vae_samples.py" timestamp="1529907207060">
-        <mark key="'" line="28" column="61" />
+        <mark key="'" line="29" column="61" />
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="53" />
         <mark key="." line="21" column="53" />
@@ -1169,7 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="17" filename="$USER_HOME$/git/railrl/railrl/torch/her/her.py" />
       <jump line="250" column="15" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="83" column="0" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="100" column="16" filename="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" />
@@ -1269,6 +1267,7 @@
       <jump line="124" column="34" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="26" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="27" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
+      <jump line="214" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1289,7 +1288,7 @@
         <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>state_distance</text>
+        <text>imlength</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYucmV3YXJkX3R5cGUgPT0gJ3N0YXRlX2Rpc3RhbmNlJzoKICAgICAgICAgICAgYWNoaWV2ZWRfZ29hbHMgPSBvYnNbJ3N0YXRlX2FjaGlldmVkX2dvYWwnXQogICAgICAgICAgICBkZXNpcmVkX2dvYWxzID0gb2JzWydzdGF0ZV9kZXNpcmVkX2dvYWwnXQogICAgICAgICAgICByZXR1cm4gLSBucC5saW5hbGcubm9ybShkZXNpcmVkX2dvYWxzIC0gYWNoaWV2ZWRfZ29hbHMsIGF4aXM9MSkK</text>
@@ -1326,17 +1325,16 @@
       </register>
     </registers>
     <search>
-      <last-search>state_distance</last-search>
+      <last-search>imlength</last-search>
       <last-offset />
-      <last-pattern>state_distance</last-pattern>
+      <last-pattern>imlength</last-pattern>
       <last-replace>self._state_goal</last-replace>
       <last-substitute>compute</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJhdHNcPg==</entry>
         <entry encoding="base64">XDxfYWN0aXZlX3N0cmF0XD4=</entry>
         <entry>ptu</entry>
         <entry>sample_Goal</entry>
@@ -1356,9 +1354,9 @@
         <entry encoding="base64">XDxpbmNsdWRlX3N0cmluZ1w+</entry>
         <entry>MountS3</entry>
         <entry>state_distance</entry>
+        <entry>imlength</entry>
       </history-search>
       <history-cmd>
-        <entry>180</entry>
         <entry>78</entry>
         <entry>183</entry>
         <entry>181</entry>
@@ -1377,6 +1375,7 @@
         <entry>q</entry>
         <entry>348</entry>
         <entry>20</entry>
+        <entry>217</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
