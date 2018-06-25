@@ -92,8 +92,8 @@
       <file name="$USER_HOME$/git/railrl/examples/tdm/ant_position.py" timestamp="1528519752614">
         <mark key="'" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1529876393811">
-        <mark key="'" line="63" column="17" />
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1529909992427">
+        <mark key="'" line="384" column="41" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/sawyer_sim_state_push/her_sac.py" timestamp="1524074410939">
         <mark key="'" line="26" column="29" />
@@ -159,12 +159,12 @@
       <file name="$USER_HOME$/git/railrl/railrl/envs/mujoco/sawyer_reach_env.py" timestamp="1527218800193">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529908424234">
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/proprioception/grill.py" timestamp="1529909611467">
         <mark key="'" line="23" column="20" />
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
-        <mark key="^" line="79" column="30" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="73" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="115" column="72" />
       </file>
       <file name="$USER_HOME$/git/railrl/scripts/sim_multitask_policy.py" timestamp="1529014413167">
         <mark key="'" line="87" column="20" />
@@ -177,9 +177,9 @@
         <mark key="'" line="321" column="6" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/grill/launcher.py" timestamp="1529906290037">
-        <mark key="[" line="673" column="0" />
-        <mark key="]" line="673" column="0" />
-        <mark key="." line="673" column="0" />
+        <mark key="[" line="644" column="0" />
+        <mark key="]" line="644" column="0" />
+        <mark key="." line="644" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/mujoco_py/mjviewer.py" timestamp="1523568839224">
         <mark key="'" line="33" column="56" />
@@ -394,12 +394,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1529876378974">
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1529910075311">
         <mark key="'" line="341" column="26" />
-        <mark key="[" line="712" column="28" />
-        <mark key="]" line="712" column="28" />
-        <mark key="." line="712" column="28" />
-        <mark key="^" line="712" column="29" />
+        <mark key="[" line="390" column="36" />
+        <mark key="]" line="390" column="36" />
+        <mark key="." line="390" column="36" />
+        <mark key="^" line="390" column="36" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_push_reset_free.py" timestamp="1527118837843">
         <mark key="'" line="25" column="27" />
@@ -416,7 +416,7 @@
         <mark key="." line="13" column="54" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" timestamp="1529906314413">
-        <mark key="'" line="155" column="23" />
+        <mark key="'" line="157" column="23" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -630,10 +630,10 @@
         <mark key="^" line="102" column="15" />
       </file>
       <file name="$USER_HOME$/git/railrl/railrl/torch/vae/sim_vae_policy.py" timestamp="1529877700336">
-        <mark key="'" line="281" column="21" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+        <mark key="'" line="280" column="21" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/docker/railrl_gpu_mujoco1-5-v2/Dockerfile" timestamp="1524073411592">
         <mark key="'" line="47" column="5" />
@@ -738,12 +738,6 @@
         <mark key="]" line="43" column="9" />
         <mark key="." line="18" column="54" />
         <mark key="^" line="18" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" timestamp="1529907918295">
-        <mark key="'" line="161" column="12" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/git/baselines/baselines/her/experiment/train.py" timestamp="1528739289714">
         <mark key="'" line="148" column="30" />
@@ -890,8 +884,12 @@
         <mark key="." line="45" column="41" />
         <mark key="^" line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mount.py" timestamp="1527825013492">
-        <mark key="'" line="96" column="8" />
+      <file name="$USER_HOME$/git/doodad/doodad/mount.py" timestamp="1529910020084">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="89" />
+        <mark key="^" line="93" column="100" />
+        <mark key="." line="93" column="100" />
       </file>
       <file name="$USER_HOME$/git/classes/spring2018/mujoco-torch/experiments/vitchyr/test_bridge.py" timestamp="1524209265825">
         <mark key="'" line="14" column="14" />
@@ -1112,7 +1110,7 @@
         <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/show_vae_samples.py" timestamp="1529907207060">
-        <mark key="'" line="29" column="61" />
+        <mark key="'" line="28" column="61" />
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="53" />
         <mark key="." line="21" column="53" />
@@ -1141,13 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="25" column="12" filename="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" />
-      <jump line="216" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
-      <jump line="232" column="4" filename="$USER_HOME$/git/railrl/railrl/data_management/obs_dict_replay_buffer.py" />
-      <jump line="209" column="12" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="318" column="24" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
-      <jump line="92" column="24" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="105" column="30" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="168" column="20" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="35" column="8" filename="$USER_HOME$/git/multiworld/multiworld/core/multitask_env.py" />
@@ -1241,6 +1232,13 @@
       <jump line="262" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="269" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
       <jump line="162" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="355" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="380" column="47" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="384" column="41" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mount.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/git/doodad/doodad/mount.py" />
+      <jump line="341" column="26" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1255,16 +1253,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>include_types=('*.txt', '*.csv', '*.json', '*.gz', '*.tar', '*.log', '*.pkl'),</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>state_lp</text>
+        <text>MountS3</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhfdmFsdWVzPVswLCAxMDAsIDIwMCwgNTAwXSwKICAgICAgICAgICAgICAgIHlfdmFsdWVzPVswLCAwLCAxLCAxXSwK</text>
+      <register name="0" type="4">
+        <text>include_types=('*.txt', '*.csv', '*.json', '*.gz', '*.tar', '*.log', '*.pkl'),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5pbWxlbmd0aCAvIHNlbGYuc3RhdGVfc2l6ZSkK</text>
@@ -1298,9 +1296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state_lp</last-search>
+      <last-search>MountS3</last-search>
       <last-offset />
-      <last-pattern>state_lp</last-pattern>
+      <last-pattern>MountS3</last-pattern>
       <last-replace>self._state_goal</last-replace>
       <last-substitute>compute</last-substitute>
       <last-dir>1</last-dir>
@@ -1308,9 +1306,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZXZhbF9hY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxwb2xpY2llc1w+</entry>
-        <entry>state</entry>
         <entry>expert</entry>
         <entry encoding="base64">XDxzdHJhdHNcPg==</entry>
         <entry encoding="base64">XDxfYWN0aXZlX3N0cmF0XD4=</entry>
@@ -1328,6 +1323,9 @@
         <entry>bces</entry>
         <entry>bce</entry>
         <entry>state_lp</entry>
+        <entry encoding="base64">XDxyZWNvbl9tc2VcPg==</entry>
+        <entry encoding="base64">XDxpbmNsdWRlX3N0cmluZ1w+</entry>
+        <entry>MountS3</entry>
       </history-search>
       <history-cmd>
         <entry>180</entry>
