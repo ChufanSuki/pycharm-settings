@@ -185,9 +185,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1529967185955">
-        <mark key="'" line="302" column="8" />
-        <mark key="^" line="313" column="26" />
+      <file name="$USER_HOME$/git/doodad/doodad/mode.py" timestamp="1529971719073">
+        <mark key="'" line="462" column="32" />
+        <mark key="[" line="462" column="43" />
+        <mark key="]" line="462" column="54" />
+        <mark key="." line="462" column="54" />
+        <mark key="^" line="462" column="54" />
       </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/torch/autograd/variable.py" timestamp="1528431787586">
         <mark key="'" line="113" column="21" />
@@ -379,8 +382,12 @@
         <mark key="^" line="116" column="28" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1529967923993">
-        <mark key="'" line="1" column="1" />
+      <file name="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" timestamp="1529971675526">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="50" column="49" />
+        <mark key="]" line="50" column="50" />
+        <mark key="." line="50" column="49" />
+        <mark key="^" line="50" column="49" />
       </file>
       <file name="$USER_HOME$/git/multiworld/multiworld/envs/assets/sawyer_xyz/sawyer_pick_and_place2.xml" timestamp="1528762319464">
         <mark key="'" line="5" column="0" />
@@ -439,7 +446,9 @@
         <mark key="." line="18" column="63" />
         <mark key="^" line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" timestamp="1529964504318" />
+      <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" timestamp="1529970883806">
+        <mark key="'" line="26" column="36" />
+      </file>
       <file name="$USER_HOME$/anaconda2/envs/railrl-env/lib/python3.5/site-packages/gym/envs/mujoco/mujoco_env.py" timestamp="1528416982950">
         <mark key="'" line="25" column="26" />
         <mark key="[" line="0" column="0" />
@@ -727,7 +736,11 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/git/railrl/scripts/run_experiment_from_doodad.py" timestamp="1529967794423" />
+      <file name="$USER_HOME$/git/railrl/scripts/run_experiment_from_doodad.py" timestamp="1529971317949">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/rl_with_full_state/full_state_sawyer_reach/tdm_td3.py" timestamp="1526360357067">
         <mark key="'" line="52" column="17" />
         <mark key="[" line="56" column="0" />
@@ -790,6 +803,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" timestamp="1529971461620">
+        <mark key="'" line="347" column="28" />
+        <mark key="[" line="356" column="0" />
+        <mark key="]" line="356" column="0" />
+        <mark key="." line="356" column="0" />
       </file>
       <file name="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/train_vae/train_vae_sawyer_push_reset_free.py" timestamp="1527118837843">
         <mark key="'" line="25" column="27" />
@@ -1151,40 +1170,18 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="54" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="220" column="73" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="244" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="129" column="20" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="143" column="16" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="185" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="188" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="196" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="200" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="204" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="250" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="253" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="258" column="23" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="262" column="30" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="269" column="36" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="162" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="355" column="12" filename="$USER_HOME$/git/railrl/railrl/torch/vae/conv_vae.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="380" column="47" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="384" column="41" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/doodad/doodad/mount.py" />
       <jump line="110" column="8" filename="$USER_HOME$/git/doodad/doodad/mount.py" />
       <jump line="341" column="26" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="62" column="28" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="212" column="6" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="124" column="34" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
-      <jump line="26" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="27" column="19" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="214" column="29" filename="$USER_HOME$/git/railrl/railrl/envs/vae_wrappers.py" />
       <jump line="71" column="20" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
       <jump line="385" column="30" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" />
       <jump line="318" column="43" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="188" column="15" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="17" column="0" filename="$USER_HOME$/git/railrl/railrl/launchers/config.py" />
       <jump line="389" column="31" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
@@ -1197,15 +1194,12 @@
       <jump line="372" column="39" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="18" column="4" filename="$USER_HOME$/git/railrl/scripts/run_experiment_from_doodad.py" />
       <jump line="127" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="315" column="40" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="322" column="35" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="324" column="79" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="320" column="91" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="321" column="35" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="428" column="98" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="429" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="310" column="22" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="301" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="230" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="203" column="12" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="290" column="12" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
@@ -1220,7 +1214,6 @@
       <jump line="273" column="4" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="251" column="13" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="252" column="37" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
-      <jump line="302" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
       <jump line="264" column="30" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="503" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
       <jump line="597" column="4" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
@@ -1251,6 +1244,32 @@
       <jump line="131" column="12" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="208" column="8" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
       <jump line="175" column="20" filename="$USER_HOME$/git/multiworld/multiworld/envs/mujoco/sawyer_xyz/sawyer_push_and_reach_env.py" />
+      <jump line="26" column="36" filename="$USER_HOME$/git/railrl/experiments/vitchyr/nips2018/full_grill.py" />
+      <jump line="301" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="302" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="303" column="53" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="313" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="321" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="338" column="8" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="347" column="28" filename="$USER_HOME$/git/railrl/railrl/launchers/launcher_util.py" />
+      <jump line="348" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="384" column="12" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="461" column="70" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="723" column="8" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="498" column="0" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="540" column="28" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="558" column="26" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="578" column="14" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="466" column="16" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="14" column="15" filename="$USER_HOME$/git/railrl/examples/launch_examples/ec2_example.py" />
+      <jump line="473" column="46" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="312" column="45" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="310" column="19" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="472" column="60" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="471" column="16" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="315" column="45" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
+      <jump line="462" column="32" filename="$USER_HOME$/git/doodad/doodad/mode.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1265,52 +1284,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ec2</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ec2</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sample_goal</text>
+        <text>stdout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlPSdlYzInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vZGU9J2xvY2FsX2RvY2tlcicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW1fZXhwc19wZXJfaW5zdGFuY2UgPiAxOgogICAgICAgICAgICBzM19sb2dfbmFtZSA9ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnczNfbG9nX25hbWUnOiBzM19sb2dfbmFtZSwKICAgICAgICAgICAgIyAnZGlyX2lzX2Jhc2VfZGlyJzogczNfbG9nX25hbWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIERvIHRoaXMgc2VwYXJhdGVseSBpbiBjYXNlIHNvbWUgb25lIGRvZXMgbm90IGhhdmUgRUMyIGNvbmZpZ3VyZWQK</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFzc3VtZSB0aGF0IHRoZSBzdWJkaXJlY3RvcmllcyBhcmUgaGFuZGxlZCBieSBoYXZpbmcgYSBzdWJkaXJlY3Rvcnkgc3RydWN0dXJlCiAgICAgICAgIyBvbiB0aGUgaW5zdGFuY2UgaXRzZWxmIHJhdGhlciB0aGFuIGNvcHlpbmcgdG8gYSBzdWJkaXJlY3RvcnkgaW4gczMuCiAgICAgICAgIyBTbyBpbnN0ZWFkIG9mCiAgICAgICAgIyBzMyBzeW5jIE9VVFBVVF9ESVJfRk9SX0RPT0RBRF9UQVJHRVQgQVdTX1MzX1BBVEgvZXhwLXByZWZpeC9leHAtbmFtZQogICAgICAgICMgd2Ugbm93IGRvCiAgICAgICAgIyBzMyBzeW5jIE9VVFBVVF9ESVJfRk9SX0RPT0RBRF9UQVJHRVQgQVdTX1MzX1BBVEgvZXhwLXByZWZpeAogICAgICAgICMgd2hlcmUgT1VUUFVUX0RJUl9GT1JfRE9PREFEX1RBUkdFVC9leHAtbmFtZVswLi5uXSBleGlzdCBvbiB0aGUgaW5zdGFuY2UKICAgICAgICBleHBfbmFtZSA9ICIiCg==</text>
+        <text encoding="base64">ZnJvbSByYWlscmwubGF1bmNoZXJzIGltcG9ydCBjb25maWcKaW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICdpbml0X2NhbWVyYSc6IFtpbml0X3Nhd3llcl9jYW1lcmFfdjEsIGluaXRfc2F3eWVyX2NhbWVyYV92M10sCg==</text>
+        <text encoding="base64">ICAgICMgSGFja3kuIFR1cm5pbmcgdGhlIG91dHB1dCBkaXIgZnJvbQogICAgIyBPVVRQVVRfRElSX0ZPUl9ET09EQURfVEFSR0VUIHRvIE9VVFBVVF9ESVJfRk9SX0RPT0RBRF9UQVJHRVQvZXhwLW5hbWUKICAgICMgc3ViZGlyX3ByZWZpeCA9IGFyZ3NfZGljdFsnczNfbG9nX25hbWUnXQogICAgIyBvdXRwdXRfZGlyID0gY29uZmlnLk9VVFBVVF9ESVJfRk9SX0RPT0RBRF9UQVJHRVQKICAgICMgaG9wZWZ1bGx5IHVuaXF1ZSBlbm91Z2gKICAgICMgdW5pcXVlX3N1Yl9pZCA9IHN0cih1dWlkLnV1aWQ0KCkpLnNwbGl0KCctJylbMF0KICAgICMgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBzdWJkaXJfcHJlZml4ICsgIi0iICsgdW5pcXVlX3N1Yl9pZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzaW8ud3JpdGUoIiIiCiAgICAgICAgICAgIGF3cyBlYzIgY3JlYXRlLXRhZ3MgLS1yZXNvdXJjZXMgJEVDMl9JTlNUQU5DRV9JRCAtLXRhZ3MgS2V5PU5hbWUsVmFsdWU9e25hbWV9IC0tcmVnaW9uIHthd3NfcmVnaW9ufQogICAgICAgICIiIi5mb3JtYXQoZXhwX25hbWU9ZXhwX3ByZWZpeCArICcvJyArIGV4cF9uYW1lLCBhd3NfcmVnaW9uPXNlbGYucmVnaW9uKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdzID0gaW1nc1s6LCA6c2VsZi52YWUuaW1sZW5ndGhdCiAgICAgICAgIyBUT0RPOiB3aHkgZG8gd2UgbmVlZCB0aGlzIHRyYW5wb3NlPyBDYW4gd2UgZWxpbWluYXRlIGl0Pwo=</text>
+        <text encoding="base64">ICAgICAgICBzaW8ud3JpdGUoImF3cyBlYzIgY3JlYXRlLXRhZ3MgLS1yZXNvdXJjZXMgJEVDMl9JTlNUQU5DRV9JRCAtLXRhZ3MgIgogICAgICAgICAgICAgICAgICAiS2V5PU5hbWUsVmFsdWU9e25hbWV9IC0tcmVnaW9uIHthd3NfcmVnaW9ufVxuIi5mb3JtYXQoCiAgICAgICAgICAgIGV4cF9uYW1lPWV4cF9wcmVmaXggKyAnLycgKyBleHBfbmFtZSwgYXdzX3JlZ2lvbj1zZWxmLnJlZ2lvbikpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5pbWxlbmd0aCAvIHNlbGYuc3RhdGVfc2l6ZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBudW1fZXhwc19wZXJfaW5zdGFuY2UgPiAxOgogICAgICAgICAgICBzM19sb2dfbmFtZSA9ICIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sample_goal</last-search>
+      <last-search>stdout</last-search>
       <last-offset />
-      <last-pattern>sample_goal</last-pattern>
+      <last-pattern>stdout</last-pattern>
       <last-replace>self._state_goal</last-replace>
       <last-substitute>compute</last-substitute>
       <last-dir>1</last-dir>
@@ -1318,11 +1337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>state_distance</entry>
-        <entry>imlength</entry>
-        <entry encoding="base64">XDxudW1fZXhwc19wZXJfaW5zdGFuY2VcPg==</entry>
-        <entry>run_experiment_here</entry>
-        <entry encoding="base64">XDxPVVRQVVRfRElSX0ZPUl9ET09EQURfVEFSR0VUXD4=</entry>
         <entry>num_exps</entry>
         <entry>s3_base_dir</entry>
         <entry encoding="base64">XDxvdXRwdXRfZGlyXD4=</entry>
@@ -1330,17 +1344,21 @@
         <entry>exp_name =</entry>
         <entry>s3_log_prefix</entry>
         <entry encoding="base64">XDxzM19iYXNlX2Rpclw+</entry>
-        <entry>exp_name</entry>
-        <entry>exp_prefix</entry>
         <entry>s3_log_name</entry>
         <entry>seed</entry>
         <entry encoding="base64">XDxzM19sb2dfbmFtZVw+</entry>
         <entry encoding="base64">XDxsb2dfZGlyXD4=</entry>
         <entry>sample-goal</entry>
         <entry>sample_goal</entry>
+        <entry>exp_prefix</entry>
+        <entry>exp_name</entry>
+        <entry encoding="base64">XDxudW1fZXhwc19wZXJfaW5zdGFuY2VcPg==</entry>
+        <entry encoding="base64">XDxtb2RlX3NwZWNpZmljX2t3YXJnc1w+</entry>
+        <entry>EC2</entry>
+        <entry encoding="base64">XDxFQzJfSU5TVEFOQ0VfSURcPg==</entry>
+        <entry>stdout</entry>
       </history-search>
       <history-cmd>
-        <entry>183</entry>
         <entry>181</entry>
         <entry>110</entry>
         <entry>414</entry>
@@ -1358,8 +1376,9 @@
         <entry>20</entry>
         <entry>217</entry>
         <entry>429</entry>
-        <entry>w</entry>
+        <entry>301</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
