@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="745f89a2-ca76-41be-8ada-c86907d40aa9" name="root@region-11.autodl.com:24874" url="http:///">
+        <fileTransfer accessType="SFTP" host="region-11.autodl.com" port="24874" sshConfigId="d28b5393-46b7-42a7-97ae-e27625ddd120" sshConfig="root@region-11.autodl.com:24874 password" />
+      </webServer>
+      <webServer id="745f89a2-ca76-41be-8ada-c86907d40aa9" name="root@region-11.autodl.com:24874" url="http:///">
+        <fileTransfer accessType="SFTP" host="region-11.autodl.com" port="24874" sshConfigId="d28b5393-46b7-42a7-97ae-e27625ddd120" sshConfig="root@region-11.autodl.com:24874 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
